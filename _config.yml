@@ -17,6 +17,12 @@ sass:
   style: nested
   sass_dir: _sass
 
+gems:
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "de"]
+exclude_from_localizations: ["javascript", "images", "css"]
+
 exclude:
   - lib
   - node_modules
