@@ -1,0 +1,102 @@
+---
+layout: default
+permalink: /explore/production-charts/
+---
+
+<section id="federal-production" class="explore-subpage container container-margin">
+  <div class="container-left-4">
+    <div class="container-outer">
+      <h1>{% t 'charts-production.title' %}</h1>
+      <p>{% t 'charts-production.description-1' %}</p>
+      <p>{% t 'charts-production.description-2' %}</p>
+      <p>{% t 'charts-production.description-3' %}</p>
+      <a href="{{site.baseurl}}/downloads/production-chart/">
+        <icon class="fa fa-file-text-o u-padding-right"></icon>{% t 'charts-production.icon' %}
+      </a>
+    </div>
+  </div>
+  <section class="container-right-8 filters-wrapper_outer">
+    <div data-absolute="true" data-offset-parent="mobile" class="sticky_nav sticky_nav-show_mobile filters-wrapper container" data-toggler="filters" data-max-width="675">
+
+
+      <div class="toggle-filters-container">
+        <button class="toggle-filters toggle-desktop" is="eiti-toggle"
+          aria-controls="filters" data-collapsed-text={% t 'charts-production.open-filter' %} aria-expanded="false"
+          data-expanded-text={% t 'charts-production.close-filter' %} data-toggler="filters">
+          {% t 'charts-production.open-filter' %}
+        </button>
+        <a class="clear-filters" href="#year=2014">{% t 'charts-production.reset-filter' %}</a>
+      </div>
+
+      <form id="filters" aria-hidden="true" class="filters">
+
+        <div class="filters-heading">
+          <h2 class="h3">{% t 'charts-production.select-year' %}</h2>
+        </div>
+
+        <div class="container-left-6">
+          <div id="product-filter" class="filter">
+            <label for="product-selector">{% t 'charts-production.year' %}</label>
+            <select id="product-selector" name="product">
+              {% for year in site.data.charts.years %}
+                <option value="{{ year }}" {% if year == site.data.charts.years.last %} selected {% endif %}>
+                  {{ year }}
+                </option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+      </form>
+
+      <div data-filter-description="" class="filter-description">
+        <a class="back-btn" href="#year={{ site.data.charts.years.last }}">
+          <img src="/img/left-arrow.png" alt="">
+        </a>
+        {% t 'charts-production.total-product-in-germany' %}
+        (<span href="#year-selector" class="filter-part" data-key="year">{{ site.data.charts.years.last }}</span>)
+      </div>
+
+      <div class="container">
+        <button class="toggle-filters toggle" is="eiti-toggle" aria-controls="filters" data-expanded-text="Hide filters" data-collapsed-text="Show filters" data-toggler="filters">Show filters</button>
+      </div>
+
+    </div>
+
+    <div class="filter-description_wrapper" data-filter-description="" class="filter-description filter-description_open">
+        {% t 'charts-production.total-product-in-germany' %}
+        (<span href="#year-selector" class="filter-part" data-key="year">{{ site.data.charts.years.last }}</span>)
+    </div>
+
+    <div class="explore-exploration slab-alpha">
+      <div class="regions container">
+        <div class="graph">
+          <div class="container chart-container">
+            <div id="chart1"></div>
+            <table class="legend" id="legend1"></table>
+          </div>
+          <div class="container chart-container">
+            <div id="chart2"></div>
+            <table class="legend" id="legend2"></table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.css" /></link>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.barRenderer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.pieRenderer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.pointLabels.min.js"></script>
+
+<script>
+var traslation = {
+  chart_1_tittle: '{% t 'chart.chart-1-tittle' %}',
+  chart_2_tittle: '{% t 'chart.chart-2-tittle' %}'
+}
+</script>
+<script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/graph.js" charset="utf-8"></script>
+<script type="text/javascript" src="{{ site.baseurl_root }}/js/lib/explore.min.js" charset="utf-8"></script>

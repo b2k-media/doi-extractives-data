@@ -1,103 +1,126 @@
 ---
-title: Federal Production | Explore Data
+title: Produktionsdaten
 layout: default
 permalink: /explore/federal-production/
 ---
 <section id="federal-production" class="explore-subpage container container-margin">
   <div class="container-left-4">
     <div class="container-outer">
-      <div>
-        <a class="breadcrumb" href="{{ site.baseurl }}/explore/">Explore data</a>
-        /
-      </div>
-      <h1>Federal Production</h1>
+      <h1>{% t 'federal-production.heading-1' %}</h1>
 
-      <p>Explore production on federal lands and waters from 2005 to 2014 by state and county for 55 individual products.</p>
-
-      <p>This data comes from the Department of the Interior's Office of Natural Resources Revenue and is calendar year data.</p>
-
-      <p>At first, this map shows which states have production data for at least one product. Select a product to show production amounts in the appropriate unit of measure.</p>
+      <p>{% t 'federal-production.description-1' %}</p>
+      <p>{% t 'federal-production.description-2' %}</p>
+      <p>{% t 'federal-production.description-3' %}</p>
 
       <a href="{{site.baseurl}}/downloads/federal-production/">
-        <icon class="fa fa-file-text-o u-padding-right"></icon>Data and documentation
+        <icon class="fa fa-file-text-o u-padding-right"></icon>{% t 'federal-production.icon' %}
       </a>
 
     </div>
   </div>
   <section class="container-right-8 filters-wrapper_outer">
     <div data-absolute="true" data-offset-parent="mobile" class="sticky_nav sticky_nav-show_mobile filters-wrapper container" data-toggler="filters" data-max-width="675">
-
-      <button class="toggle-filters toggle-desktop" is="eiti-toggle"
-        aria-controls="filters" data-collapsed-text="Show filters" aria-expanded="false"
-        data-expanded-text="Hide filters" data-toggler="filters">Show filters</button>
+      <div class="toggle-filters-container">
+        <button class="toggle-filters toggle-desktop" is="eiti-toggle"
+          aria-controls="filters" data-collapsed-text={% t 'charts-production.open-filter' %} aria-expanded="false"
+          data-expanded-text={% t 'charts-production.close-filter' %} data-toggler="filters">
+          {% t 'federal-production.filter-container.show-filter' %}
+        </button>
+        <a class="clear-filters" href="#year=2014&product=select">
+          {% t 'federal-production.filter-container.reset-filter' %}
+        </a>
+      </div>
 
       <form id="filters" aria-hidden="true" class="filters">
 
         <div class="filters-heading">
-          <h2 class="h3">Filter federal production</h2>
-          <p>Select a product to see production levels in the appropriate unit of measure.</p>
+          <h2 class="h3">{% t 'federal-production.filter-container.filters.heading' %}</h2>
+          <p>{% t 'federal-production.filter-container.filters.description' %}</p>
         </div>
 
         <div class="container-left-6">
           <div id="product-filter" class="filter">
-            <label for="product-selector">Product</label>
+            <label for="product-selector">{% t 'federal-production.filter-container.product-filter.lable' %}</label>
             <select id="product-selector" name="product">
-              <option value="">All products</option>
+              <option value="select">{% t 'federal-production.filter-container.product-filter.select' %}</option>
+              <option value="">{% t 'federal-production.filter-container.product-filter.value' %}</option>
             </select>
           </div>
         </div>
         <div class="container-right-6">
           <div class="filter">
-            <label for="region-selector">Region</label>
+            <label for="region-selector">
+              {% t 'federal-production.filter-container.region-selector.lable' %}
+            </label>
             <select id="region-selector" name="region">
-              <option value="">All U.S.</option>
-              <optgroup label="States">
+              <option value="">
+                {% t 'federal-production.filter-container.region-selector.select' %}
+              </option>
+              <option value="DE">
+                {% t 'federal-production.filter-container.region-selector.value' %}
+              </option>
+              <optgroup label={% t 'charts-production.states' %}>
                 {% for state in site.data.states %}
-                <option value="{{ state.id }}">{{ state.name }}</option>
-                {% endfor %}
-              </optgroup>
-              <optgroup label="Offshore Areas">
-                {% for area in site.data.offshore_regions %}
-                <option value="{{ area.id }}">{{ area.display_name }}</option>
+                {% assign stateKey = 'states.' | append: state.name %}
+                <option value="{{ state.id }}">{% t stateKey %}</option>
                 {% endfor %}
               </optgroup>
             </select>
           </div>
         </div>
-
-        <div class="container-left">
-          <label for="year-selector">Years <span class="units"></span></label>
+        {% if site.data.production.years.size > 1 %}
+        {% assign year_sel_display = 'block' %}
+        {% else %}
+        {% assign year_sel_display = 'none' %}
+        {% endif %}
+        <div class="container-left" style="display: {{year_sel_display}}">
+          <label for="year-selector">
+            {% t 'federal-production.year' %}
+             <span class="units"></span></label>
         </div>
-        <svg id="timeline" class="timeline" viewBox="0 0 1024 60"></svg>
+        <svg id="timeline" class="timeline" viewBox="0 0 1024 60" style="display: {{year_sel_display}}"></svg>
 
-        <div class="filter container filters-last">
+        <div class="filter container filters-last" style="display: {{year_sel_display}}">
           <eiti-slider id="year-selector" name="year"
-            min="2005" max="2014" snap="1" value="2013">
+            min="{{ site.data.production.years | sort | first }}" max="{{ site.data.production.years | sort | last }}" snap="1" value={{ site.data.production.years | sort | last }}>
           </eiti-slider>
         </div>
 
       </form>
 
-      <h1 data-filter-description="" class="filter-description">
-        <span href="#product-selector" class="filter-part" data-key="product">All</span>
-        production on federal lands and waters in
-        <span href="#region-selector" class="filter-part" data-key="region">the entire U.S.</span>
-        (<span href="#year-selector" class="filter-part" data-key="year">2013</span>)
-      </h1>
+      <div data-filter-description="" class="filter-description selected">
+        <a class="back-btn" href="#year=2014&product=select">
+          <img src="/img/left-arrow.png" alt="">
+        </a>
+        <span href="#product-selector" class="filter-part" data-key="product">
+          {% t 'federal-production.filter-container.raw-materials' %}
+        <span href="#region-selector" class="filter-part" data-key="region">
+          {% t 'federal-production.filter-container.entire-germany' %}
+        </span>
+        (<span href="#year-selector" class="filter-part" data-key="year">2014</span>)
+      </div>
+
+      <div data-filter-description="" class="filter-description for-select" style="display:none">
+        <span>
+          {% t 'federal-production.filter-container.set-filter' %}
+        </span>
+      </div>
 
       <div class="container">
-        <button class="toggle-filters toggle" is="eiti-toggle" aria-controls="filters" data-expanded-text="Hide filters" data-collapsed-text="Show filters" data-toggler="filters">Show filters</button>
+        <button class="toggle-filters toggle" is="eiti-toggle" aria-controls="filters" data-expanded-text="Filter schließen" data-collapsed-text="Filter öffnen" data-toggler="filters">
+          {% t 'charts-production.open-filter' %}
+        </button>
       </div>
 
     </div>
 
-    <div class="filter-description_wrapper">
-      <h1 data-filter-description="" class="filter-description filter-description_open">
-        <span href="#product-selector" class="filter-part" data-key="product">All</span>
-        production on federal lands and waters in
-        <span href="#region-selector" class="filter-part" data-key="region">the entire U.S.</span>
-        (<span href="#year-selector" class="filter-part" data-key="year">2013</span>)
-      </h1>
+    <div class="filter-description_wrapper" data-filter-description="" class="filter-description filter-description_open">
+        <span href="#product-selector" class="filter-part" data-key="product">
+          {% t 'federal-production.filter-container.raw-materials' %}
+        <span href="#region-selector" class="filter-part" data-key="region">
+          {% t 'federal-production.filter-container.entire-germany' %}
+        </span>
+        (<span href="#year-selector" class="filter-part" data-key="year">2014</span>)
     </div>
 
     <div class="explore-exploration slab-alpha">
@@ -106,21 +129,14 @@ permalink: /explore/federal-production/
 
         <!-- <p class="map-intro_text">This map shows which states, counties, and offshore areas have production on federal lands or waters. Select a product in the filter above to show production amounts for your selected year. (We can't sum multiple products, because they're measured in different units.)</p> -->
 
-        <section id="US" class="region active">
+        <section id="DE" class="region active">
           <div class="map-wrapper">
-            <eiti-map id="US-map" class="region-map" simplify="1e-2"
-              projection="albersCustom" data-path="{{ site.baseurl }}/data/geo/">
-              <svg class="region-map" viewBox="20 55 945 535">
-                <g class="offshore areas" data-url="offshore-regions.json"
-                  data-object="regions"
-                  data-id="'US-' + id"
-                  data-href="'#?region=' + id"
-                  data-title="properties.name"
-                  data-mesh="true">
-                </g>
-                <g class="onshore states" data-url="us-topology.json"
+            <eiti-map id="DE-map" class="region-map" simplify="1e-2"
+              projection="mercator" data-path="{{ site.baseurl }}/data/geo/">
+              <svg class="region-map" viewBox="493 77 30 33">
+                <g class="onshore states" data-url="de-topology.json"
                   data-object="states"
-                  data-id="'US-' + id"
+                  data-id="'DE-' + id"
                   data-href="'#?region=' + id"
                   data-title="properties.name"
                   data-mesh="true">
@@ -131,7 +147,9 @@ permalink: /explore/federal-production/
             <div class="map-legend"></div>
           </div>
 
-          <h2 class="region-header-category">Production by state or offshore area <span class="units"></span></h2>
+          <h2 class="region-header-category">
+            {% t 'federal-production.filter-container.map.heading-units' %}
+            <span class="units"></span></h2>
           <table class="subregions">
             <thead class="region-header"></thead>
             <tbody></tbody>
@@ -143,17 +161,10 @@ permalink: /explore/federal-production/
         <section id="{{ region.id }}" class="region onshore">
           <div class="map-wrapper">
             <eiti-map id="{{ region.id }}-map" class="region-map" simplify="1e-2"
-              projection="albersCustom" data-path="{{ site.baseurl }}/data/geo/" zoom-to="{{ region.id }}">
-              <svg class="region-map">
-                <g class="onshore states" data-url="us-topology.json"
-                  data-object="states"
-                  data-filter="id === '{{ region.id }}'">
-                </g>
-                <g class="onshore counties" data-url="us-topology.json"
-                  data-object="counties"
-                  data-filter="properties.state === '{{ region.id }}'"
-                  data-title="properties.name"
-                  data-mesh="true">
+              projection="mercator" data-path="{{ site.baseurl }}/data/geo/" zoom-to="{{ region.id }}">
+              <svg class="region-map" viewBox="500 77 30 33">
+                <g class="onshore states" data-url="de-topology.json"
+                  data-object="states">
                 </g>
               </svg>
             </eiti-map>
@@ -161,7 +172,9 @@ permalink: /explore/federal-production/
             <div class="map-legend"></div>
           </div>
 
-          <h2 class="region-header-category">Production by county <span class="units"></span></h2>
+          <h2 class="region-header-category">
+            {% t 'federal-production.filter-container.map.heading-state' %}
+            <span class="state"></span></h2>
           <table class="subregions">
             <thead class="region-header"></thead>
             <tbody></tbody>
@@ -193,24 +206,26 @@ permalink: /explore/federal-production/
             <div class="map-legend"></div>
           </div>
 
-          <h2 class="region-header-category">Production by offshore area <span class="units"></span></h2>
+          <h2 class="region-header-category">
+            {% t 'federal-production.filter-container.map.heading-production' %}
+            <span class="units"></span></h2>
           <table class="subregions">
             <thead class="region-header"></thead>
             <tbody></tbody>
           </table>
 
-        </section>
-        {% endfor %}
+        </section> {% endfor %}
 
       </div>
     </div>
   </section>
 </section>
-<script type="text/javascript" src="{{ site.baseurl }}/js/lib/explore.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="{{ site.baseurl_root }}/js/lib/explore.min.js" charset="utf-8"></script>
 <script>
   eiti.data.REGION_ID_NAME = {
     {% for state in site.data.states %}
-    '{{ state.id }}': '{{ state.name }}',
+    {% assign stateKey = 'states.' | append: state.name %}
+    '{{ state.id }}': '{% t stateKey %}',
     {% endfor %}
     {% for area in site.data.offshore_regions %}
     '{{ area.id }}': '{{ area.name }}',
@@ -218,9 +233,21 @@ permalink: /explore/federal-production/
     {% for area in site.data.offshore_areas %}
     '{{ area.id }}': '{{ area.name }}',
     {% endfor %}
-    'US': 'the entire U.S.'
+    'DE': '{% t 'data_translation.entire_germany' %}'
   };
+  var traslation = {
+    no_data: '{% t 'data_translation.no_data' %}',
+    no_production: '{% t 'data_translation.no_production' %}',
+    one_or_more_products: '{% t 'data_translation.one_or_more_products' %}',
+    no_product: '{% t 'data_translation.no_product' %}',
+    total: '{% t 'data_translation.total' %}',
+    product: '{% t 'data_translation.product' %}',
+    zero_products: '{% t 'data_translation.zero_products' %}',
+    no_production_on_federal_land: '{% t 'data_translation.no_production_on_federal_land' %}',
+    all_raw_materials: '{% t 'data_translation.all_raw_materials' %}',
+    entire_germany: '{% t 'data_translation.entire_germany' %}'
+
+  }
 </script>
 
-<script src="{{ site.baseurl }}/js/pages/federal-production.js"></script>
-
+<script src="{{ site.baseurl_root }}/js/pages/federal-production.js"></script>

@@ -1,0 +1,201 @@
+menu:
+    back: "◀ Back to D-EITI.de"
+    about: "About D-EITI"
+    how-it-work: "How it Work's?"
+    explore-data: "Explore Data"
+
+explore-data:
+    title: "Explore data"
+    introduction-first: |
+      Welcome to the D-EITI data portal.
+      Here you can discover the data collected as part of the D-EITI implementation data
+      and inform themselves about the German extractive sector. Currently
+      <a href="#production">
+        Data for raw material production in Germany
+      </a> available.
+
+    introduction-second: |
+      Data To
+      <a href="#revenue">Revenue</a>
+      from German commodity sector and to
+      <a href="#economic-impact">social and economic importance </a>
+      the sector are constantly updated and added to the publication of the first D-EITI report in the summer 2017th.
+    figcaption: |
+      An interactive resource card, see:
+      <a class="link-alpha" href="#production">production data</a>
+
+    production:
+      heading-1: Commodity production in Germany
+      sub-heading-1: Interactive Resource Card
+      description-1: For the first time ever commodities production data at the provincial level in an interactive resource card are available.
+      sub-heading-2: Total German production of raw materials
+      description-2: Inform about which raw materials are to promote in Germany.
+
+    revenue :
+      heading-1: Revenue
+      sub-heading-1: Revenues from the extractive sector
+      description-1: Here you can learn about the revenues that are generated in the German commodity sector more in the future.
+
+    economic-impact:
+      heading-1: Social relevance
+      sub-heading-1: Economic and social importance
+      description-1: Here you can check in the future of the economic and social importance of the German commodity sector.
+
+how-it-work:
+    title: How-it-work?
+    description-1: Representation of the context information on the German commodity sector
+    description-2: Inform yourself about how commodity projects in Germany planned and what the legal framework and which are government revenues from the extractive industries arise.
+
+about:
+    title: About D-EITI
+    description-1: |
+        The Extractive Industries Transparency Initiative (EITI) is an international standard for the promotion of
+        transparent and responsible management of natural resources. The federal government in July 2014
+        decided the initiative to join and is since February 23, 2016 officially-implement EITI country.
+        In the next 18 months, the German EITI (D-EITI) draw up a report and publish,both comprehensive.
+    description-1-link-1: Context Information
+    description-1-1: the German commodity sector as well as important
+    description-1-link-2: Data
+    description-1-2: together carries through the raw-material producing sector.
+    description-2: Visit this portal like regularly to stay on the latest results of German EITI initiative to date.
+
+federal-production:
+    heading-1: Interactive Resource Card
+    description-1: In this interactive resource card, you can select information on individual commodities and the provinces.
+    description-2: For this, use the filter (top right).
+    description-3: "For more information about data sources and links to the original data can be viewed here:"
+    icon: Show Data
+
+    filter-container:
+      show-filter: Show filters
+      reset-filter: (Reset filter)
+
+      filters:
+        heading: Filter Resource Card
+        description: Select a commodity or a State to view corresponding information.
+
+      product-filter:
+        lable: Raw Material
+        select: Please select
+        value: All raw materials
+
+      region-selector:
+        lable: Federal state
+        select: Please select
+        value: All Germany
+
+      raw-materials: All raw materials </span> promoted in
+      entire-germany: all Germany
+      set-filter: "Set filter:"
+
+      map:
+        heading-units: Promotion by State
+        heading-state: Promotion in
+        heading-production: Production by offshore area
+
+    year: Year
+
+charts-production:
+    title: Revenue
+    heading: Commodity production in Germany
+    description-1: Here you can see the value and the amount of total commodity production in Germany.
+    description-2: You can get an insight into the evolution of raw material extraction in Germany over the filter.
+    description-3: "For more information about the data sources as well as a link to the original data can be viewed here:"
+    icon: Show Data
+    open-filter: Filter&nbsp;Open
+    close-filter: Filter&nbsp;Close
+    reset-filter: (Reset Filter)
+    select-year: Select Year
+    year: Year
+    total-product-in-germany: Total production in Germany
+    states: States
+
+data:
+    production-title: Data for interactive resource card
+    chart-title: Data for all-German production of raw materials
+    description-1: The production data presented here is inter alia on the publication of the Federal Ministry of Economics "The mining industry in the Federal Republic of Germany"
+    description-2: Download production data
+    production-icon: See Appendix
+    chart-icon: Full Dataset
+
+chart:
+  category:
+    industrial-minerals: Industrial Minerals
+    energy-resources: Energy Resources
+  category1:
+    industrial-minerals: Industrial minerals, rocks and soils
+    metal-raw-materials: metal raw materials
+    energy-resources: energy resources
+
+chart:
+  category:
+    industrial-minerals: Industrial minerals, rocks and soils
+    energy-resources: energy resources
+  category1:
+    industrial-minerals: Industrial minerals, rocks and soils
+    metal-raw-materials: metal raw materials
+    energy-resources: energy resources
+  lable:
+    natural-stones: Natural Stones
+    gypsum: REA-Gips
+    quartz-sand: Quarzsand
+    kaolin: Kaolin
+    rock-salt-and-industrial-salt: Steinsalz und Industriesole
+    limestone-marl-and-dolomite: Kalk-,Mergel- und Dolomitstein
+    hard-coal: Steinkohle
+    potash: Kalisalz
+    oil: Erdöl
+    sulfur: Schwefel
+    Specialtone: Spezialtone
+    peat: Torf
+    broken-natural-stones: gebrochene Natursteine
+    construction-sands-and-gravels: Bausande und -kiese
+    lignite: Braunkohle
+    natural-gas: Erdgas
+    gypsum-and-anhydrite-stone: Gips- und Anhydristein
+    kallsalz: Kallsalz (K2O)
+    iron-ore: Eisenerz
+    bentonite: Bentonit
+    feldspar: Feldspar
+    siedesalz: Siedesalz
+    barite: Baryt
+    natural-ol-gas: Erdölgas
+    silica: Kieselerde
+    fluorite: Fluorit
+    metals: Metalle
+  chart-1-tittle: Value of the raw materials produced in Germany
+  chart-2-tittle: Quantity of raw materials produced in Germany
+
+data_translation:
+  no_data: No Data
+  no_production: no production
+  one_or_more_products: 1 or more products
+  no_product: no product
+  total: Total
+  zero_products: 0 Product
+  product: Product
+  no_production_on_federal_land: no production on federal land
+  all_raw_materials: All raw materials
+  entire_germany: Entire Germany
+
+footer:
+  impressum: Impressum
+  data-protection: Data Protection
+
+states:
+  Baden-Württemberg: Baden-Württemberg
+  Bayern: Bavaria
+  Berlin: Berlin
+  Brandenburg: Brandenburg
+  Bremen: Bremen
+  Hamburg: Hamburg
+  Hessen: Hesse
+  Niedersachsen: Lower Saxony
+  Mecklenburg-Vorpommern: Mecklenburg-Vorpommern
+  Nordrhein-Westfalen: North Rhine-Westphalia
+  Rheinland-Pfalz: Rhineland-Palatinate
+  Saarland: Saarland
+  Sachsen: Saxony
+  Sachsen-Anhalt: Saxony-Anhalt
+  Schleswig-Holstein: Schleswig-Holstein
+  Thüringen: Thuringia

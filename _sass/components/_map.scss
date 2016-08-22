@@ -8,6 +8,20 @@
   padding-top: $base-padding-large;
 }
 
+svg {
+  overflow: hidden;
+}
+
+
+eiti-map.empty path {
+  fill: #aecad8 !important;
+}
+
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
 .map-left {
 
   @include span-columns(12);

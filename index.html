@@ -1,209 +1,106 @@
 ---
 layout: default
-title: Home
 ---
+
 <section class="slab-delta">
-  <div class="container-outer">
-    <div class="container-left-8 hero">
-      <h2 class="hero-title_text">The United States Extractive Industries Transparency Initiative</h2>
-      <h3>USEITI is part of an international effort to promote open and accountable management of natural resources. This site provides data about how the U.S. manages {{ "extractive industries" | term_end:"extractive industry" }}
-      .</h3>
-      <a href="{{ site.baseurl }}/about/">Learn more about the initiative.</a>
+  <div class="container-outer landing-section_top">
+    <div class="container-left-8 hero-left">
+      <h1>{% t 'explore-data.title' %}</h1>
+      <p class="hero-description">{% t 'explore-data.introduction-first' %}</p>
+      <p class="hero-description">{% t 'explore-data.introduction-second' %}</p>
     </div>
-    <div class="container-right-4 carousel">
-      <a href="{{ site.baseurl }}/how-it-works/" class="carousel-button button-primary">See how it works</a>
-      <img class="carousel-image" src="{{ site.baseurl }}/img/placeholders/how-it-works-home.png" alt="How it works">
+    <div class="container-right-4 hero-right">
+      <div class="hero-right_square">
+        <figure>
+          <a href="#production">
+            <img class="hero-right_image" src="{{ site.baseurl_root }}/img/explore-landing-intro.png" alt="Explore landing intro">
+          </a>
+          <figcaption class="hero-right_caption">
+            {% t 'explore-data.figcaption' %}
+          </figcaption>
+        </figure>
+      </div>
     </div>
   </div>
 </section>
-<section class="slab-alpha container-padded">
-  <div class="container-outer tab-interface">
 
-    <p class="h5 explore_home-subhead">Explore data</p>
-    <h2 class="h3 explore_home-heading explore_home-explore_heading">Learn about extractive industries throughout the country</h2>
-
-    <ul class="explore_home-tabs" role="tablist">
-      <li role="presentation"><a href="#revenue" tabindex="0" role="tab" aria-controls="revenue" aria-selected="true" class="link-charlie">Revenue</a></li>
-      <li role="presentation"><a href="#production" tabindex="-1" role="tab" aria-controls="production" class="link-charlie">Production</a></li>
-      <li role="presentation"><a href="#impact" tabindex="-1" role="tab" aria-controls="impact" class="link-charlie"><span class="explore_home-tab_mobile">Impact</span><span class="explore_home-tab_desktop">Economic Impact</span></a></li>
-    </ul>
-
-    <section class="explore_home-main" id="revenue" role="tabpanel">
-      <div class="container-left-3">
-        <p>Revenue data shows where federal revenue from extractive industries is coming from, who pays it, and where it goes.</p>
-        <a href="{{ site.baseurl }}/explore/#revenue" class="button-primary explore_home-button">Explore data</a>
+<section class="container-outer landing-wrapper">
+  <section class="container">
+    <a id="production" class="link-no_under">
+      <h2 class="h3 landing-section_category">
+        {% t 'explore-data.production.heading-1' %}
+      </h2>
+    </a>
+    <div class="container-half landing-section" accordion-item>
+      <h3 class="h5 landing-heading">
+        {% if site.lang == "de" %}
+          <a href="{{ site.baseurl_root }}/explore/federal-production">
+            {% t 'explore-data.production.sub-heading-1' %}
+          </a>
+        {% elsif site.lang == "en" %}
+          <a href="{{ site.baseurl_root }}/en/explore/federal-production">
+            {% t 'explore-data.production.sub-heading-1' %}
+          </a>
+        {% endif %}
+      </h3>
+      <div>
+        <p class="landing-description">
+          {% t 'explore-data.production.description-1' %}
+        </p>
       </div>
-      <div  class="container-left-6">
-        <a href="{{ site.baseurl }}/explore/federal-revenue-by-location/" class="explore_home-img">
-          <!-- <h4>Revenue from all commodities on U.S. federal lands</h4> -->
-          <img src="{{ site.baseurl }}/img/explore-home-revenue.png" alt="Map showing revenues from extractive resources on federal lands">
-        </a>
-      </div>
-      <div class="container-left-3">
-        <p class="explore_home-fact">In 2013, the federal government collected over <strong>$12 billion</strong> from those extracting resources on federal lands and waters.</p>
-        <aside class="explore_home-links">
-          <div><a href="{{ site.baseurl }}/explore/federal-revenue-by-location/">Federal revenue from all lands →</a></div>
-        </div>
-      </aside>
-    </section>
-
-    <section class="explore_home-main" id="production" role="tabpanel" aria-hidden="true">
-      <div class="container-left-3">
-        <p>For the first time, data on all production on federal lands is available publicly. See how much energy was produced nationally, or explore all resources extracted on federal lands.</p>
-        <a href="{{ site.baseurl }}/explore/#production" class="button-primary explore_home-button">Explore data</a>
-      </div>
-      <div  class="container-left-6">
-        <a href="{{ site.baseurl }}/explore/federal-production/" class="explore_home-img">
-          <h4>Production from federal vs. non-federal lands and waters</h4>
-          <img src="{{ site.baseurl }}/img/explore-home-production.png" alt="Chart showing percentage of production occuring on federal versus non-federal lands and waters">
-        </a>
-      </div>
-      <div class="container-left-3">
-        <p class="explore_home-fact">Natural resources located on federal lands belong to all U.S. citizens. Explore how much of 55 specific products is produced on federal lands and waters.</p>
-        <aside class="explore_home-links">
-          <div><a href="{{ site.baseurl }}/explore/federal-production/">Federal production data →</a></div>
-        </aside>
-      </div>
-    </section>
-
-    <section class="explore_home-main" id="impact" role="tabpanel" aria-hidden="true">
-      <div class="container-left-3">
-        <p>Extractive industries account for 2.6 percent of the national GDP, and contribute to exports and employment in many parts of the country.</p>
-        <a href="{{ site.baseurl }}/explore/#economic-impact" class="button-primary explore_home-button">Explore data</a>
-      </div>
-      <div  class="container-left-6">
-        <a href="{{ site.baseurl }}/explore/jobs/" class="explore_home-img">
-          <h4>Employment in extractive industries vs. all other industries</h4>
-          <img src="{{ site.baseurl }}/img/explore-home-impact.png" alt="Chart showing employment in extractive industries vs. all other industries">
-        </a>
-      </div>
-      <div class="container-left-3">
-        <p class="explore_home-fact">Over <strong>800,000 people</strong> worked in the extractive industries in 2013. Texas and Oklahoma stand out as the states with the most jobs in these industries.</p>
-        <aside class="explore_home-links">
-          <div><a href="{{ site.baseurl }}/explore/jobs/">Jobs data →</a></div>
-        </aside>
-      </div>
-    </section>
-
-  </div>
-</section>
-
-<section class="slab-beta-dark container-padded">
-  <div class="container-outer">
-
-    <div class="container-left-3">
-      <h4>The U.S. ranks at or near the top worldwide in the production of many natural resources. Explore this site to learn about U.S. natural gas, oil, coal, copper, gold, iron, and renewables.</h4>
     </div>
+    <div class="container-half landing-section" accordion-item>
+      <h3 class="h5 landing-heading">
 
-    <div class="container-left-9">
-
-      <article class="card" class="card">
-
-        <a class="card-image_link" href="{{ site.baseurl }}/about/report/"><img class="card-image" src="{{ site.baseurl }}/img/home-card-exec_summary.png" alt="USEITI 2015 Executive Summary"></a>
-
-        <div class="card-content">
-
-          <p class="card-content-subhead">About</p>
-
-          <a href="{{ site.baseurl }}/about/report/"><h3 class="card-title">Download the USEITI 2015 Executive Summary</h3></a>
-
-          <p>This document includes an overview of the contextual narrative and an account of the reporting and reconciliation process for the EITI Standard in the U.S.</p>
-
-        </div>
-
-      </article>
-
-      <article class="card" class="card">
-
-        <a class="card-image_link" href="{{ site.baseurl }}/how-it-works/production/"><img class="card-image" src="{{ site.baseurl }}/img/home-card-nat_res.png" alt="U.S. natural resource sectors"></a>
-
-        <div class="card-content">
-
-          <p class="card-content-subhead">How it works</p>
-
-          <a href="{{ site.baseurl }}/how-it-works/production/"><h3 class="card-title">What natural resources are extracted?</h3></a>
-
-          <p>The U.S. is one of the top producers of oil, gas, and coal as well as nonenergy minerals like gold, iron, and copper.</p>
-
-        </div>
-
-      </article>
-
-      <article class="card">
-
-        <a class="card-image_link" href="{{ site.baseurl }}/case-studies/"><img class="card-image" src="{{ site.baseurl }}/img/home-card-placeholder.png" alt="Placeholder"></a>
-
-        <div class="card-content">
-
-          <p class="card-content-subhead">Case studies</p>
-
-          <a href="{{ site.baseurl }}/case-studies/"><h3 class="card-title">How does natural resource extraction affect local communities?</h3></a>
-
-          <p>Learn about 12 communities that led the U.S. in production of iron, copper, gold, coal, oil, and natural gas over the last decade.</p>
-
-        </div>
-
-      </article>
-
-      <article class="card">
-
-        <a class="card-image_link" href="{{ site.baseurl }}/how-it-works/revenues/"><img class="card-image" src="{{ site.baseurl }}/img/home-card-oil.png" alt="Oil operation in the mountains"/></a>
-
-        <div class="card-content">
-
-          <p class="card-content-subhead">How it works</p>
-
-          <a href="{{ site.baseurl }}/how-it-works/revenues/"><h3 class="card-title">How do natural resources result in federal revenues?</h3></a>
-
-          <p>Companies pay for the right to explore on federal lands. If they find and extract resources, they may pay royalties, fees, taxes, and other revenues, depending on the resource.</p>
-
-        </div>
-
-      </article>
-
-      <article class="card">
-
-        <a href="{{ site.baseurl }}/how-it-works/ownership/" class="card-image_link"><img class="card-image" src="{{ site.baseurl }}/img/home-card-usa.png" alt="Partial map of the United States"></a>
-
-        <div class="card-content">
-
-          <p class="card-content-subhead">How it works</p>
-
-          <a href="{{ site.baseurl }}/how-it-works/ownership/"><h3 class="card-title">Who owns natural resources in the U.S.?</h3></a>
-
-          <p>Natural resources can be owned by citizens and corporations, the federal government, state and local governments, or Indian tribes and individuals.</p>
-
-        </div>
-
-      </article>
-
-      <article class="card">
-
-        <a class="card-image_link" href="{{ site.baseurl }}/explore/disbursements/"><img class="card-image" src="{{ site.baseurl }}/img/home-card-disbursements.png" alt="Circles of various sizes and shapes"></a>
-
-        <div class="card-content">
-
-          <p class="card-content-subhead">Explore data</p>
-
-          <a href="{{ site.baseurl }}/explore/disbursements/"><h3 class="card-title">Where does the money go?</h3></a>
-
-          <p>Revenue from natural resources goes to federal, state, and county governments, as well as to a range of funds that work at the local and national levels.</p>
-
-        </div>
-
-      </article>
-
+        {% if site.lang == "de" %}
+          <a href="{{ site.baseurl_root }}/explore/production-charts">
+            {% t 'explore-data.production.sub-heading-2' %}
+          </a>
+        {% elsif site.lang == "en" %}
+          <a href="{{ site.baseurl_root }}/en/explore/production-charts">
+            {% t 'explore-data.production.sub-heading-2' %}
+          </a>
+        {% endif %}
+      </h3>
+      <div>
+        <p class="landing-description">
+          {% t 'explore-data.production.description-2' %}
+        </p>
+      </div>
     </div>
-
-  </div>
-
+  </section>
+  <section class="container">
+    <a id="revenue" class="link-no_under">
+      <h2 class="h3 landing-section_category">
+        {% t 'explore-data.revenue.heading-1' %}
+      </h2></a>
+    <div class="container-half landing-section" accordion-item aria-expanded="true">
+      <h3 class="h5 landing-heading"><a href="#">
+        {% t 'explore-data.revenue.sub-heading-1' %} </a>
+      </h3>
+      <div>
+        <p class="landing-description">
+          {% t 'explore-data.revenue.description-1' %}
+        </p>
+      </div>
+    </div>
+  </section>
+  <section class="container">
+    <a id="economic-impact" name="economic-impact" class="link-no_under">
+      <h2 class="h3 landing-section_category">
+        {% t 'explore-data.economic-impact.heading-1' %}
+      </h2></a>
+    <div class="container-half landing-section" accordion-item>
+      <h3 class="h5 landing-heading"><a>
+        {% t 'explore-data.economic-impact.sub-heading-1' %}</a>
+      </h3>
+      <div>
+        <p class="landing-description">
+          {% t 'explore-data.economic-impact.description-1' %}
+        </p>
+      </div>
+    </div>
+  </section>
 </section>
-<section class="slab-alpha container-padded u-centered u-padding-small_screen home-bottom-links">
 
-    <h2>Not sure where to go? Start&nbsp;here&nbsp;&#8230;</h2>
-
-    <h3 class="h2"><a href="{{ site.baseurl }}/how-it-works/">Learn how natural resources result in federal revenue <icon class="icon-chevron-lg icon-padded"></icon></a></h3>
-
-</section>
-
-<script type="text/javascript" src="{{ site.baseurl }}/js/lib/homepage.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="{{ site.baseurl_root }}/js/lib/homepage.min.js" charset="utf-8"></script>

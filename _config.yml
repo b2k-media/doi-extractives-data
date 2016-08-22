@@ -1,4 +1,4 @@
-title: USEITI
+title: D-EITI
 
 description: >
     USEITI is part of an international effort to promote open and accountable
@@ -25,6 +25,12 @@ exclude:
   - test
   - styleguide-template
   - 'Gemfile*'
+
+gems:
+  - jekyll-multiple-languages-plugin
+
+languages: ["de", "en"]
+exclude_from_localizations: ["js", "img", "css"]
 
 collections:
   case-studies:
