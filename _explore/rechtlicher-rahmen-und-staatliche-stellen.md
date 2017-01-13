@@ -47,7 +47,7 @@ nav_items:
           <tbody>
             <tr>
               <td></td>
-              <td colspan="3"><strong>Bodenschätze</strong></td>
+              <td colspan="3" align="center"><strong>Bodenschätze</strong></td>
             </tr>
             <tr>
               <td><strong>Rechtliche Untergliederung der Bodenschätze</strong></td>
@@ -95,7 +95,7 @@ nav_items:
                 Geregelt nach Bundesberggesetz<br />
                 § 3, Abs. 3
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                § 3, Abs. 4
+                <span>§ 3, Abs. 4</span>
               </td>
               <td>
                 Geregelt nach anderen Rechtsgebieten, z.B. Baurecht (Abgrabungsgesetz), Wasserhaushaltsgesetz bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz
@@ -114,7 +114,7 @@ nav_items:
                 <br /><br />
               </td>
               <td>
-                ndustrieminerale: Bentonit und andere montmorillonitreiche Tone, Feldspat, Glimmer, Kaolin, Kieselgur (Diatomit), „Pegmatitsand“, Quarz(-sand und -kies), und Quarzit (soweit für Feuerfestprodukte und Ferrosilicium-Herstellung geeignet), Speckstein und Talk, Ton (soweit feuerfest, säurefest)
+                Industrieminerale: Bentonit und andere montmorillonitreiche Tone, Feldspat, Glimmer, Kaolin, Kieselgur (Diatomit), „Pegmatitsand“, Quarz(-sand und -kies), und Quarzit (soweit für Feuerfestprodukte und Ferrosilicium-Herstellung geeignet), Speckstein und Talk, Ton (soweit feuerfest, säurefest)
                 <br /><br />
                 Steine und Erden: Basaltlava (außer Säulenbasalt), Dachschiefer, Trass
                 <br /><br />
@@ -124,6 +124,7 @@ nav_items:
               <td>
                 Steine und Erden (im Tagebau): Anhydrit, Gipsstein, Kalkstein sowie Säulenbasalt und andere Natursteine, Kies und Sand, Quarz und Quarzit (soweit nicht für die Herstellung von Feuerfestprodukten und Ferrosilicium-geeignet), und andere in dieser Tabelle nicht genannte Rohstoffe
                 <br /><br />
+                Außerdem: Torf
               </td>
             </tr>
           </tbody>
@@ -141,8 +142,11 @@ nav_items:
         <br />
         <p>
           plus:
-          <br />
-          <img src="{{ site.baseurl_root }}/img/graphic-2a.png" alt="graphic">
+        </p>
+        <img src="{{ site.baseurl_root }}/img/graphic-2a.png" alt="graphic">
+        <br /><br />
+        <p>
+          Insbesondere für die Grundeigentümerbodenschätze können noch weitere staatliche Stellen der mittleren und unteren Verwaltungsebene zuständig sein. Die Zuständigkeit variiert nach Bundesland, Rohstoff und Art des Abbaus.
         </p>
       </section>
     </div>
