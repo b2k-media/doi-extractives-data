@@ -60,7 +60,17 @@ nav_items:
         <br /><br />
         <p>Strang 3: Grundeigentümerbodenschätze</p>
         <p>
-          Die Aufsuchung und der Abbau von Grundeigentümerbodenschätzen sind nicht im Bundesberggesetz geregelt. Für den Abbau dieser Rohstoffe – meist sogenannte Massenrohstoffe aus dem Steine und Erden Sektor – finden Genehmigungsverfahren nach dem Bundesimmissionsschutzgesetz, den landesrechtlichen Abgrabungsgesetzen, dem Baurecht, oder dem Wasserhaushaltsgesetz (bei Nassabbau) statt.
+          Die Aufsuchung und der Abbau von Grundeigentümerbodenschätzen sind nicht im Bundesberggesetz geregelt. Für den Abbau dieser Rohstoffe – meist sogenannte Massenrohstoffe aus dem Steine und Erden Sektor – finden Genehmigungsverfahren nach dem
+          <span class="term term_end" data-term="bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
+            Bundesimmissionsschutzgesetz
+            <icon class="icon-book"></icon>
+          </span>,
+          den landesrechtlichen Abgrabungsgesetzen, dem Baurecht, oder dem
+          <span class="term" data-term="wasserhaushaltsgesetz" title="Click to define" tabindex="0">
+            Wasserhaushaltsgesetz
+            <icon class="icon-book"></icon>
+          </span>
+          (bei Nassabbau) statt.
         </p>
         <br /><br />
       </section>
