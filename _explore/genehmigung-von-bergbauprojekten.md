@@ -35,6 +35,10 @@ nav_items:
         Die Verfahren zur Zulassung und Aufsicht von Bergbauvorhaben sind in Deutschland nicht für alle Bodenschätze gleich geregelt, sondern je nach Rohstoffart und deren rechtliche Verankerung in Bund und Ländern unterschiedlich.
         </p>
         <br /><br />
+        <p>
+          Grafisch darstellen: <strong>Schaubild:</strong> Schritte zur Genehmigung bergbaulicher Vorhaben nach BBergG
+        </p>
+        <br /><br />
         <p>Strang 1: Bergfreie Bodenschätze</p>
         <p>
           Für das <strong>Aufsuchen (auch Exploration genannt) und die Gewinnung bergfreier Bodenschätze bedarf es eines zweistufigen (Genehmigungs-)Verfahrens:</strong> :
@@ -42,7 +46,7 @@ nav_items:
           <ul>
             <ol>
               <li>
-                In einem ersten Schritt benötigt man eine vom Staat erteilte Bergbauberechtigung (für das Aufsuchen eine sogenannte „Erlaubnis“ und für die Gewinnung eine sogenannte „Bewilligung“ oder das „Bergwerkseigentum“).
+                In einem ersten Schritt benötigt man eine vom Staat erteilte <u>Bergbauberechtigung</u> (für das Aufsuchen eine sogenannte „Erlaubnis“ und für die Gewinnung eine sogenannte „Bewilligung“ oder das „Bergwerkseigentum“).
               </li>
               <li>
                 Darauf aufbauend muss in einem zweiten Schritt der Betriebsplan zugelassen werden (Betriebsplanverfahren).
@@ -55,7 +59,7 @@ nav_items:
         <br /><br />
         <p>Strang 2: grundeigene Bodenschätze</p>
         <p>
-          Bei den <strong>grundeigenen Bodenschätzen</strong> genügt der Nachweis, dass sich das Grundstück im Besitz des/r Antragsteller/in befindet (z.B. durch Pachtvertrag) und die Zulassung des Betriebsplans.
+          Bei den <strong>grundeigenen Bodenschätzen</strong> genügt der Nachweis, dass sich das Grundstück im Besitz des/r Antragsteller/in befindet (z.B. durch Pachtvertrag) und die <u>Zulassung des Betriebsplans</u>.
         </p>
         <br /><br />
         <p>Strang 3: Grundeigentümerbodenschätze</p>
@@ -65,7 +69,7 @@ nav_items:
             Bundesimmissionsschutzgesetz
             <icon class="icon-book"></icon>
           </span>,
-          den landesrechtlichen Abgrabungsgesetzen, dem Baurecht, oder dem
+          den <u>landesrechtlichen Abgrabungsgesetzen</u>, dem <u>Baurecht</u>, oder dem
           <span class="term" data-term="wasserhaushaltsgesetz" title="Click to define" tabindex="0">
             Wasserhaushaltsgesetz
             <icon class="icon-book"></icon>
@@ -80,94 +84,99 @@ nav_items:
           Bergbauberechtigungen stellen die Grundlage für das Aufsuchen und die Gewinnung von bergfreien Bodenschätzen dar. Sie werden in Form einer Erlaubnis, einer Bewilligung oder eines Bergwerkseigentums beantragt.
         </p>
         <p>
-          Für die Dokumentation der Bergbauberechtigungen werden nach § 75 ff. BBergG sogenannte Berechtsamsbücher und Berechtsamskarten angelegt, in denen die Informationen zu Erlaubnissen, Bewilligungen und Bergwerkseigentum und Angaben zu den betreffenden Feldern einzusehen sind.
+          Für die Dokumentation der Bergbauberechtigungen werden nach § 75 ff. BBergG sogenannte <a href="#">Berechtsamsbücher und Berechtsamskarten</a> angelegt, in denen die Informationen zu Erlaubnissen, Bewilligungen und Bergwerkseigentum und Angaben zu den betreffenden Feldern einzusehen sind.
         </p>
         <section id="bergbauberechtigungen" style="position: relative;">
         <h3>Bergbauberechtigungen</h3>
           <table>
             <tbody>
-            <tr>
-              <td><strong>Definition</strong></td>
-              <td><strong>Laufzeit</strong></td>
-              <td><strong>Zulasungsvoraussetzungen</strong></td>
-            </tr>
-            <tr>
-              <td colspan="3">
-                <a
-                  href="http://www.lbeg.niedersachsen.de/bergbau/bergbauberechtigungen/erlaubnis/erlaubnis-712.html"
-                >
-                  Erlaubnis
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                Die Erlaubnis ist eine Bergbauberechtigung, die das Recht zur Aufsuchung von bergfreien Bodenschätzen in einem zugeteilten Erlaubnisfeld erteilt.
-              </td>
-              <td>
-                Die Erlaubnis ist auf 5 Jahre befristet und kann um jeweils drei Jahre verlängert werden (s. § 16, 4 BBergG)
-              </td>
-              <td>
-                Es besteht ein Rechtsanspruch auf die Erteilung einer Erlaubnis, sollten keine Versagungsgründe vorliegen.
-                <br />
-                Die Erlaubnis kann verweigert werden, wenn beispielsweise kein Arbeitsprogramm vorliegt oder der festgesetzte Zeitraum in der Planung nicht berücksichtigt wird. Die Versagungsgründe sind abschließend in § 11 und 12 BBergG aufgeführt.
-                <br />
-                Wenn die Arbeiten zur Aufsuchung nicht innerhalb eines Jahres aufgenommen werden, kann die Erlaubnis widerrufen werden (§ 18 BBergG).
-              </td>
-            </tr>
-            <tr>
-              <td colspan="3">
-                <a
-                  href="http://www.lbeg.niedersachsen.de/bergbau/bergbauberechtigungen/bewilligung/bewilligung-709.html"
-                >
-                  Bewilligung
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem zugeteilten Bewilligungsfeld erteilt.
-              </td>
-              <td>
-                Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, 5 BBergG).
-              </td>
-              <td>
-                Es besteht ein Rechtsanspruch auf die Erteilung einer Bewiligung, sollten keine Versagungsgründe vorliegen.
-                <br />
-                Die Bewilligung kann verweigert werden, wenn beispielsweise nicht nachgewiesen werden kann, dass die Bodenschätze nach ihrer Lage und Beschaffenheit gewonnen werden können (s. § 12 BBergG).
-                <br />
-                Wenn die Gewinnung der Rohstoffe nicht innerhalb von drei Jahren aufgenommen werden, kann die Bewilligung widerrufen werden (s. § 18 BBergG). Die Versagungsgründe sind abschließend aufgeführt.
-              </td>
-            </tr>
-            <tr>
-              <td colspan="3">
-                <a
+              <tr>
+                <td><strong>Definition</strong></td>
+                <td><strong>Laufzeit</strong></td>
+                <td><strong>Zulasungsvoraussetzungen</strong></td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <a
+                    href="http://www.lbeg.niedersachsen.de/bergbau/bergbauberechtigungen/erlaubnis/erlaubnis-712.html"
+                    target="_blank"
+                  >
+                    Erlaubnis
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Die Erlaubnis ist eine Bergbauberechtigung, die das Recht zur Aufsuchung von bergfreien Bodenschätzen in einem zugeteilten Erlaubnisfeld erteilt.
+                </td>
+                <td>
+                  Die Erlaubnis ist auf 5 Jahre befristet und kann um jeweils drei Jahre verlängert werden (s. § 16, 4 BBergG)
+                </td>
+                <td>
+                  Es besteht ein Rechtsanspruch auf die Erteilung einer Erlaubnis, sollten keine Versagungsgründe vorliegen.
+                  <br />
+                  Die Erlaubnis kann verweigert werden, wenn beispielsweise kein Arbeitsprogramm vorliegt oder der festgesetzte Zeitraum in der Planung nicht berücksichtigt wird. Die Versagungsgründe sind abschließend in    11 und 12 BBergG aufgeführt.
+                  <br />
+                  Wenn die Arbeiten zur Aufsuchung nicht innerhalb eines Jahres aufgenommen werden, kann die Erlaubnis widerrufen werden (§ 18 BBergG).
+                </td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <a
+                    href="http://www.lbeg.niedersachsen.de/bergbau/bergbauberechtigungen/bewilligung/bewilligung-709.html"
+                    target="_blank"
+                  >
+                    Bewilligung
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem zugeteilten Bewilligungsfeld erteilt.
+                </td>
+                <td>
+                  Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, 5 BBergG).
+                </td>
+                <td>
+                  Es besteht ein Rechtsanspruch auf die Erteilung einer Bewiligung, sollten keine Versagungsgründe vorliegen.
+                  <br />
+                  Die Bewilligung kann verweigert werden, wenn beispielsweise nicht nachgewiesen werden kann, dass die Bodenschätze nach ihrer Lage und Beschaffenheit gewonnen werden können (s. § 12 BBergG).
+                  <br />
+                  Wenn die Gewinnung der Rohstoffe nicht innerhalb von drei Jahren aufgenommen werden, kann die Bewilligung widerrufen werden (s. § 18 BBergG). Die Versagungsgründe sind abschließend aufgeführt.
+                </td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <a
                   href="http://www.lbeg.niedersachsen.de/bergbau/bergbauberechtigungen/bergwerkseigentum/bergwerkseigentum-710.html"
-                >
-                  Bergwerkseigentum
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen.
-              </td>
-              <td>
-                Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, 5 BBergG).
-                <br />
-                Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, kann das Bergwerkseigentum widerrufen werden (s. § 18 BBergG).
-              </td>
-              <td>
-                Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in im bereits Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG).
-              </td>
-            </tr>
+                    target="_blank"
+                  >
+                    Bergwerkseigentum
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen.
+                </td>
+                <td>
+                  Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, 5 BBergG).
+                  <br />
+                  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, kann das Bergwerkseigentum widerrufen werden (s. § 18 BBergG).
+                </td>
+                <td>
+                  Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in im bereits Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG).
+                </td>
+              </tr>
             </tbody>
           </table>
         </section>
         <p>Sonderfall: Bergbauberechtigung nach altem Recht</p>
         <p>
           Zu den Berechtigungsformen gehören neben den oben genannten Berechtigungen (Erlaubnis, Bewilligung bzw. Bergwerkseigentum) auch aus altem Recht übergeleitete Berechtigungen, die als
-          <a href="http://www.lbeg.niedersachsen.de/bergbau/bergbauberechtigungen/alte_rechte/alte-rechte--149-ff-bbergg-711.html"
+          <a
+            href="http://www.lbeg.niedersachsen.de/bergbau/bergbauberechtigungen/alte_rechte/alte-rechte--149-ff-bbergg-711.html"
+            target="_blank"
           >
             alte Rechte
           </a>
@@ -177,51 +186,51 @@ nav_items:
         <p>Sonderfall: Besonderheiten in den neuen Bundesländern</p>
         <p>
           Das Bergrechtsregime der DDR kannte im Gegensatz dazu nur die volkseigenen  mineralischen Rohstoffe und die sonstigen mineralischen Rohstoffe. Die volkseigenen Rohstoffe umfassten im Wesentlichen die nach bundesdeutschem Gesetz bergfreien und grundeigenen Bodenschätze und standen im Volkseigentum. Die sonstigen mineralischen Rohstoffe umfassten im Wesentlichen die Grundeigentümerbodenschätze und waren dem Grundeigentum zugeordnet. Mit der Verleihungs-Verordnung vom 15.08.1990 wurde die Grundlage geschaffen, Bergbauberechtigungen volkseigener mineralischer Rohstoffe in bergfreie Bodenschätze umzuwandeln und diese somit im Rechtssystem der BRD anzuerkennen. Die übertragenen Bergbauberechtigungen gelten als Bergwerkseigentum Sie sind wie die Bergbauberechtigungen nach altem Recht unbefristet sowie von der Feldes- und Förderabgabe befreit (s.
-          §<a href="http://www.buzer.de/gesetz/5212/a72101.htm">149</a> und § 151 BBergG). Im Unterschied zu den alten Bundesländern erstrecken sich die Altrechte (s. Abschnitt zu Bergbauberechtigung nach altem Recht) in den neuen Bundesländern nicht nur bis 1980 (neues Berggesetz), sondern auf die bis 1990 erkundeten Lagerstätten. Sie umfassen zudem nicht nur die bergfreien, sondern auch die grundeigenen Bodenschätze, da Rechte zur Aufsuchung und Gewinnung von grundeigenen Bodenschätzen nach DDR-Recht ebenfalls über staatliche vergebene Bergbauberechtigungen geregelt wurden.
+          §<a href="http://www.buzer.de/gesetz/5212/a72101.htm" target="_blank">149</a> und § 151 BBergG). Im Unterschied zu den alten Bundesländern erstrecken sich die Altrechte (s. Abschnitt zu Bergbauberechtigung nach altem Recht) in den neuen Bundesländern nicht nur bis 1980 (neues Berggesetz), sondern auf die bis 1990 erkundeten Lagerstätten. Sie umfassen zudem nicht nur die bergfreien, sondern auch die grundeigenen Bodenschätze, da Rechte zur Aufsuchung und Gewinnung von grundeigenen Bodenschätzen nach DDR-Recht ebenfalls über staatliche vergebene Bergbauberechtigungen geregelt wurden.
         </p>
         <br /><br />
         <section id="tabelle-2" style="position: relative;">
         <p><strong>Tabelle:</strong> Übersicht zu altem Bergrecht, Bergrecht in der DDR und neuem Bergrecht</p>
           <table>
             <tbody>
-            <tr>
-              <td></td>
-              <td>
-                <strong>Berechtigungen nach altem Bergrecht (BRD)</strong>
-              </td>
-              <td>
-                <strong>Berechtigungen nach Bergrecht in der DDR</strong>
-              </td>
-              <td>
-                <strong>Berechtigungen nach neuem Bergrecht (BRD)</strong>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <strong>Rohstoffbezeichnung</strong>
-              </td>
-              <td>Bergfreie Rohstoffe</td>
-              <td>Volkseigene Rohstoffe</td>
-              <td>Bergfreie Rohstoffe</td>
-            </tr>
-            <tr>
-              <td>
-                <strong>Zahlung von Feldes- und Förderabgaben</strong>
-              </td>
-              <td>Nein</td>
-              <td>Nein</td>
-              <td>Entscheidung auf Ebene des Bundeslandes</td>
-            </tr>
-            <tr>
-              <td>
-                <strong>Befristung</strong>
-              </td>
-              <td>Nein</td>
-              <td>Nein</td>
-              <td>
-                Ja (siehe Erläuterungen unter Bergbauberechtigungen)
-              </td>
-            </tr>
+              <tr>
+                <td></td>
+                <td>
+                  <strong>Berechtigungen nach altem Bergrecht (BRD)</strong>
+                </td>
+                <td>
+                  <strong>Berechtigungen nach Bergrecht in der DDR</strong>
+                </td>
+                <td>
+                  <strong>Berechtigungen nach neuem Bergrecht (BRD)</strong>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Rohstoffbezeichnung</strong>
+                </td>
+                <td>Bergfreie Rohstoffe</td>
+                <td>Volkseigene Rohstoffe</td>
+                <td>Bergfreie Rohstoffe</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Zahlung von Feldes- und Förderabgaben</strong>
+                </td>
+                <td>Nein</td>
+                <td>Nein</td>
+                <td>Entscheidung auf Ebene des Bundeslandes</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Befristung</strong>
+                </td>
+                <td>Nein</td>
+                <td>Nein</td>
+                <td>
+                  Ja (siehe Erläuterungen unter Bergbauberechtigungen)
+                </td>
+              </tr>
             </tbody>
           </table>
           <br /><br />
