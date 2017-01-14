@@ -72,10 +72,7 @@ nav_items:
               <td>
                 Industrieminerale, Steine und Erze
               </td>
-              <td>  - name: intro
-    title: Top
-  - name: subventionen
-    title: Subventionen im Bereich der Energie- und Stromsteuer
+              <td>
                 Steine und Erden
               </td>
             </tr>
@@ -84,14 +81,14 @@ nav_items:
               <td>
                 Diese Bodenschätze sind „frei“, d.h. sie gehören nicht dem Grundeigentümer; ihre Nutzbarmachung bedarf der Bewilligung/ Genehmigung durch die Bergbehörde
               </td>
-              <td colspan="2">
+              <td colspan="2" align="center">
                 Diese Bodenschätze gehören dem Grundeigentümer;
                 ihre Nutzbarmachung steht dem Grundeigentümer zu
               </td>
             </tr>
             <tr>
               <td><strong>Art der rechtlichen Regelung/ Genehmigung</strong></td>
-              <td colspan="2">
+              <td colspan="2" align="center">
                 Geregelt nach Bundesberggesetz<br />
                 § 3, Abs. 3
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
