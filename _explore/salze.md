@@ -15,10 +15,12 @@ nav_items:
 
 <main class="container-page-wrapper layout-state-pages">
   <section class="container" style="position: relative;">
-
-    {% include breadcrumb.html %}
-    <h1 id="title">Salze</h1>
-
+    <div class="container-left-12">
+      {% include breadcrumb.html %}
+      <h1 id="title">Salze</h1>
+    </div>
+  </section>
+  <section class="container" style="position: relative;">
     <div class="container-left-9">
       <section id="salze" style="position: relative;">
         <p>
