@@ -13,11 +13,13 @@ nav_items:
 ---
 
 <main class="container-page-wrapper layout-state-pages">
-  <section class="container" style="position: relative;">
-
+<section class="container" style="position: relative;">
+  <div class="container-left-12">
     {% include breadcrumb.html %}
     <h1 id="title">Wer ist zuständig? Gesetze und die Zuständigkeiten staatlicher Stellen</h1>
-
+  </div>
+</section>
+  <section class="container" style="position: relative;">
     <div class="container-left-9">
       <section id="intro" style="position: relative;">
         <p>
