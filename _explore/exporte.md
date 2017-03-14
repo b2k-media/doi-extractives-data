@@ -27,7 +27,7 @@ nav_items:
 
     <div class="container-left-9">
         <p>
-          Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2015 exportierte das Land  Waren im Wert von insgesamt 1.193 Milliarden Euro. Dabei entfielen rund 10 Milliarden Euro auf Waren der rohstoffgewinnenden Industriei, was einem Anteil von 0,84 % an den Gesamtexporten entspricht. Erdöl und Erdgas machten dabei mit 8,4 Milliarden Euro den größten Anteil an den Exporten aus, gefolgt von Steinen, Erden und sonstigen Bergbauerzeugnissen mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von 134 Mio. € und Kohle im Wert von 125 Mio. € exportiert. Seit 2010 haben sich die Exporte von Erdöl und Erdgas nahezu verdoppelt.
+          Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2015 exportierte das Land Waren im Wert von insgesamt 1.193 Milliarden Euro. Dabei entfielen rund 10 Milliarden Euro auf Waren der rohstoffgewinnenden Industriei, was einem Anteil von 0,84 % an den Gesamtexporten entspricht. Erdöl und Erdgas machten dabei mit 8,4 Milliarden Euro den größten Anteil an den Exporten aus, gefolgt von Steinen, Erden und sonstigen Bergbauerzeugnissen mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von 134 Mio. € und Kohle im Wert von 125 Mio. € exportiert. Seit 2010 haben sich die Exporte von Erdöl und Erdgas nahezu verdoppelt.
         </p>
         <br />
         <div id="chart-2" class="explore-exploration slab-alpha">
