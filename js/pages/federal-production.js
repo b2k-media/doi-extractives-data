@@ -927,7 +927,9 @@
     select.select('option:nth-child(2)')
       .text(products.length > 1
             ? 'Alle ' + products.length + ' ' +traslation.product
-            : products.length + eiti.format.pluralize(products.length, ' product'));
+            : products.length === 0
+            ? 'Keine ' +traslation.product
+            : products.length + eiti.format.pluralize(products.length, ' ' +traslation.product));
 
     var options = select.selectAll('option.product')
       .data(products, identity);
