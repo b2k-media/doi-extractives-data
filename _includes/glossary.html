@@ -15,12 +15,12 @@
       {% assign sortedterms = terms | split:'&&' | sort %}
       <ul class="js-glossary-list list-unstyled" accordion="glossary-accordion">
       {% for sortedterm in sortedterms %}
-         {% assign termitems = sortedterm | split: '##' %}
-          <li class="glossary-item">
-            <h2 class="h5 glossary-term">{{termitems[0]}}</h2>
-            <button><span class="sr-only">Toggle for {{termitems[0]}}</span></button>
-            <p class="glossary-definition accordion-content">{{termitems[1]}}</p>
-          </li>
+        {% assign termitems = sortedterm | split: '##' %}
+        <li class="glossary-item">
+          <h2 class="h5 glossary-term">{{termitems[0]}}</h2>
+          <button><span class="sr-only">Toggle for {{termitems[0]}}</span></button>
+          <p class="glossary-definition accordion-content">{{termitems[1]}}</p>
+        </li>
       {% endfor %}
       </ul>
   </div>
