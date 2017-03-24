@@ -11,14 +11,20 @@
   <input id="drawer-search-bar" class="js-glossary-search drawer-search" type="search" placeholder="z. B. Subventionen">
   <div id="glossary-result">
     {% capture term_lang %}{{ 'terms_' | append: site.lang }}{% endcapture %}
-      <ul class="js-glossary-list list-unstyled" accordion="glossary-accordion">
+      {% capture terms %}
         {% for term in site.data[term_lang] %}
-        <li class="glossary-item">
-          <h2 class="h5 glossary-term">{{term[0]}}</h2>
-          <button><span class="sr-only">Toggle for {{term[0]}}</span></button>
-          <p class="glossary-definition accordion-content">{{term[1]}}</p>
-        </li>
+          {{term[0]}}
         {% endfor %}
+      {% endcapture %}
+      {% assign sortedterms = terms | split:' ' | sort %}
+      <ul class="js-glossary-list list-unstyled" accordion="glossary-accordion">
+      {% for sortedterm in sortedterms %}
+          <li class="glossary-item">
+            <h2 class="h5 glossary-term">{{sortedterm}}</h2>
+            <button><span class="sr-only">Toggle for sortedterm</span></button>
+            <p class="glossary-definition accordion-content">{{site.data[term_lang][sortedterm]}}</p>
+          </li>
+      {% endfor %}
       </ul>
   </div>
 </div>
