@@ -929,7 +929,7 @@
             ? 'Alle ' + products.length + ' ' +traslation.product
             : products.length === 0
             ? 'Keine ' +traslation.product
-            : products.length + eiti.format.pluralize(products.length, ' ' +traslation.product));
+            : products.length + eiti.format.pluralize(products.length, ' Rohstoff'));
 
     var options = select.selectAll('option.product')
       .data(products, identity);
