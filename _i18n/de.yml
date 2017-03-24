@@ -151,7 +151,7 @@ data_translation:
   total: Gesamt
   zero_products: 0 Rohstoffe
   product: Rohstoffe
-  no_production_on_federal_land: keine Produktion auf Bundesland
+  no_production_on_federal_land: keine Produktion im Bundesland
   all_raw_materials: Alle Rohstoffe
   entire_germany: Ganz Deutschland
 
