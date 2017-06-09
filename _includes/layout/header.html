@@ -7,7 +7,21 @@
   </div>
 
   <nav class="header-nav header-right">
+    {% if site.lang == "de" %}
+    {% capture link1 %} {{ site.baseurl_root }}/en{{page.url}}{% endcapture %}
+    {% elsif site.lang == "en" %}
+    {% capture link2 %}{{ site.baseurl_root }}{{page.url}}{% endcapture %}
+    {% endif %}
+
     <ul class="header-nav_top">
+      <li class="header-nav_item_top">
+        <a href="{{ link2 }}" class="header-nav_item_link_top" alt="Deutsch">DE</a>
+      </li>
+      <span class="header-nav_item_link_spacer"> | </span>
+      <li class="header-nav_item_top">
+        <a href="{{ link1 }}" class="header-nav_item_link_top" alt="English">EN</a>
+      </li>
+      <span class="header-nav_item_link_spacer"> | </span>
       <li class="header-nav_item_top">
         <a href="javascript:void(0)" class="header-nav_item_link_top js-glossary-toggle" alt="this is the glossary drawer">Glossar</a>
       </li>

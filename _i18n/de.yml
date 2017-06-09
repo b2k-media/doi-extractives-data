@@ -4,6 +4,10 @@ menu:
     how-it-work: "Rohstoffgewinnung"
     explore-data: "Fakten"
 
+erdol-erdgas:
+    title: "Erdöl und Erdgas"
+
+
 explore-data:
     title: "Fakten"
     introduction-first: |

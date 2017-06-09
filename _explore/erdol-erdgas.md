@@ -1,5 +1,5 @@
 ---
-title: Erdöl und Erdgas
+title: erdol-erdgas.title
 layout: default
 permalink: /explore/erdol-erdgas/
 breadcrumb:
