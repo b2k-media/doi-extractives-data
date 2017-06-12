@@ -1,38 +1,12 @@
 ---
-title: erdol-erdgas.title
+title: Erdöl und Erdgas
 layout: default
 permalink: /explore/erdol-erdgas/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
-nav_items:
-  - name: title
-    title: Seitenanfang
-  - name: erdol
-    title: Erdöl
-    subnav_items:
-      - name: fakten_zu_oil
-        title: Wissenswertes über Erdöl
-      - name: erdol-geschichte
-        title: Geschichte
-      - name: erdol-wirtschaftliche-bedeutung
-        title: Wirtschaftliche Bedeutung
-      - name: erdol-gewinnung
-        title: Gewinnung
-  - name: erdgas
-    title: Erdgas
-    subnav_items:
-      - name: fakten_zu_gas
-        title: Wissenswertes über Erdgas
-      - name: erdgas-geschichte
-        title: Geschichte
-      - name: erdgas-wirtschaftliche-bedeutung
-        title: Wirtschaftliche Bedeutung
-      - name: erdgas-gewinnung
-        title: Gewinnung
-      - name: erdgas-verwendung
-        title: Verwendung
 ---
+
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 
@@ -162,10 +136,11 @@ nav_items:
 
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{{ page.title }}</div>
+        <div class="nav-title">{% t erdol-erdgas.title %}</div>
       </h3>
       <nav>
-        {% include case-studies/_nav-list.html %}
+        {% assign nav_items = site.translations[site.lang]['erdol-erdgas'].nav_items %}
+        {% include case-studies/_nav-list.html nav_items=nav_items %}
       </nav>
     </div>
   </section>
@@ -177,13 +152,7 @@ nav_items:
 
 <script type="text/javascript">
     $(document).ready(function(){
-      $('.fakten_oil').slick({
-        dots: true,
-        speed: 500
-      });
-      $('.fakten_gas').slick({
-        dots: true,
-        speed: 500
-      });
+      $('.fakten_oil').slick({ dots: true, speed: 500 });
+      $('.fakten_gas').slick({ dots: true, speed: 500 });
     });
 </script>

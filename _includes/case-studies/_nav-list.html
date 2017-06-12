@@ -1,9 +1,12 @@
-{% if layout.nav_items %}
-	{% assign selector_nav_items = layout.nav_items %}
+{% if include.nav_items %}
+	{% assign selector_nav_items = include.nav_items %}
 {% else %}
-	{% assign selector_nav_items = page.nav_items %}
+	{% if layout.nav_items %}
+		{% assign selector_nav_items = layout.nav_items %}
+	{% else %}
+		{% assign selector_nav_items = page.nav_items %}
+	{% endif %}
 {% endif %}
-
 
 <ul>
   {% if selector_nav_items %}

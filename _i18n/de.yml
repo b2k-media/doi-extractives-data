@@ -4,9 +4,39 @@ menu:
     how-it-work: "Rohstoffgewinnung"
     explore-data: "Fakten"
 
-erdol-erdgas:
-    title: "Erdöl und Erdgas"
+nav-items:
+    top: Seitenanfang
 
+erdol-erdgas:
+  title: "Erdöl und Erdgas"
+  oil: Erdöl
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: erdol
+      title: Erdöl
+      subnav_items:
+        - name: fakten_zu_oil
+          title: Wissenswertes über Erdöl
+        - name: erdol-geschichte
+          title: Geschichte
+        - name: erdol-wirtschaftliche-bedeutung
+          title: Wirtschaftliche Bedeutung
+        - name: erdol-gewinnung
+          title: Gewinnung
+    - name: erdgas
+      title: Erdgas
+      subnav_items:
+        - name: fakten_zu_gas
+          title: Wissenswertes über Erdgas
+        - name: erdgas-geschichte
+          title: Geschichte
+        - name: erdgas-wirtschaftliche-bedeutung
+          title: Wirtschaftliche Bedeutung
+        - name: erdgas-gewinnung
+          title: Gewinnung
+        - name: erdgas-verwendung
+          title: Verwendung
 
 explore-data:
     title: "Fakten"
