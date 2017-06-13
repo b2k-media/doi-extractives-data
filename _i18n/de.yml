@@ -240,6 +240,131 @@ steine-und-erden:
       title: Verwendung
       p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften in der industriellen und landwirtschaftlichen Produktion sowie in der Bauwirtschaft Anwendung. Hier werden Industrieminerale insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie eingesetzt. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
 
+rechtlicher-rahmen:
+  title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
+  p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundeswirtschaftsministerium. Die Bergbehörden der Bundesländer führen das Gesetz jedoch aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
+  subtitle: "Zuständige staatliche Stellen:"
+  nav_title: RECHTLICHER RAHMEN UND STAATLICHE STELLEN
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: zustandige-staatliche-stellen
+      title: Zuständige staatliche Stellen
+    - name: rechtliche-regelung
+      title: Rechtliche Regelung
+      subnav_items:
+        - name: tabelle-1
+          title: Rechtliche Unterteilung der Bodenschätze in Deutschland
+  grid:
+    baden-wurttemberg:
+      title: Baden-Württemberg
+      descr: Min. für Umwelt <br/>Klima und Energiewirtschaft
+      link: Regierungspräs. Freiburg,<br/> Landesamt für Goelogie,<br/> Rohstoffe und Bergbau
+    bayern:
+      title: Bayern
+      descr: Staatsmin. für Wirtschaft und Medien,<br/> Energie und Technologie
+      link1: Regierungspräs. München
+      link2: Regierungspräs. Oberfranken
+    berlin:
+      title: Berlin
+      descr: Senatsverw. für Wirtschaft,<br/> Technologie und Forschung
+      link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
+    brandenburg:
+      title: Brandenburg
+      descr: Min. für Wirtschaft<br/> und Europaangelegenheiten
+      link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
+    bremen:
+      title: Bremen
+      descr: Senator für Wirtschaft,<br/> Arbeit und Häfen
+      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+    hamburg:
+      title: Hamburg
+      descr: Behörde für Wirtschaft,<br/> Verkehr und Innovation
+      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+    hessen:
+      title: Hessen
+      descr: Min. für Umwelt, Klimaschutz, <br/>Landwirtschaft und Verbraucherschutz
+      link: Regierungspräsidium Darmstadt<br/> Abt. Arbeitsschutz und Umwelt Wiesbaden
+    mecklenburg-vorpommern:
+      title: Mecklenburg-Vorpommern
+      descr: Min. für Energie, Infrastruktur<br/> und Landesentwicklung
+      link: Bergamt Stralsund
+    niedersachsen:
+      title: Niedersachsen
+      descr: Min. für Wirtschaft, <br/>Arbeit und Verkehr
+      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+    nordrhein-westfalen:
+      title: Nordrhein-Westfalen
+      descr: Min. für Wirtschaft, Energie,<br/> Industrie, Mittelstand und Handwerk
+      link: Bezirksreg. Arnsberg<br/> Abt. 6 Bergbau und Energie
+    rheinland-pfalz:
+      title: Rheinland-Pfalz
+      descr: Min. für Wirtschaft, Klimaschutz, <br/> Energie und Landesplanung
+      link: Landesamt für Geologie<br/> und Bergbau
+    saarland:
+      title: Saarland
+      descr: Min. für Wirtschaft,<br/> Arbeit, Energie und Verkehr
+      link: Oberbergamt
+    sachsen:
+      title: Sachsen
+      descr: Staatsmin. für Wirtschaft,<br/> Arbeit und Verkehr
+      link: Oberbergamt
+    sachsen-anhalt:
+      title: Sachsen-Anhalt
+      descr: Min. für Wissenschaft<br/> und Wirtschaft
+      link: Landesamt für Geologie<br/> und Bergwesen
+    schleswig-holstein:
+      title: Schleswig-Holstein
+      descr: Min. für Energiewende, Landwirtschaft<br/> Umwelt und ländliche Räume
+      link: Landesamt für Bergbau, Energie und Geologie
+    thuringen:
+      title: Thüringen
+      descr: Min. für Landwirtschaft, Forsten, <br/>Umwelt und Naturschutz
+      link: Landesbergamt
+  rechtliche-regelung:
+    title: Rechtliche Regelung
+    p1: "Hinsichtlich ihrer rechtlichen Regelung werden in Deutschland drei Gruppen von Rohstoffen unterschieden:"
+    ul:
+      li1:
+        title: "Bergfreie Bodenschätze"
+        p: "stehen nicht im Eigentum des Grundeigentümers. Das Aufsuchen und Gewinnen dieser Bodenschätze unterliegt dem BBergG und muss durch die Bergbehörden der Bundesländer genehmigt werden."
+      li2:
+        title: "Grundeigene Bodenschätze"
+        p: "stehen im Eigentum des Grundeigentümers, wodurch es für das Aufsuchen und die Gewinnung dieser Bodenschätze keine Genehmigung bedarf. Bestimmte grundeigene Bodenschätze fallen jedoch unter das Bergrecht und die Zuständigkeit der Bergaufsicht."
+      li3:
+        title: "Grundeigentümerbodenschätze"
+        p1: "sind alle Bodenschätze, die nicht bergfrei oder grundeigen sind und stehen ebenfalls im Eigentum des Grundeigentümers, fallen jedoch nicht unter das Bergrecht und die Bergaufsicht des Bergamtes. Die Genehmigungsverfahren der Grundeigentümerbodenschätze erfolgen vielmehr nach den Vorschriften des"
+        k1: "Bundesimmissionsschutzgesetzes"
+        p2: "oder nach landesrechtlichen Bestimmungen (z.B. den"
+        k2: "Abgrabungsgesetzen"
+        p3: ", dem Wasser- oder Baurecht)."
+    p2: "Für die letztgenannte Gruppe der Grundeigentümerbodenschätze sind je nach Bundesland, Rohstoff und Art des Abbaus staatliche Stellen der mittleren und unteren Verwaltungsebene zuständig."
+  rechtliche-unterteilung:
+    title: Rechtliche Unterteilung der Bodenschätze in Deutschland
+    bodenschatze: Bodenschätze
+    table:
+      tr1:
+        td1: Rechtliche Untergliederung
+        td2: Bergfreie Bodenschätze (unter Bergrecht)
+        td3: Grundeigene Bodenschätze (unter Bergrecht)
+        td4: Grundeigentümer-Bodenschätze (nicht unter Bergrecht)
+      tr2:
+        td1: Fachliche Untergliederung
+        td2: "Energierohstoffe: Kohlen, Kohlenwasserstoffe, Erdwärme<br/><br/>Industrieminerale: Flussspat, Graphit, Lithium, Phosphor, alle leicht wasserlöslichen Salze, Schwefel, Schwerspat, Strontium, Zirkon<br/><br/>Metallerze: z.B. Eisen-,Kupfer-, Blei- Zinkerze usw.<br/><br/>Außerdem: Alle Bodenschätze im Bereich des Festlandssockels und der Küstengewässer (also auch Kies, Natursteine)"
+        td3: "Industrieminerale: Bentonit und andere montmorillonitreiche Tone, Feldspat, Glimmer, Kaolin, Kieselgur (Diatomit), „Pegmatitsand“, Quarz(-sand und -kies), und Quarzit (soweit für Feuerfestprodukte und Ferrosilicium-Herstellung geeignet), Speckstein und Talk, Ton (soweit feuerfest, säurefest)<br/><br/>Steine und Erden: Basaltlava (außer Säulenbasalt), Dachschiefer, Trass<br/><br/>Außerdem: Alle untertägig gewonnenen grundeigenen Bodenschätze (also dann auch Gipsstein, Naturstein, Ziegeleitone usw.)"
+        td4: "Steine und Erden (im Tagebau): Anhydrit, Gipsstein, Kalkstein sowie Säulenbasalt und andere Natursteine, Kies und Sand, Quarz und Quarzit (soweit nicht für die Herstellung von Feuerfestprodukten und Ferrosilicium-geeignet), und andere in dieser Tabelle nicht genannten Rohstoffe<br/><br/>Außerdem: Torf"
+      tr3:
+        td1: Verfügungsgewalt
+        td2: "Diese Bodenschätze sind „frei“, d.h. sie gehören nicht dem Grundeigentümer. Ihre Nutzbarmachung bedarf der Bewilligung/ Genehmigung durch die Bergbehörde."
+        td3: "Diese Bodenschätze gehören dem Grundeigentümer; ihre Nutzbarmachung steht dem Grundeigentümer zu"
+      tr4:
+        td1: "Art der rechtlichen Regelung"
+        td2: "Geregelt nach Bundesberggesetz § 3, Abs. 3          § 3, Abs. 4"
+        td3:
+          p1: "Geregelt nach anderen Rechtsgebieten, z.B. Baurecht (Abgrabungsgesetz),"
+          k1: Wasserhaushaltsgesetz
+          p2: "bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz"
+  p2: "(Quelle: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008)"
 
 explore-data:
     title: "Fakten"

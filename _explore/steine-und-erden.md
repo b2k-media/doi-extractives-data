@@ -79,7 +79,7 @@ breadcrumb:
 
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{{ steine-und-erden.title }}</div>
+        <div class="nav-title">{% t steine-und-erden.title %}</div>
       </h3>
       <nav>
         {% assign nav_items = site.translations[site.lang]['steine-und-erden'].nav_items %}

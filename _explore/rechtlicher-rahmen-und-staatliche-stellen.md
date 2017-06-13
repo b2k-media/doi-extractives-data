@@ -5,16 +5,6 @@ permalink: /rechtlicher-rahmen-und-staatliche-stellen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
-nav_items:
-  - name: title
-    title: Seitenanfang
-  - name: zustandige-staatliche-stellen
-    title: Zuständige staatliche Stellen
-  - name: rechtliche-regelung
-    title: Rechtliche Regelung
-    subnav_items:
-      - name: tabelle-1
-        title: Rechtliche Unterteilung der Bodenschätze in Deutschland
 ---
 
 <main class="container-page-wrapper layout-state-pages">
@@ -23,16 +13,16 @@ nav_items:
     {% include breadcrumb.html %}
 
     <div class="container-left-9">
-      <h1 id="title">Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen</h1>
+      <h1 id="title">{% t rechtlicher-rahmen.title %}</h1>
       <section id="intro" style="position: relative;">
         <p>
-          Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundeswirtschaftsministerium. Die Bergbehörden der Bundesländer führen das Gesetz jedoch aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet.
+          {% t rechtlicher-rahmen.p %}
         </p>
       </section>
       <br/>
       <br/>
       <section style="position: relative;">
-      <h2 id="zustandige-staatliche-stellen">Zuständige staatliche Stellen:</h2>
+      <h2 id="zustandige-staatliche-stellen">{% t rechtlicher-rahmen.subtitle %}</h2>
       <a href="http://www.bmwi.de/">
         <img src="{{ site.baseurl_root }}/img/bundesministerium.png" alt="BMWi">
       </a>
@@ -42,335 +32,330 @@ nav_items:
           <tr>
             <td>
               <div class="explanation">
-                <span>Baden-Württemberg</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.baden-wurttemberg.title %}</span><br/>
                 <span>
-                  Min. für Umwelt <br/>
-                  Klima und Energiewirtschaft
+                  {% t rechtlicher-rahmen.grid.baden-wurttemberg.descr %}
                 </span>
               </div>
               <div>
-                <a href="http://www.lgrb-bw.de/home/index_html">Regierungspräs. Freiburg,<br/> Landesamt für Goelogie,<br/> Rohstoffe und    Bergbau</a>
+                <a href="http://www.lgrb-bw.de/home/index_html">
+                  {% t rechtlicher-rahmen.grid.baden-wurttemberg.link %}
+                </a>
               </div>
             </td>
             <td>
               <div class="explanation">
-                <span>Bayern</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.bayern.title %}</span><br/>
                 <span>
-                  Staatsmin. für Wirtschaft und Medien,<br/> Energie und Technologie
-
+                  {% t rechtlicher-rahmen.grid.bayern.descr %}
                 </span>
               </div>
               <div>
-                <a href="http://www.regierung.oberbayern.bayern.de/aufgaben/wirtschaft/bergamt/">Regierungspräs. München</a> und<br/><a href="https://www.regierung.oberfranken.bayern.de/bergamt_nordbayern/index.php">Regierungspräs. Oberfranken</a>
+                <a href="http://www.regierung.oberbayern.bayern.de/aufgaben/wirtschaft/bergamt/">
+                  {% t rechtlicher-rahmen.grid.bayern.link1 %}
+                </a>
 
+                und<br/>
+
+                <a href="https://www.regierung.oberfranken.bayern.de/bergamt_nordbayern/index.php">
+                  {% t rechtlicher-rahmen.grid.bayern.link2 %}
+                </a>
               </div>
             </td>
             <td>
               <div class="explanation">
-                <span>Berlin</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.berlin.title %}</span><br/>
                 <span>
-                  Senatsverw. für Wirtschaft,<br/> Technologie und Forschung
-
+                  {% t rechtlicher-rahmen.grid.berlin.descr %}
                 </span>
               </div>
               <div>
-                <a href="http://www.lbgr.brandenburg.de/">Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
-</a>
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <div class="explanation">
-                <span>Brandenburg</span><br/>
-                <span>
-                  Min. für Wirtschaft<br/> und Europaangelegenheiten
-
-                </span>
-              </div>
-              <div>
-                <a href="http://www.lbgr.brandenburg.de/">Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
-</a>
-              </div>
-            </td>
-            <td>
-              <div class="explanation">
-                <span>Bremen</span><br/>
-                <span>
-                  Senator für Wirtschaft,<br/> Arbeit und Häfen
-
-                </span>
-              </div>
-              <div>
-                <a href="http://www.lbeg.niedersachsen.de/startseite/">Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen</a>
-
-              </div>
-            </td>
-            <td>
-              <div class="explanation">
-                <span>Hamburg</span><br/>
-                <span>
-                  Behörde für Wirtschaft,<br/> Verkehr und Innovation
-
-                </span>
-              </div>
-              <div>
-               <a href="http://www.lbeg.niedersachsen.de/startseite/">Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen</a>
+                <a href="http://www.lbgr.brandenburg.de/">
+                  {% t rechtlicher-rahmen.grid.berlin.link %}
+                </a>
               </div>
             </td>
           </tr>
           <tr>
             <td>
               <div class="explanation">
-                <span>Hessen</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.brandenburg.title %}</span><br/>
                 <span>
-                 Min. für Umwelt, Klimaschutz, <br/>Landwirtschaft und Verbraucherschutz
-
+                  {% t rechtlicher-rahmen.grid.brandenburg.descr %}
                 </span>
               </div>
               <div>
-                <a href="https://rp-darmstadt.hessen.de/irj/RPDA_Internet?cid=bd0bc0dafb5c5d10c47c461eafdaaaef">Regierungspräsidium Darmstadt<br/> Abt. Arbeitsschutz und Umwelt Wiesbaden</a>
-
+                <a href="http://www.lbgr.brandenburg.de/">
+                  {% t rechtlicher-rahmen.grid.brandenburg.link %}
+                </a>
+              </div>
+            </td>
+            <td>
+              <div class="explanation">
+                <span>{% t rechtlicher-rahmen.grid.bremen.title %}</span><br/>
+                <span>
+                {% t rechtlicher-rahmen.grid.bremen.descr %}
+                </span>
+              </div>
+              <div>
+                <a href="http://www.lbeg.niedersachsen.de/startseite/">
+                  {% t rechtlicher-rahmen.grid.bremen.link %}
+                </a>
+              </div>
+            </td>
+            <td>
+              <div class="explanation">
+                <span>{% t rechtlicher-rahmen.grid.hamburg.title %}</span><br/>
+                <span>
+                  {% t rechtlicher-rahmen.grid.hamburg.descr %}
+                </span>
+              </div>
+              <div>
+               <a href="http://www.lbeg.niedersachsen.de/startseite/">
+                {% t rechtlicher-rahmen.grid.hamburg.link %}
+               </a>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <div class="explanation">
+                <span>{% t rechtlicher-rahmen.grid.hessen.title %}</span><br/>
+                <span>
+                 {% t rechtlicher-rahmen.grid.hessen.descr %}
+                </span>
+              </div>
+              <div>
+                <a href="https://rp-darmstadt.hessen.de/irj/RPDA_Internet?cid=bd0bc0dafb5c5d10c47c461eafdaaaef">
+                  {% t rechtlicher-rahmen.grid.hessen.link %}
+                </a>
               </div>
             </td>
             <td rowspan="2" class="berg-img">
             </td>
             <td>
               <div class="explanation">
-                <span>Mecklenburg-Vorpommern</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.mecklenburg-vorpommern.title %}</span><br/>
                 <span>
-                  Min. für Energie, Infrastruktur<br/> und Landesentwicklung
+                  {% t rechtlicher-rahmen.grid.mecklenburg-vorpommern.descr %}
                 </span>
               </div>
               <div>
-              <a href="http://www.bergamt-mv.de/">Bergamt Stralsund</a>
-
+                <a href="http://www.bergamt-mv.de/">
+                  {% t rechtlicher-rahmen.grid.mecklenburg-vorpommern.link %}
+                </a>
               </div>
             </td>
           </tr>
           <tr>
           <td>
             <div class="explanation">
-              <span>Niedersachsen</span><br/>
+              <span>{% t rechtlicher-rahmen.grid.niedersachsen.title %}</span><br/>
               <span>
-                Min. für Wirtschaft, <br/>Arbeit und Verkehr
-
+                {% t rechtlicher-rahmen.grid.niedersachsen.descr %}
               </span>
             </div>
             <div>
-              <a href="http://www.lbeg.niedersachsen.de/startseite/">Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen</a>
+              <a href="http://www.lbeg.niedersachsen.de/startseite/">
+                {% t rechtlicher-rahmen.grid.niedersachsen.link %}
+              </a>
             </div>
           </td>
           <td>
             <div class="explanation">
-              <span>Nordrhein-Westfalen</span><br/>
+              <span>{% t rechtlicher-rahmen.grid.nordrhein-westfalen.title %}</span><br/>
               <span>
-                Min. für Wirtschaft, Energie,<br/> Industrie, Mittelstand und Handwerk
+                {% t rechtlicher-rahmen.grid.nordrhein-westfalen.descr %}
               </span>
             </div>
             <div>
-              <a href="http://www.bezreg-arnsberg.nrw.de/energie_bergbau/">Bezirksreg. Arnsberg<br/> Abt. 6 Bergbau und Energie</a>
-
+              <a href="http://www.bezreg-arnsberg.nrw.de/energie_bergbau/">
+                {% t rechtlicher-rahmen.grid.nordrhein-westfalen.link %}
+              </a>
             </div>
           </td>
           </tr>
           <tr>
             <td>
               <div class="explanation">
-                <span>Rheinland-Pfalz</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.rheinland-pfalz.title %}</span><br/>
                 <span>
-                  Min. für Wirtschaft, Klimaschutz, <br/> Energie und Landesplanung
-
+                  {% t rechtlicher-rahmen.grid.rheinland-pfalz.descr %}
                 </span>
               </div>
               <div>
-                <a href="http://www.lgb-rlp.de/startseite.html">Landesamt für Geologie<br/> und Bergbau</a>
-
+                <a href="http://www.lgb-rlp.de/startseite.html">
+                  {% t rechtlicher-rahmen.grid.rheinland-pfalz.link %}
+                </a>
               </div>
             </td>
             <td>
               <div class="explanation">
-                <span>Saarland</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.saarland.title %}</span><br/>
                 <span>
-                  Min. für Wirtschaft,<br/> Arbeit, Energie und Verkehr
-
+                  {% t rechtlicher-rahmen.grid.saarland.descr %}
                 </span>
               </div>
               <div>
-              <a href="http://www.saarland.de/7809.htm">Oberbergamt</a>
+              <a href="http://www.saarland.de/7809.htm">
+                {% t rechtlicher-rahmen.grid.saarland.link %}
+              </a>
               </div>
             </td>
             <td>
               <div class="explanation">
-                <span>Sachsen</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.sachsen.title %}</span><br/>
                 <span>
-                  Staatsmin. für Wirtschaft,<br/> Arbeit und Verkehr
-
+                  {% t rechtlicher-rahmen.grid.sachsen.descr %}
                 </span>
               </div>
               <div>
-              <a href="http://www.oba.sachsen.de/">Oberbergamt</a>
+              <a href="http://www.oba.sachsen.de/">{% t rechtlicher-rahmen.grid.sachsen.link %}</a>
               </div>
             </td>
           </tr>
           <tr>
             <td>
               <div class="explanation">
-                <span>Sachsen-Anhalt</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.sachsen-anhalt.title %}</span><br/>
                 <span>
-                  Min. für Wissenschaft<br/> und Wirtschaft
-
+                  {% t rechtlicher-rahmen.grid.sachsen-anhalt.descr %}
                 </span>
               </div>
               <div>
-                <a href="http://www.lagb.sachsen-anhalt.de/">Landesamt für Geologie<br/> und Bergwesen</a>
-
+                <a href="http://www.lagb.sachsen-anhalt.de/">
+                  {% t rechtlicher-rahmen.grid.sachsen-anhalt.link %}
+                </a>
               </div>
             </td>
             <td>
               <div class="explanation">
-                <span>Schleswig-Holstein</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.schleswig-holstein.title %}</span><br/>
                 <span>
-                  Min. für Energiewende, Landwirtschaft<br/> Umwelt und ländliche Räume
-
+                  {% t rechtlicher-rahmen.grid.schleswig-holstein.descr %}
                 </span>
               </div>
               <div>
-                <a href="http://www.schleswig-holstein.de/DE/Landesregierung/LLUR/Organisation/abteilungen/abteilung6.html">Landesamt für Bergbau, Energie und Geologie</a>
-
+                <a href="http://www.schleswig-holstein.de/DE/Landesregierung/LLUR/Organisation/abteilungen/abteilung6.html">
+                  {% t rechtlicher-rahmen.grid.schleswig-holstein.link %}
+                </a>
               </div>
             </td>
             <td>
               <div class="explanation">
-                <span>Thüringen</span><br/>
+                <span>{% t rechtlicher-rahmen.grid.thuringen.title %}</span><br/>
                 <span>
-                 Min. für Landwirtschaft, Forsten, <br/>Umwelt und Naturschutz
-
+                  {% t rechtlicher-rahmen.grid.thuringen.descr %}
                 </span>
               </div>
               <div>
-              <a href="http://www.thueringen.de/th8/landesbergamt/index.aspx">Landesbergamt</a>
-
+                <a href="http://www.thueringen.de/th8/landesbergamt/index.aspx">
+                  {% t rechtlicher-rahmen.grid.thuringen.link %}
+                </a>
               </div>
             </td>
           </tr>
         </tbody>
       </table>
-        <h2 id="rechtliche-regelung">Rechtliche Regelung</h2>
-        <p>Hinsichtlich ihrer rechtlichen Regelung werden in Deutschland drei Gruppen von Rohstoffen  unterschieden:</p>
+        <h2 id="rechtliche-regelung">{% t rechtlicher-rahmen.rechtliche-regelung.title %}</h2>
+        <p>{% t rechtlicher-rahmen.rechtliche-regelung.p1 %}</p>
         <ul>
             <li>
-              <strong>Bergfreie Bodenschätze</strong> stehen nicht im Eigentum des Grundeigentümers. Das Aufsuchen und Gewinnen dieser Bodenschätze unterliegt dem BBergG und muss durch die Bergbehörden der Bundesländer genehmigt werden.
+              <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.title %}</strong>
+              {% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.p %}
             </li>
             <li>
-            <strong>Grundeigene Bodenschätze</strong> stehen im Eigentum des Grundeigentümers, wodurch es für das Aufsuchen und die Gewinnung dieser Bodenschätze keine Genehmigung bedarf. Bestimmte grundeigene Bodenschätze fallen jedoch unter das Bergrecht und die Zuständigkeit der Bergaufsicht.
+            <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.title %}</strong>
+            {% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.p %}
             </li>
             <li>
-            <strong>Grundeigentümerbodenschätze</strong>  sind alle Bodenschätze, die nicht bergfrei oder grundeigen sind und stehen ebenfalls im Eigentum des Grundeigentümers, fallen jedoch nicht unter das Bergrecht und die Bergaufsicht des Bergamtes. Die Genehmigungsverfahren der Grundeigentümerbodenschätze erfolgen vielmehr nach den Vorschriften des
+            <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.title %}</strong>
+            {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.p1 %}
             <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
-              Bundesimmissionsschutzgesetzes
+              {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.k1 %}
               <icon class="icon-book"></icon>
             </span>
-             oder nach landesrechtlichen Bestimmungen (z.B. den
+             {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.p2 %}
              <span class="term term_end" data-term="Abgrabungsgesetze" title="Click to define" tabindex="0">
-               Abgrabungsgesetzen
+               {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.k2 %}
                <icon class="icon-book"></icon>
              </span>
-             , dem Wasser- oder Baurecht).
+             {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.p3 %}
             </li>
         </ul>
         <p>
-          Für die letztgenannte Gruppe der Grundeigentümerbodenschätze sind je nach Bundesland, Rohstoff und Art des Abbaus staatliche Stellen der mittleren und unteren Verwaltungsebene zuständig.
+          {% t rechtlicher-rahmen.rechtliche-regelung.p2 %}
         </p>
-        <h3 id="tabelle-1">Rechtliche Unterteilung der Bodenschätze in Deutschland </h3>
+        <h3 id="tabelle-1">{% t rechtlicher-rahmen.rechtliche-unterteilung.title %}</h3>
         <table class="article_table">
           <tbody>
             <tr>
               <th></th>
               <th></th>
-              <th align="center"><strong>Bodenschätze</strong></th>
+              <th align="center"><strong>{% t rechtlicher-rahmen.rechtliche-unterteilung.bodenschatze %}</strong></th>
               <th></th>
             </tr>
             <tr>
-              <td><strong>Rechtliche Untergliederung</strong></td>
+              <td><strong>{% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td1 %}</strong></td>
               <td>
-                Bergfreie Bodenschätze
-                (unter Bergrecht)
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td2 %}
               </td>
               <td>
-                Grundeigene Bodenschätze
-                (unter Bergrecht)
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td3 %}
               </td>
               <td>
-                Grundeigentümer-Bodenschätze
-                (nicht unter Bergrecht)
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td4 %}
               </td>
             </tr>
             <tr>
-              <td><strong>Fachliche Untergliederung </strong></td>
+              <td><strong>{% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr2.td1 %}</strong></td>
               <td>
-                Energierohstoffe: Kohlen, Kohlenwasserstoffe, Erdwärme<br/><br/>
-
-                Industrieminerale: Flussspat, Graphit, Lithium, Phosphor, alle leicht wasserlöslichen Salze, Schwefel, Schwerspat, Strontium, Zirkon<br/><br/>
-
-                Metallerze: z.B. Eisen-,
-                Kupfer-, Blei- Zinkerze usw.<br/><br/>
-
-                Außerdem: Alle Bodenschätze im Bereich des Festlandssockels und der Küstengewässer (also auch Kies, Natursteine)
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr2.td2 %}
               </td>
               <td>
-                Industrieminerale: Bentonit und andere montmorillonitreiche Tone, Feldspat, Glimmer, Kaolin, Kieselgur (Diatomit), „Pegmatitsand“, Quarz(-sand und -kies), und Quarzit (soweit für Feuerfestprodukte und Ferrosilicium-Herstellung geeignet), Speckstein und Talk, Ton (soweit feuerfest, säurefest)<br/><br/>
-
-                Steine und Erden: Basaltlava (außer Säulenbasalt), Dachschiefer, Trass<br/><br/>
-
-                Außerdem: Alle untertägig gewonnenen grundeigenen Bodenschätze (also dann auch Gipsstein, Naturstein, Ziegeleitone usw.)
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr2.td3 %}
               </td>
               <td>
-                Steine und Erden (im Tagebau): Anhydrit, Gipsstein, Kalkstein sowie Säulenbasalt und andere Natursteine, Kies und Sand, Quarz und Quarzit (soweit nicht für die Herstellung von Feuerfestprodukten und Ferrosilicium-geeignet), und andere in dieser Tabelle nicht genannten Rohstoffe<br/><br/>
-
-                Außerdem: Torf
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr2.td3 %}
               </td>
             </tr>
             <tr>
-              <td><strong>Verfügungsgewalt</strong></td>
+              <td><strong>{% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr3.td1 %}</strong></td>
               <td>
-                Diese Bodenschätze sind „frei“, d.h. sie gehören nicht dem Grundeigentümer. Ihre Nutzbarmachung bedarf der Bewilligung/ Genehmigung durch die Bergbehörde.
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr3.td2 %}
               </td>
               <td colspan="2" align="center">
-                Diese Bodenschätze gehören dem Grundeigentümer;
-                ihre Nutzbarmachung steht dem Grundeigentümer zu
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr3.td3 %}
               </td>
             </tr>
             <tr>
-              <td><strong>Art der rechtlichen Regelung</strong></td>
+              <td><strong>{% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td1 %}</strong></td>
               <td colspan="2" align="center">
-                Geregelt nach Bundesberggesetz<br />
-                § 3, Abs. 3
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                § 3, Abs. 4
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td2 %}
               </td>
               <td>
-                Geregelt nach anderen Rechtsgebieten, z.B. Baurecht (Abgrabungsgesetz),
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.p1 %}
                 <span class="term term_end" data-term="Wasserhaushaltsgesetz" title="Click to define" tabindex="0">
-                  Wasserhaushaltsgesetz
+                  {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.k1 %}
                   <icon class="icon-book"></icon>
                 </span>
-                 bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz
+                 {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.p2 %}
               </td>
             </tr>
           </tbody>
         </table>
-        <small>(Quelle: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008)</small>
+        <small>{% t rechtlicher-rahmen.p2 %}</small>
         <br /><br />
       </section>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{{ page.title }}</div>
+        <div class="nav-title">{% t rechtlicher-rahmen.nav_title %}</div>
       </h3>
       <nav>
-        {% include case-studies/_nav-list.html %}
+        {% assign nav_items = site.translations[site.lang]['rechtlicher-rahmen'].nav_items %}
+        {% include case-studies/_nav-list.html nav_items=nav_items %}
       </nav>
     </div>
   </section>
