@@ -5,44 +5,37 @@ permalink: /genehmigung-von-bergbauprojekten/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
-nav_items:
-  - name: title
-    title: Seitenanfang
-  - name: Bergfreie
-    title: "Bergfreie und grundeigene Bodenschätze"
-  - name: Grundeigentümerbodenschätze
-    title: "Grundeigentümerbodenschätze"
 ---
 
 <main class="container-page-wrapper layout-state-pages">
   <section class="container" style="position: relative;">
     {% include breadcrumb.html %}
     <h1 id="title">
-      Wie funktioniert‘s? Genehmigung von Bergbauvorhaben
+      {% t genehmigung-von-bergbauprojekten.title %}
     </h1>
     <div class="container-left-9">
       <section id="intro" style="position: relative;">
         <p>
-          Die Verfahren zur Zulassung und Aufsicht von Bergbauvorhaben sind in Deutschland nicht für alle Bodenschätze gleich geregelt. Sie variieren je nach Rohstoffart und deren rechtlicher Verankerung in Bund und Ländern.
+          {% t genehmigung-von-bergbauprojekten.p1 %}
         </p>
         <h3>
-          Schritte zur Genehmigung bergbaulicher Vorhaben für bergfreie und grundeigene Bodenschätze
+          {% t genehmigung-von-bergbauprojekten.subtitle %}
         </h3>
         <br/>
         <div class="tabs" id="Bergfreie">
           <ul class="tab-links">
-            <li class="active"><a href="#tab1">Bergfreie Bodenschätze</a></li>
-            <li><a href="#tab2">Grundeigene Bodenschätze</a></li>
+            <li class="active"><a href="#tab1">{% t genehmigung-von-bergbauprojekten.tab1.name %}</a></li>
+            <li><a href="#tab2">{% t genehmigung-von-bergbauprojekten.tab2.name %}</a></li>
           </ul>
 
           <div class="tab-content">
             <div id="tab1" class="tab active">
               <div class="tab-top">
                 <a href="{{ site.lang | url_lang_prefix  }}/genehmigung-von-bergbauprojekten/bergbauberechtigungen/" >
-                  Bergbauberechtigung
+                  {% t genehmigung-von-bergbauprojekten.tab1.title %}
                 </a>
                 <br/>
-                muss von der zuständigen Bergbehörde erteilt werden
+                {% t genehmigung-von-bergbauprojekten.tab1.subtitle %}
                 <img class="left-arrow" src="{{ site.baseurl_root }}/img/genehmigung/pfeil_2.png"/>
                 <img class="icon-tab-1" src="{{ site.baseurl_root }}/img/genehmigung/head.png"/>
               </div>
@@ -50,33 +43,33 @@ nav_items:
                 <div class="tab-bottom-top">
                   <p>
                     <a href="{{ site.lang | url_lang_prefix  }}/genehmigung-von-bergbauprojekten/zulassung/">
-                      Zulassung des Betriebsplans
+                      {% t genehmigung-von-bergbauprojekten.tab1.h1_link %}
                     </a>
-                    <br/>durch die Bergbehörde, alle zwei Jahre</p>
+                    <br/>{% t genehmigung-von-bergbauprojekten.tab1.h1 %}</p>
                   <p>
-                    Eine betriebsbezogene Zulassung bestimmt, unter welchen technischen und umweltrechtlichen Voraussetzungen Bodenschätze aufgesucht und gewonnen werden dürfen.
+                    {% t genehmigung-von-bergbauprojekten.tab1.p1 %}
                   </p>
                   <img src="{{ site.baseurl_root }}/img/genehmigung/zulassung-icon.png"/>
                 </div>
                 <div class="tab-bottom-bottom">
-                  <p>Aufsicht durch die Bergbehörden der Länder</p>
+                  <p>{% t genehmigung-von-bergbauprojekten.tab1.h2 %}</p>
                   <img src="{{ site.baseurl_root }}/img/genehmigung/aufsicht-icon.png"/>
                 </div>
                 <div class="tab-bottom-text">
                   <p>
-                    Der Abbau bergfreier und grundeigener Bodenschätze unterliegt der Aufsicht der zuständigen Bergbehörde (Bergaufsicht; § 69 Abs. 1 BBergG). Die Beaufsichtigung der Bergbaubetriebe stellt neben der Vergabe der Bergbauberechtigungen und der Erteilung der Betriebsplanzulassungen die dritte Kernkompetenz der Bergbehörden dar.
+                    {% t genehmigung-von-bergbauprojekten.tab1.p2 %}
                   </p>
                   <br/>
                   <p>
-                    Laut Bundesberggesetz dürfen die Aufsichtsbeamtinnen und Aufsichtsbeamten die Betriebe betreten, Auskünfte verlangen, Einrichtungen besichtigen und Prüfungen vornehmen sowie in Einzelfällen auch Anordnungen treffen. Für die Bergbauunternehmer/innen bestehen u.a. Verpflichtungen zur Meldung von Ereignissen und Unfällen, zur Duldung der Bergaufsicht und zur Begleitung der Aufsichtsbeamtinnen und Aufsichtsbeamten bei Fahrten durch die Betriebsstätte (Befahrungen).
+                    {% t genehmigung-von-bergbauprojekten.tab1.p3 %}
                   </p>
                 </div>
               </div>
             </div>
             <div id="tab2" class="tab">
               <div class="tab-top">
-                <span>Besitznachweis</span> <br/>
-                <div>für Grundstück z.B. Pachtvertrag ist der Bergbehörde vorzulegen</div>
+                <span>{% t genehmigung-von-bergbauprojekten.tab2.title %}</span> <br/>
+                <div>{% t genehmigung-von-bergbauprojekten.tab2.subtitle %}</div>
                 <img class="right-arrow" src="{{ site.baseurl_root }}/img/genehmigung/pfeil_1.png"/>
                 <img class="icon-tab-2" src="{{ site.baseurl_root }}/img/genehmigung/bagger-icon.png"/>
               </div>
@@ -84,25 +77,25 @@ nav_items:
                 <div class="tab-bottom-top">
                   <p>
                     <a href="{{ site.lang | url_lang_prefix  }}/genehmigung-von-bergbauprojekten/zulassung/">
-                      Zulassung des Betriebsplans
+                      {% t genehmigung-von-bergbauprojekten.tab2.h1_link %}
                     </a>
-                    <br/>durch die Bergbehörde, alle zwei Jahre</p>
+                    <br/>{% t genehmigung-von-bergbauprojekten.tab2.h1 %}</p>
                   <p>
-                    Eine betriebsbezogene Zulassung bestimmt, unter welchen technischen und umweltrechtlichen Voraussetzungen Bodenschätze aufgesucht und gewonnen werden dürfen.
+                    {% t genehmigung-von-bergbauprojekten.tab1.p1 %}
                   </p>
                   <img src="{{ site.baseurl_root }}/img/genehmigung/zulassung-icon.png"/>
                 </div>
                 <div class="tab-bottom-bottom">
-                  <p>Aufsicht durch die Bergbehörden der Länder</p>
+                  <p>{% t genehmigung-von-bergbauprojekten.tab2.h2 %}</p>
                   <img src="{{ site.baseurl_root }}/img/genehmigung/aufsicht-icon.png"/>
                 </div>
                 <div class="tab-bottom-text">
                   <p>
-                    Der Abbau bergfreier und grundeigener Bodenschätze unterliegt der Aufsicht der zuständigen Bergbehörde (Bergaufsicht; § 69 Abs. 1 BBergG). Die Beaufsichtigung der Bergbaubetriebe stellt neben der Vergabe der Bergbauberechtigungen und der Erteilung der Betriebsplanzulassungen die dritte Kernkompetenz der Bergbehörden dar.
+                    {% t genehmigung-von-bergbauprojekten.tab2.p2 %}
                   </p>
                   <br/>
                   <p>
-                    Laut Bundesberggesetz dürfen die Aufsichtsbeamtinnen und Aufsichtsbeamten die Betriebe betreten, Auskünfte verlangen, Einrichtungen besichtigen und Prüfungen vornehmen sowie in Einzelfällen auch Anordnungen treffen. Für die Bergbauunternehmer/innen bestehen u.a. Verpflichtungen zur Meldung von Ereignissen und Unfällen, zur Duldung der Bergaufsicht und zur Begleitung der Aufsichtsbeamtinnen und Aufsichtsbeamten bei Fahrten durch die Betriebsstätte (Befahrungen).
+                    {% t genehmigung-von-bergbauprojekten.tab2.p3 %}
                   </p>
                 </div>
               </div>
@@ -113,54 +106,55 @@ nav_items:
         <section>
           <br/>
           <br/>
-          <h3 style="margin-top: 30px;">Schritte zur Genehmigung von bergbaulichen Vorhaben für Grundeigentümer bodenschätze</h3>
+          <h3 style="margin-top: 30px;">{% t genehmigung-von-bergbauprojekten.h2 %}</h3>
           <div class="third-slide" id="Grundeigentümerbodenschätze">
             <div class="tab-bottom-top">
-              <p>Grundeigentümer bodenschätze</p>
+              <p>{% t genehmigung-von-bergbauprojekten.h3 %}</p>
               <p>
-                Besitznachweis für Grundstück z.B. Pachtvertrag muss vorliegen
+                {% t genehmigung-von-bergbauprojekten.p2 %}
               </p>
               <img src="{{ site.baseurl_root }}/img/genehmigung/zulassung-icon.png"/>
             </div>
             <div class="tab-bottom-bottom">
-              <p>Aufsicht durch die Bergbehörden der Länder</p>
+              <p>{% t genehmigung-von-bergbauprojekten.h4 %}</p>
               <img src="{{ site.baseurl_root }}/img/genehmigung/aufsicht-icon.png"/>
             </div>
           </div>
           <div class="third-slide-bottom">
             <p>
-              Für den Abbau dieser Rohstoffe finden Genehmigungsverfahren nach dem
+              {% t genehmigung-von-bergbauprojekten.p3.p1 %}
               <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
-              Bundesimmissionsschutzgesetz
+                {% t genehmigung-von-bergbauprojekten.p3.k1 %}
                 <icon class="icon-book"></icon>
               </span>
-              den
+              {% t genehmigung-von-bergbauprojekten.p3.p2 %}
               <span class="term term_end" data-term="Abgrabungsgesetze" title="Click to define" tabindex="0">
-              landesrechtlichen Abgrabungsgesetzen
+              {% t genehmigung-von-bergbauprojekten.p3.k2 %}
                 <icon class="icon-book"></icon>
               </span>
-               , dem
+              {% t genehmigung-von-bergbauprojekten.p3.p3 %}
 
                <span class="term term_end" data-term="Bauordnung" title="Click to define" tabindex="0">
-               Bauordnung
+                {% t genehmigung-von-bergbauprojekten.p3.k3 %}
                  <icon class="icon-book"></icon>
                </span>
-               oder dem
+               {% t genehmigung-von-bergbauprojekten.p3.p4 %}
                <span class="term term_end" data-term="Wasserhaushaltsgesetz" title="Click to define" tabindex="0">
-               Wasserhaushaltsgesetz
+               {% t genehmigung-von-bergbauprojekten.p3.k4 %}
                  <icon class="icon-book"></icon>
                </span>
-                (bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor
+                {% t genehmigung-von-bergbauprojekten.p3.p5 %}
             </p>
           </div>
         </section>
     </div>
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{{ page.title }}</div>
+        <div class="nav-title">{% t genehmigung-von-bergbauprojekten.nav_title %}</div>
       </h3>
       <nav>
-        {% include case-studies/_nav-list.html %}
+        {% assign nav_items = site.translations[site.lang]['genehmigung-von-bergbauprojekten'].nav_items %}
+        {% include case-studies/_nav-list.html nav_items=nav_items %}
       </nav>
     </div>
   </section>

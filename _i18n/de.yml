@@ -366,6 +366,53 @@ rechtlicher-rahmen:
           p2: "bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz"
   p2: "(Quelle: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008)"
 
+genehmigung-von-bergbauprojekten:
+  title: Wie funktioniert‘s? Genehmigung von Bergbauvorhaben
+  nav_title: Rechtlicher Rahmen und staatliche Stellen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: Bergfreie
+      title: "Bergfreie und grundeigene Bodenschätze"
+    - name: Grundeigentümerbodenschätze
+      title: "Grundeigentümerbodenschätze"
+  p1: "Die Verfahren zur Zulassung und Aufsicht von Bergbauvorhaben sind in Deutschland nicht für alle Bodenschätze gleich geregelt. Sie variieren je nach Rohstoffart und deren rechtlicher Verankerung in Bund und Ländern."
+  subtitle: Schritte zur Genehmigung bergbaulicher Vorhaben für bergfreie und grundeigene Bodenschätze
+  tab1:
+    name: Bergfreie Bodenschätze
+    title: Bergbauberechtigung
+    subtitle: muss von der zuständigen Bergbehörde erteilt werden
+    h1_link: Zulassung des Betriebsplans
+    h1: durch die Bergbehörde, alle zwei Jahre
+    p1: Eine betriebsbezogene Zulassung bestimmt, unter welchen technischen und umweltrechtlichen Voraussetzungen Bodenschätze aufgesucht und gewonnen werden dürfen.
+    h2: Aufsicht durch die Bergbehörden der Länder
+    p2: "Der Abbau bergfreier und grundeigener Bodenschätze unterliegt der Aufsicht der zuständigen Bergbehörde (Bergaufsicht; § 69 Abs. 1 BBergG). Die Beaufsichtigung der Bergbaubetriebe stellt neben der Vergabe der Bergbauberechtigungen und der Erteilung der Betriebsplanzulassungen die dritte Kernkompetenz der Bergbehörden dar."
+    p3: "Laut Bundesberggesetz dürfen die Aufsichtsbeamtinnen und Aufsichtsbeamten die Betriebe betreten, Auskünfte verlangen, Einrichtungen besichtigen und Prüfungen vornehmen sowie in Einzelfällen auch Anordnungen treffen. Für die Bergbauunternehmer/innen bestehen u.a. Verpflichtungen zur Meldung von Ereignissen und Unfällen, zur Duldung der Bergaufsicht und zur Begleitung der Aufsichtsbeamtinnen und Aufsichtsbeamten bei Fahrten durch die Betriebsstätte (Befahrungen)."
+  tab2:
+    name: Grundeigene Bodenschätze
+    title: Besitznachweis
+    subtitle: für Grundstück z.B. Pachtvertrag ist der Bergbehörde vorzulegen
+    h1_link: Zulassung des Betriebsplans
+    h1: durch die Bergbehörde, alle zwei Jahre
+    p1: Eine betriebsbezogene Zulassung bestimmt, unter welchen technischen und umweltrechtlichen Voraussetzungen Bodenschätze aufgesucht und gewonnen werden dürfen.
+    h2: Aufsicht durch die Bergbehörden der Länder
+    p2: "Der Abbau bergfreier und grundeigener Bodenschätze unterliegt der Aufsicht der zuständigen Bergbehörde (Bergaufsicht; § 69 Abs. 1 BBergG). Die Beaufsichtigung der Bergbaubetriebe stellt neben der Vergabe der Bergbauberechtigungen und der Erteilung der Betriebsplanzulassungen die dritte Kernkompetenz der Bergbehörden dar."
+    p3: "Laut Bundesberggesetz dürfen die Aufsichtsbeamtinnen und Aufsichtsbeamten die Betriebe betreten, Auskünfte verlangen, Einrichtungen besichtigen und Prüfungen vornehmen sowie in Einzelfällen auch Anordnungen treffen. Für die Bergbauunternehmer/innen bestehen u.a. Verpflichtungen zur Meldung von Ereignissen und Unfällen, zur Duldung der Bergaufsicht und zur Begleitung der Aufsichtsbeamtinnen und Aufsichtsbeamten bei Fahrten durch die Betriebsstätte (Befahrungen)."
+  h2: Schritte zur Genehmigung von bergbaulichen Vorhaben für Grundeigentümer bodenschätze
+  h3: Grundeigentümer bodenschätze
+  p2: Besitznachweis für Grundstück z.B. Pachtvertrag muss vorliegen
+  h4: Aufsicht durch die Bergbehörden der Länder
+  p3:
+    p1: Für den Abbau dieser Rohstoffe finden Genehmigungsverfahren nach dem
+    k1: Bundesimmissionsschutzgesetz
+    p2: den
+    k2: landesrechtlichen
+    p3: ", dem"
+    k3: Bauordnung
+    p4: oder dem
+    k4: Wasserhaushaltsgesetz
+    p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
+
 explore-data:
     title: "Fakten"
     introduction-first: |
