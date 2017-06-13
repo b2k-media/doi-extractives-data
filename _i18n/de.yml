@@ -514,6 +514,50 @@ how-it-work:
       item1: Umgang mit der Natur
       item2: Wasser
       item3: Staatliche Subventionen
+
+downloads:
+  title: Daten & Dokumentation Herunterladen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: production-title-1
+      title: Daten zur interaktiven Rohstoffkarte
+    - name: chart-title-1
+      title: Daten zur gesammtdeutschen Rohstoffproduktion
+    - name: daten-zur-beitrag-zum-bip
+      title: Daten zur Beitrag zum BIP
+    - name: daten-zur-beschaftigten
+      title: Daten zur Beschäftigten
+    - name: daten-zur-exporte
+      title: Daten zur Exporte
+  h1: Daten zur interaktiven Rohstoffkarte
+  p1: Die hier dargestellten Produktionsdaten beruhen u.a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
+  download_label: Download der Produktionsdaten
+  download_link: Daten herunterladen
+  h2: Daten zur gesammtdeutschen Rohstoffproduktion
+  p2: Die hier dargestellten Produktionsdaten beruhen u.a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
+  h3: Daten zum Beitrag zum BIP
+  p3:
+    p1: Die Daten werden der aktuellen Volkswirtschaftlichen Gesamtrechnung des statistischen Bundesamtes entnommen (
+    p2: und
+    p3: "Der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“ umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der"
+    link: „Klassifikation der Wirtschaftszweige“
+    p4: des statistischen Bundesamts auf Seite 175-185.
+  p4: Beim Übergang von der Bruttowertschöpfung (zu Herstellungspreisen) zum Bruttoinlandsprodukt sind die Nettogütersteuern (Gütersteuern abzüglich Gütersubventionen) global hinzuzufügen, um zu einer Bewertung des Bruttoinlandsprodukts zu Marktpreisen zu gelangen.“
+  link: "Quelle:"
+  h5: Daten zur Beschäftigung
+  p5:
+    p1: Die Daten zu den Beschäftigten werden der jährlich erscheinenden Publikation „Der Bergbau in der Bundesrepublik Deutschland“ des Bundesministeriums für Wirtschaft und BMWi entnommen
+    link: (PDF und EXCEL)
+    p2: Zur Berechnung des prozentualen Anteils der Beschäftigten wurde auf die Gesamtzahl der Erwerbstätigen der Arbeitsmarktstatistik des Statistischen Jahrbuches des Statistischen Bundesamtes zurückgegriffen
+  h6: Daten zu Exporten
+  p6:
+    p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (GP09-05 bis GP09-08) des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt. Die Daten der Exporte von 2010-2014 wurden der"
+    link1: Genesis-Online-Datenbank
+    p2: von Destatis am 14.12.2016 entnommen. Die Daten für 2015 sind auf der
+    link2: Website
+    p3: des Statistischen Bundesamtes abrufbar. (EXCEL)
+
 about:
     title: Herzlich Willkommen ...
     description-1: ... auf rohstofftransparenz.de, dem Informationsportal der deutschen Initiative für Transparenz im rohstoffgewinnenden Sektor (D-EITI). Eine verständliche Darstellung von Themen und mehr Transparenz im rohstoffgewinnenden Sektor ist das gemeinsame Ziel der D-EITI-Initiative und ihren Mitgliedern aus Regierung, Wirtschaft und Zivilgesellschaft. Auf unserem Portal haben Sie Zugang zu

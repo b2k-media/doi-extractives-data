@@ -2,83 +2,87 @@
 title: Daten & Dokumentation Herunterladen
 layout: content_wide
 permalink: /downloads/
-nav_items:
-  - name: title
-    title: Seitenanfang
-  - name: production-title-1
-    title: Daten zur interaktiven Rohstoffkarte
-  - name: chart-title-1
-    title: Daten zur gesammtdeutschen Rohstoffproduktion
-  - name: daten-zur-beitrag-zum-bip
-    title: Daten zur Beitrag zum BIP
-  - name: daten-zur-beschaftigten
-    title: Daten zur Beschäftigten
-  - name: daten-zur-exporte
-    title: Daten zur Exporte
 ---
 <section class="container" style="position: relative;">
   <div class="container-left-9">
-    <h1 id="title">{{page.title}}</h1>
+    <h1 id="title">{% t downloads.title %}</h1>
     <div id="federal_production">
-      <h2 id="production-title-1">{% t 'data.production-title' %}</h2>
+      <h2 id="production-title-1">{% t downloads.h1 %}</h2>
       <hr/>
-      <p>{% t 'data.description-1' %}</p>
+      <p>{% t downloads.p1 %}</p>
       <p class="downloads-download_links-intro">
-        {% t 'data.description-2' %}
+        {% t downloads.download_label %}
         <ul class="downloads-download_links">
-          <li><a href="{{site.baseurl_root}}/downloads/Datenbeispiel_Kohlenwasserstoffe_d-eiti.xlsx"><icon class="icon-cloud icon-padded"></icon>Daten herunterladen (xlsx, 10 KB)</a></li>
+          <li><a href="{{site.baseurl_root}}/downloads/Datenbeispiel_Kohlenwasserstoffe_d-eiti.xlsx"><icon class="icon-cloud icon-padded"></icon>{% t downloads.download_link %} (xlsx, 10 KB)</a></li>
         </ul>
       </p>
     </div>
 
     <div id="production_chart">
-      <h2 id="chart-title-1">{% t 'data.chart-title' %}</h2>
+      <h2 id="chart-title-1">{% t downloads.h2 %}</h2>
       <hr/>
-      <p>{% t 'data.description-1' %}</p>
+      <p>{% t downloads.p2 %}</p>
       <p class="downloads-download_links-intro">
-        {% t 'data.description-2' %}
+        {% t downloads.download_label %}
         <ul class="downloads-download_links">
-          <li><a href="{{site.baseurl_root}}/downloads/Datenbeispiel_Kohlenwasserstoffe_d-eiti.xlsx"><icon class="icon-cloud icon-padded"></icon>Daten herunterladen (xlsx, 10 KB)</a></li>
+          <li><a href="{{site.baseurl_root}}/downloads/Datenbeispiel_Kohlenwasserstoffe_d-eiti.xlsx"><icon class="icon-cloud icon-padded"></icon>{% t downloads.download_link %} (xlsx, 10 KB)</a></li>
         </ul>
       </p>
     </div>
 
     <div id="bip">
-      <h2 id="daten-zur-beitrag-zum-bip">Daten zum Beitrag zum BIP</h2>
+      <h2 id="daten-zur-beitrag-zum-bip">{% t downloads.h3 %}</h2>
       <hr/>
       <p>
-        Die Daten werden der aktuellen Volkswirtschaftlichen Gesamtrechnung des statistischen Bundesamtes entnommen (<a href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigPDF_2180140.pdf?__blob=publicationFile">PDF</a> und
-        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile"> EXCEL</a>). Der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“ umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der <a href="https://www.destatis.de/DE/Publikationen/Verzeichnis/KlassifikationWZ08_3100100089004.pdf;jsessionid=0CEA093B5E7B3662C7D0F71426EA900A.cae3?__blob=publicationFile">„Klassifikation der Wirtschaftszweige“ </a> des statistischen Bundesamts auf Seite 175-185.
+        {% t downloads.p3.p1 %}
+        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigPDF_2180140.pdf?__blob=publicationFile">PDF</a>
+        {% t downloads.p3.p2 %}
+        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>).
+        {% t downloads.p3.p3 %}
+        <a href="https://www.destatis.de/DE/Publikationen/Verzeichnis/KlassifikationWZ08_3100100089004.pdf;jsessionid=0CEA093B5E7B3662C7D0F71426EA900A.cae3?__blob=publicationFile">
+          {% t downloads.p3.link %}
+        </a>
+        {% t downloads.p3.p4 %}
       </p>
        <p>
-         Beim Übergang von der Bruttowertschöpfung (zu Herstellungspreisen) zum Bruttoinlandsprodukt sind die Nettogütersteuern (Gütersteuern abzüglich Gütersubventionen) global hinzuzufügen, um zu einer Bewertung des Bruttoinlandsprodukts zu Marktpreisen zu gelangen.“
+         {% t downloads.p4 %}
        </p>
        <p>
-       <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VGR/Glossar/Bruttowertschoepfung.html">Quelle:</a></p>
+       <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VGR/Glossar/Bruttowertschoepfung.html">{% t downloads.link %}</a></p>
     </div>
 
     <div id="beschäftigten">
-      <h2 id="daten-zur-beschaftigten">Daten zur Beschäftigung</h2>
+      <h2 id="daten-zur-beschaftigten">{% t downloads.h5 %}</h2>
       <hr/>
       <p>
-        Die Daten zu den Beschäftigten werden der jährlich erscheinenden Publikation „Der Bergbau in der Bundesrepublik Deutschland“ des Bundesministeriums für Wirtschaft und BMWi entnommen <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf?__blob=publicationFile&v=7"> (PDF und EXCEL)</a>. Zur Berechnung des prozentualen Anteils der Beschäftigten wurde auf die Gesamtzahl der Erwerbstätigen der Arbeitsmarktstatistik des Statistischen Jahrbuches des Statistischen Bundesamtes zurückgegriffen <a href="https://www.destatis.de/DE/Publikationen/StatistischesJahrbuch/Arbeitsmarkt.pdf?__blob=publicationFile">(PDF)</a>.
+        {% t downloads.p5.p1 %}
+        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf?__blob=publicationFile&v=7">{% t downloads.p5.link %}</a>.
+        {% t downloads.p5.p2 %}
+        <a href="https://www.destatis.de/DE/Publikationen/StatistischesJahrbuch/Arbeitsmarkt.pdf?__blob=publicationFile">(PDF)</a>.
       </p>
     </div>
 
     <div id="exporte">
-      <h2 id="daten-zur-exporte">Daten zu Exporten</h2>
+      <h2 id="daten-zur-exporte">{% t downloads.h6 %}</h2>
       <hr/>
       <p>
-        Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (GP09-05 bis GP09-08) des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt. Die Daten der Exporte von 2010-2014 wurden der <a href="https://www-genesis.destatis.de/">Genesis-Online-Datenbank </a> von Destatis am 14.12.2016 entnommen. Die Daten für 2015 sind auf der <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">Website</a> des Statistischen Bundesamtes abrufbar. (EXCEL)
+        {% t downloads.p6.p1 %}
+        <a href="https://www-genesis.destatis.de/">{% t downloads.p6.link1 %}</a>
+        {% t downloads.p6.p2 %}
+        <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">
+          {% t downloads.p6.link2 %}
+        </a>
+        {% t downloads.p6.p3 %}
       </p>
     </div>
   </div>
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
-      <div class="nav-title">{{ page.title }}</div>
+      <div class="nav-title">{% t downloads.title %}</div>
     </h3>
     <nav>
-      {% include case-studies/_nav-list.html %}
+    {% assign nav_items = site.translations[site.lang]['downloads'].nav_items %}
+    {% include case-studies/_nav-list.html nav_items=nav_items %}
     </nav>
   </div>
 </section>
