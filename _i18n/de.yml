@@ -484,9 +484,11 @@ explore-data:
       description-1: Hier können Sie in Zukunft mehr über die Einnahmen erfahren, die im deutschen Rohstoffsektor erwirtschaftet werden.
 
     economic-impact:
-      heading-1: Gesellschaftlichte Bedeutung
-      sub-heading-1: Wirtschaftliche und soziale Bedeutung
-      description-1: Hier können Sie sich in Zukunft über die wirtschaftliche und soziale Bedeutung des deutschen Rohstoffsektors informieren.
+      heading-1: Wirtschaftliche und soziale Bedeutung
+      item1: Beitrag zum BIP
+      item2: Einnahmen
+      item3: Beitrag zur Beschäftigung
+      item4: Exporte
 
 how-it-work:
     title: Rohstoffgewinnung
