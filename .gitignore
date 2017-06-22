@@ -7,3 +7,4 @@
 .jekyll-metadata
 _site
 node_modules
+downloads/production.tsv
