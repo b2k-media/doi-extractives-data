@@ -13,7 +13,12 @@ permalink: /downloads/
       <p class="downloads-download_links-intro">
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
-          <li><a href="{{site.baseurl_root}}/downloads/Datenbeispiel_Kohlenwasserstoffe_d-eiti.xlsx"><icon class="icon-cloud icon-padded"></icon>{% t downloads.download_link %} (xlsx, 10 KB)</a></li>
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/production.tsv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (tsv, 2 KB)
+            </a>
+          </li>
         </ul>
       </p>
     </div>
@@ -25,7 +30,12 @@ permalink: /downloads/
       <p class="downloads-download_links-intro">
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
-          <li><a href="{{site.baseurl_root}}/downloads/Datenbeispiel_Kohlenwasserstoffe_d-eiti.xlsx"><icon class="icon-cloud icon-padded"></icon>{% t downloads.download_link %} (xlsx, 10 KB)</a></li>
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/production.tsv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (tsv, 2 KB)
+            </a>
+          </li>
         </ul>
       </p>
     </div>
