@@ -40,9 +40,7 @@
       }
       var prop = this.name;
       var value = this.value;
-      mutateState(function(state) {
-        return state.set(prop, value);
-      });
+      location.hash = eiti.url.qs.format(state.set(prop, value).toJS());
     });
 
   // create our data "model"
@@ -70,7 +68,23 @@
       }
       var props = parseHash();
       mutateState(function() {
-        return new Immutable.Map(props);
+        var newState = new Immutable.Map();
+        root.selectAll('.filters [name]')
+          .each(function() {
+            if ((this.name == 'year' || (this.name == 'product' && this.value != 'select'))
+                && this.value) newState = newState.set(this.name, this.value);
+          });
+        newState = newState.merge(props);
+        if (!newState.get('region') && newState.get('product') && newState.get('product') !== 'select') {
+          newState = newState.set('region', COUNTRY);
+        }
+        else if (newState.get('product') === 'select' && !!newState.get('region')) {
+          newState = newState.set('product', '');
+        }
+
+        console.log(newState.toJS());
+
+        return newState;
       });
     });
 
@@ -95,13 +109,6 @@
     var old = state;
     state = fn(state);
 
-    if (!old.get('region') && old.get('product') !== 'select') {
-      state = state.set('region', COUNTRY);
-    }
-    else if (old.get('product') === 'select' && !!old.get('region')) {
-      state = state.set('product', '');
-    }
-
     if (!Immutable.is(old, state)) {
       if (rendered && stateChanged(old, state, 'group')) {
         console.warn('commodity group:', old.get('group'), '->', state.get('group'));
@@ -112,7 +119,6 @@
         state = state.delete('product');
       }
       render(state, old);
-      location.hash = eiti.url.qs.format(state.toJS());
       mutating = false;
       return true;
     }
@@ -126,8 +132,8 @@
     var productSelected = !!product && product !== 'select';
     var region = state.get('region');
     root
-      .classed('non-product', !product)
-      .classed('has-product', !!product);
+      .classed('non-product', !productSelected)
+      .classed('has-product', productSelected);
 
     root.select('eiti-map').classed('empty', !productSelected && !region && region !== 'DE');
 
@@ -136,16 +142,16 @@
     root.select('.clear-filters').style('display', (productSelected || region) ? 'block' : null);
     root.select('.back-btn').style('display', (productSelected || region) ? 'inline-block' : null);
 
-    root.select('.region-header-category').style('display', product === 'select' ? 'none' : null);
+    root.select('.region-header-category').style('display', !productSelected ? 'none' : null);
     root.select('table.subregions').style('display', product === 'select' ? 'none' : null);
 
-    var displayFilterInstructions = product === 'select' && !region;
+    var displayFilterInstructions = !productSelected && !region;
     root.select('.filter-description.for-select').style('display', !displayFilterInstructions ? 'none' : null);
     root.select('.filter-description.selected').style('display', displayFilterInstructions ? 'none' : null);
 
 
     var units;
-    if (product) {
+    if (productSelected) {
       var match = product.match(/ (\(.+\))\s*$/);
       units = match ? ' ' + match[1] : '';
       // console.log('product units:', units);
@@ -294,7 +300,7 @@
             f.value = dataByFeatureId[id];
           });
 
-          if (state.get('product')) {
+          if (state.get('product') && state.get('product') !== 'select') {
             var withheld = data.filter(function(d) {
               return d[fields.region] === 'Withheld';
             });
@@ -913,10 +919,7 @@
   function eventMutator(destProp, sourceKey) {
     sourceKey = getter(sourceKey);
     return function(d) {
-      var value = sourceKey(d);
-      mutateState(function(state) {
-        return state.set(destProp, value);
-      });
+      location.hash = 'region='+d.id+'&year='+state.get('year');
       d3.event.preventDefault();
     };
   }
