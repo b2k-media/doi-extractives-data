@@ -123,23 +123,23 @@ breadcrumb:
           <div class="third-slide-bottom">
             <p>
               {% t genehmigung-von-bergbauprojekten.p3.p1 %}
-              <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
+              <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
                 {% t genehmigung-von-bergbauprojekten.p3.k1 %}
                 <icon class="icon-book"></icon>
               </span>
               {% t genehmigung-von-bergbauprojekten.p3.p2 %}
-              <span class="term term_end" data-term="Abgrabungsgesetze" title="Click to define" tabindex="0">
+              <span class="term term_end" data-term="Abgrabungsgesetze" title="Click to define" tabindex="0">
               {% t genehmigung-von-bergbauprojekten.p3.k2 %}
                 <icon class="icon-book"></icon>
               </span>
               {% t genehmigung-von-bergbauprojekten.p3.p3 %}
 
-               <span class="term term_end" data-term="Bauordnung" title="Click to define" tabindex="0">
+               <span class="term term_end" data-term="Bauordnung" title="Click to define" tabindex="0">
                 {% t genehmigung-von-bergbauprojekten.p3.k3 %}
                  <icon class="icon-book"></icon>
                </span>
                {% t genehmigung-von-bergbauprojekten.p3.p4 %}
-               <span class="term term_end" data-term="Wasserhaushaltsgesetz" title="Click to define" tabindex="0">
+               <span class="term term_end" data-term="Wasserhaushaltsgesetz" title="Click to define" tabindex="0">
                {% t genehmigung-von-bergbauprojekten.p3.k4 %}
                  <icon class="icon-book"></icon>
                </span>

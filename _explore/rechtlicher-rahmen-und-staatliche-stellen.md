@@ -271,12 +271,12 @@ breadcrumb:
             <li>
             <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.title %}</strong>
             {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.p1 %}
-            <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
+            <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
               {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.k1 %}
               <icon class="icon-book"></icon>
             </span>
              {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.p2 %}
-             <span class="term term_end" data-term="Abgrabungsgesetze" title="Click to define" tabindex="0">
+             <span class="term term_end" data-term="Abgrabungsgesetze" title="Click to define" tabindex="0">
                {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.k2 %}
                <icon class="icon-book"></icon>
              </span>
@@ -335,7 +335,7 @@ breadcrumb:
               </td>
               <td>
                 {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.p1 %}
-                <span class="term term_end" data-term="Wasserhaushaltsgesetz" title="Click to define" tabindex="0">
+                <span class="term term_end" data-term="Wasserhaushaltsgesetz" title="Click to define" tabindex="0">
                   {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.k1 %}
                   <icon class="icon-book"></icon>
                 </span>

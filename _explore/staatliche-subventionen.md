@@ -17,7 +17,7 @@ breadcrumb:
       <section id="intro" style="position: relative;">
         <p>
           {% t staatliche-subventionen.p1.p1 %}
-          <span class="term term_end" data-term="subventionen" title="Click to define" tabindex="0">
+          <span class="term term_end" data-term="subventionen" title="Click to define" tabindex="0">
             {% t staatliche-subventionen.p1.k1 %}
             <icon class="icon-book"></icon>
           </span>{% t staatliche-subventionen.p1.p2 %}
