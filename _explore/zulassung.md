@@ -55,7 +55,7 @@ nav_items:
         <h3 id="planfeststellungsverfahren">Planfeststellungsverfahren</h3>
         <p>
           Unter Umständen sind für die Umsetzung bergbaulicher Vorhaben neben dem eigentlichen Hauptbetriebsplan noch weitere Betriebspläne vorzulegen. So wird beispielsweise für den Fall, dass auf ein bergbauliches Vorhaben bestimmte Kriterien der Verordnung über die
-          <span class="term term_end" data-term="Umweltverträglichkeitsprüfung" title="Click to define" tabindex="0">
+          <span class="term term_end" data-term="Umweltverträglichkeitsprüfung" title="Click to define" tabindex="0">
             Umweltverträglichkeitsprüfung
             <icon class="icon-book"></icon>
           </span>
@@ -63,7 +63,7 @@ nav_items:
         </p>
         <p>
           Die Zulassung eines solchen Rahmenbetriebsplans erfolgt im Zuge eines erfolgreich abgeschlossenen
-          <span class="term term_end" data-term="Planfeststellungsverfahren" title="Click to define" tabindex="0">
+          <span class="term term_end" data-term="Planfeststellungsverfahren" title="Click to define" tabindex="0">
             Planfeststellungsverfahrens
             <icon class="icon-book"></icon>
           </span>

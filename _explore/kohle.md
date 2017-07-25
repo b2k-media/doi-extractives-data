@@ -45,17 +45,20 @@ breadcrumb:
         <section id="steinkohle-ausblick" style="position: relative;">
           <h3>{% t kohle.steinkohle.ausblick.title %}</h3>
           <p>
-            {% t kohle.steinkohle.ausblick.p %}
+            {% t kohle.steinkohle.ausblick.p1 %}
+
+          <a href="{{ site.lang | url_lang_prefix  }}/explore/staatliche-subventionen/">
+              {% t kohle.steinkohle.ausblick.k1 %}
+          </a>
+
+            {% t kohle.steinkohle.ausblick.p2 %}
           </p>
+
         </section>
         <section id="steinkohle-wirtschaftliche-bedeutung" style="position: relative;">
           <h3>{% t kohle.steinkohle.wirtschaftliche-bedeutung.title %}</h3>
           <p>
             {% t kohle.steinkohle.wirtschaftliche-bedeutung.p1 %}
-          </p>
-
-          <p>
-            {% t kohle.steinkohle.wirtschaftliche-bedeutung.p2 %}
           </p>
         </section>
       </section>

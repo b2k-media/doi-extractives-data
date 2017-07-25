@@ -65,7 +65,10 @@ breadcrumb:
         <section id="industrieminerale-gewinnung" style="position: relative;">
           <h3>{% t steine-und-erden.industrieminerale.gewinnung.title %}</h3>
           <p>
-            {% t steine-und-erden.industrieminerale.gewinnung.p %}
+            {% t steine-und-erden.industrieminerale.gewinnung.p1 %}
+          </p>
+          <p>
+            {% t steine-und-erden.industrieminerale.gewinnung.p2 %}
           </p>
         </section>
         <section id="industrieminerale-verwendung" style="position: relative;">
