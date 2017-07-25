@@ -406,6 +406,67 @@ genehmigung-von-bergbauprojekten:
     k4: Wasserhaushaltsgesetz
     p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
 
+anfallende_zahlungen:
+  title: Anfallende Zahlungen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: zuständigkeit-für-die-einnahmen
+      title: Zuständigkeit für die Einnahmen
+    - name: zahlungen-industrie
+      title: Zahlungen der rohstoffgewinnenden Industrie
+      subnav_items:
+        - name: körperschaftsteuer
+          title: Körperschaftsteuer
+        - name: feldes-und-förderabgaben
+          title: Feldes-und Förderabgaben
+        - name: gewerbesteuer
+          title: Gewerbesteuer
+        - name: pachtzahlungen
+          title: Pachtzahlungen
+        - name: verbrauchsteuern
+          title: verbrauchsteuern
+
+  einnahmen:
+    title: Einnahmen
+    p: Rohstoffgewinnende Unternehmen in Deutschland zahlen verschiedene Gebühren, Abgaben und Steuern auf ihre Tätigkeiten. Unternehmen, die bergfreie Rohstoffe gewinnen, zahlen eine spezifische Feldes- und Förderabgabe gemäß Bundesberggesetz an die Länder. Ausgenommen davon sind die Bodenschätze, die aufgrund sogenannter alter Rechte gewonnen werden (siehe auch „Genehmigung von Bergbauprojekten“). Hier kann jedoch den Eigentümern der aufrechterhaltenen alten Förderrechte oder den früheren Bergbauberechtigten das Recht auf Zahlung eines sog. Förderzinses (z. B. bei den sog. Erdölaltverträgen bzw. Erdgasverträgen) durch die Unternehmen zustehen. Unabhängig von der Tätigkeit unterliegen alle Unternehmen des Rohstoffsektors – wie die übrigen Unternehmen auch – der Gewerbe- und Körperschaftsteuer.
+
+  zuständigkeit-für-die-einnahmen:
+    title: Zuständigkeit für die Einnahmen
+    p: Aufgrund der föderalen Struktur der Bundesrepublik Deutschland ist die Steuerverwaltung zwischen dem Bund und den Ländern aufgeteilt. Je nach Art der Steuer wird sie von den Finanzverwaltungen des Bundes, der Länder oder der Gemeinden erhoben. Eine Ausnahme bilden die Feldes- und Förderabgaben, für deren Erhebung die  Bergämter der Länder zuständig sind.
+  zahlungen-industrie:
+    title: Zahlungen der rohstoffgewinnenden Industrie
+    körperschaftsteuer:
+      title: Körperschaftsteuer
+      p: Rohstoffgewinnende Unternehmen in der Rechtsform der Kapitalgesellschaft (insb. GmbH und AG), die ihren Sitz oder ihre Geschäftsleitung in Deutschland haben, sind unbeschränkt körperschaftsteuerpflichtig. Kapitalgesellschaften ohne Sitz und Geschäftsleitung in Deutschland unterliegen mit ihren inländischen Einkünften der Körperschaftsteuer. In Deutschland beträgt die Körperschaftsteuer 15% des zu versteuernden Einkommens. Sie steht dem Bund und den Ländern gemeinschaftlich zu. Erhoben wird die Körperschaftsteuer von den Finanzämtern der Bundesländer. Den Gesetzestext finden Sie
+      link: hier.
+    feldes-und-förderabgaben:
+      title: Feldes-und Förderabgaben
+      p1: Unternehmen und Personen brauchen zum Aufsuchen von sogenannten bergfreien Bodenschätzen eine Erlaubnis (§ 7 BBergG). Die Inhaber einer solchen Erlaubnis müssen nach § 30 BBergG jährlich eine Feldesabgabe entrichten. Diese beträgt nach § 30 Abs. 3 Satz 1 BBergG grundsätzlich im ersten Jahr nach der Erteilung pro Quadratkilometer eines Erlaubnisfelds fünf Euro und steigt jährlich um fünf auf bis zu maximal 25 Euro an, wobei die Länder durch Rechtsverordnung abweichende Beiträge oder Befreiungen unter bestimmten Voraussetzungen vorsehen können (siehe § 32 Abs. 2 BBergG und Übersicht auf Seite X). Die für die Aufsuchung gemachten Aufwendungen sind auf die Feldesabgabe anzurechnen. Die Feldesabgabe ist an das Land zu entrichten, in dem das Erlaubnisfeld liegt.
+      p2: Werden Bodenschätze gefunden, ist eine Bewilligung für deren Abbau erforderlich. Eine Förderung ist allerdings erst möglich, wenn zusätzlich die erforderlichen Betriebsplangenehmigungen und eventuell weitere Genehmigungen, wie z.B. wasserrechtliche Genehmigungen vorliegen. Sofern die abgebauten Bodenschätze wirtschaftlich verwendet werden können, muss der Inhaber nach § 31 BBergG eine Förderabgabe auf die geförderten bergfreien Bodenschätze entrichten. Der Regelsatz der Förderabgabe liegt bei 10 % des Marktwertes der Bodenschätze (§ 31 Abs. 2 Satz 1 BBergG). Auch hiervon können die Länder in ihren jeweiligen Verordnungen für die Festsetzung der Feldes- und Förderabgaben unter Beachtung bestimmter Voraussetzungen abweichende Regelungen festlegen (siehe § 32 BBergG und Übersicht auf Seite X). Feldes- und Förderabgaben fallen nur für die bergfreien Bodenschätze an. Während die Feldesabgaben in den jeweiligen Landeshaushalten vereinnahmt werden, fließen die Einnahmen aus der rabgabedem Länderfinanzausgleich zu. Feldes- und Förderabgabe werden von den Bergämtern der Bundesländer erhoben.
+    gewerbesteuer:
+      title: Gewerbesteuer
+      p1: Für die Gewerbesteuer sind die Gemeinden zuständig. Sie wird von der Gemeinde erhoben, in deren Gebiet sich die Betriebsstätte befindet. Besteuert wird die objektive Ertragskraft eines Gewerbebetriebs, die im Unterschied zu der Körperschaftsteuer nicht an die wirtschaftliche Leistungsfähigkeit anknüpft. Hinzurechnungen und Kürzungen korrigieren den Ertrag des Gewerbebetriebs (§§ 8 und 9 GewStG). Für die Berechnung der Gewerbesteuer ermittelt das zuständige Finanzamt den Steuermessbetrag, der 3,5% der objektiven Ertragskraft beträgt. Die zuständige Gemeinde setzt einheitlich für alle Unternehmen einen Hebesatz fest, der mindestens 200% betragen muss (§ 16 Abs. 4 Satz 2 GewStG)  und berechnet die Gewerbesteuer auf der Grundlage des Steuermessbetrags und des Hebesatzes.
+      p2: Rohstoffgewinnende Unternehmen in der Rechtsform einer Personen- oder Kapitalgesellschaft sind gewerbesteuerpflichtig. Wenn sich die Betriebsstätte auf dem Gebiet mehrerer Gemeinden befindet oder in mehreren Gemeinden Betriebsstätten betrieben werden, wird die Bemessungsgrundlage der Gewerbesteuer auf die einzelnen Gemeinden aufgeteilt (sogenannte Zerlegung). Als Maßstab für die Zerlegung werden grundsätzlich die Arbeitslöhne in den einzelnen Betriebsstätten herangezogen. Dies bedeutet, dass jede betroffene Gemeinde ihren Anteil an der Gewerbesteuer eines Rohstoffunternehmens erheben kann.
+      p3: Eine Übersicht zu den Hebesätzen (2015) der Gemeinden in Deutschland finden Sie
+      link: hier.
+      p4: Für die Gemeinden stellt die Gewerbesteuer – neben der Grundsteuer – die wesentliche Steuerquelle dar. Einen Teil der Gewerbesteuereinnahmen müssen die Gemeinden als Gewerbesteuerumlage an Bund und Länder abführen. Die den Gemeinden verbleibende Gewerbesteuer fließt in deren allgemeinen Haushalt ein und dient damit u.a. der Finanzierung der lokalen Infrastruktur sowie Bildungs- und Sozialeinrichtungen.
+    pachtzahlungen:
+      title: Pachtzahlungen
+      p1: Die Gewinnung von Bodenschätzen ist in Deutschland durch das BBergG geregelt, soweit es sich um sog. bergfreie oder grundeigene Bodenschätze handelt. Zu den bergfreien Bodenschätzen gehören nach § 3 Abs. 3 BBergG u.a. Metalle, Salze sowie die fossilen Energierohstoffe wie Kohlenwasserstoffe und Stein- und Braunkohle. Das Eigentum an einem Grundstück erstreckt sich nicht auf bergfreie Rohstoffe, insofern sind die Eigentumsrechte des Grundstückseigentümers beschränkt. Grundeigene Bodenschätze stehen dagegen im Eigentum des Grundeigentümers. Der Grundeigentümer darf sie aufsuchen und sich durch Abbau aneignen, ohne dass es hierfür neben der Betriebsplangenehmigung und weiterer erforderlicher öffentlich-rechtlicher Genehmigungen eines zusätzlichen besonderen Rechtstitels bedürfte. Ihre Einbeziehung in den Geltungsbereich des BBergG hat den Zweck, ihren Abbau unter einen bundesweit einheitlichen Rechtsrahmen zu stellen und insbesondere die Rohstoffgewinnung im untertägigen Bergbau einheitlich zu regeln und einer einheitlichen Bergaufsicht zu unterstellen.
+      p2: Neben den grundeigenen Bodenschätzen gibt es die sogenannten Grundeigentümerbodenschätze. Hierbei handelt es sich um Massenrohstoffe wie z.B. Kiese und Sande, die überwiegend als Baustoffe verwendet und im Tagebau gewonnen werden. Auch diese stehen – wie die grundeigenen Bodenschätze – im Eigentum des Grundeigentümers, sie unterliegen allerdings nicht dem Bergrecht bzw. der Bergaufsicht.
+      p3: Für den Abbau von grundeigenen Bodenschätzen und Grundeigentümerbodenschätzen ist es nicht erforderlich, dass der Unternehmer Eigentümer der Flächen ist. Es genügt– und das ist auch vielfach üblich –, dass der Eigentümer die Flächen dem Unternehmen auf Basis einer privatrechtlichen Vereinbarung (z. B. durch Pachtvertrag) zur Verfügung stellt. Die vertraglichen Regelungen können sowohl fixe Zahlungen als auch Zahlungen in Abhängigkeit von der abgebauten Menge oder eine Kombination beider Varianten vorsehen. Auf staatlicher Seite kommen als Eigentümer und Verpächter u.a. Gebietskörperschaften (z.B. Landkreise oder Gemeinden) oder auch Forstämter in Betracht. Die Einnahmen aus den Pachten gehen dementsprechend in kommunale Haushalte bzw. Landeshaushalte ein und stehen damit u.a. der Finanzierung hoheitlicher Aufgaben zur Verfügung.
+    verbrauchsteuern:
+      title: Verbrauchsteuern
+      p1: Im Rahmen der Verbrauchsteuern sind für Unternehmen des Rohstoffsektors besonders die Energie- und die Stromsteuer relevant. Energie- und Stromsteuer sind wie die anderen Verbrauchsteuern explizit aus der Berichtspflicht im Rahmen des handelsrechtlichen (Konzern-)Zahlungsberichts nach EU-Bilanzrichtlinie und deren Umsetzung in § 341r Nr. 3 b) HGB ausgenommen.
+      p2: "Das Energie- und das Stromsteuergesetz beruht auf den harmonisierten Vorgaben der EU-Energiesteuerrichtlinie (RL 2003/96/EG des Rates v. 27.10.2003, ABl. EU Nr. L 283, S. 51). Im Rahmen des Gesetzes zum Einstieg in die ökologische Steuerreform wurden die Stromsteuer am 01.04.1999 in Deutschland eingeführt und die Steuersätze der Energiesteuer (damals noch: Mineralölsteuer) stufenweise erhöht. Damit wurden Anreize geschaffen, den Energieverbrauch zu reduzieren und ressourcenschonende Produkte und Produktionsverfahren zu entwickeln."
+      p3: Die Rechtsgrundlagen für die Erhebung der Stromsteuer sind das Stromsteuergesetz und die Stromsteuer-Durchführungsverordnung. Das Aufkommen der Stromsteuer steht dem Bund zu und lag im Jahr 2015 bei 6,6 Milliarden Euro. Die Einnahmen aus der Stromsteuer und die im Zusammenhang mit der ökologischen Steuerreform erzielten Mehreinnahmen durch die höhere Besteuerung von Kraft- und Heizstoffen tragen dazu bei, die Sozialversicherungsbeiträge auf einem tragbaren Niveau zu halten. Die Verwaltung und Erhebung erfolgen durch die Zollverwaltung.
+      p4: Die Stromsteuer fällt beim Verbrauch an, wird aber aus Praktikabilitätsgründen in der Regel als indirekte Steuer beim Versorger erhoben und über den Strompreis auf die Verbraucher abgewälzt. Damit werden auch Unternehmen der Rohstoffindustrie grundsätzlich mit Stromsteuer belastet. Der Regelsteuersatz beträgt 20,50 Euro je Megawattstunde. Für verschiedene Zwecke wie z.B. Schienenbahnstrom kommen reduzierte Steuersätze in Betracht, während insbesondere das Produzierende Gewerbe von Steuerentlastungen Gebrauch machen kann. [Querverweis zum Subventionskapitel].
+      p5: Die Energiesteuer ist eine bundesgesetzlich geregelte Verbrauchsteuer auf Energieerzeugnisse. Mit ihr wird die Verwendung von Energieerzeugnissen als Kraft- oder Heizstoffe innerhalb des deutschen Steuergebiets besteuert. Als Energieerzeugnisse definiert das Energiesteuergesetz insbesondere Benzin, Dieselkraftstoff, leichtes und schweres Heizöl, Flüssiggas, Erdgas und Kohle sowie bei einer Bestimmung als Kraft- oder Heizstoff auch Biodiesel und Pflanzenöl und Energieerzeugnisse ähnlicher Beschaffenheit. Die Höhe der Steuer ist je nach Energieerzeugnis und Verwendungszweck unterschiedlich und im
+      link: Energiesteuergesetz
+      p6: geregelt. Für bestimmte Energieerzeugnisse und Verwendungszwecke sind Steuerbegünstigungen im Energiesteuergesetz normiert. [Querverweis zum Subventionskapitel]. Die Energiesteuer wird ebenso wie die Stromsteuer von der Zollverwaltung erhoben und die Einnahmen fließen dem Bund zu. 2015 lag das Energiesteueraufkommen bei ca. 40,3 Milliarden Euro. Das Aufkommen aus Energie- und Stromsteuer stellt nach Einkommensteuer und Umsatzsteuer die drittgrößte Einnahmequelle des Bundes dar.
+      p7: Der finanzielle Umfang der Strom- und Energiesteuerzahlungen von Unternehmen des Rohstoffsektors ist derzeit, wie auch der finanzielle Umfang der Strom- und Energiesteuerbegünstigungen (siehe „Subventionen und steuerliche Begünstigungen), nicht ohne unverhältnismäßig hohen bürokratischen Aufwand darstellbar. Entsprechende Statistiken, die nach einzelnen Wirtschaftssektoren unterscheiden, werden bislang nicht geführt.
+
 staatliche-subventionen:
   title: Staatliche Subventionen
   nav_items:
