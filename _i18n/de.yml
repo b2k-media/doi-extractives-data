@@ -467,6 +467,20 @@ anfallende_zahlungen:
       p6: geregelt. Für bestimmte Energieerzeugnisse und Verwendungszwecke sind Steuerbegünstigungen im Energiesteuergesetz normiert. [Querverweis zum Subventionskapitel]. Die Energiesteuer wird ebenso wie die Stromsteuer von der Zollverwaltung erhoben und die Einnahmen fließen dem Bund zu. 2015 lag das Energiesteueraufkommen bei ca. 40,3 Milliarden Euro. Das Aufkommen aus Energie- und Stromsteuer stellt nach Einkommensteuer und Umsatzsteuer die drittgrößte Einnahmequelle des Bundes dar.
       p7: Der finanzielle Umfang der Strom- und Energiesteuerzahlungen von Unternehmen des Rohstoffsektors ist derzeit, wie auch der finanzielle Umfang der Strom- und Energiesteuerbegünstigungen (siehe „Subventionen und steuerliche Begünstigungen), nicht ohne unverhältnismäßig hohen bürokratischen Aufwand darstellbar. Entsprechende Statistiken, die nach einzelnen Wirtschaftssektoren unterscheiden, werden bislang nicht geführt.
 
+steuergeheimnis:
+  title: Steuergeheimnis
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: bedeutung
+      title: Bedeutung
+
+  bedeutung:
+    title: Bedeutung
+    p1: Das Steuergeheimnis besitzt einen hohen Stellenwert in Deutschland. Da die Steuerpflichtigen im Rahmen ihrer Mitwirkungspflichten der Finanzbehörde ihre Steuerverhältnisse vollständig zu offenbaren haben, muss die Geheimhaltung ihrer Angaben gewährleistet sein. Dies wird durch das Steuergeheimnis (§§30 ff. der Abgabenordnung (AO)) sichergestellt. Die Vorschriften regeln, wer das Steuergeheimnis zu wahren hat und unter welchen Voraussetzungen eine Offenbarung oder Verwertung von Daten, die dem Steuergeheimnis unterliegen, zulässig ist. Das Steuergeheimnis dient also dem Schutz des Steuerpflichtigen.
+    p2: Eine Durchbrechung des Steuergeheimnisses ist nur unter sehr strengen Voraussetzungen möglich. So ist eine Offenbarung von Informationen, die dem Steuergeheimnis unterliegen, in der Regel nur zulässig, wenn sie ausdrücklich gesetzlich zugelassen ist, der Betroffene der Offenbarung zustimmt oder an den betreffenden Steuerdaten ein zwingendes öffentliches Interesse besteht.
+    p3: Deshalb ist für die Offenbarung von Daten für freiwillige Berichtsinitiativen – wie die Initiative für Transparenz im rohstoffgewinnenden Sektor – die Zustimmung der betroffenen Unternehmen zwingend erforderlich. Ebenso erfordert die Durchführung des Zahlungsabgleichs betreffend Steuerzahlungen im Rahmen des EITI-Prozesses eine Freigabe des Steuerpflichtigen in Form einer Bevollmächtigung des unabhängigen Verwalters zur Abfrage der relevanten Steuerdaten.
+
 staatliche-subventionen:
   title: Staatliche Subventionen
   nav_items:
@@ -562,7 +576,7 @@ how-it-work:
     section3:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
-      item2: Bestehende Berichtspflichten
+      item2: Steuergeheimnis
       item3: Bedeutung des Steuergeheimnis
       item4: Verwendung der Einnahmen
     section4:
