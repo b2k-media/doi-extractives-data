@@ -34,9 +34,6 @@ breadcrumb:
       <br/>
       <section id="zahlungen-industrie" style="position: relative;">
         <h2>{% t anfallende_zahlungen.zahlungen-industrie.title %}</h2>
-        <p>
-          {% t anfallende_zahlungen.zahlungen-industrie.p %}
-        </p>
         <h3 id="körperschaftsteuer">
           {% t anfallende_zahlungen.zahlungen-industrie.körperschaftsteuer.title %}
         </h3>
