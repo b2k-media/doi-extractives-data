@@ -42,6 +42,9 @@ breadcrumb:
         </h3>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.körperschaftsteuer.p %}
+          <a href="https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000106301">
+            {% t anfallende_zahlungen.zahlungen-industrie.körperschaftsteuer.link %}
+          </a>
         </p>
 
         <h3 id="feldes-und-förderabgaben">
@@ -65,6 +68,10 @@ breadcrumb:
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.p3 %}
+          <a href="https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/Steuern/Realsteuer/HebesaetzeRealsteuern8148001157005.xls;jsessionid=013CDF69293C0D74E01E4C275EF6BA82.cae4?__blob=publicationFile">
+            {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.link %}
+          </a>
+          {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.p4 %}
         </p>
 
         <h3 id="pachtzahlungen">
@@ -100,6 +107,10 @@ breadcrumb:
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p6 %}
+          <a href="https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html">
+            {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link %}
+          </a>
+          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p7 %}
         </p>
 
       </section>
