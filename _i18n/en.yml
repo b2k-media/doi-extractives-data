@@ -513,6 +513,34 @@ offentliche-berichte:
     p2: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu Kapitel 9). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
     p3: Im Gegensatz zu BilRUG setzt EITI auf die beiderseitige Offenlegung der Zahlungsströme. So muss zwecks Zahlungsabgleich auch die staatliche Seite Einblick in ihre Einkünfte aus dem Rohstoffsektor gewähren. In diesem Zusammenhang ist es ein Hauptanliegen der EITI, jedem Interessierten die Zahlungsströme in Form von Open Data zugänglich zu machen und damit die öffentliche Debatte zu unterstützen.
 
+verwendung-der-einnahmen:
+  title: Verwendung der Einnahmen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: einnahmen_rohstoffsektor
+      title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+    - name: landesrechtliche_regelungen
+      title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+
+  einnahmen_rohstoffsektor:
+    title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+    p1: Der föderale Staatsaufbau der Bundesrepublik Deutschland spiegelt sich in der Verteilung der Steuereinnahmen wieder. Welche Ebene die Ertragskompetenz hat, wie also die Steuererträge zwischen Bund, Ländern und Gemeinden verteilt werden, ist in Artikel 106 GG geregelt. Dabei wird zwischen Steuern, die den Gemeinden, Ländern oder dem Bund vollständig zufließen und den sog. Gemeinschaftssteuern unterschieden. Im Fall der Gemeinschaftssteuern werden die Einnahmen zwischen dem Bund und den Ländern aufgeteilt.
+    p2: Im Hinblick auf die Rohstoffförderung relevante Beispiele für Gemeinschaftssteuern sind die Körperschaft- und Einkommensteuer. An den Einnahmen aus der Körperschaftssteuer werden der Bund und die Länder zu je 50 % beteiligt.
+    p3: Die Gewerbesteuer hingegen stellt eine reine Gemeindesteuer dar. Somit steht sie als wichtigste Einnahmequellen der Kommunen den Gemeinden zu, in denen die betreffenden Betriebsstätten liegen. Bund und Länder werden durch eine Umlage am Aufkommen der Gewerbesteuer beteiligt.
+    p4: Eine Umverteilung zwischen Bund und Ländern erfolgt ebenso in Bezug auf die Einnahmen aus der Förderabgabe. Sie fließen in den Länderfinanzausgleich. Die Einnahmen aus der Stromsteuer und der Energiesteuer stehen dem Bund zu.
+    p5: Die Steueraufkommen aus der Rohstoffförderung sind gemäß § 3 der AO nicht zweckgebunden, d.h. über ihre Verwendung entscheiden der Bundeshaushalt sowie die Länder- und Kommunalhaushalte frei. Die Höhe und Verwendung der Einnahmen und Ausgaben werden jährlich detailliert offengelegt. Dazu verabschieden der Bund und die Länder Haushaltsgesetze und die Kommunen Haushaltssatzungen, die ihre Haushaltspläne beinhalten. Mit Veröffentlichung der Haushaltspläne erhalten alle Bürgerinnen und Bürger freien Zugang zu den darin enthaltenen Informationen.
+    p6_1: Um der Öffentlichkeit einen Zugang zu Informationen über die Verwendung der Steuereinnahmen zu erleichtern, veröffentlicht das BMF Informationen zum Bundeshaushalt auf der Web-Plattform
+    link1: https://www.bundeshaushalt-info.de/.
+    p6_2:  Zudem können auf der Webseite
+    link2: https://www.offenerhaushalt.de
+    p6_3: weitere Haushalte eingesehen werden.
+
+  landesrechtliche_regelungen:
+    title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+    p1: Hier finden sie die landesrechtlichen Regelungen zu den Feldes- und Förderabgaben. Die darin aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG.
+    p2: Landesrechtliche Regelungen zu Feldes- und Förderabgaben* *Die aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG
+
 staatliche-subventionen:
   title: Staatliche Subventionen
   nav_items:
