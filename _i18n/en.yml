@@ -488,6 +488,31 @@ steuergeheimnis:
     p2: Eine Durchbrechung des Steuergeheimnisses ist nur unter sehr strengen Voraussetzungen möglich. So ist eine Offenbarung von Informationen, die dem Steuergeheimnis unterliegen, in der Regel nur zulässig, wenn sie ausdrücklich gesetzlich zugelassen ist, der Betroffene der Offenbarung zustimmt oder an den betreffenden Steuerdaten ein zwingendes öffentliches Interesse besteht.
     p3: Deshalb ist für die Offenbarung von Daten für freiwillige Berichtsinitiativen – wie die Initiative für Transparenz im rohstoffgewinnenden Sektor – die Zustimmung der betroffenen Unternehmen zwingend erforderlich. Ebenso erfordert die Durchführung des Zahlungsabgleichs betreffend Steuerzahlungen im Rahmen des EITI-Prozesses eine Freigabe des Steuerpflichtigen in Form einer Bevollmächtigung des unabhängigen Verwalters zur Abfrage der relevanten Steuerdaten.
 
+offentliche-berichte:
+  title: Öffentliche Berichte
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: gesetzliche-berichtspflicht
+      title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+    - name: gemeinsamkeiten
+      title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+
+  gesetzliche-berichtspflicht:
+    title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+    p1: "Mit dem Bilanzrichtlinie-Umsetzungsgesetz (BilRUG) vom 23. Juli 2015 wurden die Vorgaben aus der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 in deutsches Recht umgesetzt. Die im Handelsgesetzbuch (HGB) verankerten Vorschriften der §§ 341q ff. HGB entsprechen in weiten Teilen den Anforderungen der EITI. Von diesen handelsrechtlichen Berichtspflichten sind alle „großen“ in der mineralgewinnenden Industrie tätigen oder Holzeinschlag in Primärwäldern betreibenden Kapitalgesellschaften und haftungsbeschränkte Personengesellschaften (vgl. § 341q HGB) betroffen. Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei folgenden Kriterien überschreiten (§ 267 Abs. 3 HBG):"
+    l1: Bilanzsumme von 20 Mio. Euro
+    l2: Nettoumsatzerlöse von 40 Mio. Euro
+    l3: Im Jahresdurchschnitt 250 Beschäftigte
+    p2: Unabhängig von ihrer Größe werden zudem auch kapitalmarktorientierte Kapitalgesellschaften i.S.v. § 264d HGB sowie Kreditinstitute und Versicherungsunternehmen in der Rechtsform der Kapitalgesellschaft (einschließlich haftungsbeschränkter Personenhandelsgesellschaften) von der Berichtspflicht erfasst. Darüber hinaus werden in Konzernstrukturen auch (Tochter-)Gesellschaften in die Berichterstattung einbezogen, die in Kombination mit ihrer Muttergesellschaft die Größenkriterien und das Kriterium der Tätigkeit erfüllen. Auf die Größe und den Sitz der jeweiligen Tochtergesellschaft kommt es hierbei nicht an.
+    p3: Die den gesetzlichen Vorschriften unterliegenden Unternehmen sind dazu verpflichtet, sämtliche in § 341r Nr. 3 HGB aufgeführten Zahlungen an staatliche Stellen ab einer „Wesentlichkeitsschwelle“ von 100.000 Euro je staatlicher Stelle offen zu legen, soweit diese Zahlungen unter einen der in § 341r Nr. 3 aufgeführten Zahlungsgründe fallen. Hierzu gehören neben Steuerzahlungen beispielsweise auch Lizenzen, Konzessionen und andere mit der Förderung von Rohstoffen in Verbindung stehende Vertragsverhältnisse. Die Angaben sind auf Projekte aufzuteilen, soweit im Berichtsjahr mehr als ein Projekt betrieben wurde.
+
+  gemeinsamkeiten:
+    title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+    p1: Neben den gesetzlichen Berichtspflichten nach BilRUG werden die wichtigsten Finanzströme der rohstoffgewinnenden Industrie auch über die EITI offengelegt (siehe hierzu Kapitel 9). Die handelsrechtlichen Berichtspflichten decken sich in weiten Teilen mit den Berichtspflichten nach EITI. Allerdings bestehen auch Unterschiede.
+    p2: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu Kapitel 9). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
+    p3: Im Gegensatz zu BilRUG setzt EITI auf die beiderseitige Offenlegung der Zahlungsströme. So muss zwecks Zahlungsabgleich auch die staatliche Seite Einblick in ihre Einkünfte aus dem Rohstoffsektor gewähren. In diesem Zusammenhang ist es ein Hauptanliegen der EITI, jedem Interessierten die Zahlungsströme in Form von Open Data zugänglich zu machen und damit die öffentliche Debatte zu unterstützen.
+
 staatliche-subventionen:
   title: Staatliche Subventionen
   nav_items:
@@ -597,7 +622,7 @@ how-it-work:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
       item2: Steuergeheimnis
-      item3: Bedeutung des Steuergeheimnis
+      item3: Öffentliche Berichte
       item4: Verwendung der Einnahmen
     section4:
       title: Sonderthemen
