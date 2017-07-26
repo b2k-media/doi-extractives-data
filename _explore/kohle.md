@@ -38,9 +38,6 @@ breadcrumb:
           <p>
             {% t kohle.steinkohle.geschichte.p2 %}
           </p>
-          <p>
-            {% t kohle.steinkohle.geschichte.p3 %}
-          </p>
         </section>
         <section id="steinkohle-ausblick" style="position: relative;">
           <h3>{% t kohle.steinkohle.ausblick.title %}</h3>

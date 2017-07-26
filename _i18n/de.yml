@@ -467,6 +467,73 @@ anfallende_zahlungen:
       p6: geregelt. Für bestimmte Energieerzeugnisse und Verwendungszwecke sind Steuerbegünstigungen im Energiesteuergesetz normiert. [Querverweis zum Subventionskapitel]. Die Energiesteuer wird ebenso wie die Stromsteuer von der Zollverwaltung erhoben und die Einnahmen fließen dem Bund zu. 2015 lag das Energiesteueraufkommen bei ca. 40,3 Milliarden Euro. Das Aufkommen aus Energie- und Stromsteuer stellt nach Einkommensteuer und Umsatzsteuer die drittgrößte Einnahmequelle des Bundes dar.
       p7: Der finanzielle Umfang der Strom- und Energiesteuerzahlungen von Unternehmen des Rohstoffsektors ist derzeit, wie auch der finanzielle Umfang der Strom- und Energiesteuerbegünstigungen (siehe „Subventionen und steuerliche Begünstigungen), nicht ohne unverhältnismäßig hohen bürokratischen Aufwand darstellbar. Entsprechende Statistiken, die nach einzelnen Wirtschaftssektoren unterscheiden, werden bislang nicht geführt.
 
+steuergeheimnis:
+  title: Steuergeheimnis
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: bedeutung
+      title: Bedeutung
+
+  bedeutung:
+    title: Bedeutung
+    p1: Das Steuergeheimnis besitzt einen hohen Stellenwert in Deutschland. Da die Steuerpflichtigen im Rahmen ihrer Mitwirkungspflichten der Finanzbehörde ihre Steuerverhältnisse vollständig zu offenbaren haben, muss die Geheimhaltung ihrer Angaben gewährleistet sein. Dies wird durch das Steuergeheimnis (§§30 ff. der Abgabenordnung (AO)) sichergestellt. Die Vorschriften regeln, wer das Steuergeheimnis zu wahren hat und unter welchen Voraussetzungen eine Offenbarung oder Verwertung von Daten, die dem Steuergeheimnis unterliegen, zulässig ist. Das Steuergeheimnis dient also dem Schutz des Steuerpflichtigen.
+    p2: Eine Durchbrechung des Steuergeheimnisses ist nur unter sehr strengen Voraussetzungen möglich. So ist eine Offenbarung von Informationen, die dem Steuergeheimnis unterliegen, in der Regel nur zulässig, wenn sie ausdrücklich gesetzlich zugelassen ist, der Betroffene der Offenbarung zustimmt oder an den betreffenden Steuerdaten ein zwingendes öffentliches Interesse besteht.
+    p3: Deshalb ist für die Offenbarung von Daten für freiwillige Berichtsinitiativen – wie die Initiative für Transparenz im rohstoffgewinnenden Sektor – die Zustimmung der betroffenen Unternehmen zwingend erforderlich. Ebenso erfordert die Durchführung des Zahlungsabgleichs betreffend Steuerzahlungen im Rahmen des EITI-Prozesses eine Freigabe des Steuerpflichtigen in Form einer Bevollmächtigung des unabhängigen Verwalters zur Abfrage der relevanten Steuerdaten.
+
+offentliche-berichte:
+  title: Öffentliche Berichte
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: gesetzliche-berichtspflicht
+      title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+    - name: gemeinsamkeiten
+      title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+
+  gesetzliche-berichtspflicht:
+    title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+    p1: "Mit dem Bilanzrichtlinie-Umsetzungsgesetz (BilRUG) vom 23. Juli 2015 wurden die Vorgaben aus der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 in deutsches Recht umgesetzt. Die im Handelsgesetzbuch (HGB) verankerten Vorschriften der §§ 341q ff. HGB entsprechen in weiten Teilen den Anforderungen der EITI. Von diesen handelsrechtlichen Berichtspflichten sind alle „großen“ in der mineralgewinnenden Industrie tätigen oder Holzeinschlag in Primärwäldern betreibenden Kapitalgesellschaften und haftungsbeschränkte Personengesellschaften (vgl. § 341q HGB) betroffen. Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei folgenden Kriterien überschreiten (§ 267 Abs. 3 HBG):"
+    l1: Bilanzsumme von 20 Mio. Euro
+    l2: Nettoumsatzerlöse von 40 Mio. Euro
+    l3: Im Jahresdurchschnitt 250 Beschäftigte
+    p2: Unabhängig von ihrer Größe werden zudem auch kapitalmarktorientierte Kapitalgesellschaften i.S.v. § 264d HGB sowie Kreditinstitute und Versicherungsunternehmen in der Rechtsform der Kapitalgesellschaft (einschließlich haftungsbeschränkter Personenhandelsgesellschaften) von der Berichtspflicht erfasst. Darüber hinaus werden in Konzernstrukturen auch (Tochter-)Gesellschaften in die Berichterstattung einbezogen, die in Kombination mit ihrer Muttergesellschaft die Größenkriterien und das Kriterium der Tätigkeit erfüllen. Auf die Größe und den Sitz der jeweiligen Tochtergesellschaft kommt es hierbei nicht an.
+    p3: Die den gesetzlichen Vorschriften unterliegenden Unternehmen sind dazu verpflichtet, sämtliche in § 341r Nr. 3 HGB aufgeführten Zahlungen an staatliche Stellen ab einer „Wesentlichkeitsschwelle“ von 100.000 Euro je staatlicher Stelle offen zu legen, soweit diese Zahlungen unter einen der in § 341r Nr. 3 aufgeführten Zahlungsgründe fallen. Hierzu gehören neben Steuerzahlungen beispielsweise auch Lizenzen, Konzessionen und andere mit der Förderung von Rohstoffen in Verbindung stehende Vertragsverhältnisse. Die Angaben sind auf Projekte aufzuteilen, soweit im Berichtsjahr mehr als ein Projekt betrieben wurde.
+
+  gemeinsamkeiten:
+    title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+    p1: Neben den gesetzlichen Berichtspflichten nach BilRUG werden die wichtigsten Finanzströme der rohstoffgewinnenden Industrie auch über die EITI offengelegt (siehe hierzu Kapitel 9). Die handelsrechtlichen Berichtspflichten decken sich in weiten Teilen mit den Berichtspflichten nach EITI. Allerdings bestehen auch Unterschiede.
+    p2: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu Kapitel 9). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
+    p3: Im Gegensatz zu BilRUG setzt EITI auf die beiderseitige Offenlegung der Zahlungsströme. So muss zwecks Zahlungsabgleich auch die staatliche Seite Einblick in ihre Einkünfte aus dem Rohstoffsektor gewähren. In diesem Zusammenhang ist es ein Hauptanliegen der EITI, jedem Interessierten die Zahlungsströme in Form von Open Data zugänglich zu machen und damit die öffentliche Debatte zu unterstützen.
+
+verwendung-der-einnahmen:
+  title: Verwendung der Einnahmen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: einnahmen_rohstoffsektor
+      title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+    - name: landesrechtliche_regelungen
+      title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+
+  einnahmen_rohstoffsektor:
+    title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+    p1: Der föderale Staatsaufbau der Bundesrepublik Deutschland spiegelt sich in der Verteilung der Steuereinnahmen wieder. Welche Ebene die Ertragskompetenz hat, wie also die Steuererträge zwischen Bund, Ländern und Gemeinden verteilt werden, ist in Artikel 106 GG geregelt. Dabei wird zwischen Steuern, die den Gemeinden, Ländern oder dem Bund vollständig zufließen und den sog. Gemeinschaftssteuern unterschieden. Im Fall der Gemeinschaftssteuern werden die Einnahmen zwischen dem Bund und den Ländern aufgeteilt.
+    p2: Im Hinblick auf die Rohstoffförderung relevante Beispiele für Gemeinschaftssteuern sind die Körperschaft- und Einkommensteuer. An den Einnahmen aus der Körperschaftssteuer werden der Bund und die Länder zu je 50 % beteiligt.
+    p3: Die Gewerbesteuer hingegen stellt eine reine Gemeindesteuer dar. Somit steht sie als wichtigste Einnahmequellen der Kommunen den Gemeinden zu, in denen die betreffenden Betriebsstätten liegen. Bund und Länder werden durch eine Umlage am Aufkommen der Gewerbesteuer beteiligt.
+    p4: Eine Umverteilung zwischen Bund und Ländern erfolgt ebenso in Bezug auf die Einnahmen aus der Förderabgabe. Sie fließen in den Länderfinanzausgleich. Die Einnahmen aus der Stromsteuer und der Energiesteuer stehen dem Bund zu.
+    p5: Die Steueraufkommen aus der Rohstoffförderung sind gemäß § 3 der AO nicht zweckgebunden, d.h. über ihre Verwendung entscheiden der Bundeshaushalt sowie die Länder- und Kommunalhaushalte frei. Die Höhe und Verwendung der Einnahmen und Ausgaben werden jährlich detailliert offengelegt. Dazu verabschieden der Bund und die Länder Haushaltsgesetze und die Kommunen Haushaltssatzungen, die ihre Haushaltspläne beinhalten. Mit Veröffentlichung der Haushaltspläne erhalten alle Bürgerinnen und Bürger freien Zugang zu den darin enthaltenen Informationen.
+    p6_1: Um der Öffentlichkeit einen Zugang zu Informationen über die Verwendung der Steuereinnahmen zu erleichtern, veröffentlicht das BMF Informationen zum Bundeshaushalt auf der Web-Plattform
+    link1: https://www.bundeshaushalt-info.de/.
+    p6_2:  Zudem können auf der Webseite
+    link2: https://www.offenerhaushalt.de
+    p6_3: weitere Haushalte eingesehen werden.
+
+  landesrechtliche_regelungen:
+    title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+    p1: Hier finden sie die landesrechtlichen Regelungen zu den Feldes- und Förderabgaben. Die darin aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG.
+    p2: Landesrechtliche Regelungen zu Feldes- und Förderabgaben* *Die aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG
+
 staatliche-subventionen:
   title: Staatliche Subventionen
   nav_items:
@@ -562,8 +629,8 @@ how-it-work:
     section3:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
-      item2: Bestehende Berichtspflichten
-      item3: Bedeutung des Steuergeheimnis
+      item2: Steuergeheimnis
+      item3: Öffentliche Berichte
       item4: Verwendung der Einnahmen
     section4:
       title: Sonderthemen
