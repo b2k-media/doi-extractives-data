@@ -22,6 +22,8 @@ The [data catalog](https://github.com/PfeffermindGames/doi-extractives-data/wiki
 ## Running the Site
 This site is made with [Jekyll]. To run it locally, clone this repository then:
 
+Note: You need to have ruby installed on your machine
+
 1. Get [Jekyll] and the necessary dependencies: `bundle install`
 1. Install all node dependencies: `npm install`
 1. Set the $NODE_ENV to `dev`: `export NODE_ENV=dev`
