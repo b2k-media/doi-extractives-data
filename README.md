@@ -34,6 +34,7 @@ Note: You need to have ruby installed on your machine
 ## Deployment
 This site is deployed on [STRATO](https://www.strato.de/server/), and data is updated through an Admin panel that lives in a separate app
 written in Node.js, you can see its source code at https://github.com/PfeffermindGames/resource-map-backend.
+For each year we have two charts.
 
 The site is build with `npm run prod:build`, and is served by a NGINX server.
 
