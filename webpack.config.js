@@ -1,5 +1,6 @@
 // jshint node: true
 var webpack = require('webpack');
+var path = require('path');
 var env = process.env.NODE_ENV;
 
 var config = {
@@ -13,7 +14,7 @@ var config = {
   },
 
   output: {
-    path: './js/lib',
+    path: path.resolve(__dirname, './js/lib'),
     filename: '[name].js',
     chunkFilename: '[id].js'
   },
