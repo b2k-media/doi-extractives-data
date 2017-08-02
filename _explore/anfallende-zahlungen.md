@@ -108,6 +108,12 @@ breadcrumb:
             {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p7 %}
+          <sup>{% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}</sup>
+        </p>
+        <br/>
+        <p>
+          <sup>{% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}</sup>
+          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.text %}
         </p>
 
       </section>
