@@ -828,7 +828,85 @@ umgang-mit-der-natur:
     p3: Die Bergbehörde kann im Rahmen Ihres Ermessensspielraums nach § 56 Abs. 2 Bundesberggesetz (BBergG) die Zulassung von Betriebsplänen von einer Sicherheitsleistung abhängig machen, soweit diese erforderlich ist, um insbesondere Maßnahmen zur Gefahrenvorsorge und Wiedernutzbarmachung der in Anspruch genommenen Flächen abzusichern. Dies betrifft beispielsweise Folgemaßnahmen bergbaulicher Aktivitäten, wie Wasserhaltungen aber auch der Rückbau von Anlagen, die Entfernung wassergefährdender Stoffe sowie die Sicherung von ehemaligen Abbauflächen durch Verfüllen oder Absperren.
     p4: Die Behörde kann, sofern sie eine Sicherheit für notwendig hält und sich aus der jeweiligen gesetzlichen Vorschrift keine Beschränkungen ergeben, grundsätzlich jede geeignete Form der Sicherheitsleistung zulassen. Möglich sind die Hinterlegung von Bargeld und Wertpapieren, Hypotheken, spezielle Ausfallversicherungen, betriebliche Rückstellungen, Bank- oder Konzernbürgschaften und sogenannte harte Patronatserklärungen.
     p5: " Branchenüblich im Rohstoffgewinnungssektor sind betriebliche Rückstellungen, Bankbürgschaften oder Versicherungsbürgschaften und insbesondere bei großen Unternehmen Konzernbürgschaften sowie Patronatserklärungen. Bargeld und Wertpapiere werden üblicherweise nicht als Sicherheit angenommen, da die Verwaltung dieser Finanzmittel durch die Behörde zu komplex ist. Insoweit handelt es sich nicht um Zahlungen der Unternehmen an staatliche Stellen."
-    p6: Die Höhe der festzusetzenden Sicherheitsleistung richtet sich nach den geschätzten Kosten einer möglicherweise notwendigen Ersatzvornahme. Soll ein Vorhaben in Abschnitten durchgeführt werden, wird die Sicherheitsleistung orientiert am tatsächlichen Eingriff etappenweise festgesetzt und nach erfolgreicher Teilwiedernutzbarmachung anteilig freigegeben.
+    p6: "Die Höhe der festzusetzenden Sicherheitsleistung richtet sich nach den geschätzten Kosten einer möglicherweise notwendigen Ersatzvornahme. Soll ein Vorhaben in Abschnitten durchgeführt werden, wird die Sicherheitsleistung orientiert am tatsächlichen Eingriff etappenweise festgesetzt und nach erfolgreicher Teilwiedernutzbarmachung anteilig freigegeben."
+
+wasser:
+  title: Wasser
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: wasserentnahme
+      title: Wasserentnahme zur Rohstoffförderung
+      subnav_items:
+        - name: verwendung_des_wasser
+          title: Verwendung des Wassers
+        - name: beispiel
+          title: "Beispiel: Wassernutzung im Kali- und Steinsalzbergbau"
+        - name: rechtlicher
+          title: Rechtlicher Rahmen der Wasserentnahme
+        - name: ausgestaltung
+          title: Ausgestaltung der Wasserentnahmeentgelte
+    - name: wasserentnahmeentgelte
+      title: Wasserentnahmeentgelte im Rohstoffsektor
+  wasserentnahme:
+    title: "Wasserentnahme zur Rohstoffförderung"
+    p1_1: "Im Zuge des Abbaus und der Weiterverarbeitung von Rohstoffen kann die Entnahme von Grund- und Oberflächenwasser erforderlich sein. Wie viel Wasser für Aktivitäten des Rohstoffsektors entnommen wird, veröffentlichen die zuständigen statistischen Landesämter der einzelnen Bundesländer."
+    sup4:
+      title: "4"
+      text: "Quelle: Statistisches Bundesamt, Umweltökonomische Gesamtrechnung"
+      link: "https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/<br/>Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html"
+    p1_2: Eine Übersicht hierzu bietet Abbildung 4.
+    p2_1: Der Sektor „Bergbau und Gewinnung von Steinen und Erden“ entnahm im Jahr 2013 insgesamt 1.583 Mio. m³ Wasser aus Gewässern (i.W. Grundwasser). Davon entfiel rund drei Viertel auf den Kohlebergbau. Dies entspricht etwa 5% des gesamten  2013 in Deutschland durch Wirtschaft und Privathaushalte entnommenen Wassers.
+    sup5:
+      title: "5"
+      text: "In manchen Bundesländern wird zwischen den beiden Bereichen 1. Erzbau, Steine und Erden, sonst. Bergbau und 2. Kohle, Torf, Erdöl und Gas unterschieden; z. B. Statistisches Landesamt Sachsen (2013): Wasserversorgung und Abwasserentsorgung in den Betrieben des  nichtöffentlichen Bereiches im Freistaat Sachsen,"
+      link: "https://www.statistik.sachsen.de/download/100_Berichte-Q/Q_I_2_3j_13_SN.pdf"
+    p2_2: Je nach regionaler  Bedeutung des Rohstoffsektors -insbesondere des Kohlebergbaus - liegt der Anteil in manchen Bundesländern höher (in Einzelfällen bis zu 30 %).
+
+    verwendung_des_wasser:
+      title: Verwendung des Wassers
+      p1: Bereits bei der Erschließung einer Rohstofflagerstätte kann das Abpumpen von Grundwasser zu einer Absenkung des Grundwasserspiegels führen. Zudem können Wasserentnahmen während des Abbaus notwendig werden, beispielsweise um Schächte oder Abbaugruben trocken zu halten. Dieses sogenannte Sümpfungs- und Grubenwasser wird, wenn nötig, aufbereitet, gereinigt und im Anschluss als Kühlwasser genutzt, der Allgemeinheit als Trink- und Brauchwasser zur Verfügung gestellt, als Wasser zum Schutz und zum Erhalt von Feuchtbiotopen eingesetzt oder ohne weitere Verwendung in das Oberflächengewässer eingeleitet.
+      p2: Die Wassernutzung durch den Bergbau ist mit Folgen für den Wasserhaushalt verbunden. Umweltauswirkungen können sich unter anderem aus der Veränderung des Grundwasserspiegels, der Fließgeschwindigkeit von Gewässern sowie durch das Einleiten von Sümpfungs- und Grubenwasser in Oberflächengewässer ergeben.
+    beispiel:
+      title: "Beispiel: Wassernutzung im Kali- und Steinsalzbergbau"
+      p1: "Im Kali- und Steinsalzbergbau wird in vielen Prozessen Wasser unterschiedlicher Herkunft und Qualität genutzt und eingesetzt, darunter Flusswasser, Grundwasser und Trinkwasser.
+      So wird bei der bergmännischen Gewinnung von Kali- und Steinsalz unter Tage das Rohsalz in der Regel mittels Bohren und Sprengen abgebaut. Salz kann jedoch auch in einem Solbetrieb gewonnen werden. Hierbei wird durch ein Bohrloch Frischwasser in lösefähiges (Salz-)Gestein eingebracht, wodurch mit Salzwasser gefüllte Kammern entstehen. Anschließend wird das mit Salz gesättigte Wasser (die sogenannte Sole) über eine weitere Rohrleitung an die Erdoberfläche gefördert. Hier wird schließlich das Salz durch das Verdampfen der Sole gewonnen."
+    rechtlicher:
+      title: Rechtlicher Rahmen der Wasserentnahme
+      p1_1: "Mit der Wasserrahmenrichtlinie (WRRL) ist im Jahr 2000 ein EU-weiter Ordnungsrahmen für den Schutz der Gewässer und des Grundwassers geschaffen worden. Die WRRL gibt unter anderem vor, dass Kosten für Wasserdienstleistungen (zu denen bestimmte Wasserentnahmen zählen können) einschließlich umwelt- und ressourcenbezogener Kosten entsprechend dem Verursacherprinzip zu decken sind."
+      sup6:
+        title: "6"
+        text: "Der Europäische Gerichtshof (EuGH) hat in seinem Urteil vom 11. September 2014 (Aktenzeichen C-525/12) bestätigt, dass Deutschland mit diesen bundes- und landesrechtlichen Regelungen das Prinzip der Kostendeckung aus der EU-Wasserrahmenrichtlinie hinreichend umgesetzt hat. Der EuGH weist zudem ausdrücklich darauf hin, dass die EU-Mitgliedstaaten gemäß Artikel 9 Abs. 4 dieser Richtlinie ohnehin befugt sind, unter Berücksichtigung der Zwecke und Ziele dieser Richtlinie das Kostendeckungsprinzip auf bestimmte Wassernutzungen nicht anzuwenden."
+      p1_2: Wasserentnahmen sind zudem auf die allgemeinen Umweltziele der WRRL hin zu überprüfen. Überschreitet die Menge des entnommenen Grund- oder Oberflächenwassers bestimmte Schwellenwerte, müssen für die betreffenden Vorhaben Umweltverträglichkeitsprüfungen durchgeführt werden.
+      p2: Die Umsetzung der WRRL in nationales Recht erfolgte in Deutschland durch das Wasserhaushaltsgesetz, das auf nationaler Ebene den Schutz und die Nutzung des Oberflächen- und des Grundwassers regelt. Wasserentnahmen stehen hier unter dem Erlaubnisvorbehalt der Wasserbehörden. Die Landeswassergesetze der Bundesländer ergänzen und konkretisieren die wasserrechtlichen Vorschriften des Bundes. Sie bestimmen insbesondere die Höhe der Wasserentnahmeentgelte.
+    ausgestaltung:
+      title: Ausgestaltung der Wasserentnahmeentgelte
+      p1: "Die Ausgestaltung der Abgaben auf Wasserentnahmen erfolgt durch die Bundesländer, denen auch die Entgelte zufließen. Deshalb gestalten sich die in Deutschland mit Ausnahme von Hessen, Bayern und Thüringen in 13 der 16 Bundesländer erhobenen Wasserentnahmeentgelte sehr unterschiedlich. Für 2016 ist das Gesamtaufkommen in den Haushaltsplänen der Bundesländer 2016 mit etwa 425 Mio. Euro veranschlagt. Die Einnahmen werden zum Teil für wasserwirtschaftliche Aufgaben verwendet oder fließen in den allgemeinen Landeshaushalt."
+      sup7:
+        title: "7"
+        text: "IHK Pfalz (2013): Die Wasserentnahmeentgelte der Länder. Ein Vergleich."
+        link: "https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/<br/>WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf"
+      p2: "Die meisten Bundesländer erheben für die Entnahme von Grund- und Oberflächenwasser Entgelte. Die Entgelte sollen je nach Ausgestaltung auch den „Wert der öffentlichen Leistung“ für die Inanspruchnahme von Ressourcen wiederspiegeln und können somit zugleich Lenkungsabgaben für eine nachhaltige Gewässerbewirtschaftung sowie zur Anlastung von Umwelt- und Ressourcenkosten sein (§ 1 und §6a Wasserhaushaltsgesetz)."
+      sup8:
+        title: "8"
+        text: "Gawel/Bretschneider (2016): Das Wasserentnahmeentgelt in Baden-Württemberg – Bestandsaufnahme und Evaluierung."
+        link: https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/<br/>Dateien/Dokumente/3_Umwelt/Schutz_nat%C3%BCrlicher_Lebensgrundlagen/<br/>Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf
+      p3: Bei der Höhe der Abgabesätze wird in den meisten Bundesländern nach Art der Entnahme, Zweck, Menge oder Herkunft des Wassers (Oberflächenwasser oder Grundwasser) differenziert. Zudem existieren verschiedene länderspezifische Abweichungen von den Regelsätzen durch Befreiung oder Ermäßigung, die auch für den Rohstoffsektor gelten können.
+
+  wasserentnahmeentgelte:
+    title: Wasserentnahmeentgelte im Rohstoffsektor
+    p1_1: "Für die Wasserentnahme im Rohstoffsektor werden bundesweit sehr unterschiedliche Entgeltsätze erhoben. So werden in einigen Bundesländern für bestimmte Abbauarten Gebührensätze für Oberflächenwasser zwischen 0,3 und 5 Ct/l angewendet (z.B. in Baden-Württemberg, Niedersachsen, Mecklenburg-Vorpommern), während in manchen Bundesländern auch die Gebührensätze für die Grundwasserentnahme zwischen 5 und 31 Ct/l greifen können."
+    sup9:
+      title: "9"
+      text: "Umweltbundesamt (2017): Tabelle Wasserentnahmeentgelte im Rohstoffsektor in den deutschen Bundesländern."
+      link: "https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/<br/>tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx"
+    p1_2: In Rheinland-Pfalz und Schleswig-Holstein wiederum ist die Grundwasserfreilegung vom Wasserentnahmeentgelt befreit. In einigen Bundesländern gibt es explizite Regelungen für die bergbaubedingte Wasserhaltung bzw. für Wasser, das ohne Nutzung wieder in Oberflächengewässer eingeleitet wird. Die verschiedenen Entgeltsätze, Ausnahmetatbestände und Ermäßigungsregelungen sind in den jeweiligen Landeswassergesetzen veröffentlicht. Eine Übersicht über die relevanten Entgeltsätze im Rohstoffsektor bietet das Umweltbundesamt.
+    sup10:
+      title: "10"
+      text: Siehe
+      link: https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1
+    p1_3: Eine öffentlich zugängliche Informationsquelle über die Höhe der Einnahmen aus den Wasserentgelten bezogen auf den Rohstoffsektor existiert hingegen nicht.
+    p2: Die Wasserentnahmeentgelte stellen einen Zahlungsstrom zwischen rohstofffördernden Unternehmen und dem Staat dar. Unter anderem aufgrund der unterschiedlichen Entgeltsätze in den Bundesländern liegen die Zahlungen vermutlich unter der Wesentlichkeitsschwelle, weshalb sie im ersten D-EITI-Bericht nicht in den Zahlungsabgleich aufgenommen werden.
 
 staatliche-subventionen:
   title: Staatliche Subventionen
