@@ -592,6 +592,242 @@ verwendung-der-einnahmen:
         item2: "Natürliche/r Sole und Torf,  gefördert für balneologische Zwecke bzw. als Träger für Erdwärme"
       sonderregelungen2: "Erdöl und Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes2"
 
+umgang-mit-der-natur:
+  title: Umgang mit der Natur
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: naturschutzrechtliche_eingriffsregelungen
+      title: Naturschutzrechtliche Eingriffsregelungen
+      subnav_items:
+        - name: rechtlicher_rahmen
+          title: Rechtlicher Rahmen
+        - name: zulassungspraxis_rohstoffförderung
+          title: Zulassungspraxis bei der Rohstoffförderung
+        - name: dokumentation_von_kompensationsmaßnahmen
+          title: Dokumentation von Kompensationsmaßnahmen für Eingriffe in die Natur
+        - name: table
+          title: Übersicht Kompensationsverzeichnisse in den Bundesländern
+        - name: beispiel
+          title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
+        - name: beispiel_für_festsetzung
+          title: Beispiel für die Festsetzung von Ersatzgeldzahlungen in Nordrhein-Westfalen (NRW)
+        - name: kooperation_zwischen
+          title: Kooperation zwischen Stakeholdern
+    - name: rückstellungen
+      title: Rückstellungen
+    - name: sicherheitsleistungen
+      title: Sicherheitsleistungen
+
+  naturschutzrechtliche_eingriffsregelungen:
+    p1: Jede Bergbautätigkeit ist mit Eingriffen in Natur und Landschaft verbunden und kann gravierende Umweltbelastungen zur Folge haben. Gleichzeitig kann auf ehemaligen, aber auch auf bestimmten Arealen betriebener Abbauflächen ein Beitrag zur Sicherung der Biodiversität geleistet werden. Kompensationsmaßnahmen wie Ausgleichs- oder Ersatzmaßnahmen sowie Ersatzzahlungen sollen Eingriffe in Natur und Landschaft kompensieren und deren Funktion wiederherstellen.
+    p2_1: Der für die mittel- bis langfristige Rohstoffsicherung erforderliche Flächenbedarf wird auf rund 1% der Fläche Deutschlands geschätzt. Die dabei tatsächlich in Abbau stehende Fläche beträgt 29 km² oder – bezogen auf die Fläche Deutschlands – 0,008%
+    link1: (Bundesanstalt für Geowissenschaften und Rohstoffe 2016).
+    p2_2: Das entspricht einer täglichen Flächeninanspruchnahme von durchschnittlich 8 Hektar.  Die für die Rohstoffgewinnung genutzten Flächen sind regional unterschiedlich konzentriert, wodurch auch die damit verbundenen Eingriffe in Natur und Landschaft große regionale Unterschiede und Konzentrationen aufweisen.
+
+    rechtlicher_rahmen:
+      title: Rechtlicher Rahmen
+      p1: Im Bundesnaturschutzgesetz (BNatSchG) ist als allgemeiner Grundsatz zu Eingriffen geregelt, dass erhebliche Beeinträchtigungen von Natur und Landschaft vom Verursacher vorrangig zu vermeiden und zu minimieren sind. Nicht vermeidbare Beeinträchtigungen sind durch Ausgleichs- oder Ersatzmaßnahmen (im Weiteren „Kompensationsmaßnahmen“) oder, soweit dies nicht möglich ist, durch einen Ersatz in monetärer Form zu kompensieren (§ 13 BNatSchG). Dieser allgemeine Grundsatz bildet somit eine Abarbeitungskaskade, die zuerst die Vermeidung, dann die Kompensationsmaßnahmen, und als letzte Möglichkeit die Ersatzgeldzahlung vorsieht. Bei Bergbaumaßnahmen zielt dieses Vermeidungsgebot vor allem auf eine möglichst umweltschonende Ausführungsvariante ab, da Standortalternativen aufgrund der Art des Rohstoffs und technischer Erwägungen nicht möglich sein können und Nullvarianten aufgrund der ökonomischen Vorrangigkeit des Rohstoffabbaus ausscheiden können. Unvermeidbare Beeinträchtigungen von Natur und Landschaft sind insbesondere durch Förderung natürlicher Sukzession, Renaturierung, naturnahe Gestaltung, Wiedernutzbarmachung oder Rekultivierung auszugleichen oder zu mindern (§ 1 Abs. 5 S. 4 BNatSchG).
+      p2: Kompensationsmaßnahmen sind in dem jeweils erforderlichen Zeitraum zu unterhalten und rechtlich zu sichern. Der Unterhaltungszeitraum wird von der Zulassungsbehörde im Zulassungsbescheid festgelegt. Für die Ausführung, Unterhaltung und Sicherung der Kompensationsmaßnahmen ist der Verursacher des Eingriffs oder dessen Rechtsnachfolger verantwortlich.
+      p3: Nach bundes- und europarechtlichen Vorgaben sind in Zulassungsverfahren von naturschutzrechtlichen Eingriffen zudem die möglichen Auswirkungen eines Vorhabens auf besonders geschützte Tier- und Pflanzenarten (besonderes Artenschutzrecht) sowie auf das europäische Schutzgebietsnetz NATURA 2000 zu prüfen.
+      p4: Das BNatSchG enthält eine Vollregelung, d.h. Landesgesetze und -normen zur instrumentalen Ausgestaltung der Eingriffsregelung dürfen dieser nicht widersprechen. Zur Konkretisierung bei der Anwendung der Vorschriften haben die Länder zum Teil ergänzende Regelungen getroffen, wobei die Praxis in den Ländern unterschiedlich ist. Beispielsweise ist die konkrete Bemessung der Höhe und Verwendung von Ersatzgeldzahlungen von Bundesland zu Bundesland unterschiedlich.
+
+    zulassungspraxis_rohstoffförderung:
+      title: Zulassungspraxis bei der Rohstoffförderung
+      p1: Plant ein Unternehmen einen Eingriff in die Natur und Landschaft im Rahmen der Rohstoffförderung, wird die naturschutzrechtliche Eingriffsreglung auf Ebene der zuständigen Zulassungsbehörde abgearbeitet. Das sind entsprechend der jeweiligen Rohstoffart entweder die Bergbehörden der deutschen Bundesländer (bei bergfreien und grundeigenen Rohstoffen) oder die mit dem Vollzug der landesrechtlichen Abgrabungsgesetze, des Bau- und Wasserhaushaltsrechts oder des Bundesimmissionsschutzgesetzes beauftragten Landesbehörden (bei sog. Grundeigentümerbodenschätzen). Dieses Vorgehen entspricht dem sogenannten „Huckepack-Verfahren“, bei dem alle Vorhaben, die aufgrund anderer Rechtsvorschriften ohnehin der Zulassung von einer Behörde bedürfen, die Zulassung von der zuständigen Fachbehörde im „Benehmen“ mit der zuständigen Naturschutzbehörde erteilt bekommen (§ 17 BNatSchG). Damit muss der zuständigen Naturschutzbehörde eine Stellungnahme im Zulassungsverfahren eingeräumt werden, wobei die jeweilige Zulassungsbehörde nicht an die Empfehlungen der Naturschutzbehörde gebunden ist. Die Bestimmungen des besonderen Artenschutzes sind jedoch zwingend und unterliegen nicht der Abwägung. Ferner sind Schutzgebietsausweisungen zu beachten.
+      p2: Im Zulassungsverfahren legt der/die Unternehmer/in hierzu der zuständigen Behörde einen landschaftspflegerischen Begleitplan (LBP) vor, welcher insbesondere Angaben über Ort, Art, Umfang und zeitlichen Ablauf des Eingriffs sowie die vorgesehenen Vermeidungs- und Kompensationsmaßnahmen und ggf. auch über den Ersatzgeldumfang macht. Hierbei wird regelmäßig der überwiegende Teil der erforderlichen Kompensation im Rahmen der Renaturierung bzw. Rekultivierung erbracht (siehe Zielbestimmung BNatSchG). Kompensationsmaßnahmen auf externen Flächen sind dann erforderlich, wenn sich bestimmte Landschafts- bzw. Biotopstrukturen nicht wiederherstellen lassen oder wenn aus artenschutzrechtlichen Gründen spezielle Maßnahmen notwendig sind.
+      p3: Beim Abbau der sogenannten bergfreien (z.B. Kohle, Salze, Erdöl und Erdgas) und grundeigenen (z.B. Steine, Erden und Industrieminerale) Bodenschätze, der durch das Bundesberggesetz (BBergG) geregelt wird, wird die Eingriffsregelung nach dem BNatSchG im Rahmen des bergrechtlichen Betriebsplanverfahrens abgearbeitet, wobei die Pflichten nach dem BNatSchG vollumfänglich gelten. Der Ausgleich von Eingriffen kann bereits im Rahmen der bergrechtlichen Verpflichtung zur Wiedernutzbarmachung der Oberfläche (§ 55 Abs. 1 Nr. 7 BBergG, § 1 Abs. 5 S. 4 BNatSchG) erfolgen. Soweit dies nicht möglich ist, sind Ausgleichs- und/oder Ersatzmaßnahmen oder nachrangig Ersatzgeldzahlungen nach BNatSchG erforderlich (siehe hierzu Beispiel aus NRW unten). Bei Verfahren, die unter das Bundesberggesetz fallen, finden dabei auch die rechtlichen Instrumente des BBergG, wie insbesondere die regelmäßige Kontrolle durch die in der Regel alle zwei Jahre vorzulegenden und neu zu genehmigenden Hauptbetriebspläne Anwendung.
+
+    dokumentation_von_kompensationsmaßnahmen:
+      title: Dokumentation von Kompensationsmaßnahmen für Eingriffe in die Natur
+      p1: Seit der Novellierung des BNatschG 2010 sind die Bundesländer verpflichtet, Kompensationsverzeichnisse für sämtliche Eingriffe in die Natur zu erstellen. Diese sind jedoch unterschiedlich ausgeprägt und nicht in allen Bundesländern öffentlich einsehbar.
+
+    table:
+      title: Übersicht Kompensationsverzeichnisse in den Bundesländern
+      table_title: "Quelle: eigene Darstellung, Stand: Mai 2017"
+      th1: Bundesland
+      th2: Öffentlich einsehbar
+      th3: Zentral für das Bundes-land
+      th4: Umfassende Informationen zur Eingriffsfläche und Kompensationsart
+      th5: Erfasst mögliche  Ersatzzahlungen
+      th6: Weblink
+      row1:
+        td1: Baden-Württemberg
+        td2: Ja
+        td3: Nein
+        td4: Ja
+        td5: Nein
+        td6: Onlinearchive der
+        link: Landkreise.
+      row2:
+        td1: Bayern
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        td6: Daten-
+        link: Download.
+      row3:
+        td1: Berlin
+        td2: Ja
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        td6: Browserbasierter
+        link:  Kartendienst.
+      row4:
+        td1: Brandenburg
+        td2: Nein
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        td6: Im Aufbau
+      row5:
+        td1: Bremen
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        td6_1: Daten
+        link1: -Download;
+        td6_2: Browserbasierter
+        link2: Kartendienst.
+      row6:
+        td1: Hamburg
+        td2: Ja
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        td6: Browserbasierter.
+        link: Kartendienst.
+      row7:
+        td1: Hessen
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        td6: Browserbasierter.
+        link: Kartendienst.
+      row8:
+        td1: Mecklenburg-Vorpommern
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        link1: Download;
+        td6: Browserbasierter
+        link2: Kartendienst.
+      row9:
+        td1: Niedersachsen
+        td2: Teilweise
+        td3: Nein
+        td4: Teilweise (s. Bsp. Landkreis Cuxhaven)
+        td5: Nein
+        td6: Browserbasierter Kartendienst am Bsp. LK .
+        link: Cuxhaven.
+      row10:
+        td1: Nordrhein-Westfalen
+        td2: Geplant
+        td3: Nein
+        td4: Ja
+        td5: Nein
+      row11:
+        td1: Rheinland-Pfalz
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        link: Kartendienst.
+      row12:
+        td1: Saarland
+        td2: Nein
+        td3: Nein
+        td4: Nein
+        td5: Nein
+      row13:
+        td1: Sachsen
+        td2: Nein
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        link: Beschreibung.
+      row14:
+        td1: Sachsen-Anhalt
+        td2: "Teilweise (Ökokonten: Ja, Kompensationsverzeichnis: Nein)"
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        link: Login
+      row15:
+        td1: Schleswig-Holstein
+        td2: Ja
+        td3: Nein
+        td4: Nein
+        td5: Nein
+        td6: Browserbasierter
+        link: Kartendienst.
+      row16:
+        td1: Thüringen
+        td2: Nein
+        td3: Ja
+        td4: Ja
+        td5: Ja
+
+    beispiel:
+      title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
+      p1: Grundlage für das baden-württembergische Kompensationsverzeichnis bildet neben dem § 17 Abs. 6 BNatSchG die Kompensationsverzeichnis-Verordnung und die Ökokonto-Verordnung des Landes, welche eine öffentliche Dokumentationspflicht vorsehen. Beide Verordnungen können auf der Webseite des Umweltministeriums Baden-Württembergs heruntergeladen werden. Das baden-württembergische Kompensationsverzeichnis ist in die Abteilungen „Ökokonto“ und „Eingriffskompensation“ unterteilt.
+      p2: Ein Ökokonto ist ein Instrument für Eingriffsverursacher, um Kompensationsmaßnahmen zeitlich und räumlich von der Abbaufläche zu entkoppeln und somit flexibler zu managen. Über sogenannte „Ökopunkte“, die durch die gezielte ökologische Aufwertung von externen Flächen angesammelt werden, können Kompensationsmaßnahmen bevorratet und die entsprechenden Ökopunkte bei späteren Eingriffen verbraucht werden, um sie ganz oder in Teilen auszugleichen. Eingriffsverursacher wie z.B. Rohstoffunternehmen und Kommunen treten hierbei sowohl als Produzenten als auch als Verbraucher und Händler von Ökopunkten auf.
+      p3_1: Eine zentrale Übersicht über die Gesamtanzahl aller Eingriffe in Baden-Württemberg, einschließlich ihrer Kompensationsmaßnahmen, ist zwar nicht verfügbar, jedoch können die naturschutz-rechtlichen Ökokontomaßnahmen sowie die bereits einem naturschutzrechtlichen Eingriff zugeordneten Kompensationsmaßnahmen über die Internetseiten der zuständigen unteren Naturschutzbehörden auf Ebene der Stadt- und Landkreise abgerufen werden
+      link1: http://www4.lubw.baden-wuerttemberg.de/servlet/is/225385/
+      link2:  bzw. http://www4.lubw.baden-wuerttemberg.de/servlet/is/225375/
+      p3_2: "Dort sind folgende Informationen zu den naturschutzrechtlichen Kompensationsmaßnahmen der Kreise einsehbar:"
+      list1:
+        item1: Bezeichnung der Zulassungsbehörde und der Kompensationsmaßnahme (Kurzbeschreibung),
+        item2: Aktenzeichen und Datum des Zulassungsbescheids,
+        item3: Art des den Eingriff verursachenden Vorhabens
+        item4: Vorhabenträger/in,
+        item5: Lage der Kompensationsfläche,
+        item6: Maßgaben zur fristgerechten Umsetzung der Kompensationsmaßnahme und zum festgesetzten Unterhaltungszeitraum,
+        item7: Stand der Umsetzung.
+      p4: "Für die Ökokontomaßnahmen sind weiterhin folgende Informationen einsehbar:"
+      list2:
+        item1: Maßnahmenkomplex
+        item2: Status
+        item3: Naturraum,
+        item4: Lage der Maßnahme,
+        item5: Ökopunkte.
+      p5: Im Kompensationsverzeichnis des Landes Baden-Württemberg sind Kompensationsmaßnahmen sowohl auf Eingriffsflächen, als auch auf Ersatzflächen dokumentiert. Aufgelistet sind Maßnahmen seit April 2011.
+
+    beispiel_für_festsetzung:
+      title: Beispiel für die Festsetzung von Ersatzgeldzahlungen in Nordrhein-Westfalen (NRW)
+      p1: Ersatzgeld kann als Ultima Ratio bei einem zugelassenen Eingriff erhoben werden, wenn Beeinträchtigungen der Natur nicht zu vermeiden oder in angemessener Frist auszugleichen oder zu ersetzen sind. Nach dem BNatSchG richtet sich die Ersatzgeldzahlung nach den durchschnittlichen Kosten der nicht durchführbaren Kompensationsmaßnahmen einschließlich der erforderlichen Kosten für deren Planung und Unterhaltung sowie die Flächenbereitstellung unter Einbeziehung der Personal- und sonstigen Verwaltungskosten. Sind diese nicht feststellbar, bemisst sich die Ersatzgeldzahlung nach Dauer und Schwere des Eingriffs unter Berücksichtigung der dem Verursacher daraus erwachsenden Vorteile (§ 15 Abs. 6 S. 1ff. BNatSchG).
+      p2: Bei der Zulassung der Aktivitäten der rohstofffördernden Industrie in NRW ist die Festsetzung von Ersatzgeldzahlungen die Ausnahme. Dennoch gibt es Fälle, bei denen z.B. der überwiegende Teil der Kompensation in der Rekultivierung erfolgt, ein kleines rechnerisches Kompensationsdefizit aber noch auf einer externen Fläche umzusetzen wäre oder die Festsetzung der Kompensation durch Wiedernutzbarmachung nicht zweckmäßig ist. Wenn diese Fläche bzw. die erforderliche Maßnahme mit verhältnismäßigem Aufwand nicht verfügbar, nicht umsetzbar bzw. nicht zweckmäßig ist, erfolgt eine entsprechende Ersatzgeldfestsetzung. In NRW wird diese Festsetzung entsprechend den Vorgaben des Landesnaturschutzgesetzes (LG) im Benehmen mit der jeweils zuständigen höheren Landschaftsbehörde vorgenommen (§ 6 Abs. 1 LG).
+      p3: Empfänger des Ersatzgeldes ist die regional zuständige untere Landschaftsbehörde, welche das Ersatzgeld zweckgebunden für Maßnahmen des Naturschutzes und der Landschaftspflege zu verwenden hat (§ 4a Abs. 1 LG). Soweit das Ersatzgeld für einen Eingriff in Waldflächen zu zahlen oder für eine Aufforstung von Flächen zu verwenden ist, wird es der Forstverwaltung zu Verfügung gestellt (§ 4a Abs. 2 LG).
+      p4: Beispiele für Ersatzgeldfestsetzungen sind die Kiestagebaue im Tagebauvorfeld der Braunkohlevorhaben. In drei Tagebauen war eine ökologisch wertvolle Wiedernutzbarmachung nicht angezeigt, weil im direkten Anschluss zur Kies- bzw. Sandgewinnung der Braunkohlentagebau die Fläche nutzt. Für diese Fälle hat die dortige untere Landschaftsbehörde ein vereinfachtes Bewertungsverfahren entwickelt, mit welchem eine angemessene Ersatzgeldzahlung ermittelt werden kann. Für die drei vorgenannten Vorhaben sind insgesamt Ersatzgeldzahlungen von 265.767,90 Euro festgesetzt worden.
+      p5: Für einen weiteren Kiestagebau wurde im Rahmen einer kleinflächigen Erweiterungsplanung ein Ersatzgeld festgesetzt, sofern die beabsichtigte Rekultivierung nicht umgesetzt werden kann. Mit dem eingenommenen Ersatzgeld von 21.900 Euro soll dann die untere Landschaftsbehörde des Kreises eine andere gleichwertige Kompensationsmaßnahme umsetzen. (Bei den vorgenannten Beispielen handelt es sich nicht um eine abschließende Aufzählung).
+      p6: In den Jahren zwischen 2011 und 2015 hat es bei der Bergbehörde NRW Ersatzgeldfestsetzungen von insgesamt ca. 300.000 Euro gegeben. Für die Braunkohlenbergbaue in NRW hat es bisher keine Ersatzgeldzahlungen gegeben; die Eingriffskompensation erfolgt überwiegend in der Wiedernutzbarmachung. Das Verhältnis der vielen und teilweise auch sehr großflächigen Tagebauvorhaben (insbesondere im Braunkohlenbergbau) unter Bergrecht in NRW zu den wenigen vorgenannten kleinen Vorhaben zeigt, dass die Festsetzung von Ersatzgeld in den bergrechtlichen Verfahren eine untergeordnete Rolle spielt.
+
+    kooperation_zwischen:
+      title: Kooperation zwischen Stakeholdern
+      p: Weil jede Rohstoffextraktion einen erheblichen Eingriff in Natur und Landschaft darstellt, sollte eine umweltschonende Abbauführung und Gewinnungstechnik Unternehmensstandard sein. Eine zeitnahe Renaturierung und Rekultivierung kann zur Förderung der biologischen Vielfalt beitragen, aber auch betriebene Abbaustätten sind Habitate für seltene Tiere und Pflanzen. Hierbei hat sich die Zusammenarbeit zwischen abbauenden Unternehmen, dort Beschäftigten und ortskundigen Naturschützern als sinnvoll erwiesen. Dadurch kann das Betriebsmanagement an die lokalen und spezifischen Biodiversitätsansprüche angepasst werden. Dies gelingt in der Regel, wenn Unternehmensleitung und Beschäftigte kontinuierlich im Dialog mit naturschutzfachlich kundigen Institutionen und Personen stehen. Bei Erweiterungen oder neuen Abbauvorhaben dient der frühzeitige Dialog von Interessensträgern auch dazu, Konflikte gar nicht erst entstehen zu lassen. Informations- und Schulungsmaterialien zum Thema helfen der Breitenwirkung solcher Initiativen, die durch mitgliedsstarke Umwelt- und Naturschutzverbände, die Industriegewerkschaften Bergbau, Chemie, Energie und Bauen-Agrar-Umwelt sowie Wirtschaftsverbände auf Bundes- und Landesebene unterstützt werden.
+
+  rückstellungen:
+    title: Rückstellungen
+    p1: In Deutschland ist bundesgesetzlich geregelt, dass rohstoffgewinnende Unternehmen Rekultivierungsmaßnahmen durchführen. Die Unternehmen sind darüber hinaus dazu verpflichtet eine langfristige bilanzielle Vorsorge („Finanzierungsvorsorge“) zu treffen. Hierzu gehören üblicherweise Maßnahmen, die nach dem Stilllegen des Bergbaus noch erforderlich sind, wie zum Beispiel Maßnahmen zur Wiedernutzbarmachung der in Anspruch genommenen Oberfläche oder Rekultivierungsmaßnahmen. Für diese finanziellen Verpflichtungen werden nach bilanziellen Vorschriften Rückstellungen gebildet.
+    p2: Die Höhe der zu bildenden Rückstellungen basiert auf den zu erwartenden Aufwendungen für verschiedene geplante Maßnahmen. Langfristige steuerrechtliche Rückstellungen mit einer Restlaufzeit von über einem Jahr werden zudem unter Berücksichtigung künftiger Kostensteigerungen mit einem gesetzlich definierten Zinssatz abgezinst. Die zu erwartenden Erfüllungszeitpunkte sind im Wesentlichen abhängig von der wirtschaftlichen Restnutzungsdauer der jeweiligen Förderungsstandorte. Die Verpflichtungen reichen teilweise bei den Unternehmen weit über das Jahr 2050 hinaus.
+    p3: Bergbauliche Rückstellungen werden in den Jahresabschlüssen der rohstoffgewinnenden Betriebe auf der Passivseite der Bilanz ausgewiesen. Sie werden daher als Bilanzposition im Rahmen der Abschlussprüfung durch Wirtschaftsprüfungsunternehmen überprüft. Rückstellungen müssen nach den einschlägigen Vorschriften angemessen sein. Dies wird in steuerrechtlichen Fragen von der Finanzverwaltung überprüft.
+    p4_1: Transparent ausgewiesen werden die Rückstellungen bei den Unternehmen, die ihre Jahresabschlüsse auf
+    link: http://www.bundesanzeiger.de
+    p4_2: veröffentlichen müssen. Die Pflicht der Offenlegung gilt für alle Kapitalgesellschaften nach § 325 HGB, alle Personenhandelsgesellschaften ohne natürliche Person als persönlich haftenden Gesellschafter (z.B. GmbH & Co. KG) und sonstige Unternehmen, die eine gewisse Größe überschreiten.
+
+  sicherheitsleistungen:
+    title: Sicherheitsleistungen
+    p1: Sicherheitsleistungen stellen ein in der Bundesrepublik Deutschland vorgesehenes Instrument dafür dar, die durch rohstoffgewinnende Betriebe zu leistenden Rückbau-, Sicherungs- und Wiedernutzbarmachungsmaßnahmen bei Ausfall oder Verweigerung des Unternehmens ohne zusätzliche Kosten für die Allgemeinheit durch sogenannte Ersatzvornahmen der Behörden umsetzen zu können.
+    p2: Für unter das Bundesberggesetz fallende Rohstoffgewinnungsvorhaben sind Sicherheitsleistungen als behördliches Instrument im Bundesberggesetz ausdrücklich vorgesehen. Einzelne Bundesländer haben für die Rohstoffgewinnung außerhalb des Geltungsbereiches des Bundesberggesetzes in ihren Abgrabungsgesetzen oder anderen untergesetzlichen Regelungen für Abgrabungen vergleichbare Vorschriften erlassen. Zudem können zur Absicherung der Durchführung von Ausgleichs- und Ersatzmaßnahmen für die Eingriffe in Natur und Landschaft gemäß § 17 Abs. 5 BNatSchG  Sicherheitsleistungen festgesetzt werden.
+    p3: Die Bergbehörde kann im Rahmen Ihres Ermessensspielraums nach § 56 Abs. 2 Bundesberggesetz (BBergG) die Zulassung von Betriebsplänen von einer Sicherheitsleistung abhängig machen, soweit diese erforderlich ist, um insbesondere Maßnahmen zur Gefahrenvorsorge und Wiedernutzbarmachung der in Anspruch genommenen Flächen abzusichern. Dies betrifft beispielsweise Folgemaßnahmen bergbaulicher Aktivitäten, wie Wasserhaltungen aber auch der Rückbau von Anlagen, die Entfernung wassergefährdender Stoffe sowie die Sicherung von ehemaligen Abbauflächen durch Verfüllen oder Absperren.
+    p4: Die Behörde kann, sofern sie eine Sicherheit für notwendig hält und sich aus der jeweiligen gesetzlichen Vorschrift keine Beschränkungen ergeben, grundsätzlich jede geeignete Form der Sicherheitsleistung zulassen. Möglich sind die Hinterlegung von Bargeld und Wertpapieren, Hypotheken, spezielle Ausfallversicherungen, betriebliche Rückstellungen, Bank- oder Konzernbürgschaften und sogenannte harte Patronatserklärungen.
+    p5: " Branchenüblich im Rohstoffgewinnungssektor sind betriebliche Rückstellungen, Bankbürgschaften oder Versicherungsbürgschaften und insbesondere bei großen Unternehmen Konzernbürgschaften sowie Patronatserklärungen. Bargeld und Wertpapiere werden üblicherweise nicht als Sicherheit angenommen, da die Verwaltung dieser Finanzmittel durch die Behörde zu komplex ist. Insoweit handelt es sich nicht um Zahlungen der Unternehmen an staatliche Stellen."
+    p6: Die Höhe der festzusetzenden Sicherheitsleistung richtet sich nach den geschätzten Kosten einer möglicherweise notwendigen Ersatzvornahme. Soll ein Vorhaben in Abschnitten durchgeführt werden, wird die Sicherheitsleistung orientiert am tatsächlichen Eingriff etappenweise festgesetzt und nach erfolgreicher Teilwiedernutzbarmachung anteilig freigegeben.
 
 staatliche-subventionen:
   title: Staatliche Subventionen
