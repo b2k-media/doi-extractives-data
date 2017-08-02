@@ -200,7 +200,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td6 %}
+              <td>
                 <a href="http://www.naturschutz.rlp.de/?q=kartendienst,">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.link %}
                 </a>
@@ -220,7 +220,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td6 %}
+              <td>
                 <a href="https://www.umwelt.sachsen.de/umwelt/natur/15205.htm,">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.link %}
                 </a>
@@ -232,7 +232,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td6 %}
+              <td>
                 <a href="http://87.191.164.71/ekis_start/index.php,">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.link %}
                 </a>
