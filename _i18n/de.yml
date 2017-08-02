@@ -466,6 +466,9 @@ anfallende_zahlungen:
       link: Energiesteuergesetz
       p6: geregelt. Für bestimmte Energieerzeugnisse und Verwendungszwecke sind Steuerbegünstigungen im Energiesteuergesetz normiert. [Querverweis zum Subventionskapitel]. Die Energiesteuer wird ebenso wie die Stromsteuer von der Zollverwaltung erhoben und die Einnahmen fließen dem Bund zu. 2015 lag das Energiesteueraufkommen bei ca. 40,3 Milliarden Euro. Das Aufkommen aus Energie- und Stromsteuer stellt nach Einkommensteuer und Umsatzsteuer die drittgrößte Einnahmequelle des Bundes dar.
       p7: Der finanzielle Umfang der Strom- und Energiesteuerzahlungen von Unternehmen des Rohstoffsektors ist derzeit, wie auch der finanzielle Umfang der Strom- und Energiesteuerbegünstigungen (siehe „Subventionen und steuerliche Begünstigungen), nicht ohne unverhältnismäßig hohen bürokratischen Aufwand darstellbar. Entsprechende Statistiken, die nach einzelnen Wirtschaftssektoren unterscheiden, werden bislang nicht geführt.
+      sup:
+        title: "3"
+        text: In der MSG gab es keinen Konsens darüber, inwiefern die Energie- und Stromsteuerzahlungen zu den wesentlichen Zahlungsströmen gehören. Daher werden sie nicht in den Zahlungsabgleich aufgenommen.
 
 steuergeheimnis:
   title: Steuergeheimnis
@@ -533,6 +536,62 @@ verwendung-der-einnahmen:
     title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
     p1: Hier finden sie die landesrechtlichen Regelungen zu den Feldes- und Förderabgaben. Die darin aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG.
     p2: Landesrechtliche Regelungen zu Feldes- und Förderabgaben* *Die aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG
+
+  table:
+    title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+    th1: Bundesland
+    th2: Rechtsgrundlage
+    th3: Feldesabgabe
+    th4: Förderabgabe
+    th4_1: Abgabesätze
+    th4_2: Sonderregelungen
+    row1:
+      bundesland: Baden-Württemberg
+      rechtsgrundlage: VO des Umweltministeriums über die Feldes- und Förderabgabe vom 11.12.2006 (GBl. S. 395), zuletzt geändert durch VO vom 13.11.2014 (GBl. S.618)
+      feldesabgabe1: Erdöl, -gas, Steinsalz und Sole 20 € angefangenem km² für das erste Jahr1
+      feldesabgabe2: "Höchstsatz Erdöl, -gas: 80 €"
+      feldesabgabe3: "Höchstsatz Steinsalz und Sole: 60 €"
+      abgabesätze1:
+        title: Gemessen am Marktwert
+        item1: "Erdöl: 19 %"
+        item2: "Steinsalz: 5 % bzw. 2,5 %5"
+      abgabesätze2: "Naturgas: 37 % des erzielten Preises7"
+      sonderregelungen1:
+        title: 100 % befreit
+        item1: Erdwärme
+        item2: Sole
+      sonderregelungen2: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes2"
+    row2:
+      bundesland: Bayern
+      rechtsgrundlage: "Verordnung über Feldes- und Förderabgaben vom 22.12.1998 (GVBl. 1998 S.1050), zuletzt geändert €-Regelung 2001"
+      feldesabgabe1: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr1"
+      feldesabgabe2: "Höchstsatz: 60 €"
+      abgabesätze1: 5 % des Marktwertes für im Gebiet Aitingen gefördertes Erdöl
+      sonderregelungen1:
+        title: 100 % befreit
+        item1: Erdöl mit Ausnahme des Gebiets Aitingen
+        item2: Naturgas mit Ausnahme des Gebiets Breitbrunn-Eggstätt
+    row3:
+      bundesland: Berlin
+      rechtsgrundlage: Brandenburg
+    row4:
+      bundesland: Brandenburg
+      rechtsgrundlage: "Verordnung über die Feldes- und Förderabgabe im Land Brandenburg (Brandenburgische Förderabgabeverordnung - BbgFördAV) vom 11. Dezember 2015 (GVBl. II/15 Nr.69)"
+      feldesabgabe1: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr1"
+      feldesabgabe2: "Höchstsatz: 60 €"
+      abgabesätze1:
+        title: Gemessen am Marktwert
+        item1: "Erdöl, tonige Gesteine: 10 %"
+        item2: "Kiese und Sande: 7 %"
+        item3: "Torf einschließlich anfallender Mudde und Natursteine: 5 %"
+        item4: "Steinsalz und Sole: 1% bzw. 0,5 %5"
+      abgabesätze2: "Naturgas: 10 % des Bemessungsmaßstabes8"
+      sonderregelungen1:
+        title: 100 % befreit
+        item1: Erdwärme
+        item2: "Natürliche/r Sole und Torf,  gefördert für balneologische Zwecke bzw. als Träger für Erdwärme"
+      sonderregelungen2: "Erdöl und Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes2"
+
 
 staatliche-subventionen:
   title: Staatliche Subventionen
