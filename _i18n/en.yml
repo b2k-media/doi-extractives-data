@@ -917,8 +917,8 @@ wasser:
     p1_3: Eine öffentlich zugängliche Informationsquelle über die Höhe der Einnahmen aus den Wasserentgelten bezogen auf den Rohstoffsektor existiert hingegen nicht.
     p2: Die Wasserentnahmeentgelte stellen einen Zahlungsstrom zwischen rohstofffördernden Unternehmen und dem Staat dar. Unter anderem aufgrund der unterschiedlichen Entgeltsätze in den Bundesländern liegen die Zahlungen vermutlich unter der Wesentlichkeitsschwelle, weshalb sie im ersten D-EITI-Bericht nicht in den Zahlungsabgleich aufgenommen werden.
 
-staatliche-subventionen:
-  title: Staatliche Subventionen
+subventionen-und-steuerliche-begünstigungen:
+  title: Subventionen und steuerliche Begünstigungen
   nav_items:
     - name: title
       title: Seitenanfang
@@ -1032,7 +1032,7 @@ how-it-work:
       title: Sonderthemen
       item1: Umgang mit der Natur
       item2: Wasser
-      item3: Staatliche Subventionen
+      item3: Subventionen und stl. Begünstigungen
 
 downloads:
   title: Daten & Dokumentation Herunterladen
