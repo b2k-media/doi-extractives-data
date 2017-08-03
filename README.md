@@ -22,8 +22,10 @@ The [data catalog](https://github.com/PfeffermindGames/doi-extractives-data/wiki
 ## Running the Site
 This site is made with [Jekyll]. To run it locally, clone this repository then:
 
+Note: You need to have ruby installed on your machine
+
 1. Get [Jekyll] and the necessary dependencies: `bundle install`
-1. Install all node dependencies: `npm install`
+1. Install all node dependencies: `npm install` (if you are getting error related to node-gyp rebuild ignore and continue)
 1. Set the $NODE_ENV to `dev`: `export NODE_ENV=dev`
 1. Package js files with webpack: `webpack --watch`
 1. Run the web server: `bundle exec jekyll serve` (or just `jekyll serve` if you have Jekyll installed globally)
@@ -32,6 +34,7 @@ This site is made with [Jekyll]. To run it locally, clone this repository then:
 ## Deployment
 This site is deployed on [STRATO](https://www.strato.de/server/), and data is updated through an Admin panel that lives in a separate app
 written in Node.js, you can see its source code at https://github.com/PfeffermindGames/resource-map-backend.
+For each year we have two charts.
 
 The site is build with `npm run prod:build`, and is served by a NGINX server.
 

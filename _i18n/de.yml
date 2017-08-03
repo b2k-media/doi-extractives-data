@@ -406,6 +406,508 @@ genehmigung-von-bergbauprojekten:
     k4: Wasserhaushaltsgesetz
     p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
 
+anfallende_zahlungen:
+  title: Anfallende Zahlungen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: zuständigkeit-für-die-einnahmen
+      title: Zuständigkeit für die Einnahmen
+    - name: zahlungen-industrie
+      title: Zahlungen der rohstoffgewinnenden Industrie
+      subnav_items:
+        - name: körperschaftsteuer
+          title: Körperschaftsteuer
+        - name: feldes-und-förderabgaben
+          title: Feldes-und Förderabgaben
+        - name: gewerbesteuer
+          title: Gewerbesteuer
+        - name: pachtzahlungen
+          title: Pachtzahlungen
+        - name: verbrauchsteuern
+          title: verbrauchsteuern
+
+  einnahmen:
+    title: Einnahmen
+    p: Rohstoffgewinnende Unternehmen in Deutschland zahlen verschiedene Gebühren, Abgaben und Steuern auf ihre Tätigkeiten. Unternehmen, die bergfreie Rohstoffe gewinnen, zahlen eine spezifische Feldes- und Förderabgabe gemäß Bundesberggesetz an die Länder. Ausgenommen davon sind die Bodenschätze, die aufgrund sogenannter alter Rechte gewonnen werden (siehe auch „Genehmigung von Bergbauprojekten“). Hier kann jedoch den Eigentümern der aufrechterhaltenen alten Förderrechte oder den früheren Bergbauberechtigten das Recht auf Zahlung eines sog. Förderzinses (z. B. bei den sog. Erdölaltverträgen bzw. Erdgasverträgen) durch die Unternehmen zustehen. Unabhängig von der Tätigkeit unterliegen alle Unternehmen des Rohstoffsektors – wie die übrigen Unternehmen auch – der Gewerbe- und Körperschaftsteuer.
+
+  zuständigkeit-für-die-einnahmen:
+    title: Zuständigkeit für die Einnahmen
+    p: Aufgrund der föderalen Struktur der Bundesrepublik Deutschland ist die Steuerverwaltung zwischen dem Bund und den Ländern aufgeteilt. Je nach Art der Steuer wird sie von den Finanzverwaltungen des Bundes, der Länder oder der Gemeinden erhoben. Eine Ausnahme bilden die Feldes- und Förderabgaben, für deren Erhebung die  Bergämter der Länder zuständig sind.
+  zahlungen-industrie:
+    title: Zahlungen der rohstoffgewinnenden Industrie
+    körperschaftsteuer:
+      title: Körperschaftsteuer
+      p: Rohstoffgewinnende Unternehmen in der Rechtsform der Kapitalgesellschaft (insb. GmbH und AG), die ihren Sitz oder ihre Geschäftsleitung in Deutschland haben, sind unbeschränkt körperschaftsteuerpflichtig. Kapitalgesellschaften ohne Sitz und Geschäftsleitung in Deutschland unterliegen mit ihren inländischen Einkünften der Körperschaftsteuer. In Deutschland beträgt die Körperschaftsteuer 15% des zu versteuernden Einkommens. Sie steht dem Bund und den Ländern gemeinschaftlich zu. Erhoben wird die Körperschaftsteuer von den Finanzämtern der Bundesländer. Den Gesetzestext finden Sie
+      link: hier.
+    feldes-und-förderabgaben:
+      title: Feldes-und Förderabgaben
+      p1: Unternehmen und Personen brauchen zum Aufsuchen von sogenannten bergfreien Bodenschätzen eine Erlaubnis (§ 7 BBergG). Die Inhaber einer solchen Erlaubnis müssen nach § 30 BBergG jährlich eine Feldesabgabe entrichten. Diese beträgt nach § 30 Abs. 3 Satz 1 BBergG grundsätzlich im ersten Jahr nach der Erteilung pro Quadratkilometer eines Erlaubnisfelds fünf Euro und steigt jährlich um fünf auf bis zu maximal 25 Euro an, wobei die Länder durch Rechtsverordnung abweichende Beiträge oder Befreiungen unter bestimmten Voraussetzungen vorsehen können (siehe § 32 Abs. 2 BBergG und Übersicht auf Seite X). Die für die Aufsuchung gemachten Aufwendungen sind auf die Feldesabgabe anzurechnen. Die Feldesabgabe ist an das Land zu entrichten, in dem das Erlaubnisfeld liegt.
+      p2: Werden Bodenschätze gefunden, ist eine Bewilligung für deren Abbau erforderlich. Eine Förderung ist allerdings erst möglich, wenn zusätzlich die erforderlichen Betriebsplangenehmigungen und eventuell weitere Genehmigungen, wie z.B. wasserrechtliche Genehmigungen vorliegen. Sofern die abgebauten Bodenschätze wirtschaftlich verwendet werden können, muss der Inhaber nach § 31 BBergG eine Förderabgabe auf die geförderten bergfreien Bodenschätze entrichten. Der Regelsatz der Förderabgabe liegt bei 10 % des Marktwertes der Bodenschätze (§ 31 Abs. 2 Satz 1 BBergG). Auch hiervon können die Länder in ihren jeweiligen Verordnungen für die Festsetzung der Feldes- und Förderabgaben unter Beachtung bestimmter Voraussetzungen abweichende Regelungen festlegen (siehe § 32 BBergG und Übersicht auf Seite X). Feldes- und Förderabgaben fallen nur für die bergfreien Bodenschätze an. Während die Feldesabgaben in den jeweiligen Landeshaushalten vereinnahmt werden, fließen die Einnahmen aus der rabgabedem Länderfinanzausgleich zu. Feldes- und Förderabgabe werden von den Bergämtern der Bundesländer erhoben.
+    gewerbesteuer:
+      title: Gewerbesteuer
+      p1: Für die Gewerbesteuer sind die Gemeinden zuständig. Sie wird von der Gemeinde erhoben, in deren Gebiet sich die Betriebsstätte befindet. Besteuert wird die objektive Ertragskraft eines Gewerbebetriebs, die im Unterschied zu der Körperschaftsteuer nicht an die wirtschaftliche Leistungsfähigkeit anknüpft. Hinzurechnungen und Kürzungen korrigieren den Ertrag des Gewerbebetriebs (§§ 8 und 9 GewStG). Für die Berechnung der Gewerbesteuer ermittelt das zuständige Finanzamt den Steuermessbetrag, der 3,5% der objektiven Ertragskraft beträgt. Die zuständige Gemeinde setzt einheitlich für alle Unternehmen einen Hebesatz fest, der mindestens 200% betragen muss (§ 16 Abs. 4 Satz 2 GewStG)  und berechnet die Gewerbesteuer auf der Grundlage des Steuermessbetrags und des Hebesatzes.
+      p2: Rohstoffgewinnende Unternehmen in der Rechtsform einer Personen- oder Kapitalgesellschaft sind gewerbesteuerpflichtig. Wenn sich die Betriebsstätte auf dem Gebiet mehrerer Gemeinden befindet oder in mehreren Gemeinden Betriebsstätten betrieben werden, wird die Bemessungsgrundlage der Gewerbesteuer auf die einzelnen Gemeinden aufgeteilt (sogenannte Zerlegung). Als Maßstab für die Zerlegung werden grundsätzlich die Arbeitslöhne in den einzelnen Betriebsstätten herangezogen. Dies bedeutet, dass jede betroffene Gemeinde ihren Anteil an der Gewerbesteuer eines Rohstoffunternehmens erheben kann.
+      p3: Eine Übersicht zu den Hebesätzen (2015) der Gemeinden in Deutschland finden Sie
+      link: hier.
+      p4: Für die Gemeinden stellt die Gewerbesteuer – neben der Grundsteuer – die wesentliche Steuerquelle dar. Einen Teil der Gewerbesteuereinnahmen müssen die Gemeinden als Gewerbesteuerumlage an Bund und Länder abführen. Die den Gemeinden verbleibende Gewerbesteuer fließt in deren allgemeinen Haushalt ein und dient damit u.a. der Finanzierung der lokalen Infrastruktur sowie Bildungs- und Sozialeinrichtungen.
+    pachtzahlungen:
+      title: Pachtzahlungen
+      p1: Die Gewinnung von Bodenschätzen ist in Deutschland durch das BBergG geregelt, soweit es sich um sog. bergfreie oder grundeigene Bodenschätze handelt. Zu den bergfreien Bodenschätzen gehören nach § 3 Abs. 3 BBergG u.a. Metalle, Salze sowie die fossilen Energierohstoffe wie Kohlenwasserstoffe und Stein- und Braunkohle. Das Eigentum an einem Grundstück erstreckt sich nicht auf bergfreie Rohstoffe, insofern sind die Eigentumsrechte des Grundstückseigentümers beschränkt. Grundeigene Bodenschätze stehen dagegen im Eigentum des Grundeigentümers. Der Grundeigentümer darf sie aufsuchen und sich durch Abbau aneignen, ohne dass es hierfür neben der Betriebsplangenehmigung und weiterer erforderlicher öffentlich-rechtlicher Genehmigungen eines zusätzlichen besonderen Rechtstitels bedürfte. Ihre Einbeziehung in den Geltungsbereich des BBergG hat den Zweck, ihren Abbau unter einen bundesweit einheitlichen Rechtsrahmen zu stellen und insbesondere die Rohstoffgewinnung im untertägigen Bergbau einheitlich zu regeln und einer einheitlichen Bergaufsicht zu unterstellen.
+      p2: Neben den grundeigenen Bodenschätzen gibt es die sogenannten Grundeigentümerbodenschätze. Hierbei handelt es sich um Massenrohstoffe wie z.B. Kiese und Sande, die überwiegend als Baustoffe verwendet und im Tagebau gewonnen werden. Auch diese stehen – wie die grundeigenen Bodenschätze – im Eigentum des Grundeigentümers, sie unterliegen allerdings nicht dem Bergrecht bzw. der Bergaufsicht.
+      p3: Für den Abbau von grundeigenen Bodenschätzen und Grundeigentümerbodenschätzen ist es nicht erforderlich, dass der Unternehmer Eigentümer der Flächen ist. Es genügt– und das ist auch vielfach üblich –, dass der Eigentümer die Flächen dem Unternehmen auf Basis einer privatrechtlichen Vereinbarung (z. B. durch Pachtvertrag) zur Verfügung stellt. Die vertraglichen Regelungen können sowohl fixe Zahlungen als auch Zahlungen in Abhängigkeit von der abgebauten Menge oder eine Kombination beider Varianten vorsehen. Auf staatlicher Seite kommen als Eigentümer und Verpächter u.a. Gebietskörperschaften (z.B. Landkreise oder Gemeinden) oder auch Forstämter in Betracht. Die Einnahmen aus den Pachten gehen dementsprechend in kommunale Haushalte bzw. Landeshaushalte ein und stehen damit u.a. der Finanzierung hoheitlicher Aufgaben zur Verfügung.
+    verbrauchsteuern:
+      title: Verbrauchsteuern
+      p1: Im Rahmen der Verbrauchsteuern sind für Unternehmen des Rohstoffsektors besonders die Energie- und die Stromsteuer relevant. Energie- und Stromsteuer sind wie die anderen Verbrauchsteuern explizit aus der Berichtspflicht im Rahmen des handelsrechtlichen (Konzern-)Zahlungsberichts nach EU-Bilanzrichtlinie und deren Umsetzung in § 341r Nr. 3 b) HGB ausgenommen.
+      p2: "Das Energie- und das Stromsteuergesetz beruht auf den harmonisierten Vorgaben der EU-Energiesteuerrichtlinie (RL 2003/96/EG des Rates v. 27.10.2003, ABl. EU Nr. L 283, S. 51). Im Rahmen des Gesetzes zum Einstieg in die ökologische Steuerreform wurden die Stromsteuer am 01.04.1999 in Deutschland eingeführt und die Steuersätze der Energiesteuer (damals noch: Mineralölsteuer) stufenweise erhöht. Damit wurden Anreize geschaffen, den Energieverbrauch zu reduzieren und ressourcenschonende Produkte und Produktionsverfahren zu entwickeln."
+      p3: Die Rechtsgrundlagen für die Erhebung der Stromsteuer sind das Stromsteuergesetz und die Stromsteuer-Durchführungsverordnung. Das Aufkommen der Stromsteuer steht dem Bund zu und lag im Jahr 2015 bei 6,6 Milliarden Euro. Die Einnahmen aus der Stromsteuer und die im Zusammenhang mit der ökologischen Steuerreform erzielten Mehreinnahmen durch die höhere Besteuerung von Kraft- und Heizstoffen tragen dazu bei, die Sozialversicherungsbeiträge auf einem tragbaren Niveau zu halten. Die Verwaltung und Erhebung erfolgen durch die Zollverwaltung.
+      p4: Die Stromsteuer fällt beim Verbrauch an, wird aber aus Praktikabilitätsgründen in der Regel als indirekte Steuer beim Versorger erhoben und über den Strompreis auf die Verbraucher abgewälzt. Damit werden auch Unternehmen der Rohstoffindustrie grundsätzlich mit Stromsteuer belastet. Der Regelsteuersatz beträgt 20,50 Euro je Megawattstunde. Für verschiedene Zwecke wie z.B. Schienenbahnstrom kommen reduzierte Steuersätze in Betracht, während insbesondere das Produzierende Gewerbe von Steuerentlastungen Gebrauch machen kann. [Querverweis zum Subventionskapitel].
+      p5: Die Energiesteuer ist eine bundesgesetzlich geregelte Verbrauchsteuer auf Energieerzeugnisse. Mit ihr wird die Verwendung von Energieerzeugnissen als Kraft- oder Heizstoffe innerhalb des deutschen Steuergebiets besteuert. Als Energieerzeugnisse definiert das Energiesteuergesetz insbesondere Benzin, Dieselkraftstoff, leichtes und schweres Heizöl, Flüssiggas, Erdgas und Kohle sowie bei einer Bestimmung als Kraft- oder Heizstoff auch Biodiesel und Pflanzenöl und Energieerzeugnisse ähnlicher Beschaffenheit. Die Höhe der Steuer ist je nach Energieerzeugnis und Verwendungszweck unterschiedlich und im
+      link: Energiesteuergesetz
+      p6: geregelt. Für bestimmte Energieerzeugnisse und Verwendungszwecke sind Steuerbegünstigungen im Energiesteuergesetz normiert. [Querverweis zum Subventionskapitel]. Die Energiesteuer wird ebenso wie die Stromsteuer von der Zollverwaltung erhoben und die Einnahmen fließen dem Bund zu. 2015 lag das Energiesteueraufkommen bei ca. 40,3 Milliarden Euro. Das Aufkommen aus Energie- und Stromsteuer stellt nach Einkommensteuer und Umsatzsteuer die drittgrößte Einnahmequelle des Bundes dar.
+      p7: Der finanzielle Umfang der Strom- und Energiesteuerzahlungen von Unternehmen des Rohstoffsektors ist derzeit, wie auch der finanzielle Umfang der Strom- und Energiesteuerbegünstigungen (siehe „Subventionen und steuerliche Begünstigungen), nicht ohne unverhältnismäßig hohen bürokratischen Aufwand darstellbar. Entsprechende Statistiken, die nach einzelnen Wirtschaftssektoren unterscheiden, werden bislang nicht geführt.
+      sup:
+        title: "3"
+        text: In der MSG gab es keinen Konsens darüber, inwiefern die Energie- und Stromsteuerzahlungen zu den wesentlichen Zahlungsströmen gehören. Daher werden sie nicht in den Zahlungsabgleich aufgenommen.
+
+steuergeheimnis:
+  title: Steuergeheimnis
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: bedeutung
+      title: Bedeutung
+
+  bedeutung:
+    title: Bedeutung
+    p1: Das Steuergeheimnis besitzt einen hohen Stellenwert in Deutschland. Da die Steuerpflichtigen im Rahmen ihrer Mitwirkungspflichten der Finanzbehörde ihre Steuerverhältnisse vollständig zu offenbaren haben, muss die Geheimhaltung ihrer Angaben gewährleistet sein. Dies wird durch das Steuergeheimnis (§§30 ff. der Abgabenordnung (AO)) sichergestellt. Die Vorschriften regeln, wer das Steuergeheimnis zu wahren hat und unter welchen Voraussetzungen eine Offenbarung oder Verwertung von Daten, die dem Steuergeheimnis unterliegen, zulässig ist. Das Steuergeheimnis dient also dem Schutz des Steuerpflichtigen.
+    p2: Eine Durchbrechung des Steuergeheimnisses ist nur unter sehr strengen Voraussetzungen möglich. So ist eine Offenbarung von Informationen, die dem Steuergeheimnis unterliegen, in der Regel nur zulässig, wenn sie ausdrücklich gesetzlich zugelassen ist, der Betroffene der Offenbarung zustimmt oder an den betreffenden Steuerdaten ein zwingendes öffentliches Interesse besteht.
+    p3: Deshalb ist für die Offenbarung von Daten für freiwillige Berichtsinitiativen – wie die Initiative für Transparenz im rohstoffgewinnenden Sektor – die Zustimmung der betroffenen Unternehmen zwingend erforderlich. Ebenso erfordert die Durchführung des Zahlungsabgleichs betreffend Steuerzahlungen im Rahmen des EITI-Prozesses eine Freigabe des Steuerpflichtigen in Form einer Bevollmächtigung des unabhängigen Verwalters zur Abfrage der relevanten Steuerdaten.
+
+offentliche-berichte:
+  title: Öffentliche Berichte
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: gesetzliche-berichtspflicht
+      title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+    - name: gemeinsamkeiten
+      title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+
+  gesetzliche-berichtspflicht:
+    title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+    p1: "Mit dem Bilanzrichtlinie-Umsetzungsgesetz (BilRUG) vom 23. Juli 2015 wurden die Vorgaben aus der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 in deutsches Recht umgesetzt. Die im Handelsgesetzbuch (HGB) verankerten Vorschriften der §§ 341q ff. HGB entsprechen in weiten Teilen den Anforderungen der EITI. Von diesen handelsrechtlichen Berichtspflichten sind alle „großen“ in der mineralgewinnenden Industrie tätigen oder Holzeinschlag in Primärwäldern betreibenden Kapitalgesellschaften und haftungsbeschränkte Personengesellschaften (vgl. § 341q HGB) betroffen. Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei folgenden Kriterien überschreiten (§ 267 Abs. 3 HBG):"
+    l1: Bilanzsumme von 20 Mio. Euro
+    l2: Nettoumsatzerlöse von 40 Mio. Euro
+    l3: Im Jahresdurchschnitt 250 Beschäftigte
+    p2: Unabhängig von ihrer Größe werden zudem auch kapitalmarktorientierte Kapitalgesellschaften i.S.v. § 264d HGB sowie Kreditinstitute und Versicherungsunternehmen in der Rechtsform der Kapitalgesellschaft (einschließlich haftungsbeschränkter Personenhandelsgesellschaften) von der Berichtspflicht erfasst. Darüber hinaus werden in Konzernstrukturen auch (Tochter-)Gesellschaften in die Berichterstattung einbezogen, die in Kombination mit ihrer Muttergesellschaft die Größenkriterien und das Kriterium der Tätigkeit erfüllen. Auf die Größe und den Sitz der jeweiligen Tochtergesellschaft kommt es hierbei nicht an.
+    p3: Die den gesetzlichen Vorschriften unterliegenden Unternehmen sind dazu verpflichtet, sämtliche in § 341r Nr. 3 HGB aufgeführten Zahlungen an staatliche Stellen ab einer „Wesentlichkeitsschwelle“ von 100.000 Euro je staatlicher Stelle offen zu legen, soweit diese Zahlungen unter einen der in § 341r Nr. 3 aufgeführten Zahlungsgründe fallen. Hierzu gehören neben Steuerzahlungen beispielsweise auch Lizenzen, Konzessionen und andere mit der Förderung von Rohstoffen in Verbindung stehende Vertragsverhältnisse. Die Angaben sind auf Projekte aufzuteilen, soweit im Berichtsjahr mehr als ein Projekt betrieben wurde.
+
+  gemeinsamkeiten:
+    title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+    p1: Neben den gesetzlichen Berichtspflichten nach BilRUG werden die wichtigsten Finanzströme der rohstoffgewinnenden Industrie auch über die EITI offengelegt (siehe hierzu Kapitel 9). Die handelsrechtlichen Berichtspflichten decken sich in weiten Teilen mit den Berichtspflichten nach EITI. Allerdings bestehen auch Unterschiede.
+    p2: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu Kapitel 9). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
+    p3: Im Gegensatz zu BilRUG setzt EITI auf die beiderseitige Offenlegung der Zahlungsströme. So muss zwecks Zahlungsabgleich auch die staatliche Seite Einblick in ihre Einkünfte aus dem Rohstoffsektor gewähren. In diesem Zusammenhang ist es ein Hauptanliegen der EITI, jedem Interessierten die Zahlungsströme in Form von Open Data zugänglich zu machen und damit die öffentliche Debatte zu unterstützen.
+
+verwendung-der-einnahmen:
+  title: Verwendung der Einnahmen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: einnahmen_rohstoffsektor
+      title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+    - name: landesrechtliche_regelungen
+      title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+
+  einnahmen_rohstoffsektor:
+    title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+    p1: Der föderale Staatsaufbau der Bundesrepublik Deutschland spiegelt sich in der Verteilung der Steuereinnahmen wieder. Welche Ebene die Ertragskompetenz hat, wie also die Steuererträge zwischen Bund, Ländern und Gemeinden verteilt werden, ist in Artikel 106 GG geregelt. Dabei wird zwischen Steuern, die den Gemeinden, Ländern oder dem Bund vollständig zufließen und den sog. Gemeinschaftssteuern unterschieden. Im Fall der Gemeinschaftssteuern werden die Einnahmen zwischen dem Bund und den Ländern aufgeteilt.
+    p2: Im Hinblick auf die Rohstoffförderung relevante Beispiele für Gemeinschaftssteuern sind die Körperschaft- und Einkommensteuer. An den Einnahmen aus der Körperschaftssteuer werden der Bund und die Länder zu je 50 % beteiligt.
+    p3: Die Gewerbesteuer hingegen stellt eine reine Gemeindesteuer dar. Somit steht sie als wichtigste Einnahmequellen der Kommunen den Gemeinden zu, in denen die betreffenden Betriebsstätten liegen. Bund und Länder werden durch eine Umlage am Aufkommen der Gewerbesteuer beteiligt.
+    p4: Eine Umverteilung zwischen Bund und Ländern erfolgt ebenso in Bezug auf die Einnahmen aus der Förderabgabe. Sie fließen in den Länderfinanzausgleich. Die Einnahmen aus der Stromsteuer und der Energiesteuer stehen dem Bund zu.
+    p5: Die Steueraufkommen aus der Rohstoffförderung sind gemäß § 3 der AO nicht zweckgebunden, d.h. über ihre Verwendung entscheiden der Bundeshaushalt sowie die Länder- und Kommunalhaushalte frei. Die Höhe und Verwendung der Einnahmen und Ausgaben werden jährlich detailliert offengelegt. Dazu verabschieden der Bund und die Länder Haushaltsgesetze und die Kommunen Haushaltssatzungen, die ihre Haushaltspläne beinhalten. Mit Veröffentlichung der Haushaltspläne erhalten alle Bürgerinnen und Bürger freien Zugang zu den darin enthaltenen Informationen.
+    p6_1: Um der Öffentlichkeit einen Zugang zu Informationen über die Verwendung der Steuereinnahmen zu erleichtern, veröffentlicht das BMF Informationen zum Bundeshaushalt auf der Web-Plattform
+    link1: https://www.bundeshaushalt-info.de/.
+    p6_2:  Zudem können auf der Webseite
+    link2: https://www.offenerhaushalt.de
+    p6_3: weitere Haushalte eingesehen werden.
+
+  landesrechtliche_regelungen:
+    title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+    p1: Hier finden sie die landesrechtlichen Regelungen zu den Feldes- und Förderabgaben. Die darin aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG.
+    p2: Landesrechtliche Regelungen zu Feldes- und Förderabgaben* *Die aufgeführten landesspezifischen Abgabesätze richten sich nach den bundesweit gültigen Richtlinien zu Feldes- und Förderabgaben gemäß BbergG
+
+  table:
+    title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
+    th1: Bundesland
+    th2: Rechtsgrundlage
+    th3: Feldesabgabe
+    th4: Förderabgabe
+    th4_1: Abgabesätze
+    th4_2: Sonderregelungen
+    row1:
+      bundesland: Baden-Württemberg
+      rechtsgrundlage: VO des Umweltministeriums über die Feldes- und Förderabgabe vom 11.12.2006 (GBl. S. 395), zuletzt geändert durch VO vom 13.11.2014 (GBl. S.618)
+      feldesabgabe1: Erdöl, -gas, Steinsalz und Sole 20 € angefangenem km² für das erste Jahr1
+      feldesabgabe2: "Höchstsatz Erdöl, -gas: 80 €"
+      feldesabgabe3: "Höchstsatz Steinsalz und Sole: 60 €"
+      abgabesätze1:
+        title: Gemessen am Marktwert
+        item1: "Erdöl: 19 %"
+        item2: "Steinsalz: 5 % bzw. 2,5 %5"
+      abgabesätze2: "Naturgas: 37 % des erzielten Preises7"
+      sonderregelungen1:
+        title: 100 % befreit
+        item1: Erdwärme
+        item2: Sole
+      sonderregelungen2: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes2"
+    row2:
+      bundesland: Bayern
+      rechtsgrundlage: "Verordnung über Feldes- und Förderabgaben vom 22.12.1998 (GVBl. 1998 S.1050), zuletzt geändert €-Regelung 2001"
+      feldesabgabe1: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr1"
+      feldesabgabe2: "Höchstsatz: 60 €"
+      abgabesätze1: 5 % des Marktwertes für im Gebiet Aitingen gefördertes Erdöl
+      sonderregelungen1:
+        title: 100 % befreit
+        item1: Erdöl mit Ausnahme des Gebiets Aitingen
+        item2: Naturgas mit Ausnahme des Gebiets Breitbrunn-Eggstätt
+    row3:
+      bundesland: Berlin
+      rechtsgrundlage: Brandenburg
+    row4:
+      bundesland: Brandenburg
+      rechtsgrundlage: "Verordnung über die Feldes- und Förderabgabe im Land Brandenburg (Brandenburgische Förderabgabeverordnung - BbgFördAV) vom 11. Dezember 2015 (GVBl. II/15 Nr.69)"
+      feldesabgabe1: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr1"
+      feldesabgabe2: "Höchstsatz: 60 €"
+      abgabesätze1:
+        title: Gemessen am Marktwert
+        item1: "Erdöl, tonige Gesteine: 10 %"
+        item2: "Kiese und Sande: 7 %"
+        item3: "Torf einschließlich anfallender Mudde und Natursteine: 5 %"
+        item4: "Steinsalz und Sole: 1% bzw. 0,5 %5"
+      abgabesätze2: "Naturgas: 10 % des Bemessungsmaßstabes8"
+      sonderregelungen1:
+        title: 100 % befreit
+        item1: Erdwärme
+        item2: "Natürliche/r Sole und Torf,  gefördert für balneologische Zwecke bzw. als Träger für Erdwärme"
+      sonderregelungen2: "Erdöl und Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes2"
+
+umgang-mit-der-natur:
+  title: Umgang mit der Natur
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: naturschutzrechtliche_eingriffsregelungen
+      title: Naturschutzrechtliche Eingriffsregelungen
+      subnav_items:
+        - name: rechtlicher_rahmen
+          title: Rechtlicher Rahmen
+        - name: zulassungspraxis_rohstoffförderung
+          title: Zulassungspraxis bei der Rohstoffförderung
+        - name: dokumentation_von_kompensationsmaßnahmen
+          title: Dokumentation von Kompensationsmaßnahmen für Eingriffe in die Natur
+        - name: table
+          title: Übersicht Kompensationsverzeichnisse in den Bundesländern
+        - name: beispiel
+          title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
+        - name: beispiel_für_festsetzung
+          title: Beispiel für die Festsetzung von Ersatzgeldzahlungen in Nordrhein-Westfalen (NRW)
+        - name: kooperation_zwischen
+          title: Kooperation zwischen Stakeholdern
+    - name: rückstellungen
+      title: Rückstellungen
+    - name: sicherheitsleistungen
+      title: Sicherheitsleistungen
+
+  naturschutzrechtliche_eingriffsregelungen:
+    title: Naturschutzrechtliche Eingriffsregelungen
+    p1: Jede Bergbautätigkeit ist mit Eingriffen in Natur und Landschaft verbunden und kann gravierende Umweltbelastungen zur Folge haben. Gleichzeitig kann auf ehemaligen, aber auch auf bestimmten Arealen betriebener Abbauflächen ein Beitrag zur Sicherung der Biodiversität geleistet werden. Kompensationsmaßnahmen wie Ausgleichs- oder Ersatzmaßnahmen sowie Ersatzzahlungen sollen Eingriffe in Natur und Landschaft kompensieren und deren Funktion wiederherstellen.
+    p2_1: Der für die mittel- bis langfristige Rohstoffsicherung erforderliche Flächenbedarf wird auf rund 1% der Fläche Deutschlands geschätzt. Die dabei tatsächlich in Abbau stehende Fläche beträgt 29 km² oder – bezogen auf die Fläche Deutschlands – 0,008%
+    link1: (Bundesanstalt für Geowissenschaften und Rohstoffe 2016).
+    p2_2: Das entspricht einer täglichen Flächeninanspruchnahme von durchschnittlich 8 Hektar.  Die für die Rohstoffgewinnung genutzten Flächen sind regional unterschiedlich konzentriert, wodurch auch die damit verbundenen Eingriffe in Natur und Landschaft große regionale Unterschiede und Konzentrationen aufweisen.
+
+    rechtlicher_rahmen:
+      title: Rechtlicher Rahmen
+      p1: Im Bundesnaturschutzgesetz (BNatSchG) ist als allgemeiner Grundsatz zu Eingriffen geregelt, dass erhebliche Beeinträchtigungen von Natur und Landschaft vom Verursacher vorrangig zu vermeiden und zu minimieren sind. Nicht vermeidbare Beeinträchtigungen sind durch Ausgleichs- oder Ersatzmaßnahmen (im Weiteren „Kompensationsmaßnahmen“) oder, soweit dies nicht möglich ist, durch einen Ersatz in monetärer Form zu kompensieren (§ 13 BNatSchG). Dieser allgemeine Grundsatz bildet somit eine Abarbeitungskaskade, die zuerst die Vermeidung, dann die Kompensationsmaßnahmen, und als letzte Möglichkeit die Ersatzgeldzahlung vorsieht. Bei Bergbaumaßnahmen zielt dieses Vermeidungsgebot vor allem auf eine möglichst umweltschonende Ausführungsvariante ab, da Standortalternativen aufgrund der Art des Rohstoffs und technischer Erwägungen nicht möglich sein können und Nullvarianten aufgrund der ökonomischen Vorrangigkeit des Rohstoffabbaus ausscheiden können. Unvermeidbare Beeinträchtigungen von Natur und Landschaft sind insbesondere durch Förderung natürlicher Sukzession, Renaturierung, naturnahe Gestaltung, Wiedernutzbarmachung oder Rekultivierung auszugleichen oder zu mindern (§ 1 Abs. 5 S. 4 BNatSchG).
+      p2: Kompensationsmaßnahmen sind in dem jeweils erforderlichen Zeitraum zu unterhalten und rechtlich zu sichern. Der Unterhaltungszeitraum wird von der Zulassungsbehörde im Zulassungsbescheid festgelegt. Für die Ausführung, Unterhaltung und Sicherung der Kompensationsmaßnahmen ist der Verursacher des Eingriffs oder dessen Rechtsnachfolger verantwortlich.
+      p3: Nach bundes- und europarechtlichen Vorgaben sind in Zulassungsverfahren von naturschutzrechtlichen Eingriffen zudem die möglichen Auswirkungen eines Vorhabens auf besonders geschützte Tier- und Pflanzenarten (besonderes Artenschutzrecht) sowie auf das europäische Schutzgebietsnetz NATURA 2000 zu prüfen.
+      p4: Das BNatSchG enthält eine Vollregelung, d.h. Landesgesetze und -normen zur instrumentalen Ausgestaltung der Eingriffsregelung dürfen dieser nicht widersprechen. Zur Konkretisierung bei der Anwendung der Vorschriften haben die Länder zum Teil ergänzende Regelungen getroffen, wobei die Praxis in den Ländern unterschiedlich ist. Beispielsweise ist die konkrete Bemessung der Höhe und Verwendung von Ersatzgeldzahlungen von Bundesland zu Bundesland unterschiedlich.
+
+    zulassungspraxis_rohstoffförderung:
+      title: Zulassungspraxis bei der Rohstoffförderung
+      p1: Plant ein Unternehmen einen Eingriff in die Natur und Landschaft im Rahmen der Rohstoffförderung, wird die naturschutzrechtliche Eingriffsreglung auf Ebene der zuständigen Zulassungsbehörde abgearbeitet. Das sind entsprechend der jeweiligen Rohstoffart entweder die Bergbehörden der deutschen Bundesländer (bei bergfreien und grundeigenen Rohstoffen) oder die mit dem Vollzug der landesrechtlichen Abgrabungsgesetze, des Bau- und Wasserhaushaltsrechts oder des Bundesimmissionsschutzgesetzes beauftragten Landesbehörden (bei sog. Grundeigentümerbodenschätzen). Dieses Vorgehen entspricht dem sogenannten „Huckepack-Verfahren“, bei dem alle Vorhaben, die aufgrund anderer Rechtsvorschriften ohnehin der Zulassung von einer Behörde bedürfen, die Zulassung von der zuständigen Fachbehörde im „Benehmen“ mit der zuständigen Naturschutzbehörde erteilt bekommen (§ 17 BNatSchG). Damit muss der zuständigen Naturschutzbehörde eine Stellungnahme im Zulassungsverfahren eingeräumt werden, wobei die jeweilige Zulassungsbehörde nicht an die Empfehlungen der Naturschutzbehörde gebunden ist. Die Bestimmungen des besonderen Artenschutzes sind jedoch zwingend und unterliegen nicht der Abwägung. Ferner sind Schutzgebietsausweisungen zu beachten.
+      p2: Im Zulassungsverfahren legt der/die Unternehmer/in hierzu der zuständigen Behörde einen landschaftspflegerischen Begleitplan (LBP) vor, welcher insbesondere Angaben über Ort, Art, Umfang und zeitlichen Ablauf des Eingriffs sowie die vorgesehenen Vermeidungs- und Kompensationsmaßnahmen und ggf. auch über den Ersatzgeldumfang macht. Hierbei wird regelmäßig der überwiegende Teil der erforderlichen Kompensation im Rahmen der Renaturierung bzw. Rekultivierung erbracht (siehe Zielbestimmung BNatSchG). Kompensationsmaßnahmen auf externen Flächen sind dann erforderlich, wenn sich bestimmte Landschafts- bzw. Biotopstrukturen nicht wiederherstellen lassen oder wenn aus artenschutzrechtlichen Gründen spezielle Maßnahmen notwendig sind.
+      p3: Beim Abbau der sogenannten bergfreien (z.B. Kohle, Salze, Erdöl und Erdgas) und grundeigenen (z.B. Steine, Erden und Industrieminerale) Bodenschätze, der durch das Bundesberggesetz (BBergG) geregelt wird, wird die Eingriffsregelung nach dem BNatSchG im Rahmen des bergrechtlichen Betriebsplanverfahrens abgearbeitet, wobei die Pflichten nach dem BNatSchG vollumfänglich gelten. Der Ausgleich von Eingriffen kann bereits im Rahmen der bergrechtlichen Verpflichtung zur Wiedernutzbarmachung der Oberfläche (§ 55 Abs. 1 Nr. 7 BBergG, § 1 Abs. 5 S. 4 BNatSchG) erfolgen. Soweit dies nicht möglich ist, sind Ausgleichs- und/oder Ersatzmaßnahmen oder nachrangig Ersatzgeldzahlungen nach BNatSchG erforderlich (siehe hierzu Beispiel aus NRW unten). Bei Verfahren, die unter das Bundesberggesetz fallen, finden dabei auch die rechtlichen Instrumente des BBergG, wie insbesondere die regelmäßige Kontrolle durch die in der Regel alle zwei Jahre vorzulegenden und neu zu genehmigenden Hauptbetriebspläne Anwendung.
+
+    dokumentation_von_kompensationsmaßnahmen:
+      title: Dokumentation von Kompensationsmaßnahmen für Eingriffe in die Natur
+      p1: Seit der Novellierung des BNatschG 2010 sind die Bundesländer verpflichtet, Kompensationsverzeichnisse für sämtliche Eingriffe in die Natur zu erstellen. Diese sind jedoch unterschiedlich ausgeprägt und nicht in allen Bundesländern öffentlich einsehbar.
+
+    table:
+      title: Übersicht Kompensationsverzeichnisse in den Bundesländern
+      table_title: "Quelle: eigene Darstellung, Stand: Mai 2017"
+      th1: Bundesland
+      th2: Öffentlich einsehbar
+      th3: Zentral für das Bundes-land
+      th4: Umfassende Informationen zur Eingriffsfläche und Kompensationsart
+      th5: Erfasst mögliche  Ersatzzahlungen
+      th6: Weblink
+      row1:
+        td1: Baden-Württemberg
+        td2: Ja
+        td3: Nein
+        td4: Ja
+        td5: Nein
+        td6: Onlinearchive der
+        link: Landkreise.
+      row2:
+        td1: Bayern
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        td6: Daten-
+        link: Download.
+      row3:
+        td1: Berlin
+        td2: Ja
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        td6: Browserbasierter
+        link:  Kartendienst.
+      row4:
+        td1: Brandenburg
+        td2: Nein
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        td6: Im Aufbau
+      row5:
+        td1: Bremen
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        td6_1: Daten
+        link1: -Download;
+        td6_2: Browserbasierter
+        link2: Kartendienst.
+      row6:
+        td1: Hamburg
+        td2: Ja
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        td6: Browserbasierter.
+        link: Kartendienst.
+      row7:
+        td1: Hessen
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        td6: Browserbasierter.
+        link: Kartendienst.
+      row8:
+        td1: Mecklenburg-Vorpommern
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        link1: Download;
+        td6: Browserbasierter
+        link2: Kartendienst.
+      row9:
+        td1: Niedersachsen
+        td2: Teilweise
+        td3: Nein
+        td4: Teilweise (s. Bsp. Landkreis Cuxhaven)
+        td5: Nein
+        td6: Browserbasierter Kartendienst am Bsp. LK .
+        link: Cuxhaven.
+      row10:
+        td1: Nordrhein-Westfalen
+        td2: Geplant
+        td3: Nein
+        td4: Ja
+        td5: Nein
+      row11:
+        td1: Rheinland-Pfalz
+        td2: Ja
+        td3: Ja
+        td4: Ja
+        td5: Nein
+        link: Kartendienst.
+      row12:
+        td1: Saarland
+        td2: Nein
+        td3: Nein
+        td4: Nein
+        td5: Nein
+      row13:
+        td1: Sachsen
+        td2: Nein
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        link: Beschreibung.
+      row14:
+        td1: Sachsen-Anhalt
+        td2: "Teilweise (Ökokonten: Ja, Kompensationsverzeichnis: Nein)"
+        td3: Ja
+        td4: Nein
+        td5: Nein
+        link: Login
+      row15:
+        td1: Schleswig-Holstein
+        td2: Ja
+        td3: Nein
+        td4: Nein
+        td5: Nein
+        td6: Browserbasierter
+        link: Kartendienst.
+      row16:
+        td1: Thüringen
+        td2: Nein
+        td3: Ja
+        td4: Ja
+        td5: Ja
+
+    beispiel:
+      title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
+      p1: Grundlage für das baden-württembergische Kompensationsverzeichnis bildet neben dem § 17 Abs. 6 BNatSchG die Kompensationsverzeichnis-Verordnung und die Ökokonto-Verordnung des Landes, welche eine öffentliche Dokumentationspflicht vorsehen. Beide Verordnungen können auf der Webseite des Umweltministeriums Baden-Württembergs heruntergeladen werden. Das baden-württembergische Kompensationsverzeichnis ist in die Abteilungen „Ökokonto“ und „Eingriffskompensation“ unterteilt.
+      p2: Ein Ökokonto ist ein Instrument für Eingriffsverursacher, um Kompensationsmaßnahmen zeitlich und räumlich von der Abbaufläche zu entkoppeln und somit flexibler zu managen. Über sogenannte „Ökopunkte“, die durch die gezielte ökologische Aufwertung von externen Flächen angesammelt werden, können Kompensationsmaßnahmen bevorratet und die entsprechenden Ökopunkte bei späteren Eingriffen verbraucht werden, um sie ganz oder in Teilen auszugleichen. Eingriffsverursacher wie z.B. Rohstoffunternehmen und Kommunen treten hierbei sowohl als Produzenten als auch als Verbraucher und Händler von Ökopunkten auf.
+      p3_1: Eine zentrale Übersicht über die Gesamtanzahl aller Eingriffe in Baden-Württemberg, einschließlich ihrer Kompensationsmaßnahmen, ist zwar nicht verfügbar, jedoch können die naturschutz-rechtlichen Ökokontomaßnahmen sowie die bereits einem naturschutzrechtlichen Eingriff zugeordneten Kompensationsmaßnahmen über die Internetseiten der zuständigen unteren Naturschutzbehörden auf Ebene der Stadt- und Landkreise abgerufen werden
+      link1: http://www4.lubw.baden-wuerttemberg.de/servlet/is/225385/
+      link2:  bzw. http://www4.lubw.baden-wuerttemberg.de/servlet/is/225375/
+      p3_2: "Dort sind folgende Informationen zu den naturschutzrechtlichen Kompensationsmaßnahmen der Kreise einsehbar:"
+      list1:
+        item1: Bezeichnung der Zulassungsbehörde und der Kompensationsmaßnahme (Kurzbeschreibung),
+        item2: Aktenzeichen und Datum des Zulassungsbescheids,
+        item3: Art des den Eingriff verursachenden Vorhabens
+        item4: Vorhabenträger/in,
+        item5: Lage der Kompensationsfläche,
+        item6: Maßgaben zur fristgerechten Umsetzung der Kompensationsmaßnahme und zum festgesetzten Unterhaltungszeitraum,
+        item7: Stand der Umsetzung.
+      p4: "Für die Ökokontomaßnahmen sind weiterhin folgende Informationen einsehbar:"
+      list2:
+        item1: Maßnahmenkomplex
+        item2: Status
+        item3: Naturraum,
+        item4: Lage der Maßnahme,
+        item5: Ökopunkte.
+      p5: Im Kompensationsverzeichnis des Landes Baden-Württemberg sind Kompensationsmaßnahmen sowohl auf Eingriffsflächen, als auch auf Ersatzflächen dokumentiert. Aufgelistet sind Maßnahmen seit April 2011.
+
+    beispiel_für_festsetzung:
+      title: Beispiel für die Festsetzung von Ersatzgeldzahlungen in Nordrhein-Westfalen (NRW)
+      p1: Ersatzgeld kann als Ultima Ratio bei einem zugelassenen Eingriff erhoben werden, wenn Beeinträchtigungen der Natur nicht zu vermeiden oder in angemessener Frist auszugleichen oder zu ersetzen sind. Nach dem BNatSchG richtet sich die Ersatzgeldzahlung nach den durchschnittlichen Kosten der nicht durchführbaren Kompensationsmaßnahmen einschließlich der erforderlichen Kosten für deren Planung und Unterhaltung sowie die Flächenbereitstellung unter Einbeziehung der Personal- und sonstigen Verwaltungskosten. Sind diese nicht feststellbar, bemisst sich die Ersatzgeldzahlung nach Dauer und Schwere des Eingriffs unter Berücksichtigung der dem Verursacher daraus erwachsenden Vorteile (§ 15 Abs. 6 S. 1ff. BNatSchG).
+      p2: Bei der Zulassung der Aktivitäten der rohstofffördernden Industrie in NRW ist die Festsetzung von Ersatzgeldzahlungen die Ausnahme. Dennoch gibt es Fälle, bei denen z.B. der überwiegende Teil der Kompensation in der Rekultivierung erfolgt, ein kleines rechnerisches Kompensationsdefizit aber noch auf einer externen Fläche umzusetzen wäre oder die Festsetzung der Kompensation durch Wiedernutzbarmachung nicht zweckmäßig ist. Wenn diese Fläche bzw. die erforderliche Maßnahme mit verhältnismäßigem Aufwand nicht verfügbar, nicht umsetzbar bzw. nicht zweckmäßig ist, erfolgt eine entsprechende Ersatzgeldfestsetzung. In NRW wird diese Festsetzung entsprechend den Vorgaben des Landesnaturschutzgesetzes (LG) im Benehmen mit der jeweils zuständigen höheren Landschaftsbehörde vorgenommen (§ 6 Abs. 1 LG).
+      p3: Empfänger des Ersatzgeldes ist die regional zuständige untere Landschaftsbehörde, welche das Ersatzgeld zweckgebunden für Maßnahmen des Naturschutzes und der Landschaftspflege zu verwenden hat (§ 4a Abs. 1 LG). Soweit das Ersatzgeld für einen Eingriff in Waldflächen zu zahlen oder für eine Aufforstung von Flächen zu verwenden ist, wird es der Forstverwaltung zu Verfügung gestellt (§ 4a Abs. 2 LG).
+      p4: Beispiele für Ersatzgeldfestsetzungen sind die Kiestagebaue im Tagebauvorfeld der Braunkohlevorhaben. In drei Tagebauen war eine ökologisch wertvolle Wiedernutzbarmachung nicht angezeigt, weil im direkten Anschluss zur Kies- bzw. Sandgewinnung der Braunkohlentagebau die Fläche nutzt. Für diese Fälle hat die dortige untere Landschaftsbehörde ein vereinfachtes Bewertungsverfahren entwickelt, mit welchem eine angemessene Ersatzgeldzahlung ermittelt werden kann. Für die drei vorgenannten Vorhaben sind insgesamt Ersatzgeldzahlungen von 265.767,90 Euro festgesetzt worden.
+      p5: Für einen weiteren Kiestagebau wurde im Rahmen einer kleinflächigen Erweiterungsplanung ein Ersatzgeld festgesetzt, sofern die beabsichtigte Rekultivierung nicht umgesetzt werden kann. Mit dem eingenommenen Ersatzgeld von 21.900 Euro soll dann die untere Landschaftsbehörde des Kreises eine andere gleichwertige Kompensationsmaßnahme umsetzen. (Bei den vorgenannten Beispielen handelt es sich nicht um eine abschließende Aufzählung).
+      p6: In den Jahren zwischen 2011 und 2015 hat es bei der Bergbehörde NRW Ersatzgeldfestsetzungen von insgesamt ca. 300.000 Euro gegeben. Für die Braunkohlenbergbaue in NRW hat es bisher keine Ersatzgeldzahlungen gegeben; die Eingriffskompensation erfolgt überwiegend in der Wiedernutzbarmachung. Das Verhältnis der vielen und teilweise auch sehr großflächigen Tagebauvorhaben (insbesondere im Braunkohlenbergbau) unter Bergrecht in NRW zu den wenigen vorgenannten kleinen Vorhaben zeigt, dass die Festsetzung von Ersatzgeld in den bergrechtlichen Verfahren eine untergeordnete Rolle spielt.
+
+    kooperation_zwischen:
+      title: Kooperation zwischen Stakeholdern
+      p: Weil jede Rohstoffextraktion einen erheblichen Eingriff in Natur und Landschaft darstellt, sollte eine umweltschonende Abbauführung und Gewinnungstechnik Unternehmensstandard sein. Eine zeitnahe Renaturierung und Rekultivierung kann zur Förderung der biologischen Vielfalt beitragen, aber auch betriebene Abbaustätten sind Habitate für seltene Tiere und Pflanzen. Hierbei hat sich die Zusammenarbeit zwischen abbauenden Unternehmen, dort Beschäftigten und ortskundigen Naturschützern als sinnvoll erwiesen. Dadurch kann das Betriebsmanagement an die lokalen und spezifischen Biodiversitätsansprüche angepasst werden. Dies gelingt in der Regel, wenn Unternehmensleitung und Beschäftigte kontinuierlich im Dialog mit naturschutzfachlich kundigen Institutionen und Personen stehen. Bei Erweiterungen oder neuen Abbauvorhaben dient der frühzeitige Dialog von Interessensträgern auch dazu, Konflikte gar nicht erst entstehen zu lassen. Informations- und Schulungsmaterialien zum Thema helfen der Breitenwirkung solcher Initiativen, die durch mitgliedsstarke Umwelt- und Naturschutzverbände, die Industriegewerkschaften Bergbau, Chemie, Energie und Bauen-Agrar-Umwelt sowie Wirtschaftsverbände auf Bundes- und Landesebene unterstützt werden.
+
+  rückstellungen:
+    title: Rückstellungen
+    p1: In Deutschland ist bundesgesetzlich geregelt, dass rohstoffgewinnende Unternehmen Rekultivierungsmaßnahmen durchführen. Die Unternehmen sind darüber hinaus dazu verpflichtet eine langfristige bilanzielle Vorsorge („Finanzierungsvorsorge“) zu treffen. Hierzu gehören üblicherweise Maßnahmen, die nach dem Stilllegen des Bergbaus noch erforderlich sind, wie zum Beispiel Maßnahmen zur Wiedernutzbarmachung der in Anspruch genommenen Oberfläche oder Rekultivierungsmaßnahmen. Für diese finanziellen Verpflichtungen werden nach bilanziellen Vorschriften Rückstellungen gebildet.
+    p2: Die Höhe der zu bildenden Rückstellungen basiert auf den zu erwartenden Aufwendungen für verschiedene geplante Maßnahmen. Langfristige steuerrechtliche Rückstellungen mit einer Restlaufzeit von über einem Jahr werden zudem unter Berücksichtigung künftiger Kostensteigerungen mit einem gesetzlich definierten Zinssatz abgezinst. Die zu erwartenden Erfüllungszeitpunkte sind im Wesentlichen abhängig von der wirtschaftlichen Restnutzungsdauer der jeweiligen Förderungsstandorte. Die Verpflichtungen reichen teilweise bei den Unternehmen weit über das Jahr 2050 hinaus.
+    p3: Bergbauliche Rückstellungen werden in den Jahresabschlüssen der rohstoffgewinnenden Betriebe auf der Passivseite der Bilanz ausgewiesen. Sie werden daher als Bilanzposition im Rahmen der Abschlussprüfung durch Wirtschaftsprüfungsunternehmen überprüft. Rückstellungen müssen nach den einschlägigen Vorschriften angemessen sein. Dies wird in steuerrechtlichen Fragen von der Finanzverwaltung überprüft.
+    p4_1: Transparent ausgewiesen werden die Rückstellungen bei den Unternehmen, die ihre Jahresabschlüsse auf
+    link: http://www.bundesanzeiger.de
+    p4_2: veröffentlichen müssen. Die Pflicht der Offenlegung gilt für alle Kapitalgesellschaften nach § 325 HGB, alle Personenhandelsgesellschaften ohne natürliche Person als persönlich haftenden Gesellschafter (z.B. GmbH & Co. KG) und sonstige Unternehmen, die eine gewisse Größe überschreiten.
+
+  sicherheitsleistungen:
+    title: Sicherheitsleistungen
+    p1: Sicherheitsleistungen stellen ein in der Bundesrepublik Deutschland vorgesehenes Instrument dafür dar, die durch rohstoffgewinnende Betriebe zu leistenden Rückbau-, Sicherungs- und Wiedernutzbarmachungsmaßnahmen bei Ausfall oder Verweigerung des Unternehmens ohne zusätzliche Kosten für die Allgemeinheit durch sogenannte Ersatzvornahmen der Behörden umsetzen zu können.
+    p2: Für unter das Bundesberggesetz fallende Rohstoffgewinnungsvorhaben sind Sicherheitsleistungen als behördliches Instrument im Bundesberggesetz ausdrücklich vorgesehen. Einzelne Bundesländer haben für die Rohstoffgewinnung außerhalb des Geltungsbereiches des Bundesberggesetzes in ihren Abgrabungsgesetzen oder anderen untergesetzlichen Regelungen für Abgrabungen vergleichbare Vorschriften erlassen. Zudem können zur Absicherung der Durchführung von Ausgleichs- und Ersatzmaßnahmen für die Eingriffe in Natur und Landschaft gemäß § 17 Abs. 5 BNatSchG  Sicherheitsleistungen festgesetzt werden.
+    p3: Die Bergbehörde kann im Rahmen Ihres Ermessensspielraums nach § 56 Abs. 2 Bundesberggesetz (BBergG) die Zulassung von Betriebsplänen von einer Sicherheitsleistung abhängig machen, soweit diese erforderlich ist, um insbesondere Maßnahmen zur Gefahrenvorsorge und Wiedernutzbarmachung der in Anspruch genommenen Flächen abzusichern. Dies betrifft beispielsweise Folgemaßnahmen bergbaulicher Aktivitäten, wie Wasserhaltungen aber auch der Rückbau von Anlagen, die Entfernung wassergefährdender Stoffe sowie die Sicherung von ehemaligen Abbauflächen durch Verfüllen oder Absperren.
+    p4: Die Behörde kann, sofern sie eine Sicherheit für notwendig hält und sich aus der jeweiligen gesetzlichen Vorschrift keine Beschränkungen ergeben, grundsätzlich jede geeignete Form der Sicherheitsleistung zulassen. Möglich sind die Hinterlegung von Bargeld und Wertpapieren, Hypotheken, spezielle Ausfallversicherungen, betriebliche Rückstellungen, Bank- oder Konzernbürgschaften und sogenannte harte Patronatserklärungen.
+    p5: " Branchenüblich im Rohstoffgewinnungssektor sind betriebliche Rückstellungen, Bankbürgschaften oder Versicherungsbürgschaften und insbesondere bei großen Unternehmen Konzernbürgschaften sowie Patronatserklärungen. Bargeld und Wertpapiere werden üblicherweise nicht als Sicherheit angenommen, da die Verwaltung dieser Finanzmittel durch die Behörde zu komplex ist. Insoweit handelt es sich nicht um Zahlungen der Unternehmen an staatliche Stellen."
+    p6: "Die Höhe der festzusetzenden Sicherheitsleistung richtet sich nach den geschätzten Kosten einer möglicherweise notwendigen Ersatzvornahme. Soll ein Vorhaben in Abschnitten durchgeführt werden, wird die Sicherheitsleistung orientiert am tatsächlichen Eingriff etappenweise festgesetzt und nach erfolgreicher Teilwiedernutzbarmachung anteilig freigegeben."
+
+wasser:
+  title: Wasser
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: wasserentnahme
+      title: Wasserentnahme zur Rohstoffförderung
+      subnav_items:
+        - name: verwendung_des_wasser
+          title: Verwendung des Wassers
+        - name: beispiel
+          title: "Beispiel: Wassernutzung im Kali- und Steinsalzbergbau"
+        - name: rechtlicher
+          title: Rechtlicher Rahmen der Wasserentnahme
+        - name: ausgestaltung
+          title: Ausgestaltung der Wasserentnahmeentgelte
+    - name: wasserentnahmeentgelte
+      title: Wasserentnahmeentgelte im Rohstoffsektor
+  wasserentnahme:
+    title: "Wasserentnahme zur Rohstoffförderung"
+    p1_1: "Im Zuge des Abbaus und der Weiterverarbeitung von Rohstoffen kann die Entnahme von Grund- und Oberflächenwasser erforderlich sein. Wie viel Wasser für Aktivitäten des Rohstoffsektors entnommen wird, veröffentlichen die zuständigen statistischen Landesämter der einzelnen Bundesländer."
+    sup4:
+      title: "4"
+      text: "Quelle: Statistisches Bundesamt, Umweltökonomische Gesamtrechnung"
+      link: "https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/<br/>Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html"
+    p1_2: Eine Übersicht hierzu bietet Abbildung 4.
+    p2_1: Der Sektor „Bergbau und Gewinnung von Steinen und Erden“ entnahm im Jahr 2013 insgesamt 1.583 Mio. m³ Wasser aus Gewässern (i.W. Grundwasser). Davon entfiel rund drei Viertel auf den Kohlebergbau. Dies entspricht etwa 5% des gesamten  2013 in Deutschland durch Wirtschaft und Privathaushalte entnommenen Wassers.
+    sup5:
+      title: "5"
+      text: "In manchen Bundesländern wird zwischen den beiden Bereichen 1. Erzbau, Steine und Erden, sonst. Bergbau und 2. Kohle, Torf, Erdöl und Gas unterschieden; z. B. Statistisches Landesamt Sachsen (2013): Wasserversorgung und Abwasserentsorgung in den Betrieben des  nichtöffentlichen Bereiches im Freistaat Sachsen,"
+      link: "https://www.statistik.sachsen.de/download/100_Berichte-Q/Q_I_2_3j_13_SN.pdf"
+    p2_2: Je nach regionaler  Bedeutung des Rohstoffsektors -insbesondere des Kohlebergbaus - liegt der Anteil in manchen Bundesländern höher (in Einzelfällen bis zu 30 %).
+
+    verwendung_des_wasser:
+      title: Verwendung des Wassers
+      p1: Bereits bei der Erschließung einer Rohstofflagerstätte kann das Abpumpen von Grundwasser zu einer Absenkung des Grundwasserspiegels führen. Zudem können Wasserentnahmen während des Abbaus notwendig werden, beispielsweise um Schächte oder Abbaugruben trocken zu halten. Dieses sogenannte Sümpfungs- und Grubenwasser wird, wenn nötig, aufbereitet, gereinigt und im Anschluss als Kühlwasser genutzt, der Allgemeinheit als Trink- und Brauchwasser zur Verfügung gestellt, als Wasser zum Schutz und zum Erhalt von Feuchtbiotopen eingesetzt oder ohne weitere Verwendung in das Oberflächengewässer eingeleitet.
+      p2: Die Wassernutzung durch den Bergbau ist mit Folgen für den Wasserhaushalt verbunden. Umweltauswirkungen können sich unter anderem aus der Veränderung des Grundwasserspiegels, der Fließgeschwindigkeit von Gewässern sowie durch das Einleiten von Sümpfungs- und Grubenwasser in Oberflächengewässer ergeben.
+    beispiel:
+      title: "Beispiel: Wassernutzung im Kali- und Steinsalzbergbau"
+      p1: "Im Kali- und Steinsalzbergbau wird in vielen Prozessen Wasser unterschiedlicher Herkunft und Qualität genutzt und eingesetzt, darunter Flusswasser, Grundwasser und Trinkwasser.
+      So wird bei der bergmännischen Gewinnung von Kali- und Steinsalz unter Tage das Rohsalz in der Regel mittels Bohren und Sprengen abgebaut. Salz kann jedoch auch in einem Solbetrieb gewonnen werden. Hierbei wird durch ein Bohrloch Frischwasser in lösefähiges (Salz-)Gestein eingebracht, wodurch mit Salzwasser gefüllte Kammern entstehen. Anschließend wird das mit Salz gesättigte Wasser (die sogenannte Sole) über eine weitere Rohrleitung an die Erdoberfläche gefördert. Hier wird schließlich das Salz durch das Verdampfen der Sole gewonnen."
+    rechtlicher:
+      title: Rechtlicher Rahmen der Wasserentnahme
+      p1_1: "Mit der Wasserrahmenrichtlinie (WRRL) ist im Jahr 2000 ein EU-weiter Ordnungsrahmen für den Schutz der Gewässer und des Grundwassers geschaffen worden. Die WRRL gibt unter anderem vor, dass Kosten für Wasserdienstleistungen (zu denen bestimmte Wasserentnahmen zählen können) einschließlich umwelt- und ressourcenbezogener Kosten entsprechend dem Verursacherprinzip zu decken sind."
+      sup6:
+        title: "6"
+        text: "Der Europäische Gerichtshof (EuGH) hat in seinem Urteil vom 11. September 2014 (Aktenzeichen C-525/12) bestätigt, dass Deutschland mit diesen bundes- und landesrechtlichen Regelungen das Prinzip der Kostendeckung aus der EU-Wasserrahmenrichtlinie hinreichend umgesetzt hat. Der EuGH weist zudem ausdrücklich darauf hin, dass die EU-Mitgliedstaaten gemäß Artikel 9 Abs. 4 dieser Richtlinie ohnehin befugt sind, unter Berücksichtigung der Zwecke und Ziele dieser Richtlinie das Kostendeckungsprinzip auf bestimmte Wassernutzungen nicht anzuwenden."
+      p1_2: Wasserentnahmen sind zudem auf die allgemeinen Umweltziele der WRRL hin zu überprüfen. Überschreitet die Menge des entnommenen Grund- oder Oberflächenwassers bestimmte Schwellenwerte, müssen für die betreffenden Vorhaben Umweltverträglichkeitsprüfungen durchgeführt werden.
+      p2: Die Umsetzung der WRRL in nationales Recht erfolgte in Deutschland durch das Wasserhaushaltsgesetz, das auf nationaler Ebene den Schutz und die Nutzung des Oberflächen- und des Grundwassers regelt. Wasserentnahmen stehen hier unter dem Erlaubnisvorbehalt der Wasserbehörden. Die Landeswassergesetze der Bundesländer ergänzen und konkretisieren die wasserrechtlichen Vorschriften des Bundes. Sie bestimmen insbesondere die Höhe der Wasserentnahmeentgelte.
+    ausgestaltung:
+      title: Ausgestaltung der Wasserentnahmeentgelte
+      p1: "Die Ausgestaltung der Abgaben auf Wasserentnahmen erfolgt durch die Bundesländer, denen auch die Entgelte zufließen. Deshalb gestalten sich die in Deutschland mit Ausnahme von Hessen, Bayern und Thüringen in 13 der 16 Bundesländer erhobenen Wasserentnahmeentgelte sehr unterschiedlich. Für 2016 ist das Gesamtaufkommen in den Haushaltsplänen der Bundesländer 2016 mit etwa 425 Mio. Euro veranschlagt. Die Einnahmen werden zum Teil für wasserwirtschaftliche Aufgaben verwendet oder fließen in den allgemeinen Landeshaushalt."
+      sup7:
+        title: "7"
+        text: "IHK Pfalz (2013): Die Wasserentnahmeentgelte der Länder. Ein Vergleich."
+        link: "https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/<br/>WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf"
+      p2: "Die meisten Bundesländer erheben für die Entnahme von Grund- und Oberflächenwasser Entgelte. Die Entgelte sollen je nach Ausgestaltung auch den „Wert der öffentlichen Leistung“ für die Inanspruchnahme von Ressourcen wiederspiegeln und können somit zugleich Lenkungsabgaben für eine nachhaltige Gewässerbewirtschaftung sowie zur Anlastung von Umwelt- und Ressourcenkosten sein (§ 1 und §6a Wasserhaushaltsgesetz)."
+      sup8:
+        title: "8"
+        text: "Gawel/Bretschneider (2016): Das Wasserentnahmeentgelt in Baden-Württemberg – Bestandsaufnahme und Evaluierung."
+        link: https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/<br/>Dateien/Dokumente/3_Umwelt/Schutz_nat%C3%BCrlicher_Lebensgrundlagen/<br/>Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf
+      p3: Bei der Höhe der Abgabesätze wird in den meisten Bundesländern nach Art der Entnahme, Zweck, Menge oder Herkunft des Wassers (Oberflächenwasser oder Grundwasser) differenziert. Zudem existieren verschiedene länderspezifische Abweichungen von den Regelsätzen durch Befreiung oder Ermäßigung, die auch für den Rohstoffsektor gelten können.
+
+  wasserentnahmeentgelte:
+    title: Wasserentnahmeentgelte im Rohstoffsektor
+    p1_1: "Für die Wasserentnahme im Rohstoffsektor werden bundesweit sehr unterschiedliche Entgeltsätze erhoben. So werden in einigen Bundesländern für bestimmte Abbauarten Gebührensätze für Oberflächenwasser zwischen 0,3 und 5 Ct/l angewendet (z.B. in Baden-Württemberg, Niedersachsen, Mecklenburg-Vorpommern), während in manchen Bundesländern auch die Gebührensätze für die Grundwasserentnahme zwischen 5 und 31 Ct/l greifen können."
+    sup9:
+      title: "9"
+      text: "Umweltbundesamt (2017): Tabelle Wasserentnahmeentgelte im Rohstoffsektor in den deutschen Bundesländern."
+      link: "https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/<br/>tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx"
+    p1_2: In Rheinland-Pfalz und Schleswig-Holstein wiederum ist die Grundwasserfreilegung vom Wasserentnahmeentgelt befreit. In einigen Bundesländern gibt es explizite Regelungen für die bergbaubedingte Wasserhaltung bzw. für Wasser, das ohne Nutzung wieder in Oberflächengewässer eingeleitet wird. Die verschiedenen Entgeltsätze, Ausnahmetatbestände und Ermäßigungsregelungen sind in den jeweiligen Landeswassergesetzen veröffentlicht. Eine Übersicht über die relevanten Entgeltsätze im Rohstoffsektor bietet das Umweltbundesamt.
+    sup10:
+      title: "10"
+      text: Siehe
+      link: https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1
+    p1_3: Eine öffentlich zugängliche Informationsquelle über die Höhe der Einnahmen aus den Wasserentgelten bezogen auf den Rohstoffsektor existiert hingegen nicht.
+    p2: Die Wasserentnahmeentgelte stellen einen Zahlungsstrom zwischen rohstofffördernden Unternehmen und dem Staat dar. Unter anderem aufgrund der unterschiedlichen Entgeltsätze in den Bundesländern liegen die Zahlungen vermutlich unter der Wesentlichkeitsschwelle, weshalb sie im ersten D-EITI-Bericht nicht in den Zahlungsabgleich aufgenommen werden.
+
 staatliche-subventionen:
   title: Staatliche Subventionen
   nav_items:
@@ -501,8 +1003,8 @@ how-it-work:
     section3:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
-      item2: Bestehende Berichtspflichten
-      item3: Bedeutung des Steuergeheimnis
+      item2: Steuergeheimnis
+      item3: Öffentliche Berichte
       item4: Verwendung der Einnahmen
     section4:
       title: Sonderthemen
