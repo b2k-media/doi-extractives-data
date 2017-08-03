@@ -25,7 +25,7 @@ breadcrumb:
           {% t anpassungsgeld.kontrolle.title %}
         </h3>
         <p>{% t anpassungsgeld.kontrolle.p %}</p>
-
+        <br/>
         <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
@@ -35,6 +35,7 @@ breadcrumb:
             </div>
           </div>
         </div>
+        <p style="margin-top: 10px">{% t anpassungsgeld.begünstigungen.table.source %}</p>
 
         <h3 id="begünstigungen">
           {% t anpassungsgeld.begünstigungen.title %}
