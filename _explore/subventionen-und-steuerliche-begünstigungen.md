@@ -61,29 +61,7 @@ breadcrumb:
           </div>
         </div>
       </div>
-      <h2 id="anpassungsgeld" class="margin-class">{% t subventionen-und-steuerliche-begünstigungen.anpassungsgeld.title %}</h2>
-      <p>
-        {% t subventionen-und-steuerliche-begünstigungen.anpassungsgeld.p %}
-      </p>
-      <h3 id="2-beschaftigte">{% t subventionen-und-steuerliche-begünstigungen.anpassungsgeld.beschaftigte.title %}</h3>
-      <p>
-        {% t subventionen-und-steuerliche-begünstigungen.anpassungsgeld.beschaftigte.p %}
-      </p>
       </section>
-      <h3 id="2-kontrolle">{% t subventionen-und-steuerliche-begünstigungen.anpassungsgeld.kontrolle.title %}</h3>
-      <p>
-        {% t subventionen-und-steuerliche-begünstigungen.anpassungsgeld.kontrolle.p %}
-      </p>
-      <br/>
-      <div class="explore-exploration slab-alpha">
-        <div class="regions container">
-          <div class="graph">
-            <div class="container chart-container">
-              <div id="chart3"></div>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
 
     <div class="sticky sticky_nav container-right-3">

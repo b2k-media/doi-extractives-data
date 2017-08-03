@@ -928,13 +928,6 @@ subventionen-und-steuerliche-begünstigungen:
           title: Kontrolle
         - name: 1-vorsorge
           title: Vorsorge
-    - name: anpassungsgeld
-      title: Anpassungsgeld
-      subnav_items:
-        - name: 2-beschaftigte
-          title: Beschäftigte
-        - name: 2-kontrolle
-          title: Kontrolle
   p1:
     p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
     k1: Begünstigungen für Strom- und Energiesteuer
@@ -951,15 +944,96 @@ subventionen-und-steuerliche-begünstigungen:
     vorsorge:
       title: Vorsorge
       p: "Zur Bewältigung der notwendigen Stilllegungsmaßnahmen wird das ehemalige Beteiligungsvermögen der RAG AG zur Finanzierung der nach der Stilllegung verbleibenden Ewigkeitslasten (Grubenwasserhaltung, Dauerbergschäden, Grundwasserreinigung) durch die privatrechtliche RAG-Stiftung bereit gestellt. Soweit dieses Vermögen zur Deckung der Ewigkeitslasten nicht ausreicht, werden der Bund und die Revierländer im Verhältnis von einem Drittel und zwei Drittel eintreten."
-  anpassungsgeld:
-    title: Anpassungsgeld
-    p: "Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt."
-    beschaftigte:
+  
+anpassungsgeld:
+  title: Anpassungsgeld
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: beschäftigte
       title: Beschäftigte
-      p: "Die Zahl der Beschäftigten entwickelt sich rückläufig. So waren Anfang des Jahres 2008 32.803 Arbeitnehmer/innen im Steinkohlenbergbau beschäftigt. Bis Ende des Jahres 2015 wurde die Beschäftigungszahl sozialverträglich auf 9.640 Arbeitnehmer/innen reduziert. Diesem Trend folgt mit zeitlicher Verzögerung auch die Anzahl der Anpassungsgeld(APG)-Berechtigten. Da nach den letzten Zechenstilllegungen zum Jahresende 2018 weitere Arbeitnehmer/innen ausscheiden werden und eine sinkende Zahl an Beschäftigten noch nach 2018 für die Stilllegung der Gruben benötigt wird, gelten die derzeit aktuellen APG-Richtlinien noch bis zum Jahre 2027."
-    kontrolle:
+    - name: kontrolle
       title: Kontrolle
-      p: "Neben der Prüfung der zweckentsprechenden Verwendung der Mittel durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfern prüft der Bundesrechnungshof im Rahmen der Haushaltsprüfung des Bundesamtes jährlich stichprobenartig APG-Einzelfälle."
+    - name: begünstigungen
+      title: Begünstigungen für Strom- und Energiesteuer
+      subnav_items:
+        - name: table
+          title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
+
+  p: Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt.
+  beschäftigte:
+    title: Beschäftigte
+    p: Die Zahl der Beschäftigten entwickelt sich rückläufig. So waren Anfang des Jahres 2008 32.803 Arbeitnehmer/innen im Steinkohlenbergbau beschäftigt. Bis Ende des Jahres 2015 wurde die Beschäftigungszahl sozialverträglich auf 9.640 Arbeitnehmer/innen reduziert. Diesem Trend folgt mit zeitlicher Verzögerung auch die Anzahl der Anpassungsgeld(APG)-Berechtigten. Da nach den letzten Zechenstilllegungen zum Jahresende 2018 weitere Arbeitnehmer/innen ausscheiden werden und eine sinkende Zahl an Beschäftigten noch nach 2018 für die Stilllegung der Gruben benötigt wird, gelten die derzeit aktuellen APG-Richtlinien noch bis zum Jahre 2027.
+  kontrolle:
+    title: Kontrolle
+    p: Neben der Prüfung der zweckentsprechenden Verwendung der Mittel durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfern prüft der Bundesrechnungshof im Rahmen der Haushaltsprüfung des Bundesamtes jährlich stichprobenartig APG-Einzelfälle.
+    source: "Quelle: Subventionsbericht der Bundesregierung, eigene Darstellung"
+    daten-einsehen: Daten einsehen
+  begünstigungen:
+    title: Begünstigungen für Strom- und Energiesteuer
+    p1: Sowohl bei der Stromsteuer als auch bei der Energiesteuer existieren verschiedene Steuerbegünstigungen. Steuerbegünstigungen erfassen Steuerbefreiungen, Steuerermäßigungen und Steuerentlastungen. Das Stromsteuergesetz (StromStG) sieht Begünstigungen für bestimmte Arten der Verwendung bzw. der Stromerzeugung vor. Das Energiesteuergesetz (EnergieStG) kennt ebenfalls Verwendungen, bei denen Energieerzeugnisse steuerlich begünstigt werden. Ein Teil dieser Begünstigungen ist nach der Energiesteuerrichtlinie verpflichtend zu gewähren.
+    p2: Als Unternehmen des Produzierenden Gewerbes können rohstoffgewinnende Unternehmen insbesondere von den verschiedenen Steuerentlastungsmöglichkeiten des Energie- und Stromsteuerrechts profitieren.
+    p3: "Drei Regelungen sind hierbei besonders relevant:"
+    list:
+      item1: "Steuerentlastung für Unternehmen (§ 54 EnergieStG, § 9b StromStG): Unternehmen des Produzierenden Gewerbes wird auf Antrag eine Ermäßigung der Stromsteuer und der Energiesteuer in Höhe von 25% der Regelsteuersätze auf Strom und Heizstoffe sowie Kraftstoffe gewährt, die in begünstigten Produktionsanlagen eingesetzt werden."
+      item2: "Steuerentlastung in Form des sog. Spitzenausgleichs (§ 55 EnergieStG, § 10 StromStG): Für Unternehmen des Produzierenden Gewerbes soll die zusätzliche Belastung durch die „ökologische Steuerreform“ durch eine Entlastung bei der Energie- und der Stromsteuer abgemildert werden. Da die Mehreinnahmen durch die ökologische Steuerreform auch dazu dienten, den Faktor Arbeit zu vergünstigen und dazu beigetragen haben, dass die von Unternehmen zu zahlenden Arbeitgeberanteile an den Rentenversicherungsbeiträgen im Vergleich zu 1999 gesunken sind, wird für den Spitzenausgleich eine Vergleichsrechnung für das jeweilige Unternehmen angestellt. Um eine doppelte Entlastung sowohl bei den Arbeitgeberanteilen an der Rentenversicherung als auch bei der eingesetzten Energie zu vermeiden, werden die eingesparten Rentenversicherungsbeiträge bei der Berechnung der Höhe der Entlastung berücksichtigt. Die Höhe der Entlastung errechnet sich somit je nach Unternehmen individuell und ist zudem auf maximal 90% der gezahlten Stromsteuer sowie 90% des Steueranteils nach § 55 Abs. 3 EnergieStG gedeckelt. Voraussetzungen für eine Inanspruchnahme des Spitzenausgleichs sind u.a. der Nachweis eines zertifizierten Energiemanagementsystems und die jährliche Reduzierung der Energieintensivität des Produzierenden Gewerbes als Ganzes um einen gesetzlich festgelegten Wert. Vergleichswert ist der Durchschnittswert der Energieintensität des Produzierenden Gewerbes für den Zeitraum 2007-2012."
+      item3: "Bestimmte Prozesse und Verfahren/Herstellerprivileg (§ 9a StromStG, § 51 EnergieStG, §§ 26, 37, 44 und 47 EnergieStG): Unternehmen des Produzierenden Gewerbes können Strom bzw. Energieerzeugnisse bei Entnahme bzw. Verwendung zu genau bestimmten, energieintensiven Zwecken (wie Elektrolyse, Metallerzeugung, Herstellung von Glaswaren etc.) vollständig von der Steuer entlasten. Zudem können Unternehmen, die Energieerzeugnisse auf dem Betriebsgelände produzieren (Raffinerien, Gasgewinnungs- und Kohlebetriebe), die selbst produzierten Energieerzeugnisse im eigenen Unternehmen zur Aufrechterhaltung des Betriebs steuerfrei nutzen oder von der Steuer entlasten."
+    p4: "Die Subventionen werden im Subventionsbericht der Bundesregierung für das gesamte Produzierende Gewerbe und nicht separat für einzelne Wirtschaftszweige wie den Rohstoffsektor dargestellt. Die in der nachfolgenden Tabelle dargestellten ausgewählten Begünstigungen gelten für das gesamte Produzierende Gewerbe. Daraus lassen sich nicht notwendiger Weise Rückschlüsse auf den Anteil der Begünstigungen für den rohstoffproduzierenden Sektor ziehen."
+    table:
+      title1_1: "Tabelle: Ausgewählte Begünstigungen"
+      sup11:
+        title: "11"
+        text: "Hier sind nur Begünstigungen aufgenommen, die auch für rohstoffproduzierende Unternehmen von Relevanz sind."
+      title1_2: " bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe"
+      sup12:
+        title: "12"
+        text1: "Der Anteil der rohstoffgewinnenden Industrie an der Bruttowertschöpfung des produzierenden Gewerbes beträgt 0,65 Prozent. Quelle: eigene Berechnung aus Angaben zum BIP (Kapitel 5a) sowie"
+        link: DESTATIS
+        text2: (Zugriff 03.07.2017).
+      source: "Quelle: 25. Subventionsbericht der Bundesregierung 2015"
+      sup13:
+        title: "13"
+        text:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter: [Website+Hyperlink] veröffentlicht."
+      th1: Regelung
+      th2:
+        title: Jahr
+        th2_1: "2013"
+        th2_2: "2014"
+        th2_3: (Soll) 2015
+        th2_4: (Soll) 2016
+      row1:
+        td1: Allgemeine Steuervergünstigung (§ 54 EnergieStG)
+        td2: 145 Mio. €
+        td3: 153 Mio. €
+        td4: 160 Mio. €
+        td5: 160 Mio. €
+      row2:
+        td1: Allgemeine Steuer-vergünstigung (§ 9b StromStG)
+        td2: 975 Mio. €
+        td3: 1.038 Mio. €
+        td4: 1.000 Mio. €
+        td5: 1.000 Mio. €
+      row3:
+        td1: Spitzenausgleich (§ 55 EnergieStG)
+        td2: 167 Mio. €
+        td3: 197 Mio. €
+        td4: 180 Mio. €
+        td5: 180 Mio. €
+      row4:
+        td1: Spitzenausgleich (§ 10 StromStG)
+        td2: 1.870 Mio. €
+        td3: 1.911 Mio. €
+        td4: 1.900 Mio. €
+        td5: 1.900 Mio. €
+      row5:
+        td1: Herstellerprivileg (§§ 26, 37, 44, 47 EnergieStG)
+        td2: 350 Mio. €
+        td3: 350 Mio. €
+        td4: 350 Mio. €
+        td5: 350 Mio. €
+    p5_1: Die Mitgliedstaaten der Europäischen Union sind jedoch für Begünstigungen ab 1. Juli 2016 zur jährlichen Veröffentlichung umfassender Informationen zur Gewährung von staatlichen Beihilfen auf einer ausführlichen
+    link: Beihilfe-Internetseite
+    p5_2: verpflichtet (Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz, EnSTransV). Aufgrund dieser Verordnung kann die Zollverwaltung Daten zu den Vergünstigungen bei der Energie- und der Stromsteuer erheben, verarbeiten, speichern, übermitteln und löschen, um den Anforderungen der Kommission nachzukommen, erstmals zum 30. Juni 2017.
 
 explore-data:
     title: "Fakten"
@@ -1017,6 +1091,7 @@ how-it-work:
       item1: Umgang mit der Natur
       item2: Wasser
       item3: Subventionen und stl. Begünstigungen
+      item4: Anpassungsgeld
 
 downloads:
   title: Daten & Dokumentation Herunterladen
