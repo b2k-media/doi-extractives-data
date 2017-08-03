@@ -9,7 +9,7 @@ $(document).ready(function(){
 
   if (document.URL.search('/explore/exporte/') > 1) {
     jsonFilePath = "../../data/graphs/exporte.json";
-  } else if (document.URL.search('/explore/staatliche-subventionen/') > 1) {
+  } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
   }
 

@@ -2,7 +2,7 @@ menu:
     back: "D-EITI Initiative"
     about: "Start"
     how-it-work: "Rohstoffgewinnung"
-    explore-data: "Fakten"
+    explore-data: "Daten"
 
 nav-items:
     top: Seitenanfang
@@ -23,7 +23,10 @@ erdol-erdgas:
       p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2015 betrug rund 2,4 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden zum 01.01.2016 auf rund 34 Mio. t geschätzt.
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt[1]."
+      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt."
+      sup1:
+        title: "1"
+        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
     gewinnung:
       title: Gewinnung
       p1: 2015 gab es in Deutschland 50 Ölfelder. Auf ihnen wird durch rund 1000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Ölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer. Es wird seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
@@ -42,7 +45,10 @@ erdol-erdgas:
       p: "Bei einer Bohrung nach Wasser wurde 1910 in Neuengamme, heute ein Stadtteil von Hamburg, Erdgas gefunden. Die Förderung im industriellen Maßstab begann 1913. Bis zum Ende der 1960er Jahre blieb die Erdgasproduktion in Deutschland allerdings gering – mit einem Anteil von nur rund 1% am primären Energieverbrauch in Deutschland (West). Die Ölkrisen in den 70er Jahren lenkten den Blick verstärkt auf den Verbrauch von Energie und die Notwendigkeit der Erschließung von Energiequellen. Mit der Entdeckung großer Gasvorkommen an der deutsch-niederländischen Grenze und der zunehmenden Umstellung von Stadt- und Kokereigas auf Erdgas stieg die heimische Förderung. Damit einher ging ein stetiger Ausbau der Gasinfrastruktur (von 12 auf 20 Mrd. m³(Vn) Rohgas zwischen 1970 und 2005). 2005 deckte die heimische Erdgasförderung bis zu 25% des heimischen Gasverbrauchs. Seitdem ist die Förderung rückläufig. 2016 lag sie bei rund 8 Mrd. m³(Vn) Rohgas, dies entspricht etwa 6% des heimischen Gasverbrauchs. Die sicheren und wahrscheinlichen Reserven an Erdgas sind zudem rückläufig. Diese beliefen sich zum 1. Januar 2016 auf 74 Mrd. m³(Vn). Damit beträgt die statische Reichweite der deutschen Erdgasreserven 8 Jahre. Die Abnahme der Erdgasreserven sowie der Produktion ist im Wesentlichen auf die zunehmende Erschöpfung der großen Lagerstätten und damit einhergehend deren natürlichen Förderabfall zurückzuführen. Für die Abnahme der Reserven war zudem ein über mehrere Jahre andauerndes Gesetzgebungsverfahren mitursächlich, in dem u.a. über die künftigen Anforderungen an den Einsatz der Fracking-Technologie diskutiert wurde und das 2016 in gesetzgeberischen Neuregelungen mündete. Nennenswerte Neufunde sind in den letzten Jahren ausgeblieben."
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p: "Im Vergleich aller Erdgasförderländer liegt Deutschland auf Platz 43. Der Anteil an der weltweiten Gasfördermenge betrug 2015 0,3%. In Relation zu anderen in Deutschland geförderten Rohstoffen, wie Braunkohle, kommt Erdgas eine relativ große wirtschaftliche Bedeutung zu. Der Wert des geförderten Erdgases betrug 2015 2 Mrd. Euro. Ein Fünftel des Gesamtwertes der in Deutschland geförderten Rohstoffe entfällt auf den Rohstoff Erdgas. 2015 waren im Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt[2]."
+      p: "Im Vergleich aller Erdgasförderländer liegt Deutschland auf Platz 43. Der Anteil an der weltweiten Gasfördermenge betrug 2015 0,3%. In Relation zu anderen in Deutschland geförderten Rohstoffen, wie Braunkohle, kommt Erdgas eine relativ große wirtschaftliche Bedeutung zu. Der Wert des geförderten Erdgases betrug 2015 2 Mrd. Euro. Ein Fünftel des Gesamtwertes der in Deutschland geförderten Rohstoffe entfällt auf den Rohstoff Erdgas. 2015 waren im Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt."
+      sup2:
+        title: "2"
+        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen"
     gewinnung:
       title: Gewinnung
       p: "Als fossiler Energieträger wird Erdgas hauptsächlich für die Beheizung von Wohn- und Gewerberäumen, als Wärmelieferant für thermische Prozesse in Gewerbe und Industrie (z. B. in Großbäckereien, Ziegeleien, Zementwerken, Gießereien und Metallhütten), zur elektrischen Stromerzeugung sowie als Treibstoff für Schiffe und Kraftfahrzeuge verwendet. Hinzu kommen mengenmäßig bedeutsame Anwendungen als Reaktionspartner in chemischen Prozessen, wie beispielsweise der Ammoniaksynthese im Haber-Bosch-Verfahren (Stickstoffdüngemittel), der Eisenerzreduktion im Hochofenprozess oder der Herstellung von Wasserstoff."
@@ -908,8 +914,8 @@ wasser:
     p1_3: Eine öffentlich zugängliche Informationsquelle über die Höhe der Einnahmen aus den Wasserentgelten bezogen auf den Rohstoffsektor existiert hingegen nicht.
     p2: Die Wasserentnahmeentgelte stellen einen Zahlungsstrom zwischen rohstofffördernden Unternehmen und dem Staat dar. Unter anderem aufgrund der unterschiedlichen Entgeltsätze in den Bundesländern liegen die Zahlungen vermutlich unter der Wesentlichkeitsschwelle, weshalb sie im ersten D-EITI-Bericht nicht in den Zahlungsabgleich aufgenommen werden.
 
-staatliche-subventionen:
-  title: Staatliche Subventionen
+subventionen-und-steuerliche-begünstigungen:
+  title: Subventionen und steuerliche Begünstigungen
   nav_items:
     - name: title
       title: Seitenanfang
@@ -1010,7 +1016,7 @@ how-it-work:
       title: Sonderthemen
       item1: Umgang mit der Natur
       item2: Wasser
-      item3: Staatliche Subventionen
+      item3: Subventionen und stl. Begünstigungen
 
 downloads:
   title: Daten & Dokumentation Herunterladen
