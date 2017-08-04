@@ -368,52 +368,51 @@ gesamtdeutsche_rohstoffproduktion:
       td2: 48,9 Mio. t
     star1: "*  verwertbare Förderung"
     star2: "** einschl. Erdölgas"
-
   table2:
     th1: Rohstoff
-    th2: Wert (2015) in Mio. €
-    row1:
+    th2: Wert Wert (2015) in Mio. €
+    1:
       td1: Steinkohle
-      td2: 423
-    row2:
+      td2: "423"
+    2:
       td1: Braunkohle
-      td2: 2.431
-    row3:
+      td2: "2.431"
+    3:
       td1: Erdöl
-      td2: 859
-    row4:
+      td2: "859"
+    4:
       td1: Erdgas*
-      td2: 2.064
-    row5:
-      td1: Kalisalz **
-      td2: k. A.
-    row6:
+      td2: "2.064"
+    5:
+      td1: Kalisalz**
+      td2: "k. A."
+    6:
       td1: Kali- und Kalisalzprodukte
-      td2: 2.156
-    row7:
+      td2: "2.156"
+    7:
       td1: Spezialton
-      td2: 148
-    row8:
+      td2: "148"
+    8:
       td1: Steinsalz und Industriesole
-      td2: 576
-    row9:
+      td2: "576"
+    9:
       td1: Kaolin
-      td2: 119
-    row10:
+      td2: "119"
+    10:
       td1: Quarzkies und -sand
-      td2: 205,5
-    row11:
+      td2: "205,5"
+    11:
       td1: Kies und Sand
-      td2: 1.510
-    row12:
+      td2: "1.510"
+    12:
       td1: Gebrochene Natursteine
-      td2: 1.439
-    row13:
+      td2: "1.439"
+    13:
       td1: Naturwerksteine
-      td2: 52
-    row14:
+      td2: "52"
+    14:
       td1: Kalk-/Mergel-/Dolomitstein
-      td2: 719
+      td2: "719"
     star1: "*  verwertbare Förderung"
     star2: "** einschl. Erdölgas"
 
