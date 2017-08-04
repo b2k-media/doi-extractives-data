@@ -1,0 +1,15 @@
+{
+  "title": "Struktur des Primärenergieverbrauchs in Deutschland 2016 gesamt 13.383 PJ oder 456,6 Mio. t SKE Anteile in Prozent (Vorjahr in Klammern)",
+  "data": [
+  	[
+  		["Mineralöl 34,0", 34],
+  		["Erdgas 22,6", 20.9],
+  		["Steinkohle 12,2", 12.9],
+  		["Braunkohle 11,4", 11.8],
+      ["Kernenergie 6,9", 7.6],
+      ["Erneuerbare 12,6", 12.4],
+      ["Sonstige einschlißlich Stromaustauschaldo 0,4", 0.4]
+  	]
+  ],
+  "color": ["#dc3832", "#dc973a", "#939598", "#90734d", "#a3bee1", "#54ae58", "#d5d5d5"]
+}
