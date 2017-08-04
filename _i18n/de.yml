@@ -1107,18 +1107,21 @@ how-it-work:
       item3: Salze
       item4: Steine und Erden
     section2:
+      title: Rohstoffproduktion in Deutschland
+      item1: Gesamtdeutsche Rohstoffproduktion
+    section3:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
       item2: Genehmigung von Bergbauprojekten
       item3: Öffentliches Lizenzregister
       item4: Wirtschaftlicher Eigentümer
-    section3:
+    section4:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
       item2: Steuergeheimnis
       item3: Öffentliche Berichte
       item4: Verwendung der Einnahmen
-    section4:
+    section5:
       title: Sonderthemen
       item1: Umgang mit der Natur
       item2: Wasser
