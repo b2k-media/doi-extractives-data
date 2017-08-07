@@ -289,11 +289,32 @@ breadcrumb:
           {% t einnahmen.umsatz.title %}
         </h3>
         <p>{% t einnahmen.umsatz.p1 %}</p>
-        <a href="{{site.baseurl}}/downloads/#daten-zur-exporte">
-          <icon class="fa fa-file-text-o u-padding-right"></icon>
-          {% t einnahmen.umsatz.daten_einsehen %}
-        </a>
+        <div class="explore-exploration slab-alpha">
+          <div class="regions container">
+            <div class="graph">
+              <div class="container chart-container">
+                <div id="chart1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="margin-top: 110px !important">
+          <a href="{{site.baseurl}}/downloads/#daten-zur-exporte">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t einnahmen.umsatz.daten_einsehen %}
+          </a>
+        </div>
         <br/>
+      </section>
+      <section id="explanation" style="position: relative;">
+        <p id="explanation-11">
+          <sup>{% t einnahmen.umsatz.star1.title %}</sup>
+          {% t einnahmen.umsatz.star1.text %}
+        </p>
+        <p id="explanation-11">
+          <sup>{% t einnahmen.umsatz.star2.title %}</sup>
+          {% t einnahmen.umsatz.star2.text %}
+        </p>
       </section>
     </div>
 
