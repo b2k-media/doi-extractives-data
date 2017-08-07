@@ -24,11 +24,12 @@ breadcrumb:
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.steuern.daten_einsehen %}
         </a>
-        <br/>
+        <br/><br/>
+        <p>{% t einnahmen.steuern.p3 %}</p>
       </section>
       <br/>
       <section id="steuereinnahmen" style="position: relative;">
-          {% t einnahmen.steuereinnahmen.title %}
+        <h3>{% t einnahmen.steuereinnahmen.title %}</h3>
         <table class="einnahmen_table">
           <tbody>
             <tr>
@@ -122,8 +123,8 @@ breadcrumb:
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row9.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row9.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row9.td3 %}</td>
+              <td></td>
+              <td></td>
               <td>{% t einnahmen.steuereinnahmen.row9.td4 %}</td>
               <td>{% t einnahmen.steuereinnahmen.row9.td5 %}</td>
               <td>{% t einnahmen.steuereinnahmen.row9.td6 %}</td>
@@ -131,6 +132,168 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+      </section>
+      <br/>
+      <section id="förder_feldesabgaben" style="position: relative;">
+        <h3 id="beschäftigte">
+          {% t einnahmen.förder_feldesabgaben.title %}
+        </h3>
+        <p>{% t einnahmen.förder_feldesabgaben.p1 %}</p>
+        <a href="{{site.baseurl}}/downloads/#daten-zur-exporte">
+          <icon class="fa fa-file-text-o u-padding-right"></icon>
+          {% t einnahmen.förder_feldesabgaben.daten_einsehen %}
+        </a>
+        <br/><br/>
+        <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p>
+        <table class="einnahmen_table_1">
+          <tbody>
+            <tr>
+              <th><strong>{% t einnahmen.förder_feldesabgaben.table1.th1 %}</strong></th>
+              <th><strong>{% t einnahmen.förder_feldesabgaben.table1.th2 %}</strong></th>
+              <th><strong>{% t einnahmen.förder_feldesabgaben.table1.th3 %}</strong></th>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row1.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row1.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row1.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row2.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row2.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row2.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row3.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row3.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row3.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row4.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row4.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row4.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row5.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row5.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row5.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row6.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row6.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row6.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row7.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row7.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row7.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row8.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row8.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row8.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row9.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row9.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row9.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row10.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row10.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row10.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row11.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row11.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row11.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row12.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row12.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row12.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row13.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row13.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row13.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row14.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row14.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row14.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row15.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row15.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row15.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row16.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row16.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row16.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row19.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row19.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row19.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row20.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row20.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table1.row20.td3 %}</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>{% t einnahmen.förder_feldesabgaben.p3 %}</p>
+        <table class="einnahmen_table_2">
+          <tbody>
+            <tr>
+              <td colspan="2"><strong>{% t einnahmen.förder_feldesabgaben.table2.title %}</strong></td>
+            </tr>
+            <tr>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th1 %}</strong></td>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th2 %}</strong></td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row1.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row1.td2 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row2.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row2.td2 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row3.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row3.td2 %}</td>
+            </tr>
+            <tr>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row4.td1 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row4.td2 %}</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+      <br/>
+      <section id="umsatz" style="position: relative;">
+        <h3>
+          {% t einnahmen.umsatz.title %}
+        </h3>
+        <p>{% t einnahmen.umsatz.p1 %}</p>
+        <a href="{{site.baseurl}}/downloads/#daten-zur-exporte">
+          <icon class="fa fa-file-text-o u-padding-right"></icon>
+          {% t einnahmen.umsatz.daten_einsehen %}
+        </a>
+        <br/>
       </section>
     </div>
 
