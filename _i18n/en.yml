@@ -1287,6 +1287,219 @@ explore-data:
       item3: Beitrag zur Beschäftigung
       item4: Exporte
 
+einnahmen:
+    title: Beitrag zu den Staatseinnahmen
+    nav_items:
+      - name: title
+        title: Seitenanfang
+      - name: steuern
+        title: Steuern
+      - name: steuereinnahmen
+        title: Steuereinnahmen aus dem Rohstoffsektor
+      - name: förder_feldesabgaben
+        title: Förder- und Feldesabgaben
+      - name: umsatz
+        title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
+    p1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 750 Mio. Euro im Jahr 2015. Dies entspricht einem Anteil von 0,06 Prozent an den Gesamteinnahmen des Staates. Daneben gibt es weitere Zahlungen des rohstoffgewinnenden Sektors an den Staat wie zum Beispiel Pachten, Energie- und Stromsteuern (s. Kap. 4) sowie Zahlungen in Zusammenhang mit naturschutzrechtlichen Eingriffen sowie der Wassernutzung (s. Kap. 6), die hier nicht dargestellt sind.
+    steuern:
+      title: Steuern
+      p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2015 oben genannte Steuern in Höhe von 361 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,03 Prozent. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren zurückgegangen.
+      p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
+      daten_einsehen: Daten einsehen
+      p3: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei dargestellt.
+
+    steuereinnahmen:
+      title: Steuereinnahmen aus dem Rohstoffsektor
+      th1: Steuerart
+      th2:
+        title: Jahr
+        th21: "2010"
+        th22: "2011"
+        th23: "2012"
+        th24: "2013"
+        th25: "2014"
+        th26: "2015"
+        th0: in Mio. €
+      row1:
+        td1: Körperschaftsteuer
+        td2: "132"
+        td3: "154"
+        td4: "173"
+        td5: "154"
+        td6: "148"
+        td7: "122"
+      row2:
+        td1: Gewerbesteuer
+        td2: "155"
+        td3: "248"
+        td4: "266"
+        td5: "236"
+        td6: "227"
+        td7: "187"
+      row3:
+        td1: Einkommensteuer
+        td2: "39"
+        td3: "34"
+        td4: "60"
+        td5: "53"
+        td6: "51"
+        td7: "42"
+      row4:
+        td1: Solidaritätszuschlag
+        td2: "9"
+        td3: "10"
+        td4: "13"
+        td5: "11"
+        td6: "11"
+        td7: "9"
+      row5:
+        td1: Summe
+        td2: "335"
+        td3: "446"
+        td4: "512"
+        td5: "454"
+        td6: "438"
+        td7: "361"
+      row6:
+        td1: Gesamteinnahmen des Staates
+        td2: 1.030.908
+        td3: 1.103.862
+        td4: 1.163.357
+        td5: 1.201.058
+        td6: 1.244.589
+        td7: 1.301.816
+      row7:
+        td1: Anteil o.g. Steuern an Gesamteinnahmen
+        td2: 0,03%
+        td3: 0,04%
+        td4: 0,04%
+        td5: 0,04%
+        td6: 0,04%
+        td7: 0,03%
+      row8: "nachrichtlich:"
+      row9:
+        td1: Fortschreibungsfaktor
+        td4: 7,09%
+        td5: -11,40%
+        td6: -3,48%
+        td7: -17,61%
+    förder_feldesabgaben:
+      title: Förder- und Feldesabgaben
+      p1: Die Förderabgaben werden von den Bergämtern der Bundesländer erhoben und variieren stark, abhängig von der lokalen Bergbauaktivität und den festgelegten Abgabesätzen in den einzelnen Bundesländern. Insgesamt wurden 2016 in Deutschland 233 Mio. Euro Fördereinnahmen erhoben. Spitzenreiter war mit Abstand Niedersachsen, mit mehr als 172 Mio. Euro. Auf Rang zwei folgt Schleswig-Holstein mit rund 48 Mio. Euro, gefolgt von Rheinland-Pfalz mit rund 5 Mio. Euro. Bei einigen Bundesländern unterlag die Höhe der Einnahmen in den vergangenen Jahren signifikanten Schwankungen. Dies kann unterschiedliche Gründe haben, z.B. sinkende Weltmarktpreise für Rohstoffe oder Änderungen der Produktionsmengen.
+      daten_einsehen: Daten einsehen
+      p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
+      table1:
+        th1: Förderabgabe in Euro
+        th2: "2015"
+        th3: "2016"
+        row1:
+          td1: Bundesgebiet
+          td2: "386.954.750,40"
+          td3: "232.507.396,33"
+        row2:
+          td1: Baden-Württemberg
+          td2: "117.387,84"
+          td3: "128.185,25"
+        row3:
+          td1: Bayern
+          td2: "479.125,65"
+          td3: "1.479.828,47"
+        row4:
+          td1: Berlin
+          td2: "0,00"
+          td3: "0,00"
+        row5:
+          td1: Bremen
+          td2: "0,00"
+          td3: "0,00"
+        row6:
+          td1: Hamburg
+          td2: "167.392,87"
+          td3: "86.573,83"
+        row7:
+          td1: Hessen
+          td2: "455.052,77"
+          td3: "462.929,24"
+        row8:
+          td1: Niedersachsen
+          td2: "295.865.995,20"
+          td3: "172.075.617,30"
+        row9:
+          td1: Nordrhein-Westfalen
+          td2: "1.451.800,74"
+          td3: "666.541,61"
+        row10:
+          td1: Rheinland-Pfalz
+          td2: "8.112.789,63"
+          td3: "5.191.731,39"
+        row11:
+          td1: Saarland
+          td2: "137.667,06"
+          td3: "33.121,21"
+        row12:
+          td1: Schleswig-Holstein
+          td2: "75.966.953,81"
+          td3: "48.139.515,05"
+        row13:
+          td1: Brandenburg
+          td2: "528.292,70"
+          td3: "536.917,05"
+        row14:
+          td1: Mecklenburg-Vorpommern
+          td2: "466.322,01"
+          td3: "247.585,55"
+        row15:
+          td1: Sachsen
+          td2: "335.156,57"
+          td3: "523.795,20"
+        row16:
+          td1: Sachsen-Anhalt
+          td2: "1.363.756,74"
+          td3: "1.480.734,27"
+        row17:
+          td1: Thüringen
+          td2: "1.507.056,81"
+          td3: "1.454.320,91"
+        row18:
+          td1: Förderabgaben in Mio. Euro
+          td2: "387,0"
+          td3: "232,5"
+        row19:
+          td1: Gesamteinnahmen des Staates in Mio. Euro
+          td2: "1.301.816"
+          td3: "1.351.851"
+        row20:
+          td1: Anteil im Prozent
+          td2: "0,03"
+          td3: "0,02"
+      p3: "Die Feldeseinnahmen der Bundesländer werden nicht systematisch bundesweit zusammengestellt oder veröffentlicht. Ihre Höhe ist deutlich geringer als die Höhe der Fördereinnahmen und sie fallen überhaupt nur in einigen Bundesländern an (siehe nachfolgende Tabelle):"
+      table2:
+        title: Feldesabgabe im Jahr 2015
+        th1: Bundesland
+        th2: in Tausend Euro
+        row1:
+          td1: Bayern
+          td2: "46"
+        row2:
+          td1: Brandenburg
+          td2: "30"
+        row3:
+          td1: Niedersachsen
+          td2: "351"
+        row4:
+          td1: Nordrhein-Westfalen
+          td2: "1452"
+    umsatz:
+      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
+      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Milliarden Euro. Davon entfielen etwa 8,1 Milliarden Euro (rund 88%) auf Inlandsumsätze und 1,1 Milliarden Euro (12%) auf Umsätze mit dem Ausland.
+      daten_einsehen: Daten einsehen
+      star1:
+        title: "*"
+        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07)"
+      star2:
+        title: "**"
+        text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
+
 how-it-work:
     title: Rohstoffgewinnung
     description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."

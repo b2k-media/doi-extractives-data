@@ -13,6 +13,8 @@ $(document).ready(function(){
     jsonFilePath = "../../data/graphs/subventionen1.json";
   } else if (document.URL.search('explore/how-it-work/anpassungsgeld') > 1) {
     jsonFilePath = "../../../data/graphs/anpassungsgeld.json";
+  } else if (document.URL.search('explore/einnahmen/') > 1) {
+    jsonFilePath = "../../data/graphs/einnahmen.json";
   }
 
   $.ajax({
