@@ -45,15 +45,13 @@ breadcrumb:
             {% t steine-und-erden.gewinnung.p %}
           </p>
         </section>
-        <section id="Industrieminerale-verwendung" style="position: relative;">
+        <section id="verwendung-industrieminerale" style="position: relative;">
           <h3>{% t steine-und-erden.verwendung.title %}</h3>
           <p>
             {% t steine-und-erden.verwendung.p %}
           </p>
         </section>
-      <section id="industrieminerale" style="position: relative;">
-        <h2>{% t steine-und-erden.industrieminerale.title %}</h2>
-        <section id="industrieminerale-geschichte" style="position: relative;">
+        <section id="verwendung-geschichte" style="position: relative;">
           <h3>{% t steine-und-erden.industrieminerale.geschichte.title %}</h3>
           <p>
             {% t steine-und-erden.industrieminerale.geschichte.p1 %}
@@ -62,7 +60,7 @@ breadcrumb:
             {% t steine-und-erden.industrieminerale.geschichte.p2 %}
           </p>
         </section>
-        <section id="industrieminerale-gewinnung" style="position: relative;">
+        <section id="verwendung-gewinnung" style="position: relative;">
           <h3>{% t steine-und-erden.industrieminerale.gewinnung.title %}</h3>
           <p>
             {% t steine-und-erden.industrieminerale.gewinnung.p1 %}
@@ -71,13 +69,12 @@ breadcrumb:
             {% t steine-und-erden.industrieminerale.gewinnung.p2 %}
           </p>
         </section>
-        <section id="industrieminerale-verwendung" style="position: relative;">
+        <section id="verwendung-eisenerze" style="position: relative;">
           <h3>{% t steine-und-erden.industrieminerale.verwendung.title %}</h3>
           <p>
             {% t steine-und-erden.industrieminerale.verwendung.p %}
           </p>
         </section>
-      </section>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
