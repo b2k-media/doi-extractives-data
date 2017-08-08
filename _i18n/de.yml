@@ -2,7 +2,7 @@ menu:
     back: "D-EITI Initiative"
     about: "Start"
     how-it-work: "Rohstoffgewinnung"
-    explore-data: "Fakten"
+    explore-data: "Daten"
 
 nav-items:
     top: Seitenanfang
@@ -23,7 +23,10 @@ erdol-erdgas:
       p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2015 betrug rund 2,4 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden zum 01.01.2016 auf rund 34 Mio. t geschätzt.
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt[1]."
+      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt."
+      sup1:
+        title: "1"
+        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
     gewinnung:
       title: Gewinnung
       p1: 2015 gab es in Deutschland 50 Ölfelder. Auf ihnen wird durch rund 1000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Ölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer. Es wird seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
@@ -42,7 +45,10 @@ erdol-erdgas:
       p: "Bei einer Bohrung nach Wasser wurde 1910 in Neuengamme, heute ein Stadtteil von Hamburg, Erdgas gefunden. Die Förderung im industriellen Maßstab begann 1913. Bis zum Ende der 1960er Jahre blieb die Erdgasproduktion in Deutschland allerdings gering – mit einem Anteil von nur rund 1% am primären Energieverbrauch in Deutschland (West). Die Ölkrisen in den 70er Jahren lenkten den Blick verstärkt auf den Verbrauch von Energie und die Notwendigkeit der Erschließung von Energiequellen. Mit der Entdeckung großer Gasvorkommen an der deutsch-niederländischen Grenze und der zunehmenden Umstellung von Stadt- und Kokereigas auf Erdgas stieg die heimische Förderung. Damit einher ging ein stetiger Ausbau der Gasinfrastruktur (von 12 auf 20 Mrd. m³(Vn) Rohgas zwischen 1970 und 2005). 2005 deckte die heimische Erdgasförderung bis zu 25% des heimischen Gasverbrauchs. Seitdem ist die Förderung rückläufig. 2016 lag sie bei rund 8 Mrd. m³(Vn) Rohgas, dies entspricht etwa 6% des heimischen Gasverbrauchs. Die sicheren und wahrscheinlichen Reserven an Erdgas sind zudem rückläufig. Diese beliefen sich zum 1. Januar 2016 auf 74 Mrd. m³(Vn). Damit beträgt die statische Reichweite der deutschen Erdgasreserven 8 Jahre. Die Abnahme der Erdgasreserven sowie der Produktion ist im Wesentlichen auf die zunehmende Erschöpfung der großen Lagerstätten und damit einhergehend deren natürlichen Förderabfall zurückzuführen. Für die Abnahme der Reserven war zudem ein über mehrere Jahre andauerndes Gesetzgebungsverfahren mitursächlich, in dem u.a. über die künftigen Anforderungen an den Einsatz der Fracking-Technologie diskutiert wurde und das 2016 in gesetzgeberischen Neuregelungen mündete. Nennenswerte Neufunde sind in den letzten Jahren ausgeblieben."
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p: "Im Vergleich aller Erdgasförderländer liegt Deutschland auf Platz 43. Der Anteil an der weltweiten Gasfördermenge betrug 2015 0,3%. In Relation zu anderen in Deutschland geförderten Rohstoffen, wie Braunkohle, kommt Erdgas eine relativ große wirtschaftliche Bedeutung zu. Der Wert des geförderten Erdgases betrug 2015 2 Mrd. Euro. Ein Fünftel des Gesamtwertes der in Deutschland geförderten Rohstoffe entfällt auf den Rohstoff Erdgas. 2015 waren im Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt[2]."
+      p: "Im Vergleich aller Erdgasförderländer liegt Deutschland auf Platz 43. Der Anteil an der weltweiten Gasfördermenge betrug 2015 0,3%. In Relation zu anderen in Deutschland geförderten Rohstoffen, wie Braunkohle, kommt Erdgas eine relativ große wirtschaftliche Bedeutung zu. Der Wert des geförderten Erdgases betrug 2015 2 Mrd. Euro. Ein Fünftel des Gesamtwertes der in Deutschland geförderten Rohstoffe entfällt auf den Rohstoff Erdgas. 2015 waren im Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt."
+      sup2:
+        title: "2"
+        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen"
     gewinnung:
       title: Gewinnung
       p: "Als fossiler Energieträger wird Erdgas hauptsächlich für die Beheizung von Wohn- und Gewerberäumen, als Wärmelieferant für thermische Prozesse in Gewerbe und Industrie (z. B. in Großbäckereien, Ziegeleien, Zementwerken, Gießereien und Metallhütten), zur elektrischen Stromerzeugung sowie als Treibstoff für Schiffe und Kraftfahrzeuge verwendet. Hinzu kommen mengenmäßig bedeutsame Anwendungen als Reaktionspartner in chemischen Prozessen, wie beispielsweise der Ammoniaksynthese im Haber-Bosch-Verfahren (Stickstoffdüngemittel), der Eisenerzreduktion im Hochofenprozess oder der Herstellung von Wasserstoff."
@@ -186,22 +192,19 @@ steine-und-erden:
     - name: title
       title: Seitenanfang
     - name: fakten_zu_industriemineralen
-      title: Wissenswertes über Industriemineralen
+      title: Wissenswertes über Steine und Erden
     - name: geschichte
       title: Geschichte
     - name: gewinnung
       title: Gewinnung
-    - name: verwendung
-      title: Verwendung
-    - name: industrieminerale
-      title: Industrieminerale
-      subnav_items:
-        - name: industrieminerale-geschichte
-          title: Geschichte
-        - name: industrieminerale-gewinnung
-          title: Gewinnung
-        - name: industrieminerale-verwendung
-          title: Verwendung
+    - name: verwendung-industrieminerale
+      title: Verwendung Industrieminerale
+    - name: verwendung-geschichte
+      title: Geschichte
+    - name: verwendung-gewinnung
+      title: Gewinnung
+    - name: verwendung-eisenerze
+      title: Verwendung Eisenerze
   p1: Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen, insbesondere Kiese und Sande, gebrochene Natursteine, Kalk-, Mergel- und Dolomitsteine, Gips- und Anhydritsteine sowie Tone und Lehme. Steine und Erden sind Massenrohstoffe; sie sind aufgrund geologischer Verhältnisse standortgebunden und nicht gleichmäßig über das Land verteilt.
   slides_title: Wissenswertes über Industrieminerale
   slides:
@@ -217,7 +220,7 @@ steine-und-erden:
     title: Gewinnung
     p: Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Mengenmäßig zählen Kiese und Sande mit rund 240 Mio. t und gebrochene Natursteine mit etwa 210 Mio. t zu den wichtigsten Rohstoffen der deutschen Rohstoffgewinnung. Die Branche der Kies-, Sand- und Natursteingewinnung besteht in Deutschland aus etwa 1.600 Unternehmen, die rund 3.100 Gewinnungsstätten betreiben.
   verwendung:
-    title: Verwendung
+    title: Verwendung Industrieminerale
     p: Rund 80% der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20% finden Einsatz in der Chemie-, Stahl- oder Glasindustrie. Neben den primär gewonnenen Steinen und Erden werden in der Baustoffindustrie jährlich fast 100 Mio. t Sekundärrohstoffe (mineralische Bauabfälle, Nebenprodukte aus industriellen Prozessen) eingesetzt. Diese entstehen zum Beispiel beim Abbruch von Gebäuden, der Produktion von Roheisen (Hochofenschlacken) oder bei der Stromerzeugung in konventionellen Kraftwerken (REA-Gips, Flugasche). Der Einsatz von Sekundärrohstoffen trägt zur Substitution primärer Rohstoffe bei. Die Substitutionsquote beträgt etwa 15%.
   industrieminerale:
     title: Industrieminerale
@@ -230,8 +233,185 @@ steine-und-erden:
       p1: Aufgrund natürlicher Gegebenheiten weist der Abbau von Industriemineralen in Deutschland eine hohe Regionalität auf. Während z.B. Kaolin und Kieselerde insbesondere in Bayern gefördert werden, konzentriert sich die Gewinnung von Spezialton vorwiegend auf Rheinland-Pfalz und Hessen.
       p2: Industrieminerale werden hauptsächlich von kleinen und mittelständischen Betrieben zumeist über Tage gefördert. Einige wenige Industrieminerale, wie zum Beispiel Fluss- und Schwerspat, werden jedoch auch unter Tage abgebaut. 2014 gab es insgesamt 627 aktive Förderstätten in Deutschland, von denen rund die Hälfte allein auf die Gewinnung von Quarz und Quarzsande spezialisiert waren.
     verwendung:
-      title: Verwendung
+      title: Verwendung Eisenerze
       p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
+
+gesamtdeutsche_rohstoffproduktion:
+  title: Gesamtdeutsche Rohstoffproduktion
+  nav_title: Gesamtdeutsche Rohstoffproduktion
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: steinkohle
+      title: Steinkohle
+    - name: braunkohle
+      title: Braunkohle
+    - name: erdöl
+      title: Erdöl
+    - name: erdgas
+      title: Erdgas
+    - name: kalisalz
+      title: Kalisalz
+    - name: spezialton
+      title: Spezialton
+    - name: steinsalz
+      title: Steinsalz und Industriesole
+    - name: kaolin
+      title: Kaolin
+    - name: quarzkies_und_sand
+      title: Quarzkies und –sand
+    - name: kies_und_sand
+      title: Kies und Sand und gebrochener Naturstein
+    - name: naturwerkstein
+      title: Naturwerkstein
+    - name: kalk_mergel
+      title: Kalk-/Mergel- und Dolomitstein
+  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
+  p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
+  daten_einsehen: Daten Einsehen
+  steinkohle:
+    title: Steinkohle
+    p: Die deutsche Steinkohlenförderung sinkt seit Jahren kontinuierlich und es ist geplant bis Ende 2018 die Förderung sozialverträglich zu beenden. Im Jahr 2015 betrug die Förderung 6,2 Mio. t v.F. Aus den durchschnittlichen Grenzübergangspreisen für Kraftwerkskohlen für das Jahr 2015, kann man daraus einen Wert von etwa 423 Mio. Euro abschätzen.
+  braunkohle:
+    title: Braunkohle
+    p: Die Förderung der heimischen Braunkohle lag bei 178,1 Mio. t in etwa auf dem Vorjahresniveau. Nach Schätzung der BGR entspricht dies einem Wert von 2431 Mio. Euro.
+  erdöl:
+    title: Erdöl
+    p: Die deutsche Erdölproduktion lag im Jahr 2015 bei 2,41 Mio. t. Ähnlich wie bei der Steinkohle hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdölproduktion auf 859 Mio. Euro abgeschätzt.
+  erdgas:
+    title: Erdgas
+    p: 2015 wurde in der Bundesrepublik in neun Bundesländern Erdgas (einschl. Erdölgas) in Höhe von 9.387,62 Mio. m³ gefördert. Wie bei Erdöl, hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdgasproduktion auf 2064 Mio. Euro abgeschätzt.
+  kalisalz:
+    title: Kalisalz
+    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2015 bei 5,7 Mio. t in Form von Kaliprodukten
+    link1: (BMWi 2016).
+    p1_2: Dazu kommen noch sonstige Erzeugnisse aus der Kalifabrikation in Höhe von rund 1,5 Mio. t
+    link2: (BMWi 2016).
+    p1_3: Der Wert der Kali- und Kalisalzprodukte beträgt nach der Berechnung der BGR etwa 2.156 Mio. Euro.
+  spezialton:
+    title: Spezialton
+    p: Nach Angaben der deutschen Bergbehörden wurden im Jahr 2015 in Deutschland 6,40 Mio. t verwertbarer Menge an Spezialton gefördert. Dabei handelt es sich um hochwertigen Ton für die keramische Industrie und Feuerfesttone. Nach Angaben des Statistischen Bundesamtes hat die BGR den Wert dieser Menge auf 148 Mio. Euro berechnet.
+  steinsalz:
+    title: Steinsalz und Industriesole
+    p: Nach Angaben der deutschen Bergbehörden wurden im Jahre 2015 in Deutschland 13,7 Mio. t (NaCl-Inhalt) an Steinsalz und Industriesole gewonnen. Aufbauend auf Wertangaben des Statistischen Bundesamtes berechnete die BGR den Wert dieser Menge auf 566 Mio. Euro.
+  kaolin:
+    title: Kaolin
+    p1_1: Kaolin wird überwiegend in der Papierindustrie und zu Produktion von Feinkeramik verwendet. Nach den Meldungen der deutschen Bergbehörden, wurden im Jahr 2015 5,3 Mio. t kaolinhaltiges Rohmaterial gefördert, wovon 3,8 Mio. t verwertbar waren
+    link: (BMWi 2016).
+    p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
+  quarzkies_und_sand:
+    title: Quarzkies und –sand
+    p: Die Gewinnung von Quarzkiese und –sanden belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u.a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
+  kies_und_sand:
+    title: Kies und Sand und gebrochener Naturstein
+    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet. Hier kommen sie z.B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
+  naturwerkstein:
+    title: Naturwerkstein
+    p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z.B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
+  kalk_mergel:
+    title: Kalk-/Mergel- und Dolomitstein
+    p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u.a. im Haus- und Straßenbau sowie bei der Produktion von z.B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
+    p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
+    link1: https://erhebungsportal.estatistik.de/Erhebungsportal
+    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
+    link2: "URL: https://www.natursteinverband.de/"
+    p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
+    p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
+  table1:
+    th1: Rohstoff
+    th2: Menge (2015)
+    row1:
+      td1: Steinkohle*
+      td2: 6,22 Mio.t
+    row2:
+      td1: Braunkohle
+      td2: 178,1 Mio. t
+    row3:
+      td1: Erdöl
+      td2: 2,41 Mio. t
+    row4:
+      td1: Erdgas**
+      td2: 9.387,62 Mio. m³
+    row5:
+      td1: Kalisalz
+      td2: 5,75 Mio. t
+    row6:
+      td1: Kali- und Kalisalzprodukte
+      td2: 7,29 Mio. t
+    row7:
+      td1: Spezialton
+      td2: 6,40 Mio. t
+    row8:
+      td1: Steinsalz und Industriesole
+      td2: 13,67 Mio. t
+    row9:
+      td1: Kaolin
+      td2: 1,1 Mio. t
+    row10:
+      td1: Quarzkies und -sand
+      td2: 9,7 Mio. t
+    row11:
+      td1: Kies und Sand
+      td2: 239 Mio. t
+    row12:
+      td1: Gebrochene Natursteine
+      td2: 210 Mio. t
+    row13:
+      td1: Naturwerksteine
+      td2: 0,44 Mio. t
+    row14:
+      td1: Kalk-/Mergel-/Dolomitstein
+      td2: 48,9 Mio. t
+    star1: "*  verwertbare Förderung"
+    star2: "** einschl. Erdölgas"
+  table2:
+    th1: Rohstoff
+    th2: Wert Wert (2015) in Mio. €
+    1:
+      td1: Steinkohle
+      td2: "423"
+    2:
+      td1: Braunkohle
+      td2: "2.431"
+    3:
+      td1: Erdöl
+      td2: "859"
+    4:
+      td1: Erdgas*
+      td2: "2.064"
+    5:
+      td1: Kalisalz**
+      td2: "k. A."
+    6:
+      td1: Kali- und Kalisalzprodukte
+      td2: "2.156"
+    7:
+      td1: Spezialton
+      td2: "148"
+    8:
+      td1: Steinsalz und Industriesole
+      td2: "576"
+    9:
+      td1: Kaolin
+      td2: "119"
+    10:
+      td1: Quarzkies und -sand
+      td2: "205,5"
+    11:
+      td1: Kies und Sand
+      td2: "1.510"
+    12:
+      td1: Gebrochene Natursteine
+      td2: "1.439"
+    13:
+      td1: Naturwerksteine
+      td2: "52"
+    14:
+      td1: Kalk-/Mergel-/Dolomitstein
+      td2: "719"
+    star1: "*  verwertbare Förderung"
+    star2: "** einschl. Erdölgas"
 
 rechtlicher-rahmen:
   title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
@@ -908,8 +1088,8 @@ wasser:
     p1_3: Eine öffentlich zugängliche Informationsquelle über die Höhe der Einnahmen aus den Wasserentgelten bezogen auf den Rohstoffsektor existiert hingegen nicht.
     p2: Die Wasserentnahmeentgelte stellen einen Zahlungsstrom zwischen rohstofffördernden Unternehmen und dem Staat dar. Unter anderem aufgrund der unterschiedlichen Entgeltsätze in den Bundesländern liegen die Zahlungen vermutlich unter der Wesentlichkeitsschwelle, weshalb sie im ersten D-EITI-Bericht nicht in den Zahlungsabgleich aufgenommen werden.
 
-staatliche-subventionen:
-  title: Staatliche Subventionen
+subventionen-und-steuerliche-begünstigungen:
+  title: Subventionen und steuerliche Begünstigungen
   nav_items:
     - name: title
       title: Seitenanfang
@@ -922,13 +1102,6 @@ staatliche-subventionen:
           title: Kontrolle
         - name: 1-vorsorge
           title: Vorsorge
-    - name: anpassungsgeld
-      title: Anpassungsgeld
-      subnav_items:
-        - name: 2-beschaftigte
-          title: Beschäftigte
-        - name: 2-kontrolle
-          title: Kontrolle
   p1:
     p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
     k1: Begünstigungen für Strom- und Energiesteuer
@@ -945,15 +1118,128 @@ staatliche-subventionen:
     vorsorge:
       title: Vorsorge
       p: "Zur Bewältigung der notwendigen Stilllegungsmaßnahmen wird das ehemalige Beteiligungsvermögen der RAG AG zur Finanzierung der nach der Stilllegung verbleibenden Ewigkeitslasten (Grubenwasserhaltung, Dauerbergschäden, Grundwasserreinigung) durch die privatrechtliche RAG-Stiftung bereit gestellt. Soweit dieses Vermögen zur Deckung der Ewigkeitslasten nicht ausreicht, werden der Bund und die Revierländer im Verhältnis von einem Drittel und zwei Drittel eintreten."
-  anpassungsgeld:
-    title: Anpassungsgeld
-    p: "Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt."
-    beschaftigte:
+
+anpassungsgeld:
+  title: Anpassungsgeld
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: beschäftigte
       title: Beschäftigte
-      p: "Die Zahl der Beschäftigten entwickelt sich rückläufig. So waren Anfang des Jahres 2008 32.803 Arbeitnehmer/innen im Steinkohlenbergbau beschäftigt. Bis Ende des Jahres 2015 wurde die Beschäftigungszahl sozialverträglich auf 9.640 Arbeitnehmer/innen reduziert. Diesem Trend folgt mit zeitlicher Verzögerung auch die Anzahl der Anpassungsgeld(APG)-Berechtigten. Da nach den letzten Zechenstilllegungen zum Jahresende 2018 weitere Arbeitnehmer/innen ausscheiden werden und eine sinkende Zahl an Beschäftigten noch nach 2018 für die Stilllegung der Gruben benötigt wird, gelten die derzeit aktuellen APG-Richtlinien noch bis zum Jahre 2027."
-    kontrolle:
+    - name: kontrolle
       title: Kontrolle
-      p: "Neben der Prüfung der zweckentsprechenden Verwendung der Mittel durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfern prüft der Bundesrechnungshof im Rahmen der Haushaltsprüfung des Bundesamtes jährlich stichprobenartig APG-Einzelfälle."
+    - name: begünstigungen
+      title: Begünstigungen für Strom- und Energiesteuer
+      subnav_items:
+        - name: table
+          title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
+
+  p: Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt.
+  beschäftigte:
+    title: Beschäftigte
+    p: Die Zahl der Beschäftigten entwickelt sich rückläufig. So waren Anfang des Jahres 2008 32.803 Arbeitnehmer/innen im Steinkohlenbergbau beschäftigt. Bis Ende des Jahres 2015 wurde die Beschäftigungszahl sozialverträglich auf 9.640 Arbeitnehmer/innen reduziert. Diesem Trend folgt mit zeitlicher Verzögerung auch die Anzahl der Anpassungsgeld(APG)-Berechtigten. Da nach den letzten Zechenstilllegungen zum Jahresende 2018 weitere Arbeitnehmer/innen ausscheiden werden und eine sinkende Zahl an Beschäftigten noch nach 2018 für die Stilllegung der Gruben benötigt wird, gelten die derzeit aktuellen APG-Richtlinien noch bis zum Jahre 2027.
+  kontrolle:
+    title: Kontrolle
+    p: Neben der Prüfung der zweckentsprechenden Verwendung der Mittel durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfern prüft der Bundesrechnungshof im Rahmen der Haushaltsprüfung des Bundesamtes jährlich stichprobenartig APG-Einzelfälle.
+    source: "Quelle: Subventionsbericht der Bundesregierung, eigene Darstellung"
+    daten-einsehen: Daten einsehen
+  begünstigungen:
+    title: Begünstigungen für Strom- und Energiesteuer
+    p1: Sowohl bei der Stromsteuer als auch bei der Energiesteuer existieren verschiedene Steuerbegünstigungen. Steuerbegünstigungen erfassen Steuerbefreiungen, Steuerermäßigungen und Steuerentlastungen. Das Stromsteuergesetz (StromStG) sieht Begünstigungen für bestimmte Arten der Verwendung bzw. der Stromerzeugung vor. Das Energiesteuergesetz (EnergieStG) kennt ebenfalls Verwendungen, bei denen Energieerzeugnisse steuerlich begünstigt werden. Ein Teil dieser Begünstigungen ist nach der Energiesteuerrichtlinie verpflichtend zu gewähren.
+    p2: Als Unternehmen des Produzierenden Gewerbes können rohstoffgewinnende Unternehmen insbesondere von den verschiedenen Steuerentlastungsmöglichkeiten des Energie- und Stromsteuerrechts profitieren.
+    p3: "Drei Regelungen sind hierbei besonders relevant:"
+    list:
+      item1: "Steuerentlastung für Unternehmen (§ 54 EnergieStG, § 9b StromStG): Unternehmen des Produzierenden Gewerbes wird auf Antrag eine Ermäßigung der Stromsteuer und der Energiesteuer in Höhe von 25% der Regelsteuersätze auf Strom und Heizstoffe sowie Kraftstoffe gewährt, die in begünstigten Produktionsanlagen eingesetzt werden."
+      item2: "Steuerentlastung in Form des sog. Spitzenausgleichs (§ 55 EnergieStG, § 10 StromStG): Für Unternehmen des Produzierenden Gewerbes soll die zusätzliche Belastung durch die „ökologische Steuerreform“ durch eine Entlastung bei der Energie- und der Stromsteuer abgemildert werden. Da die Mehreinnahmen durch die ökologische Steuerreform auch dazu dienten, den Faktor Arbeit zu vergünstigen und dazu beigetragen haben, dass die von Unternehmen zu zahlenden Arbeitgeberanteile an den Rentenversicherungsbeiträgen im Vergleich zu 1999 gesunken sind, wird für den Spitzenausgleich eine Vergleichsrechnung für das jeweilige Unternehmen angestellt. Um eine doppelte Entlastung sowohl bei den Arbeitgeberanteilen an der Rentenversicherung als auch bei der eingesetzten Energie zu vermeiden, werden die eingesparten Rentenversicherungsbeiträge bei der Berechnung der Höhe der Entlastung berücksichtigt. Die Höhe der Entlastung errechnet sich somit je nach Unternehmen individuell und ist zudem auf maximal 90% der gezahlten Stromsteuer sowie 90% des Steueranteils nach § 55 Abs. 3 EnergieStG gedeckelt. Voraussetzungen für eine Inanspruchnahme des Spitzenausgleichs sind u.a. der Nachweis eines zertifizierten Energiemanagementsystems und die jährliche Reduzierung der Energieintensivität des Produzierenden Gewerbes als Ganzes um einen gesetzlich festgelegten Wert. Vergleichswert ist der Durchschnittswert der Energieintensität des Produzierenden Gewerbes für den Zeitraum 2007-2012."
+      item3: "Bestimmte Prozesse und Verfahren/Herstellerprivileg (§ 9a StromStG, § 51 EnergieStG, §§ 26, 37, 44 und 47 EnergieStG): Unternehmen des Produzierenden Gewerbes können Strom bzw. Energieerzeugnisse bei Entnahme bzw. Verwendung zu genau bestimmten, energieintensiven Zwecken (wie Elektrolyse, Metallerzeugung, Herstellung von Glaswaren etc.) vollständig von der Steuer entlasten. Zudem können Unternehmen, die Energieerzeugnisse auf dem Betriebsgelände produzieren (Raffinerien, Gasgewinnungs- und Kohlebetriebe), die selbst produzierten Energieerzeugnisse im eigenen Unternehmen zur Aufrechterhaltung des Betriebs steuerfrei nutzen oder von der Steuer entlasten."
+    p4: "Die Subventionen werden im Subventionsbericht der Bundesregierung für das gesamte Produzierende Gewerbe und nicht separat für einzelne Wirtschaftszweige wie den Rohstoffsektor dargestellt. Die in der nachfolgenden Tabelle dargestellten ausgewählten Begünstigungen gelten für das gesamte Produzierende Gewerbe. Daraus lassen sich nicht notwendiger Weise Rückschlüsse auf den Anteil der Begünstigungen für den rohstoffproduzierenden Sektor ziehen."
+    table:
+      title1_1: "Tabelle: Ausgewählte Begünstigungen"
+      sup11:
+        title: "11"
+        text: "Hier sind nur Begünstigungen aufgenommen, die auch für rohstoffproduzierende Unternehmen von Relevanz sind."
+      title1_2: " bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe"
+      sup12:
+        title: "12"
+        text1: "Der Anteil der rohstoffgewinnenden Industrie an der Bruttowertschöpfung des produzierenden Gewerbes beträgt 0,65 Prozent. Quelle: eigene Berechnung aus Angaben zum BIP (Kapitel 5a) sowie"
+        link: DESTATIS
+        text2: (Zugriff 03.07.2017).
+      source: "Quelle: 25. Subventionsbericht der Bundesregierung 2015"
+      sup13:
+        title: "13"
+        text:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter: [Website+Hyperlink] veröffentlicht."
+      th1: Regelung
+      th2:
+        title: Jahr
+        th2_1: "2013"
+        th2_2: "2014"
+        th2_3: (Soll) 2015
+        th2_4: (Soll) 2016
+      row1:
+        td1: Allgemeine Steuervergünstigung (§ 54 EnergieStG)
+        td2: 145 Mio. €
+        td3: 153 Mio. €
+        td4: 160 Mio. €
+        td5: 160 Mio. €
+      row2:
+        td1: Allgemeine Steuer-vergünstigung (§ 9b StromStG)
+        td2: 975 Mio. €
+        td3: 1.038 Mio. €
+        td4: 1.000 Mio. €
+        td5: 1.000 Mio. €
+      row3:
+        td1: Spitzenausgleich (§ 55 EnergieStG)
+        td2: 167 Mio. €
+        td3: 197 Mio. €
+        td4: 180 Mio. €
+        td5: 180 Mio. €
+      row4:
+        td1: Spitzenausgleich (§ 10 StromStG)
+        td2: 1.870 Mio. €
+        td3: 1.911 Mio. €
+        td4: 1.900 Mio. €
+        td5: 1.900 Mio. €
+      row5:
+        td1: Herstellerprivileg (§§ 26, 37, 44, 47 EnergieStG)
+        td2: 350 Mio. €
+        td3: 350 Mio. €
+        td4: 350 Mio. €
+        td5: 350 Mio. €
+    p5_1: Die Mitgliedstaaten der Europäischen Union sind jedoch für Begünstigungen ab 1. Juli 2016 zur jährlichen Veröffentlichung umfassender Informationen zur Gewährung von staatlichen Beihilfen auf einer ausführlichen
+    link: Beihilfe-Internetseite
+    p5_2: verpflichtet (Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz, EnSTransV). Aufgrund dieser Verordnung kann die Zollverwaltung Daten zu den Vergünstigungen bei der Energie- und der Stromsteuer erheben, verarbeiten, speichern, übermitteln und löschen, um den Anforderungen der Kommission nachzukommen, erstmals zum 30. Juni 2017.
+
+erneuerbare_energien:
+  title: Erneuerbare Energien
+  nav_items:
+    - name: title
+      title: Seitenanfang
+
+  p1_1: Erneuerbare Energien
+  sup14:
+    title: "14"
+    text1: "Quelle für die im Bericht genannten Zahlen:"
+    link: "BMWi (2016): Erneuerbare Energien in Zahlen,"
+    text2: " AGEE-Stat (2016): Entwicklung der erneuerbaren Energien in Deutschland im Jahr 2016."
+  p1_2: "leisten einen großen und wachsenden Anteil an der Energieversorgung Deutschlands. 2016 betrug der Anteil erneuerbarer Energien 12 % am gesamten Primärenergieverbrauch."
+  source: "Quelle: Arbeitsgemeinschaft Energiebilanzen - 03/2017"
+  p2_1: "Besonders groß ist der Anteil im Stromsektor, mehr als 30 % des Bruttostromverbrauchs werden durch erneuerbare Quellen gedeckt (über 190.000 GWh). Die Bundesregierung hat sich zum Ziel gesetzt, die Energieversorgung bis 2050 nahezu vollständig zu dekarbonisieren und so die Treibhausgasemissionen zu reduzieren. Im Jahr 2015 gingen in Deutschland mehr als 80 % der Treibhausgasemissionen (752 Mt CO2-Äquivalente) auf die Verbrennung fossiler Energien zurück"
+  sup15:
+    title: "15"
+    text: "BMWi Energiedaten vom 16.03.2017, Treibhausgas-Emissionen nach Gasen und Quellkategorien."
+  p2_2: "Derzeit werden fossil betriebene Kraftwerke neben den erneuerbaren Energien benötigt, um dem Energiebedarf in Deutschland gerecht zu werden."
+  p3: "Die Technologien der erneuerbaren Energien benötigen beispielsweise Stahl, Zement oder petrochemische Rohstoffe wie folgendes Beispiel zeigt: Bauteile einer Windkraftanlage bestehen zu etwa 45 % aus Erdöl und Produkten der petrochemischen Industrie. Ein Flügel einer Windturbine, der bei großen Windrädern 30 bis 50 Meter lang sein kann, enthält bis zu 12.000 kg petrochemische Erzeugnisse."
+  p4: "Die politische Zielsetzung der Bundesregierung hat nicht nur Auswirkungen auf die deutsche und europäische Energiewirtschaft, sondern auch auf die deutsche Rohstoffindustrie. Durch die Energiewende ändert sich der Rohstoffbedarf in Deutschland. So steigt der Bedarf an Steinen und Erden, Kupfer, Stahl, Kobalt, Lithium, Seltenen Erden, Platingruppenmetallen, Indium oder Tellur mit dem Bau der Erneuerbaren-Energien-Anlagen, von Speichern oder auch der intelligenten Netze an. Darüber hinaus wird es Verschiebungseffekte in der Nachfrage nach Rohstoffen geben: Durch die Veränderung im Stromerzeugungsmix wird das Aufkommen an Sekundärrohstoffen beeinflusst. Der Rückgang der Kohleverstromung hat z.B. Einfluss auf die Produktion von REA-Gips. Ein Sinken des Aufkommens müsste durch einen entsprechenden Anstieg bei der Primärrohstoffgewinnung (Naturgips) ausgeglichen werden. Dies zeigt, dass eine zuverlässige Versorgung mit mineralischen und metallischen Rohstoffen sowie der sichere Zugang zu heimischen Rohstofflagerstätten Voraussetzungen für den Erfolg der Energiewende und darüber hinaus für den reibungslosen Produktionsablauf in der deutschen Rohstoffindustrie sind."
+  p5: "Einige der für die Energiewende benötigten Metalle, zum Beispiel Elektronikelemente wie Indium, Germanium oder Gallium sind beibrechende Rohstoffe, das heißt, sie werden als Nebenprodukt im Bergbau eines anderen Metalls gewonnen. Bei diesen Metallen funktioniert der Regelkreis der Rohstoffversorgung nur eingeschränkt. In Deutschland und Europa sind Potenziale solcher Lagerstätten vorhanden, so dass mit einer gezielten Lagerstättenentwicklung und Rohstoffgewinnung Importabhängigkeiten verringert werden können."
+  p6: "Die Investitionen in Erneuerbare-Energien-Anlagen betrugen 2015 15 Mrd. Euro, aus dem Betrieb der bestehenden Anlagen wurden 14,7 Mrd. Euro Umsatz erwirtschaftet. Der Ausbau erneuerbarer Energien kann Beschäftigungswirkungen über eine zunehmende Nachfrage nach diesbezüglichen Waren und Dienstleistungen entfalten. Schwerpunkt war die Windenergie, die 2015 insgesamt mehr als 140.000 Personen Beschäftigung bot. Finanziert wird der Ausbau der erneuerbaren Energien mit über dem Börsenstrompreis liegenden Einspeisevergütungen zugunsten der Betreiber der Erneuerbare-Energien-Anlagen. Diese Einspeisevergütungen werden von den Endkunden über Umlagen auf ihren Strompreis aufgebracht. Für den weiteren Ausbau der erneuerbaren Energien sind industrielle Energieprojekte mit der Entwicklung der erneuerbaren Energien in geeigneter Weise zu verbinden. Das betrifft auch die deutsche Rohstoffindustrie, die bereits eine Reihe von Projekten im Bereich Wind, Biomasse, Geothermie, Solar und Wasserkraft in Deutschland installiert hat."
+  p7: "Erneuerbare Energieträger werden sowohl in der Stromerzeugung, als auch in der Wärmeerzeugung und im Verkehrssektor verwendet. Wichtigster erneuerbarer Energieträger im Stromsektor ist auch hier die Windenergie: In 2016 wurden 40 % des erneuerbaren Stroms aus Windenergie generiert. Die Windenergie spielt eine tragende Rolle beim Ausbau der erneuerbaren Energien hin zu einer wirtschaftlich tragfähigen und klimaverträglichen Energieversorgung bei angemessenen Preisen und hohem Wohlstandsniveau. Die Nutzung der Windenergie hat mittlerweile einen Anteil von über 13 % am deutschen Stromverbrauch. An verschiedenen ehemaligen Bergbaustandorten in Nordrhein-Westfalen sind inzwischen Windkraftanlagen vornehmlich auf begrünten Bergehalden mit bevorzugter Windsituation entstanden, die Modellcharakter für Deutschland haben. Neben dem weiteren Ausbau an geeigneten Landstandorten und dem Ersatz alter, kleinerer Anlagen durch moderne und leistungsstärkere Anlagen – dem sogenannten Repowering – kommt dem Ausbau der Windenergie auf See eine wachsende Bedeutung zu. Alleine 2016 wurden Anlagen mit einer installierten Leistung von rund 4.500 MW an Land und rund 700 MW auf See gebaut. Insgesamt stehen in Deutschland zurzeit rund 47.000 MW Kapazität aus Windanlagen zur Verfügung, die im Jahr 2016 fast 80.000 GWh Strom produziert haben, ein Sechstel davon auf See. Bis zum Jahr 2030 soll nach den Plänen der Bundesregierung eine Leistung von 15.000 MW Offshore-Wind am Netz sein. Mit Blick auf den Ausbau und die immer größer werdenden Leistungseinheiten (mehr als 10 MW je Windkraftanlage) wird hier auch der mineralische und metallische Rohstoffbedarf steigen. So wird zum Beispiel für den Bau der Fundamente von Windenergieanlagen Beton benötigt. Damit einher geht eine entsprechend höhere Nachfrage nach Kalkstein für die Zementherstellung sowie Zuschlagsstoffen wie Kies und Sand."
+  p8: "Auch die Biomasse hat sich zu einem relevanten Energieträger für die Stromerzeugung entwickelt. Inzwischen beträgt die Gesamtkapazität der Anlagen zur Stromerzeugung aus Biomasse rund 7.200 MW, die Stromerzeugung lag 2016 bei gut 50.000 GWh (9 % des gesamten Stromverbrauchs, 23 % der erneuerbaren Stromerzeugung). Neben Biogas (inkl. Biomethan, Deponie- und Klärgas) werden auch feste und flüssige Biomasse sowie biogene Abfälle zur Stromerzeugung genutzt, jedoch ist Biogas mit 63 % (2016) der gesamten Biomasse der bedeutendste biogene Energieträger zur Stromerzeugung."
+  p9: "Auch Sonnenergie lässt sich zur Stromerzeugung nutzen. Mehr als 1,5 Millionen Photovoltaikanlagen wandeln die Strahlungsenergie direkt in Strom um und stellten Ende 2016 insgesamt rund 40.000 MW installierte Leistung in Deutschland. 2016 wurden rund 1.000 MW Leistung zugebaut. Demzufolge steigt auch die Stromerzeugung aus Photovoltaik nach wie vor kontinuierlich an und hat in 2016 gut 38.000 GWh erreicht. Photovoltaik deckte damit 6,5 % des gesamten Bruttostromverbrauchs und leistete 20 % der erneuerbaren Stromversorgung. Auch deutsche Bergbauunternehmen entscheiden sich zunehmend für den Einsatz von Photovoltaik-Anlagen an verschiedenen Bergbauindustriestandorten in Deutschland."
+  p10: "Neben Wind, Biomasse und Photovoltaik leistete auch die Wasserkraft mit rund 22.000 GWh (2016) einen Beitrag zur Stromerzeugung."
+  p11: "Neben dem Stromsektor werden auch im Wärmesektor zunehmend erneuerbare Energieträger verwendet. 2016 wurden insgesamt 165.000 GWh aus erneuerbaren Wärmequellen bestritten. Wichtigster erneuerbarer Energieträger zur Wärmeerzeugung sind dabei mit 111.000 GWh biogene Feststoffe, überwiegend Holz, beispielsweise in Form von Holzpellets. Auch Biogas, biogener Abfall sowie durch Wärmepumpen nutzbar gemachte Geothermie und Umweltwärme sind relevante erneuerbare Wärmeenergieträger mit jeweils über 10.000 GWh erzeugter Wärme in 2016. Die Tiefe Geothermie ist als grundlastfähige Energieform mit einer hohen Jahreslaufleistung (angestrebt > 8.000 h bei Geothermiekraftwerken) ein fester Bestandteil eines sinnvollen Energiemixes. Die Bedeutung der Geothermie für die Wärmeversorgung nimmt laufend zu. Solarthermie leistete mit gut 7.000 GWh ebenfalls einen Beitrag zur Wärmeversorgung."
+  p12: "Im Verkehrssektor kann Biomasse CO2-Emissionen mindern, insbesondere in Form von Biokraftstoffen wie Bioethanol, Biodiesel oder Biogas für Autos, Lastwagen, Züge, Schiffe und Flugzeuge. Auch Elektrofahrzeuge stellen eine Möglichkeit dar, CO2-Emissionen zu mindern. Im Jahr 2015 stellten die erneuerbaren Energien 5,3 % des Kraftstoffverbrauchs in Deutschland."
+  p13: "Durch den flexiblen Einsatz sowohl im Strom-, Wärme- als auch im Verkehrssektor ist die Biomasse damit insgesamt der bedeutendste erneuerbare Energieträger. 60 % der gesamten Endenergie aus erneuerbaren Energiequellen wurde 2015 durch die verschiedenen energetisch genutzten Biomassen bereitgestellt."
+  p14: "Der Ausbau erneuerbarer Energien trägt zur Vermeidung von Treibhausgasemissionen bei und reduziert die Verwendung fossiler, überwiegend importierter Energieträger. Trotz des Ausbaus der erneuerbaren Energien werden derzeit aber weiterhin konventionelle Kraftwerke benötigt. Da in Deutschland fossile Energieträger wie Mineralöl, Erdgas und Steinkohle zu einem hohen Anteil eingeführt werden, führen Einsparungen in diesem Bereich auch zu einer Senkung der deutschen Energieimporte: Erneuerbare Energien wie auch die Stromerzeugung auf Basis eigener Energierohstoffe können diese Importabhängigkeiten deutlich reduzieren und somit die Energiesicherheit erhöhen."
 
 explore-data:
     title: "Fakten"
@@ -985,6 +1271,219 @@ explore-data:
       item3: Beitrag zur Beschäftigung
       item4: Exporte
 
+einnahmen:
+    title: Beitrag zu den Staatseinnahmen
+    nav_items:
+      - name: title
+        title: Seitenanfang
+      - name: steuern
+        title: Steuern
+      - name: steuereinnahmen
+        title: Steuereinnahmen aus dem Rohstoffsektor
+      - name: förder_feldesabgaben
+        title: Förder- und Feldesabgaben
+      - name: umsatz
+        title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
+    p1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 750 Mio. Euro im Jahr 2015. Dies entspricht einem Anteil von 0,06 Prozent an den Gesamteinnahmen des Staates. Daneben gibt es weitere Zahlungen des rohstoffgewinnenden Sektors an den Staat wie zum Beispiel Pachten, Energie- und Stromsteuern (s. Kap. 4) sowie Zahlungen in Zusammenhang mit naturschutzrechtlichen Eingriffen sowie der Wassernutzung (s. Kap. 6), die hier nicht dargestellt sind.
+    steuern:
+      title: Steuern
+      p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2015 oben genannte Steuern in Höhe von 361 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,03 Prozent. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren zurückgegangen.
+      p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
+      daten_einsehen: Daten einsehen
+      p3: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei dargestellt.
+
+    steuereinnahmen:
+      title: Steuereinnahmen aus dem Rohstoffsektor
+      th1: Steuerart
+      th2:
+        title: Jahr
+        th21: "2010"
+        th22: "2011"
+        th23: "2012"
+        th24: "2013"
+        th25: "2014"
+        th26: "2015"
+        th0: in Mio. €
+      row1:
+        td1: Körperschaftsteuer
+        td2: "132"
+        td3: "154"
+        td4: "173"
+        td5: "154"
+        td6: "148"
+        td7: "122"
+      row2:
+        td1: Gewerbesteuer
+        td2: "155"
+        td3: "248"
+        td4: "266"
+        td5: "236"
+        td6: "227"
+        td7: "187"
+      row3:
+        td1: Einkommensteuer
+        td2: "39"
+        td3: "34"
+        td4: "60"
+        td5: "53"
+        td6: "51"
+        td7: "42"
+      row4:
+        td1: Solidaritätszuschlag
+        td2: "9"
+        td3: "10"
+        td4: "13"
+        td5: "11"
+        td6: "11"
+        td7: "9"
+      row5:
+        td1: Summe
+        td2: "335"
+        td3: "446"
+        td4: "512"
+        td5: "454"
+        td6: "438"
+        td7: "361"
+      row6:
+        td1: Gesamteinnahmen des Staates
+        td2: 1.030.908
+        td3: 1.103.862
+        td4: 1.163.357
+        td5: 1.201.058
+        td6: 1.244.589
+        td7: 1.301.816
+      row7:
+        td1: Anteil o.g. Steuern an Gesamteinnahmen
+        td2: 0,03%
+        td3: 0,04%
+        td4: 0,04%
+        td5: 0,04%
+        td6: 0,04%
+        td7: 0,03%
+      row8: "nachrichtlich:"
+      row9:
+        td1: Fortschreibungsfaktor
+        td4: 7,09%
+        td5: -11,40%
+        td6: -3,48%
+        td7: -17,61%
+    förder_feldesabgaben:
+      title: Förder- und Feldesabgaben
+      p1: Die Förderabgaben werden von den Bergämtern der Bundesländer erhoben und variieren stark, abhängig von der lokalen Bergbauaktivität und den festgelegten Abgabesätzen in den einzelnen Bundesländern. Insgesamt wurden 2016 in Deutschland 233 Mio. Euro Fördereinnahmen erhoben. Spitzenreiter war mit Abstand Niedersachsen, mit mehr als 172 Mio. Euro. Auf Rang zwei folgt Schleswig-Holstein mit rund 48 Mio. Euro, gefolgt von Rheinland-Pfalz mit rund 5 Mio. Euro. Bei einigen Bundesländern unterlag die Höhe der Einnahmen in den vergangenen Jahren signifikanten Schwankungen. Dies kann unterschiedliche Gründe haben, z.B. sinkende Weltmarktpreise für Rohstoffe oder Änderungen der Produktionsmengen.
+      daten_einsehen: Daten einsehen
+      p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
+      table1:
+        th1: Förderabgabe in Euro
+        th2: "2015"
+        th3: "2016"
+        row1:
+          td1: Bundesgebiet
+          td2: "386.954.750,40"
+          td3: "232.507.396,33"
+        row2:
+          td1: Baden-Württemberg
+          td2: "117.387,84"
+          td3: "128.185,25"
+        row3:
+          td1: Bayern
+          td2: "479.125,65"
+          td3: "1.479.828,47"
+        row4:
+          td1: Berlin
+          td2: "0,00"
+          td3: "0,00"
+        row5:
+          td1: Bremen
+          td2: "0,00"
+          td3: "0,00"
+        row6:
+          td1: Hamburg
+          td2: "167.392,87"
+          td3: "86.573,83"
+        row7:
+          td1: Hessen
+          td2: "455.052,77"
+          td3: "462.929,24"
+        row8:
+          td1: Niedersachsen
+          td2: "295.865.995,20"
+          td3: "172.075.617,30"
+        row9:
+          td1: Nordrhein-Westfalen
+          td2: "1.451.800,74"
+          td3: "666.541,61"
+        row10:
+          td1: Rheinland-Pfalz
+          td2: "8.112.789,63"
+          td3: "5.191.731,39"
+        row11:
+          td1: Saarland
+          td2: "137.667,06"
+          td3: "33.121,21"
+        row12:
+          td1: Schleswig-Holstein
+          td2: "75.966.953,81"
+          td3: "48.139.515,05"
+        row13:
+          td1: Brandenburg
+          td2: "528.292,70"
+          td3: "536.917,05"
+        row14:
+          td1: Mecklenburg-Vorpommern
+          td2: "466.322,01"
+          td3: "247.585,55"
+        row15:
+          td1: Sachsen
+          td2: "335.156,57"
+          td3: "523.795,20"
+        row16:
+          td1: Sachsen-Anhalt
+          td2: "1.363.756,74"
+          td3: "1.480.734,27"
+        row17:
+          td1: Thüringen
+          td2: "1.507.056,81"
+          td3: "1.454.320,91"
+        row18:
+          td1: Förderabgaben in Mio. Euro
+          td2: "387,0"
+          td3: "232,5"
+        row19:
+          td1: Gesamteinnahmen des Staates in Mio. Euro
+          td2: "1.301.816"
+          td3: "1.351.851"
+        row20:
+          td1: Anteil im Prozent
+          td2: "0,03"
+          td3: "0,02"
+      p3: "Die Feldeseinnahmen der Bundesländer werden nicht systematisch bundesweit zusammengestellt oder veröffentlicht. Ihre Höhe ist deutlich geringer als die Höhe der Fördereinnahmen und sie fallen überhaupt nur in einigen Bundesländern an (siehe nachfolgende Tabelle):"
+      table2:
+        title: Feldesabgabe im Jahr 2015
+        th1: Bundesland
+        th2: in Tausend Euro
+        row1:
+          td1: Bayern
+          td2: "46"
+        row2:
+          td1: Brandenburg
+          td2: "30"
+        row3:
+          td1: Niedersachsen
+          td2: "351"
+        row4:
+          td1: Nordrhein-Westfalen
+          td2: "1452"
+    umsatz:
+      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
+      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Milliarden Euro. Davon entfielen etwa 8,1 Milliarden Euro (rund 88%) auf Inlandsumsätze und 1,1 Milliarden Euro (12%) auf Umsätze mit dem Ausland.
+      daten_einsehen: Daten einsehen
+      star1:
+        title: "*"
+        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07)"
+      star2:
+        title: "**"
+        text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
+
 how-it-work:
     title: Rohstoffgewinnung
     description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
@@ -995,22 +1494,27 @@ how-it-work:
       item3: Salze
       item4: Steine und Erden
     section2:
+      title: Rohstoffproduktion in Deutschland
+      item1: Gesamtdeutsche Rohstoffproduktion
+    section3:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
       item2: Genehmigung von Bergbauprojekten
       item3: Öffentliches Lizenzregister
       item4: Wirtschaftlicher Eigentümer
-    section3:
+    section4:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
       item2: Steuergeheimnis
       item3: Öffentliche Berichte
       item4: Verwendung der Einnahmen
-    section4:
+    section5:
       title: Sonderthemen
       item1: Umgang mit der Natur
       item2: Wasser
-      item3: Staatliche Subventionen
+      item3: Subventionen und stl. Begünstigungen
+      item4: Anpassungsgeld
+      item5: Erneuerbare Energien
 
 downloads:
   title: Daten & Dokumentation Herunterladen

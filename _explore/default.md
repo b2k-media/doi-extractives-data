@@ -54,7 +54,7 @@ permalink: /explore/
     <a href="{{ site.lang | url_lang_prefix  }}/explore/BIP" class="tile tile-bip">
       <span>{% t 'explore-data.economic-impact.item1' %}</span>
     </a>
-    <a href="#" class="tile tile-einnahmen-rohstoff disabled">
+    <a href="{{ site.lang | url_lang_prefix  }}/explore/einnahmen" class="tile tile-einnahmen-rohstoff">
       <span>{% t 'explore-data.economic-impact.item2' %}</span>
     </a>
     <a href="{{ site.lang | url_lang_prefix  }}/explore/employment" class="tile tile-beschaeftigung">

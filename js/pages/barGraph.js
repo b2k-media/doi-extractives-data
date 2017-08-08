@@ -9,8 +9,12 @@ $(document).ready(function(){
 
   if (document.URL.search('/explore/exporte/') > 1) {
     jsonFilePath = "../../data/graphs/exporte.json";
-  } else if (document.URL.search('/explore/staatliche-subventionen/') > 1) {
+  } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
+  } else if (document.URL.search('explore/how-it-work/anpassungsgeld') > 1) {
+    jsonFilePath = "../../../data/graphs/anpassungsgeld.json";
+  } else if (document.URL.search('explore/einnahmen/') > 1) {
+    jsonFilePath = "../../data/graphs/einnahmen.json";
   }
 
   $.ajax({
@@ -21,7 +25,6 @@ $(document).ready(function(){
   });
 
   function processData(data) {
-
     var jsonresponce = JSON.parse(data);
     for(var i=0; i<jsonresponce.length; i++) {
       renderChart(jsonresponce[i], i);

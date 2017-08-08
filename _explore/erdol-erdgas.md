@@ -41,6 +41,10 @@ breadcrumb:
           <h3>{% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.title %}</h3>
           <p>
             {% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.p %}
+            <sup>
+              <a href="#explanation-1">
+                {% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.sup1.title %}</a>
+            </sup>
           </p>
         </section>
         <section id="erdol-gewinnung" style="position: relative;">
@@ -78,6 +82,10 @@ breadcrumb:
           <h3>{% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.title %}</h3>
           <p>
             {% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.p %}
+            <sup>
+              <a href="#explanation-2">
+                {% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.sup2.title %}</a>
+            </sup>
           </p>
         </section>
         <section id="erdgas-gewinnung" style="position: relative;">
@@ -92,6 +100,17 @@ breadcrumb:
             {% t erdol-erdgas.erdgas.verwendung.p %}
           </p>
         </section>
+      </section>
+
+      <section id="explanation" style="position: relative;">
+        <p id="explanation-1">
+          <sup>{% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.sup1.title %}</sup>
+          {% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.sup1.text %}
+        </p>
+        <p id="explanation-2">
+          <sup>{% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.sup2.title %}</sup>
+          {% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.sup2.text %}
+        </p>
       </section>
     </div>
 

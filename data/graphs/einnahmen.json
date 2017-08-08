@@ -1,0 +1,37 @@
+[{
+	"title": "Umsatz des Sektors „Bergbau und Gewinnung von Steinen und Erden 2012-2016 ",
+	"title_en": "Umsatz des Sektors „Bergbau und Gewinnung von Steinen und Erden 2012-2016 [EN]",
+	"data": [
+		[
+			[5426126.927, 2012],
+			[4768721, 2013],
+			[3526863, 2014],
+			[2679436, 2015],
+			[1870085, 2016]
+		],
+		[
+			[4655207.104, 2012],
+			[4720729, 2013],
+			[4657017, 2014],
+			[4758056, 2015],
+			[4811514, 2016]
+		],
+		[
+			[3039132.458, 2012],
+			[2670081, 2013],
+			[2572253, 2014],
+			[2436600, 2015],
+			[2182183, 2016]
+		],
+		[
+			[489745.717, 2012],
+			[395224, 2013],
+			[358044, 2014],
+			[311847, 2015],
+			[291601, 2016]
+		]
+	],
+	"color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff"],
+	"labels": ["Gewinnung von Erdöl und Erdgas", "Gewinnung von Steinen und Erden, sonstiger Bergbau", "Kohlenbergbau", "Sonstige*"],
+  "xAxis": [0, 2000000, 4000000, 6000000]
+}]
