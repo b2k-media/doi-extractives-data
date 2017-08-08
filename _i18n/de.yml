@@ -1156,17 +1156,17 @@ anpassungsgeld:
     table:
       title1_1: "Tabelle: Ausgewählte Begünstigungen"
       sup11:
-        title: "11"
+        title: "15"
         text: "Hier sind nur Begünstigungen aufgenommen, die auch für rohstoffproduzierende Unternehmen von Relevanz sind."
       title1_2: " bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe"
       sup12:
-        title: "12"
+        title: "16"
         text1: "Der Anteil der rohstoffgewinnenden Industrie an der Bruttowertschöpfung des produzierenden Gewerbes beträgt 0,65 Prozent. Quelle: eigene Berechnung aus Angaben zum BIP (Kapitel 5a) sowie"
         link: DESTATIS
         text2: (Zugriff 03.07.2017).
       source: "Quelle: 25. Subventionsbericht der Bundesregierung 2015"
       sup13:
-        title: "13"
+        title: "17"
         text:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter: [Website+Hyperlink] veröffentlicht."
       th1: Regelung
       th2:
