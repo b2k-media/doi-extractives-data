@@ -1217,7 +1217,7 @@ erneuerbare_energien:
 
   p1_1: Erneuerbare Energien
   sup14:
-    title: "14"
+    title: "18"
     text1: "Quelle für die im Bericht genannten Zahlen:"
     link: "BMWi (2016): Erneuerbare Energien in Zahlen,"
     text2: " AGEE-Stat (2016): Entwicklung der erneuerbaren Energien in Deutschland im Jahr 2016."
@@ -1225,7 +1225,7 @@ erneuerbare_energien:
   source: "Quelle: Arbeitsgemeinschaft Energiebilanzen - 03/2017"
   p2_1: "Besonders groß ist der Anteil im Stromsektor, mehr als 30 % des Bruttostromverbrauchs werden durch erneuerbare Quellen gedeckt (über 190.000 GWh). Die Bundesregierung hat sich zum Ziel gesetzt, die Energieversorgung bis 2050 nahezu vollständig zu dekarbonisieren und so die Treibhausgasemissionen zu reduzieren. Im Jahr 2015 gingen in Deutschland mehr als 80 % der Treibhausgasemissionen (752 Mt CO2-Äquivalente) auf die Verbrennung fossiler Energien zurück"
   sup15:
-    title: "15"
+    title: "19"
     text: "BMWi Energiedaten vom 16.03.2017, Treibhausgas-Emissionen nach Gasen und Quellkategorien."
   p2_2: "Derzeit werden fossil betriebene Kraftwerke neben den erneuerbaren Energien benötigt, um dem Energiebedarf in Deutschland gerecht zu werden."
   p3: "Die Technologien der erneuerbaren Energien benötigen beispielsweise Stahl, Zement oder petrochemische Rohstoffe wie folgendes Beispiel zeigt: Bauteile einer Windkraftanlage bestehen zu etwa 45 % aus Erdöl und Produkten der petrochemischen Industrie. Ein Flügel einer Windturbine, der bei großen Windrädern 30 bis 50 Meter lang sein kann, enthält bis zu 12.000 kg petrochemische Erzeugnisse."
