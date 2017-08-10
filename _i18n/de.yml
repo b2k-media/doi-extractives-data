@@ -1910,9 +1910,8 @@ downloads:
   link: "Quelle:"
   h5: Daten zur Beschäftigung
   p7:
-    p1: Die Daten zu den Beschäftigten werden der jährlich erscheinenden Publikation „Der Bergbau in der Bundesrepublik Deutschland“ des Bundesministeriums für Wirtschaft und BMWi entnommen
-    link: (PDF und EXCEL)
-    p2: Zur Berechnung des prozentualen Anteils der Beschäftigten wurde auf die Gesamtzahl der Erwerbstätigen der Arbeitsmarktstatistik des Statistischen Jahrbuches des Statistischen Bundesamtes zurückgegriffen
+    p1: Die Daten zu den Beschäftigten wurden der Datenbank der Bundesagentur für Arbeit entnommen
+    link: (EXCEL)
   h6: Daten zu Exporten
   p8:
     p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (GP09-05 bis GP09-08) des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt. Die Daten der Exporte von 2010-2014 wurden der"
