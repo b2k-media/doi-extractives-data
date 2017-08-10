@@ -27,9 +27,28 @@ nav_items:
 
     <div class="container-left-9">
         <p>
-          Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2015 exportierte das Land  Waren im Wert von insgesamt 1.193 Milliarden Euro. Dabei entfielen rund 10 Milliarden Euro auf Waren der rohstoffgewinnenden Industriei, was einem Anteil von 0,84 % an den Gesamtexporten entspricht. Erdöl und Erdgas machten dabei mit 8,4 Milliarden Euro den größten Anteil an den Exporten aus, gefolgt von Steinen, Erden und sonstigen Bergbauerzeugnissen mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von 134 Mio. € und Kohle im Wert von 125 Mio. € exportiert. Seit 2010 haben sich die Exporte von Erdöl und Erdgas nahezu verdoppelt.
+          Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2016 exportierte das Land Waren im Wert von insgesamt rund 1,2 Billionen Euro. Dabei entfielen rund 6,6 Milliarden Euro auf Waren der rohstoffgewinnenden Industrie, was einem Anteil von 0,54 % an den Gesamtexporten entspricht. Der Bereich „Erdöl und Erdgas“ machte mit knapp 5 Milliarden Euro den größten Anteil an den Exporten aus. Dabei handelt es sich allerdings überwiegend um Re-Exporte von Erdgas. Das im Inland geförderte Erdgas wird fast vollständig auch in Deutschland verbraucht. Gefolgt wird dieser Bereich vom Sektor „Steine und Erden, sonstiger Bergbau“ mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von rund 130 Mio. Euro und Kohle von ca. 125 Mio. Euro exportiert. Auch hier beinhalten die Zahlen die Re-Exporte, allerdings in weit geringerem Umfang als beim Erdgas.
         </p>
         <br />
+
+        <!-- First Graph -->
+
+        <div style="margin-top: 110px !important">
+          <a href="{{site.baseurl}}/downloads/#exporte">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>Daten Einsehen
+          </a>
+        </div>
+
+        <!-- Second Graph -->
+
+        <div style="margin-top: 110px !important">
+          <a href="{{site.baseurl}}/downloads/#daten-zur-exporte-nach-menge">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>Daten Einsehen
+          </a>
+        </div>
+
+        <!-- OLD
+
         <div id="chart-2" class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
@@ -50,11 +69,7 @@ nav_items:
             </div>
           </div>
         </div>
-        <div style="margin-top: 110px !important">
-          <a href="{{site.baseurl}}/downloads/#exporte">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>Daten Einsehen
-          </a>
-        </div>
+        -->
     </div>
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
