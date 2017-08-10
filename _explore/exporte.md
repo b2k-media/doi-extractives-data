@@ -3,7 +3,7 @@ title: Exporte
 layout: default
 permalink: /explore/exporte/
 breadcrumb:
-  - title: Fakten
+  - title: Daten
     permalink: /explore/
 nav_items:
   - name: title

@@ -3,7 +3,7 @@ title: Wasser
 layout: default
 permalink: /explore/how-it-work/wasser/
 breadcrumb:
-  - title: Wasser
+  - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>

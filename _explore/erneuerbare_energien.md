@@ -3,7 +3,7 @@ title: Erneuerbare Energien
 layout: default
 permalink: /explore/how-it-work/erneuerbare_energien/
 breadcrumb:
-  - title: Erneuerbare Energien
+  - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>

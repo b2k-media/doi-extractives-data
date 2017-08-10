@@ -1602,7 +1602,7 @@ erneuerbare_energien:
   p14: "Der Ausbau erneuerbarer Energien trägt zur Vermeidung von Treibhausgasemissionen bei und reduziert die Verwendung fossiler, überwiegend importierter Energieträger. Trotz des Ausbaus der erneuerbaren Energien werden derzeit aber weiterhin konventionelle Kraftwerke benötigt. Da in Deutschland fossile Energieträger wie Mineralöl, Erdgas und Steinkohle zu einem hohen Anteil eingeführt werden, führen Einsparungen in diesem Bereich auch zu einer Senkung der deutschen Energieimporte: Erneuerbare Energien wie auch die Stromerzeugung auf Basis eigener Energierohstoffe können diese Importabhängigkeiten deutlich reduzieren und somit die Energiesicherheit erhöhen."
 
 explore-data:
-    title: "Fakten"
+    title: "Daten"
     introduction-first: |
 
       Hier können Sie interaktiv Zahlen und Daten rund um die <a href="#production">Förderung von Rohstoffen in Deutschland</a> entdecken und sich über den <a href="#revenue">wirtschaftlichen</a> und <a href="#economic-impact">sozialen Beitrag</a> des rohstoffgewinnenden Sektors informieren.

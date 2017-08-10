@@ -3,7 +3,7 @@ title: Anpassungsgeld
 layout: default
 permalink: /explore/how-it-work/anpassungsgeld/
 breadcrumb:
-  - title: anpassungsgeld
+  - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
 ---
 
