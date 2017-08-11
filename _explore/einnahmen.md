@@ -173,7 +173,7 @@ breadcrumb:
           {% t einnahmen.förder_feldesabgaben.title %}
         </h3>
         <p>{% t einnahmen.förder_feldesabgaben.p1 %}</p>
-        <a href="{{site.baseurl}}/downloads/#daten-zur-exporte">
+        <a href="{{site.baseurl}}/downloads/#förderabgaben">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.förder_feldesabgaben.daten_einsehen %}
         </a>

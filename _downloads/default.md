@@ -100,6 +100,45 @@ permalink: /downloads/
         {% t downloads.steuern.link %}
       </a>
     </div>
+    <br/>
+    <div id="förderabgaben">
+      <h2 id="förderabgaben">{% t downloads.förderabgaben.title %}</h2>
+      <hr/>
+      <p>
+        {% t downloads.förderabgaben.p1_1 %}
+        <a href="{% t downloads.förderabgaben.link_data %}">
+          {% t downloads.förderabgaben.link1 %}
+        </a>
+        {% t downloads.förderabgaben.p1_2 %}
+      </p>
+      <p>
+        {% t downloads.förderabgaben.p1_1 %}
+        <a href="{% t downloads.förderabgaben.link1_data %}">
+          {% t downloads.förderabgaben.link1 %}
+        </a>
+        <a href="{% t downloads.förderabgaben.link2_data %}">
+          {% t downloads.förderabgaben.link2 %}
+        </a>
+        <a href="{% t downloads.förderabgaben.link3_data %}">
+          {% t downloads.förderabgaben.link3 %}
+        </a>
+        <a href="{% t downloads.förderabgaben.link4_data %}">
+          {% t downloads.förderabgaben.link4 %}
+        </a>
+      </p>
+
+      <p class="downloads-download_links-intro">
+        {% t downloads.download_label_förderabgaben %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/Förder_Feldeseinnahmen.csv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (csv, 1 KB)
+            </a>
+          </li>
+        </ul>
+      </p>
+    </div>
   </div>
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
