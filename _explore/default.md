@@ -38,7 +38,13 @@ permalink: /explore/
         {% t 'explore-data.production.sub-heading-1' %}
       </span>
     </a>
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/production-charts" class="tile tile-ges-rohstoffprod disabled">
+    <!-- Production chart -->
+    <!-- <a href="{{ site.lang | url_lang_prefix  }}/explore/production-charts" class="tile tile-ges-rohstoffprod">
+      <span>
+        {% t 'explore-data.production.sub-heading-2' %}
+      </span>
+    </a> -->
+    <a href="{{ site.lang | url_lang_prefix  }}/explore/gesamtdeutsche_rohstoffproduktion" class="tile tile-ges-rohstoffprod">
       <span>
         {% t 'explore-data.production.sub-heading-2' %}
       </span>
