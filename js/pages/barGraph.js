@@ -6,9 +6,11 @@ $(document).ready(function(){
   var ticks = [];
   var labels = [];
   var jsonFilePath= '';
+  var displayTwoDecimalPoints = false;
 
   if (document.URL.search('/explore/exporte/') > 1) {
     jsonFilePath = "../../data/graphs/exporte.json";
+    displayTwoDecimalPoints = true;
   } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
   } else if (document.URL.search('explore/how-it-work/anpassungsgeld') > 1) {
@@ -40,16 +42,20 @@ $(document).ready(function(){
     labels= jsondata.labels;
     var colors = jsondata.color;
     var chartTitle = (isEn > 1) ? jsondata.title_en : jsondata.title;
-    plotGraph('chart'+(number+1),jsonData, jsondata, chartTitle, colors, ticks, labels);
+    plotGraph('chart'+(number+1),jsonData, jsondata, chartTitle, colors, ticks, labels, displayTwoDecimalPoints);
   }
 
-  function plotGraph(chart, data, jsondata, chartTitle, colorsData, ticks, labels) {
+  function plotGraph(chart, data, jsondata, chartTitle, colorsData, ticks, labels, displayTwoDecimalPoints) {
+
+    var pointLabels = displayTwoDecimalPoints ?
+      { show: true, location: 'e', edgeTolerance: -15, formatString: '%.2f' } :
+      { show: true, location: 'e', edgeTolerance: -15 }
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
     plot2b = $.jqplot(chart, data, {
         animate: !$.jqplot.use_excanvas,
         seriesDefaults: {
             renderer:$.jqplot.BarRenderer,
-            pointLabels: { show: true, location: 'e', edgeTolerance: -15 },
+            pointLabels: pointLabels,
             shadowAngle: 135,
             rendererOptions: {
                 barDirection: 'horizontal',
@@ -69,7 +75,8 @@ $(document).ready(function(){
                 renderer: $.jqplot.CategoryAxisRenderer,
                 autoscale: false,
                 tickOptions:{
-                showGridline: false
+                showGridline: false,
+                formatString: '%.2f'
               },
             },
             xaxis: {
