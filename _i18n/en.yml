@@ -239,183 +239,6 @@ steine-und-erden:
       title: Verwendung
       p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
 
-gesamtdeutsche_rohstoffproduktion:
-  title: Gesamtdeutsche Rohstoffproduktion
-  nav_title: Gesamtdeutsche Rohstoffproduktion
-  nav_items:
-    - name: title
-      title: Seitenanfang
-    - name: steinkohle
-      title: Steinkohle
-    - name: braunkohle
-      title: Braunkohle
-    - name: erdöl
-      title: Erdöl
-    - name: erdgas
-      title: Erdgas
-    - name: kalisalz
-      title: Kalisalz
-    - name: spezialton
-      title: Spezialton
-    - name: steinsalz
-      title: Steinsalz und Industriesole
-    - name: kaolin
-      title: Kaolin
-    - name: quarzkies_und_sand
-      title: Quarzkies und –sand
-    - name: kies_und_sand
-      title: Kies und Sand und gebrochener Naturstein
-    - name: naturwerkstein
-      title: Naturwerkstein
-    - name: kalk_mergel
-      title: Kalk-/Mergel- und Dolomitstein
-  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
-  p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
-  daten_einsehen: Daten Einsehen
-  steinkohle:
-    title: Steinkohle
-    p: Die deutsche Steinkohlenförderung sinkt seit Jahren kontinuierlich und es ist geplant bis Ende 2018 die Förderung sozialverträglich zu beenden. Im Jahr 2015 betrug die Förderung 6,2 Mio. t v.F. Aus den durchschnittlichen Grenzübergangspreisen für Kraftwerkskohlen für das Jahr 2015, kann man daraus einen Wert von etwa 423 Mio. Euro abschätzen.
-  braunkohle:
-    title: Braunkohle
-    p: Die Förderung der heimischen Braunkohle lag bei 178,1 Mio. t in etwa auf dem Vorjahresniveau. Nach Schätzung der BGR entspricht dies einem Wert von 2431 Mio. Euro.
-  erdöl:
-    title: Erdöl
-    p: Die deutsche Erdölproduktion lag im Jahr 2015 bei 2,41 Mio. t. Ähnlich wie bei der Steinkohle hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdölproduktion auf 859 Mio. Euro abgeschätzt.
-  erdgas:
-    title: Erdgas
-    p: 2015 wurde in der Bundesrepublik in neun Bundesländern Erdgas (einschl. Erdölgas) in Höhe von 9.387,62 Mio. m³ gefördert. Wie bei Erdöl, hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdgasproduktion auf 2064 Mio. Euro abgeschätzt.
-  kalisalz:
-    title: Kalisalz
-    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2015 bei 5,7 Mio. t in Form von Kaliprodukten
-    link1: (BMWi 2016).
-    p1_2: Dazu kommen noch sonstige Erzeugnisse aus der Kalifabrikation in Höhe von rund 1,5 Mio. t
-    link2: (BMWi 2016).
-    p1_3: Der Wert der Kali- und Kalisalzprodukte beträgt nach der Berechnung der BGR etwa 2.156 Mio. Euro.
-  spezialton:
-    title: Spezialton
-    p: Nach Angaben der deutschen Bergbehörden wurden im Jahr 2015 in Deutschland 6,40 Mio. t verwertbarer Menge an Spezialton gefördert. Dabei handelt es sich um hochwertigen Ton für die keramische Industrie und Feuerfesttone. Nach Angaben des Statistischen Bundesamtes hat die BGR den Wert dieser Menge auf 148 Mio. Euro berechnet.
-  steinsalz:
-    title: Steinsalz und Industriesole
-    p: Nach Angaben der deutschen Bergbehörden wurden im Jahre 2015 in Deutschland 13,7 Mio. t (NaCl-Inhalt) an Steinsalz und Industriesole gewonnen. Aufbauend auf Wertangaben des Statistischen Bundesamtes berechnete die BGR den Wert dieser Menge auf 566 Mio. Euro.
-  kaolin:
-    title: Kaolin
-    p1_1: Kaolin wird überwiegend in der Papierindustrie und zu Produktion von Feinkeramik verwendet. Nach den Meldungen der deutschen Bergbehörden, wurden im Jahr 2015 5,3 Mio. t kaolinhaltiges Rohmaterial gefördert, wovon 3,8 Mio. t verwertbar waren
-    link: (BMWi 2016).
-    p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
-  quarzkies_und_sand:
-    title: Quarzkies und –sand
-    p: Die Gewinnung von Quarzkiese und –sanden belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u.a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
-  kies_und_sand:
-    title: Kies und Sand und gebrochener Naturstein
-    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet. Hier kommen sie z.B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
-  naturwerkstein:
-    title: Naturwerkstein
-    p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z.B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
-  kalk_mergel:
-    title: Kalk-/Mergel- und Dolomitstein
-    p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u.a. im Haus- und Straßenbau sowie bei der Produktion von z.B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
-    p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
-    link1: https://erhebungsportal.estatistik.de/Erhebungsportal
-    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
-    p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
-    link2: "URL: https://www.natursteinverband.de/"
-    p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
-    p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
-  table1:
-    th1: Rohstoff
-    th2: Menge (2015)
-    row1:
-      td1: Steinkohle*
-      td2: 6,22 Mio.t
-    row2:
-      td1: Braunkohle
-      td2: 178,1 Mio. t
-    row3:
-      td1: Erdöl
-      td2: 2,41 Mio. t
-    row4:
-      td1: Erdgas**
-      td2: 9.387,62 Mio. m³
-    row5:
-      td1: Kalisalz
-      td2: 5,75 Mio. t
-    row6:
-      td1: Kali- und Kalisalzprodukte
-      td2: 7,29 Mio. t
-    row7:
-      td1: Spezialton
-      td2: 6,40 Mio. t
-    row8:
-      td1: Steinsalz und Industriesole
-      td2: 13,67 Mio. t
-    row9:
-      td1: Kaolin
-      td2: 1,1 Mio. t
-    row10:
-      td1: Quarzkies und -sand
-      td2: 9,7 Mio. t
-    row11:
-      td1: Kies und Sand
-      td2: 239 Mio. t
-    row12:
-      td1: Gebrochene Natursteine
-      td2: 210 Mio. t
-    row13:
-      td1: Naturwerksteine
-      td2: 0,44 Mio. t
-    row14:
-      td1: Kalk-/Mergel-/Dolomitstein
-      td2: 48,9 Mio. t
-    star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
-  table2:
-    th1: Rohstoff
-    th2: Wert Wert (2015) in Mio. €
-    1:
-      td1: Steinkohle
-      td2: "423"
-    2:
-      td1: Braunkohle
-      td2: "2.431"
-    3:
-      td1: Erdöl
-      td2: "859"
-    4:
-      td1: Erdgas*
-      td2: "2.064"
-    5:
-      td1: Kalisalz**
-      td2: "k. A."
-    6:
-      td1: Kali- und Kalisalzprodukte
-      td2: "2.156"
-    7:
-      td1: Spezialton
-      td2: "148"
-    8:
-      td1: Steinsalz und Industriesole
-      td2: "576"
-    9:
-      td1: Kaolin
-      td2: "119"
-    10:
-      td1: Quarzkies und -sand
-      td2: "205,5"
-    11:
-      td1: Kies und Sand
-      td2: "1.510"
-    12:
-      td1: Gebrochene Natursteine
-      td2: "1.439"
-    13:
-      td1: Naturwerksteine
-      td2: "52"
-    14:
-      td1: Kalk-/Mergel-/Dolomitstein
-      td2: "719"
-    star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
-
 rechtlicher-rahmen:
   title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
   p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundeswirtschaftsministerium. Die Bergbehörden der Bundesländer führen das Gesetz jedoch aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
@@ -1287,6 +1110,183 @@ explore-data:
       item3: Beitrag zur Beschäftigung
       item4: Exporte
 
+gesamtdeutsche_rohstoffproduktion:
+  title: Gesamtdeutsche Rohstoffproduktion
+  nav_title: Gesamtdeutsche Rohstoffproduktion
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: steinkohle
+      title: Steinkohle
+    - name: braunkohle
+      title: Braunkohle
+    - name: erdöl
+      title: Erdöl
+    - name: erdgas
+      title: Erdgas
+    - name: kalisalz
+      title: Kalisalz
+    - name: spezialton
+      title: Spezialton
+    - name: steinsalz
+      title: Steinsalz und Industriesole
+    - name: kaolin
+      title: Kaolin
+    - name: quarzkies_und_sand
+      title: Quarzkies und –sand
+    - name: kies_und_sand
+      title: Kies und Sand und gebrochener Naturstein
+    - name: naturwerkstein
+      title: Naturwerkstein
+    - name: kalk_mergel
+      title: Kalk-/Mergel- und Dolomitstein
+  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
+  p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
+  daten_einsehen: Daten Einsehen
+  steinkohle:
+    title: Steinkohle
+    p: Die deutsche Steinkohlenförderung sinkt seit Jahren kontinuierlich und es ist geplant bis Ende 2018 die Förderung sozialverträglich zu beenden. Im Jahr 2015 betrug die Förderung 6,2 Mio. t v.F. Aus den durchschnittlichen Grenzübergangspreisen für Kraftwerkskohlen für das Jahr 2015, kann man daraus einen Wert von etwa 423 Mio. Euro abschätzen.
+  braunkohle:
+    title: Braunkohle
+    p: Die Förderung der heimischen Braunkohle lag bei 178,1 Mio. t in etwa auf dem Vorjahresniveau. Nach Schätzung der BGR entspricht dies einem Wert von 2431 Mio. Euro.
+  erdöl:
+    title: Erdöl
+    p: Die deutsche Erdölproduktion lag im Jahr 2015 bei 2,41 Mio. t. Ähnlich wie bei der Steinkohle hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdölproduktion auf 859 Mio. Euro abgeschätzt.
+  erdgas:
+    title: Erdgas
+    p: 2015 wurde in der Bundesrepublik in neun Bundesländern Erdgas (einschl. Erdölgas) in Höhe von 9.387,62 Mio. m³ gefördert. Wie bei Erdöl, hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdgasproduktion auf 2064 Mio. Euro abgeschätzt.
+  kalisalz:
+    title: Kalisalz
+    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2015 bei 5,7 Mio. t in Form von Kaliprodukten
+    link1: (BMWi 2016).
+    p1_2: Dazu kommen noch sonstige Erzeugnisse aus der Kalifabrikation in Höhe von rund 1,5 Mio. t
+    link2: (BMWi 2016).
+    p1_3: Der Wert der Kali- und Kalisalzprodukte beträgt nach der Berechnung der BGR etwa 2.156 Mio. Euro.
+  spezialton:
+    title: Spezialton
+    p: Nach Angaben der deutschen Bergbehörden wurden im Jahr 2015 in Deutschland 6,40 Mio. t verwertbarer Menge an Spezialton gefördert. Dabei handelt es sich um hochwertigen Ton für die keramische Industrie und Feuerfesttone. Nach Angaben des Statistischen Bundesamtes hat die BGR den Wert dieser Menge auf 148 Mio. Euro berechnet.
+  steinsalz:
+    title: Steinsalz und Industriesole
+    p: Nach Angaben der deutschen Bergbehörden wurden im Jahre 2015 in Deutschland 13,7 Mio. t (NaCl-Inhalt) an Steinsalz und Industriesole gewonnen. Aufbauend auf Wertangaben des Statistischen Bundesamtes berechnete die BGR den Wert dieser Menge auf 566 Mio. Euro.
+  kaolin:
+    title: Kaolin
+    p1_1: Kaolin wird überwiegend in der Papierindustrie und zu Produktion von Feinkeramik verwendet. Nach den Meldungen der deutschen Bergbehörden, wurden im Jahr 2015 5,3 Mio. t kaolinhaltiges Rohmaterial gefördert, wovon 3,8 Mio. t verwertbar waren
+    link: (BMWi 2016).
+    p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
+  quarzkies_und_sand:
+    title: Quarzkies und –sand
+    p: Die Gewinnung von Quarzkiese und –sanden belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u.a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
+  kies_und_sand:
+    title: Kies und Sand und gebrochener Naturstein
+    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet. Hier kommen sie z.B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
+  naturwerkstein:
+    title: Naturwerkstein
+    p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z.B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
+  kalk_mergel:
+    title: Kalk-/Mergel- und Dolomitstein
+    p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u.a. im Haus- und Straßenbau sowie bei der Produktion von z.B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
+    p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
+    link1: https://erhebungsportal.estatistik.de/Erhebungsportal
+    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
+    link2: "URL: https://www.natursteinverband.de/"
+    p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
+    p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
+  table1:
+    th1: Rohstoff
+    th2: Menge (2015)
+    row1:
+      td1: Steinkohle*
+      td2: 6,22 Mio.t
+    row2:
+      td1: Braunkohle
+      td2: 178,1 Mio. t
+    row3:
+      td1: Erdöl
+      td2: 2,41 Mio. t
+    row4:
+      td1: Erdgas**
+      td2: 9.387,62 Mio. m³
+    row5:
+      td1: Kalisalz
+      td2: 5,75 Mio. t
+    row6:
+      td1: Kali- und Kalisalzprodukte
+      td2: 7,29 Mio. t
+    row7:
+      td1: Spezialton
+      td2: 6,40 Mio. t
+    row8:
+      td1: Steinsalz und Industriesole
+      td2: 13,67 Mio. t
+    row9:
+      td1: Kaolin
+      td2: 1,1 Mio. t
+    row10:
+      td1: Quarzkies und -sand
+      td2: 9,7 Mio. t
+    row11:
+      td1: Kies und Sand
+      td2: 239 Mio. t
+    row12:
+      td1: Gebrochene Natursteine
+      td2: 210 Mio. t
+    row13:
+      td1: Naturwerksteine
+      td2: 0,44 Mio. t
+    row14:
+      td1: Kalk-/Mergel-/Dolomitstein
+      td2: 48,9 Mio. t
+    star1: "*  verwertbare Förderung"
+    star2: "** einschl. Erdölgas"
+  table2:
+    th1: Rohstoff
+    th2: Wert Wert (2015) in Mio. €
+    1:
+      td1: Steinkohle
+      td2: "423"
+    2:
+      td1: Braunkohle
+      td2: "2.431"
+    3:
+      td1: Erdöl
+      td2: "859"
+    4:
+      td1: Erdgas*
+      td2: "2.064"
+    5:
+      td1: Kalisalz**
+      td2: "k. A."
+    6:
+      td1: Kali- und Kalisalzprodukte
+      td2: "2.156"
+    7:
+      td1: Spezialton
+      td2: "148"
+    8:
+      td1: Steinsalz und Industriesole
+      td2: "576"
+    9:
+      td1: Kaolin
+      td2: "119"
+    10:
+      td1: Quarzkies und -sand
+      td2: "205,5"
+    11:
+      td1: Kies und Sand
+      td2: "1.510"
+    12:
+      td1: Gebrochene Natursteine
+      td2: "1.439"
+    13:
+      td1: Naturwerksteine
+      td2: "52"
+    14:
+      td1: Kalk-/Mergel-/Dolomitstein
+      td2: "719"
+    star1: "*  verwertbare Förderung"
+    star2: "** einschl. Erdölgas"
+
 einnahmen:
     title: Beitrag zu den Staatseinnahmen
     nav_items:
@@ -1509,9 +1509,6 @@ how-it-work:
       item2: Kohle
       item3: Salze
       item4: Steine und Erden
-    section2:
-      title: Rohstoffproduktion in Deutschland
-      item1: Gesamtdeutsche Rohstoffproduktion
     section3:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
