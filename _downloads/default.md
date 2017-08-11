@@ -87,6 +87,68 @@ permalink: /downloads/
         {% t downloads.p8.p3 %}
       </p>
     </div>
+
+    <div id="einnahmen">
+      <h2 id="steuern">{% t downloads.steuern.title %}</h2>
+      <hr/>
+      <p>{% t downloads.steuern.p1 %}</p>
+      <p>{% t downloads.steuern.p2 %}</p>
+      <p>{% t downloads.steuern.p3 %}</p>
+      <p>{% t downloads.steuern.p4 %}</p>
+      <p>{% t downloads.steuern.p5 %}</p>
+      <a href="{% t downloads.steuern.link %}">
+        {% t downloads.steuern.link %}
+      </a>
+    </div>
+    <br/>
+    <div id="förderabgaben">
+      <h2 id="förderabgaben">{% t downloads.förderabgaben.title %}</h2>
+      <hr/>
+      <p>
+        {% t downloads.förderabgaben.p1_1 %}
+        <a href="{% t downloads.förderabgaben.link_data %}">
+          {% t downloads.förderabgaben.link1 %}
+        </a>
+        {% t downloads.förderabgaben.p1_2 %}
+      </p>
+      <p>
+        {% t downloads.förderabgaben.p1_1 %}
+        <a href="{% t downloads.förderabgaben.link1_data %}">
+          {% t downloads.förderabgaben.link1 %}
+        </a>
+        <a href="{% t downloads.förderabgaben.link2_data %}">
+          {% t downloads.förderabgaben.link2 %}
+        </a>
+        <a href="{% t downloads.förderabgaben.link3_data %}">
+          {% t downloads.förderabgaben.link3 %}
+        </a>
+        <a href="{% t downloads.förderabgaben.link4_data %}">
+          {% t downloads.förderabgaben.link4 %}
+        </a>
+      </p>
+
+      <p class="downloads-download_links-intro">
+        {% t downloads.download_label_förderabgaben %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/Förder_Feldeseinnahmen.csv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (csv, 1 KB)
+            </a>
+          </li>
+        </ul>
+      </p>
+    </div>
+
+    <div id="umsatz">
+      <h2 id="umsatz">{% t downloads.umsatz.title %}</h2>
+      <hr/>
+      <p>{% t downloads.umsatz.p %}
+        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Strukturdaten/Jahresbericht5422701167005.html">
+          {% t downloads.umsatz.link %}
+        </a>
+      </p>
+    </div>
   </div>
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
