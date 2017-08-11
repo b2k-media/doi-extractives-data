@@ -333,7 +333,7 @@ breadcrumb:
           </div>
         </div>
         <div style="margin-top: 110px !important">
-          <a href="{{site.baseurl}}/downloads/#daten-zur-exporte">
+          <a href="{{site.baseurl}}/downloads/#umsatz">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t einnahmen.umsatz.daten_einsehen %}
           </a>

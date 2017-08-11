@@ -139,6 +139,16 @@ permalink: /downloads/
         </ul>
       </p>
     </div>
+
+    <div id="umsatz">
+      <h2 id="umsatz">{% t downloads.umsatz.title %}</h2>
+      <hr/>
+      <p>{% t downloads.umsatz.p %}
+        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Strukturdaten/Jahresbericht5422701167005.html">
+          {% t downloads.umsatz.link %}
+        </a>
+      </p>
+    </div>
   </div>
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
