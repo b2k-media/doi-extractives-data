@@ -1638,6 +1638,15 @@ einnahmen:
         title: Seitenanfang
       - name: steuern
         title: Steuern
+        subnav_items:
+          - name: körperschaftsteuer
+            title: Körperschaftsteuer
+          - name: gewerbesteuer
+            title: Gewerbesteuer
+          - name: einkommensteuer
+            title: Einkommensteuer
+          - name: solidaritätszuschlag
+            title: Solidaritätszuschlag
       - name: steuereinnahmen
         title: Steuereinnahmen aus dem Rohstoffsektor
       - name: förder_feldesabgaben
@@ -1651,6 +1660,28 @@ einnahmen:
       p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
       daten_einsehen: Daten einsehen
       p3: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei dargestellt.
+      körperschaftsteuer:
+        title: Körperschaftsteuer
+        p: Ausgewertet wurden statistische Daten der Jahre 2010 bis 2012. Für die Schätzung wurden die festgesetzten Körperschaftsteuern unbeschränkt und beschränkt Körperschaftsteuerpflichtiger vor Anrechnung von Kapitalertragsteuer o.Ä. berücksichtigt. Die Fortschreibung für die Jahre 2013 bis 2015 erfolgte anhand der Entwicklung der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“.
+      gewerbesteuer:
+        title: Gewerbesteuer
+        p1: Die Gewerbesteuer wird in Deutschland von den über 11.000 Gemeinden nach individuell festgelegten und dadurch differierenden Hebesätzen erhoben. Ausgangsbasis für die Bemessung der Gewerbesteuer ist der Gewerbeertrag. Dies ist der nach Einkommensteuer- bzw. Körperschaftsteuerrecht zu bestimmende Gewinn, der ggf. um Hinzurechnungen und Kürzungen nach dem Gewerbesteuergesetz erhöht bzw. gemindert wird. Auf Grundlage des Gewerbeertrags wird deutschlandweit einheitlich ein Steuermessbetrag ermittelt und durch Anwendung des jeweiligen Hebesatzes der Gemeinde auf den Steuermessbetrag die vom Unternehmen zu zahlende Gewerbesteuer bestimmt. Der Gewerbesteuer unterliegen Körperschaften, Personengesellschaften und natürliche Personen mit ihren gewerblichen Einkünften.
+        p2: In der Gewerbesteuerstatistik sind nur die im Veranlagungsverfahren ermittelten Steuermessbeträge enthalten. Das Statistische Bundesamt hat in einer Sonderauswertung der Statistiken für die Jahre 2010 und 2011 den dort nachgewiesenen positiven Steuermessbeträgen der betrachteten Unternehmen die Hebesätze der entsprechenden Gemeinden zugeordnet. Damit konnte die Gewerbesteuer näherungsweise ermittelt werden.
+      einkommensteuer:
+        title: Einkommensteuer
+        p1: Natürliche Personen können als Einzelunternehmer oder Beteiligte an einer Personengesellschaft ebenfalls Gewinne im rohstoffgewinnenden Sektor erzielen und sind mit diesen gewerbe- und einkommensteuerpflichtig. In der Einkommensteuerstatistik sind jedoch keine Untergliederungen nach Wirtschaftszweigen enthalten. Damit konnte diese Statistik für die vorliegende Untersuchung nicht genutzt werden. Die Statistik über Personengesellschaften wiederum ist zwar nach Wirtschaftszweigen gegliedert, sie dient jedoch nur der Feststellung der erzielten Einkünfte, die bei den Beteiligten (Mitunternehmern) der Besteuerung entweder bei der Körperschaftsteuer oder der Einkommensteuer unterliegen.
+        p2: "Die auf den rohstoffgewinnenden Sektor entfallende Einkommensteuer wurde aufgrund der vorgenannten Probleme mit folgenden Verfahren unter Nutzung der Gewerbesteuerstatistik und der Statistik über die Personengesellschaften und Gemeinschaften geschätzt:"
+        p3: Für die Einzelunternehmen wurde aus den in der Gewerbesteuerstatistik ausgewiesenen positiven Steuermessbeträgen dieser Personengruppe durch Rückrechnung ein näherungsweiser Gewinn ermittelt. Die Summe der Einkünfte von Personengesellschaften, die im entsprechenden Wirtschaftszweig auf natürliche Personen als Beteiligte entfällt, wurde aus der Statistik über Personengesellschaften und Gemeinschaften ausgewertet.
+        p4: Auf diesen Gewinn bzw. diese Summe der Einkünfte wurde ein durchschnittlicher Steuersatz von 28,6 % angewendet. Dieser durchschnittliche Steuersatz wurde mithilfe eines Mikrosimulationsmodells für Einkommensteuerpflichtige mit gewerblichen Einkünften ermittelt. Unter Berücksichtigung der Gewerbesteueranrechnung auf die Einkommensteuer ergibt sich die in der Tabelle dargestellte Größenordnung für die Einkommensteuer.
+      solidaritätszuschlag:
+        title: Solidaritätszuschlag
+        p1: Zur Einkommensteuer und zur Körperschaftsteuer wird ein Solidaritätszuschlag als Ergänzungsabgabe erhoben. Er beträgt grundsätzlich 5,5 % der festgesetzten Körperschaft- und Einkommensteuer (siehe vorhergehende Erläuterungen).
+        p2: Einkommensteuer und Solidaritätszuschlag sind nicht Teil des D-EITI Zahlungsabgleichs  (zur Begründung vgl. Kap. 9 / Annex).
+        p3_1: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei
+        link1: "Anfallende Zahlungen"
+        p3_2: und
+        link2:  "Umgang mit der Natur"
+        p3_3: dargestellt.
 
     steuereinnahmen:
       title: Steuereinnahmen aus dem Rohstoffsektor
