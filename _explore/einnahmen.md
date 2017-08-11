@@ -20,7 +20,7 @@ breadcrumb:
         </h3>
         <p>{% t einnahmen.steuern.p1 %}</p>
         <p>{% t einnahmen.steuern.p2 %}</p>
-        <a href="{{site.baseurl}}/downloads/#daten-zur-exporte">
+        <a href="{{site.baseurl}}/downloads/#steuern">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.steuern.daten_einsehen %}
         </a>

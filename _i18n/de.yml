@@ -1900,6 +1900,8 @@ downloads:
       title: Daten zur Beschäftigten
     - name: daten-zur-exporte
       title: Daten zur Exporte
+    - name: steuern
+      title: Steuern Daten zu Staatseinnahmen durch Steuern
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u.a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
   download_label: Download der Produktionsdaten
@@ -1928,6 +1930,14 @@ downloads:
     p2: von Destatis am 14.12.2016 entnommen. Die Daten für 2015 sind auf der
     link2: Website
     p3: des Statistischen Bundesamtes abrufbar. (EXCEL)
+  steuern:
+    title: Steuern Daten zu Staatseinnahmen durch Steuern
+    p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2012, der Gewerbesteuerstatistiken 2010 und 2011 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
+    p2: Betrachtet wurde jeweils nur der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“. Er umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der „Klassifikation der Wirtschaftszweige“ des statistischen Bundesamts auf den Seiten 175-185.
+    p3: "Da die aktuellsten statistischen Daten die Jahre 2011 bzw. 2012 betreffen, wurden die Folgejahre bis 2015 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.). Für das Jahr 2016 liegt noch kein Betrag der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ vor."
+    p4: Die für den rohstoffgewinnenden Sektor ausgewiesenen Steuerbeträge sind Beträge, die für das jeweils angegebene Jahr von den Unternehmen zu zahlen waren (sog. Veranlagungsjahr). Der statistische Zeitrahmen unterscheidet sich damit von dem für die Gesamteinnahmen des Staates, die im Jahr des Zuflusses verbucht werden (Kassenjahr).
+    p5: "Die angegebenen Gesamteinnahmen des Staates sind der Kassenstatistik des Bundes (Öffentlicher Gesamthaushalt – ÖGH) entnommen. Die Gesamteinnahmen des Staates umfassen neben den Steuereinnahmen des Staates auch Einnahmen aus Sozialversicherungsbeiträgen, Veräußerungserlösen oder Vermögensanlagen (Staatsanleihen) sowie ferner auch Gebühren, Verwaltungseinnahmen oder etwa Gewinne aus Staatsunternehmen. Detaillierte Erläuterungen bzw. Definitionen zum Öffentlichen Gesamthaushalt (ÖGH) sind auf der Website des Statistischen Bundesamtes abrufbar:"
+    link: "https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/ThemaFinanzen.html"
 
 about:
     title: Herzlich Willkommen ...

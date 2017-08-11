@@ -87,6 +87,19 @@ permalink: /downloads/
         {% t downloads.p8.p3 %}
       </p>
     </div>
+
+    <div id="einnahmen">
+      <h2 id="steuern">{% t downloads.steuern.title %}</h2>
+      <hr/>
+      <p>{% t downloads.steuern.p1 %}</p>
+      <p>{% t downloads.steuern.p2 %}</p>
+      <p>{% t downloads.steuern.p3 %}</p>
+      <p>{% t downloads.steuern.p4 %}</p>
+      <p>{% t downloads.steuern.p5 %}</p>
+      <a href="{% t downloads.steuern.link %}">
+        {% t downloads.steuern.link %}
+      </a>
+    </div>
   </div>
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
