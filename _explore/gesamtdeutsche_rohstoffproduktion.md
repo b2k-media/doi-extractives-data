@@ -3,7 +3,7 @@ title: gesamtdeutsche_rohstoffproduktion
 layout: default
 permalink: /explore/how-it-work/gesamtdeutsche_rohstoffproduktion/
 breadcrumb:
-  - title: Gesamtdeutsche Rohstoffproduktion
+  - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>

@@ -3,7 +3,7 @@ title: einnahmen
 layout: default
 permalink: /explore/einnahmen/
 breadcrumb:
-  - title: einnahmen
+  - title: Daten
     permalink: /explore/
 ---
 

@@ -3,7 +3,7 @@ title: Umgang mit der Natur
 layout: default
 permalink: /explore/how-it-work/umgang-mit-der-natur/
 breadcrumb:
-  - title: Umgang mit der Natur
+  - title: Deutscher Rohstoffsektor
     permalink: /explore/how-it-work/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>

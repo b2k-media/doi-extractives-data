@@ -68,9 +68,9 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.p7.p1 %}
-        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf?__blob=publicationFile&v=7">{% t downloads.p7.link %}</a>.
-        {% t downloads.p7.p2 %}
-        <a href="https://www.destatis.de/DE/Publikationen/StatistischesJahrbuch/Arbeitsmarkt.pdf?__blob=publicationFile">(PDF)</a>.
+        <a href="https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201606/iiia6/beschaeftigung-sozbe-wz-heft/wz-heft-d-0-201606-xlsx.xlsx">{% t downloads.p7.link %}</a>.
+
+
       </p>
     </div>
 

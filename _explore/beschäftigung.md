@@ -3,7 +3,7 @@ title: "Besch&auml;ftigung"
 layout: default
 permalink: /explore/employment/
 breadcrumb:
-  - title: Fakten
+  - title: Daten
     permalink: /explore/
 nav_items:
   - name: intro
@@ -26,18 +26,16 @@ nav_items:
     <div class="container-left-9">
       <section>
         <p>
-          Die Beschäftigten in der rohstoffgewinnenden Industrie  gehen einer Vielzahl von unterschiedlichen Beschäftigungen nach. So arbeiten beispielsweise Ingenieure im Marktscheidewesen an der Erkundung und Vermessung von Vorkommen, Rohstoffingenieure und Geotechniker am Aufbau und Betrieb der technischen Anlagen und Bergbautechnologen führen den Abbau im Tage- und Untertagebau durch. Insgesamt  beschäftigten die Unternehmen der rohstoffgewinnenden Industrie 2015 in Deutschland  57.177 MitarbeiterInnen. Dies entspricht einem Anteil von 0,14% an der Gesamtbeschäftigtigung in Deutschland, wobei ein Großteil der Angestellten auf den Braunkohlen- und Steinkohlenbergbau sowie den Salzbergbau entfällt. Diese Zahlen schließen  für den gleichen Zeitraum zudem insgesamt 2711 Auszubildende in den bergbaulichen Betrieben. Ein weiterer wichtiger Beschäftigungsfaktor sind die Sekundäreffekte des rohstoffgewinnenden Sektors, durch die zusätzliche Arbeits- und Ausbildungsplätze geschaffen werden. Hierzu gehören insbesondere die Dienstleistungen der Zulieferer und Subunternehmer welche beispielweise mit der Übername von logistischen und gastronomischen Aufgaben oder dem Bau und Betrieb von Förderstätten beauftragt werden.
+          Die Beschäftigten in der rohstoffgewinnenden Industrie gehen einer Vielzahl von unterschiedlichen Berufen nach. So arbeiten beispielsweise Ingenieure im Marktscheidewesen an der Erkundung und Vermessung von Vorkommen, Rohstoffingenieure und Geotechniker am Aufbau und Betrieb der technischen Anlagen und Bergbautechnologen führen den Abbau im Tage- und Untertagebau durch. Die Branche bietet auch qualifizierte Ausbildungsberufe wie z.B. Industrie- und Verfahrensmechaniker oder Elektroniker.
+        </p>
+        <p>
+          Insgesamt waren in den Unternehmen der rohstoffgewinnenden Industrie zum Stichtag 30.06.2016 in Deutschland 71.074 Mitarbeiter/innen sozialversicherungspflichtig beschäftigt, wobei über die Hälfte aller Angestellten auf den Bereich „Gewinnung von Steinen und Erden, sonstiger Bergbau“ (Anteil: rund 53%) und gut ein Fünftel auf den Kohlenbergbau (Anteil: etwa 22%) entfiel. Diese Zahlen schließen für den gleichen Stichtag insgesamt 2.373 Auszubildende in den rohstoffgewinnenden Betrieben ein. Bezogen auf die insgesamt sozialversicherungspflichtig Beschäftigten in Deutschland entfiel damit ein Anteil von rund 0,23% auf die rohstoffgewinnende Industrie.
+        </p>
+        <p>
+          Ein weiterer wichtiger Beschäftigungsfaktor sind die Sekundäreffekte des rohstoffgewinnenden Sektors, durch die zusätzliche Arbeits- und Ausbildungsplätze geschaffen werden. Hierzu gehören insbesondere die Dienstleistungen der Zulieferer und Subunternehmer, welche beispielweise mit der Übernahme von logistischen und gastronomischen Aufgaben oder dem Bau und Betrieb von Förderstätten beauftragt werden.
         </p>
         <br/>
-        <div class="explore-exploration slab-alpha">
-          <div class="regions container">
-            <div class="graph">
-              <div class="container chart-container">
-                <div id="pieChart"></div>
-              </div>
-            </div>
-          </div>
-        </div>
+
         <section id="tabelle-1" style="position: relative;">
         <p><strong>Tabelle:</strong> Beschäftigte</p>
           <table class="article_table">
@@ -45,16 +43,7 @@ nav_items:
               <tr>
                 <th></th>
                 <th>
-                  <strong>unter Tage</strong>
-                </th>
-                <th>
-                  <strong>in Tagebauen</strong>
-                </th>
-                <th>
-                  <strong>über Tage</strong>
-                </th>
-                <th>
-                  <strong>Insgesamt</strong>
+                  <strong>Sozialversicherungspflichtig Beschäftigte am Stichtag 30.06.2016</strong>
                 </th>
                 <th>
                   <strong>darunter Auszubildende</strong>
@@ -62,113 +51,59 @@ nav_items:
               </tr>
               <tr>
                 <td>
-                  <strong>Steinkohlebergbau</strong>
+                  <strong>Bergbau und Gewinnung von Steinen und Erden insgesamt</strong>
                 </td>
-                <td>3956</td>
-                <td></td>
-                <td>6025</td>
-                <td>9981</td>
-                <td>464</td>
+                <td><strong>71074</strong></td>
+                <td><strong>2373</strong></td>
               </tr>
               <tr>
                 <td>
-                  <strong>Braunkohlebergbau</strong>
+                  <u>darunter:</u>
                 </td>
                 <td></td>
-                <td>8609</td>
-                <td>6196</td>
-                <td>14805</td>
-                <td>906</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Braunkohlesanierung</strong>
-                </td>
-                <td></td>
-                <td></td>
-                <td>626</td>
-                <td>626</td>
-                <td>34</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Erdölbergbau (einschl. Erdgas)</strong>
-                </td>
-                <td></td>
-                <td></td>
-                <td>3950</td>
-                <td>3950</td>
-                <td>242</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Salzbergbau und Industriesole</strong>
-                </td>
-                <td>5016</td>
-                <td></td>
-                <td>5506</td>
-                <td>10522</td>
-                <td>626</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Salinen</strong>
-                </td>
-                <td></td>
-                <td></td>
-                <td>186</td>
-                <td>186</td>
-                <td>11</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Eisenerzbergbau</strong>
-                </td>
-                <td>27</td>
-                <td>1</td>
-                <td>20</td>
-                <td>49</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>NE-Bergbau</strong>
-                </td>
-                <td>34</td>
-                <td>16</td>
-                <td>795</td>
-                <td>845</td>
                 <td></td>
               </tr>
               <tr>
                 <td>
-                  <strong>Sonstiger Bergbau</strong>
+                  Kohlenbergbau
                 </td>
-                <td>1337</td>
-                <td>4464</td>
-                <td>10411</td>
-                <td>16213</td>
-                <td>427</td>
+                <td>15881</td>
+                <td>860</td>
               </tr>
               <tr>
-                <td>
-                  <strong>Summe</strong>
-                </td>
-                <td>10337</td>
-                <td>13090</td>
-                <td>33715</td>
-                <td>57177</td>
-                <td>2711</td>
+                <td>Gewinnung von Erdöl und Erdgas</td>
+                <td>3045</td>
+                <td>105</td>
+              </tr>
+              <tr>
+                <td>Erzbergbau</td>
+                <td>860</td>
+                <td> * </td>
+              </tr>
+              <tr>
+                <td>Gewinnung von Steinen und Erden, sonstiger Bergbau</td>
+                <td>37982</td>
+                <td>1068</td>
+              </tr>
+              <tr>
+                <td>Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden</td>
+                <td>13306</td>
+                <td>340</td>
               </tr>
             </tbody>
           </table>
+          <p><small>
+            * Aus Datenschutzgründen und Gründen der statistischen Geheimhaltung werden Zahlenwerte von 1 oder 2 und Daten, aus denen rechnerisch auf einen solchen Zahlenwert geschlossen werden kann, anonymisiert.
+          </small></p>
           <br /><br />
           <a href="{{site.baseurl}}/downloads/#beschäftigten">
             <icon class="fa fa-file-text-o u-padding-right"></icon>Daten Einsehen
           </a>
+
         </section>
       </section>
-    </div>
+
+    </div>      
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
         <div class="nav-title">{{ page.title }}</div>
