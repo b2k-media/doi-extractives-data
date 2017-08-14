@@ -212,6 +212,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row4.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row4.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row4.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row4.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row4.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row5.bundesland %}</td>
@@ -219,6 +232,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row5.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row5.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row5.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row5.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row5.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row6.bundesland %}</td>
@@ -226,6 +252,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row6.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row6.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row6.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row6.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row6.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row7.bundesland %}</td>
@@ -233,6 +272,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row7.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row7.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row7.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row7.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row7.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row8.bundesland %}</td>
@@ -240,6 +292,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row8.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row8.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row8.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row8.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row8.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row9.bundesland %}</td>
@@ -247,6 +312,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row9.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row9.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row9.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row9.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row9.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row10.bundesland %}</td>
@@ -254,6 +332,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row10.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row10.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row10.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row10.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row10.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row11.bundesland %}</td>
@@ -261,6 +352,7 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row11.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row11.rechtsgrundlage %}
                   </a></td>
+                <td></td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row12.bundesland %}</td>
@@ -268,6 +360,7 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row12.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row12.rechtsgrundlage %}
                   </a></td>
+                <td></td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row13.bundesland %}</td>
@@ -275,6 +368,7 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row13.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row13.rechtsgrundlage %}
                   </a></td>
+                <td></td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row14.bundesland %}</td>
@@ -282,6 +376,7 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row14.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row14.rechtsgrundlage %}
                   </a></td>
+                <td></td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row15.bundesland %}</td>
@@ -289,6 +384,19 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row15.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row15.rechtsgrundlage %}
                   </a></td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row15.feldesabgabe1.title %}
+                      <sup>
+                        <a href="#sup-1">
+                          {% t verwendung-der-einnahmen.table.row15.feldesabgabe1.sup1.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>{% t verwendung-der-einnahmen.table.row15.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row16.bundesland %}</td>
@@ -296,6 +404,7 @@ breadcrumb:
                   <a href="{% t verwendung-der-einnahmen.table.row16.rechtsgrundlage_link %}">
                     {% t verwendung-der-einnahmen.table.row16.rechtsgrundlage %}
                   </a></td>
+                <td></td>
               </tr>
             </tbody>
           </table>
