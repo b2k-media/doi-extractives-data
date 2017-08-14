@@ -149,6 +149,16 @@ permalink: /downloads/
         </a>
       </p>
     </div>
+
+    <div id="anpassungsgeld">
+      <h2 id="anpassungsgeld">{% t downloads.anpassungsgeld.title %}</h2>
+      <hr/>
+      <p>{% t downloads.anpassungsgeld.p %}
+        <a href="{% t downloads.anpassungsgeld.link_data %}">
+          {% t downloads.anpassungsgeld.link %}
+        </a>
+      </p>
+    </div>
   </div>
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
