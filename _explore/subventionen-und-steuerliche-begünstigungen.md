@@ -35,6 +35,10 @@ breadcrumb:
           </div>
         </div>
       </div>
+      <br/><br/>
+      <p>
+        {% t subventionen-und-steuerliche-begünstigungen.p1.chart1_source %}
+      </p>
       <h2 id="zuschusse-fur-den-absatz-der-steinkohle" class="margin-class">{% t subventionen-und-steuerliche-begünstigungen.zuschusse.title %}</h2>
       <p>
         {% t subventionen-und-steuerliche-begünstigungen.zuschusse.p1 %}
@@ -61,6 +65,10 @@ breadcrumb:
           </div>
         </div>
       </div>
+      <br/>
+      <p>
+        {% t subventionen-und-steuerliche-begünstigungen.zuschusse.chart2_source %}
+      </p>
       </section>
       <section id="anpassungsgeldentnahme" style="position: relative;">
       <br/>
