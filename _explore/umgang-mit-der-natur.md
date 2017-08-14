@@ -67,12 +67,12 @@ breadcrumb:
         <table class="verwendung_der_einnahmen_table">
           <tbody>
             <tr>
-              <th><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th1 %}</strong></th>
-              <th><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th2 %}</strong></th>
-              <th><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th3 %}</strong></th>
-              <th><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th4 %}</strong></th>
-              <th><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th5 %}</strong></th>
-              <th><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th6 %}</strong></th>
+              <td><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th1 %}</strong></td>
+              <td><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th2 %}</strong></td>
+              <td><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th3 %}</strong></td>
+              <td><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th4 %}</strong></td>
+              <td><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th5 %}</strong></td>
+              <td><strong>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.th6 %}</strong></td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td1 %}</td>
