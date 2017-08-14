@@ -928,28 +928,6 @@ subventionen-und-steuerliche-begünstigungen:
           title: Kontrolle
         - name: 1-vorsorge
           title: Vorsorge
-  p1:
-    p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen den staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit"
-    k1: Subventionen
-    p2: ". So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche."
-  zuschusse:
-    title: Zuschüsse für den Absatz der Steinkohle
-    p1: "Der deutsche Steinkohlenbergbau ist – insbesondere aufgrund der geologisch bedingten hohen Förderkosten – nicht wettbewerbsfähig. Daher wurde 2007 zwischen dem Bund, den steinkohleproduzierenden Bundesländern Nordrhein-Westfalen und Saarland, der RAG AG und der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) eine Einigung darüber erzielt, dass der subventionierte Steinkohlenbergbau bis zum Jahre 2018 sozialverträglich beendet wird. Grundlage hierfür sind das Steinkohlefinanzierungsgesetz vom 20.12.2007 sowie eine Rahmenvereinbarung zwischen Bund, Revierländern, dem Bergbauunternehmen RAG AG und der IGBCE. Die öffentliche Hand gewährt zeitlich begrenzte Hilfen zur Förderung des Absatzes (Ausgleich der Differenz zwischen heimischen Förderkosten und Weltmarktpreis). Auch mit Blick auf Klimaschutz und Ressourcenschonung werden die Subventionen zurückgeführt und im Endergebnis vollständig abgebaut."
-    entwicklung:
-      title: Entwicklung
-      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Millionen Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u.a. in schwankenden Weltmarktpreisen für Steinkohle begründet."
-    kontrolle:
-      title: Kontrolle
-      p: "Die Subventionierung des deutschen Steinkohlebergbaus ist im Rahmen der EU genehmigungspflichtig und wurde von der EU-Kommission geprüft und genehmigt. Zudem werden die bereitgestellten Beihilfen hinsichtlich ihrer zweckentsprechenden Verwendung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfer/innen jährlich überprüft."
-    vorsorge:
-      title: Vorsorge
-      p: "Zur Bewältigung der notwendigen Stilllegungsmaßnahmen wird das ehemalige Beteiligungsvermögen der RAG AG zur Finanzierung der nach der Stilllegung verbleibenden Ewigkeitslasten (Grubenwasserhaltung, Dauerbergschäden, Grundwasserreinigung) durch die privatrechtliche RAG-Stiftung bereit gestellt. Soweit dieses Vermögen zur Deckung der Ewigkeitslasten nicht ausreicht, werden der Bund und die Revierländer im Verhältnis von einem Drittel und zwei Drittel eintreten."
-
-anpassungsgeld:
-  title: Anpassungsgeld
-  nav_items:
-    - name: title
-      title: Seitenanfang
     - name: beschäftigte
       title: Beschäftigte
     - name: kontrolle
@@ -960,7 +938,24 @@ anpassungsgeld:
         - name: table
           title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
 
-  p: Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt.
+  p1:
+    p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
+    k1: Begünstigungen für Strom- und Energiesteuer
+    p2: "). Grundsätzlich gibt es sowohl auf internationaler als auch auf nationaler Ebene unterschiedliche Definitionen und methodische Ansätze zu der Frage, was eine Subvention ist und wie sie berechnet wird. Die hier verwendete Begriffe von Subventionen für rohstoffabbauende Unternehmen beruht auf der Definition des Subventionsberichts der Bundesregierung. Demnach werden nur direkt budgetrelevante Subventionen des Bundes für private Unternehmen und Wirtschaftszweige erfasst. Subventionen der föderalen Ebene können über die Subventionsberichte der Bundesländer eingesehen werden (siehe hierzu Anlage 5 des Subventionsberichts der Bundesregierung)."
+  zuschusse:
+    title: Zuschüsse für den Absatz der Steinkohle
+    p1: "Der deutsche Steinkohlenbergbau ist – insbesondere aufgrund der geologisch bedingten hohen Förderkosten – nicht wettbewerbsfähig. Daher wurde 2007 zwischen dem Bund, den steinkohleproduzierenden Bundesländern Nordrhein-Westfalen und Saarland, der RAG AG und der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) eine Einigung darüber erzielt, dass der subventionierte Steinkohlenbergbau bis zum Jahre 2018 sozialverträglich beendet wird. Grundlage hierfür sind das Steinkohlefinanzierungsgesetz vom 20.12.2007 sowie eine Rahmenvereinbarung zwischen Bund, Revierländern, dem Bergbauunternehmen RAG AG und der IG BCE. Die öffentliche Hand gewährt zeitlich begrenzte Hilfen zur Förderung des Absatzes (Ausgleich der Differenz zwischen heimischen Förderkosten und Weltmarktpreis) und zur Bewältigung der notwendigen Stilllegungsmaßnahmen. Auch mit Blick auf Klimaschutz und Ressourcenschonung werden die Subventionen zurückgeführt und im Endergebnis vollständig abgebaut."
+    entwicklung:
+      title: Entwicklung
+      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Millionen Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u.a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
+    kontrolle:
+      title: Kontrolle
+      p: "Die Subventionierung des deutschen Steinkohlenbergbaus ist im Rahmen der EU genehmigungspflichtig und wurde von der EU-Kommission geprüft und genehmigt. Zudem werden die bereitgestellten Beihilfen hinsichtlich ihrer zweckentsprechenden Verwendung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfer/innen jährlich überprüft."
+    vorsorge:
+      title: Vorsorge
+      p: "Zur Bewältigung der notwendigen Stilllegungsmaßnahmen wird das ehemalige Beteiligungsvermögen der RAG AG zur Finanzierung der nach der Stilllegung verbleibenden Ewigkeitslasten (Grubenwasserhaltung, Dauerbergschäden, Grundwasserreinigung) durch die privatrechtliche RAG-Stiftung bereit gestellt. Soweit dieses Vermögen zur Deckung der Ewigkeitslasten nicht ausreicht, werden der Bund und die Revierländer im Verhältnis von einem Drittel und zwei Drittel eintreten."
+  heading_anpassungsgeld: Anpassungsgeld
+  anpassungsgeld_p: Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt.
   beschäftigte:
     title: Beschäftigte
     p: Die Zahl der Beschäftigten entwickelt sich rückläufig. So waren Anfang des Jahres 2008 32.803 Arbeitnehmer/innen im Steinkohlenbergbau beschäftigt. Bis Ende des Jahres 2015 wurde die Beschäftigungszahl sozialverträglich auf 9.640 Arbeitnehmer/innen reduziert. Diesem Trend folgt mit zeitlicher Verzögerung auch die Anzahl der Anpassungsgeld(APG)-Berechtigten. Da nach den letzten Zechenstilllegungen zum Jahresende 2018 weitere Arbeitnehmer/innen ausscheiden werden und eine sinkende Zahl an Beschäftigten noch nach 2018 für die Stilllegung der Gruben benötigt wird, gelten die derzeit aktuellen APG-Richtlinien noch bis zum Jahre 2027.
@@ -982,17 +977,17 @@ anpassungsgeld:
     table:
       title1_1: "Tabelle: Ausgewählte Begünstigungen"
       sup11:
-        title: "11"
+        title: "15"
         text: "Hier sind nur Begünstigungen aufgenommen, die auch für rohstoffproduzierende Unternehmen von Relevanz sind."
       title1_2: " bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe"
       sup12:
-        title: "12"
+        title: "16"
         text1: "Der Anteil der rohstoffgewinnenden Industrie an der Bruttowertschöpfung des produzierenden Gewerbes beträgt 0,65 Prozent. Quelle: eigene Berechnung aus Angaben zum BIP (Kapitel 5a) sowie"
         link: DESTATIS
         text2: (Zugriff 03.07.2017).
       source: "Quelle: 25. Subventionsbericht der Bundesregierung 2015"
       sup13:
-        title: "13"
+        title: "17"
         text:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter: [Website+Hyperlink] veröffentlicht."
       th1: Regelung
       th2:
@@ -1593,6 +1588,8 @@ downloads:
       title: Daten zu Feldes- und Förderabgaben
     - name: umsatz
       title: Daten zu Umsatz Steine und Erden
+    - name: anpassungsgeld
+      title: Daten zu Anpassungsgeld
 
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u.a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
@@ -1651,6 +1648,11 @@ downloads:
     title: Daten zu Umsatz Steine und Erden
     p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
     link: (EXCEL).
+  anpassungsgeld:
+    title: Daten zu Anpassungsgeld
+    p: Die Daten zur Höhe der Subventionen wurden dem aktuellen Subventionsbericht der Bundesregierung entnommen, der alle zwei Jahre erscheint
+    link: (PDF).
+    link_data: "www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
 
 about:
     title: About D-EITI
