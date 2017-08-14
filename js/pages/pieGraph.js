@@ -26,7 +26,7 @@ $(document).ready(function(){
             shadow: false,
             renderer:$.jqplot.PieRenderer,
             rendererOptions:{
-                dataLabelPositionFactor : 1.2,
+                dataLabelPositionFactor : 1.3,
                 sliceMargin: 4,
                 startAngle: -90,
                 showDataLabels: true,
