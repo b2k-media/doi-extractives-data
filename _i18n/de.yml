@@ -236,183 +236,6 @@ steine-und-erden:
       title: Verwendung Eisenerze
       p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
 
-gesamtdeutsche_rohstoffproduktion:
-  title: Gesamtdeutsche Rohstoffproduktion
-  nav_title: Gesamtdeutsche Rohstoffproduktion
-  nav_items:
-    - name: title
-      title: Seitenanfang
-    - name: steinkohle
-      title: Steinkohle
-    - name: braunkohle
-      title: Braunkohle
-    - name: erdöl
-      title: Erdöl
-    - name: erdgas
-      title: Erdgas
-    - name: kalisalz
-      title: Kalisalz
-    - name: spezialton
-      title: Spezialton
-    - name: steinsalz
-      title: Steinsalz und Industriesole
-    - name: kaolin
-      title: Kaolin
-    - name: quarzkies_und_sand
-      title: Quarzkies und –sand
-    - name: kies_und_sand
-      title: Kies und Sand und gebrochener Naturstein
-    - name: naturwerkstein
-      title: Naturwerkstein
-    - name: kalk_mergel
-      title: Kalk-/Mergel- und Dolomitstein
-  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
-  p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
-  daten_einsehen: Daten Einsehen
-  steinkohle:
-    title: Steinkohle
-    p: Die deutsche Steinkohlenförderung sinkt seit Jahren kontinuierlich und es ist geplant bis Ende 2018 die Förderung sozialverträglich zu beenden. Im Jahr 2015 betrug die Förderung 6,2 Mio. t v.F. Aus den durchschnittlichen Grenzübergangspreisen für Kraftwerkskohlen für das Jahr 2015, kann man daraus einen Wert von etwa 423 Mio. Euro abschätzen.
-  braunkohle:
-    title: Braunkohle
-    p: Die Förderung der heimischen Braunkohle lag bei 178,1 Mio. t in etwa auf dem Vorjahresniveau. Nach Schätzung der BGR entspricht dies einem Wert von 2431 Mio. Euro.
-  erdöl:
-    title: Erdöl
-    p: Die deutsche Erdölproduktion lag im Jahr 2015 bei 2,41 Mio. t. Ähnlich wie bei der Steinkohle hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdölproduktion auf 859 Mio. Euro abgeschätzt.
-  erdgas:
-    title: Erdgas
-    p: 2015 wurde in der Bundesrepublik in neun Bundesländern Erdgas (einschl. Erdölgas) in Höhe von 9.387,62 Mio. m³ gefördert. Wie bei Erdöl, hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdgasproduktion auf 2064 Mio. Euro abgeschätzt.
-  kalisalz:
-    title: Kalisalz
-    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2015 bei 5,7 Mio. t in Form von Kaliprodukten
-    link1: (BMWi 2016).
-    p1_2: Dazu kommen noch sonstige Erzeugnisse aus der Kalifabrikation in Höhe von rund 1,5 Mio. t
-    link2: (BMWi 2016).
-    p1_3: Der Wert der Kali- und Kalisalzprodukte beträgt nach der Berechnung der BGR etwa 2.156 Mio. Euro.
-  spezialton:
-    title: Spezialton
-    p: Nach Angaben der deutschen Bergbehörden wurden im Jahr 2015 in Deutschland 6,40 Mio. t verwertbarer Menge an Spezialton gefördert. Dabei handelt es sich um hochwertigen Ton für die keramische Industrie und Feuerfesttone. Nach Angaben des Statistischen Bundesamtes hat die BGR den Wert dieser Menge auf 148 Mio. Euro berechnet.
-  steinsalz:
-    title: Steinsalz und Industriesole
-    p: Nach Angaben der deutschen Bergbehörden wurden im Jahre 2015 in Deutschland 13,7 Mio. t (NaCl-Inhalt) an Steinsalz und Industriesole gewonnen. Aufbauend auf Wertangaben des Statistischen Bundesamtes berechnete die BGR den Wert dieser Menge auf 566 Mio. Euro.
-  kaolin:
-    title: Kaolin
-    p1_1: Kaolin wird überwiegend in der Papierindustrie und zu Produktion von Feinkeramik verwendet. Nach den Meldungen der deutschen Bergbehörden, wurden im Jahr 2015 5,3 Mio. t kaolinhaltiges Rohmaterial gefördert, wovon 3,8 Mio. t verwertbar waren
-    link: (BMWi 2016).
-    p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
-  quarzkies_und_sand:
-    title: Quarzkies und –sand
-    p: Die Gewinnung von Quarzkiese und –sanden belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u.a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
-  kies_und_sand:
-    title: Kies und Sand und gebrochener Naturstein
-    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet. Hier kommen sie z.B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
-  naturwerkstein:
-    title: Naturwerkstein
-    p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z.B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
-  kalk_mergel:
-    title: Kalk-/Mergel- und Dolomitstein
-    p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u.a. im Haus- und Straßenbau sowie bei der Produktion von z.B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
-    p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
-    link1: https://erhebungsportal.estatistik.de/Erhebungsportal
-    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
-    p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
-    link2: "URL: https://www.natursteinverband.de/"
-    p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
-    p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
-  table1:
-    th1: Rohstoff
-    th2: Menge (2015)
-    row1:
-      td1: Steinkohle*
-      td2: 6,22 Mio.t
-    row2:
-      td1: Braunkohle
-      td2: 178,1 Mio. t
-    row3:
-      td1: Erdöl
-      td2: 2,41 Mio. t
-    row4:
-      td1: Erdgas**
-      td2: 9.387,62 Mio. m³
-    row5:
-      td1: Kalisalz
-      td2: 5,75 Mio. t
-    row6:
-      td1: Kali- und Kalisalzprodukte
-      td2: 7,29 Mio. t
-    row7:
-      td1: Spezialton
-      td2: 6,40 Mio. t
-    row8:
-      td1: Steinsalz und Industriesole
-      td2: 13,67 Mio. t
-    row9:
-      td1: Kaolin
-      td2: 1,1 Mio. t
-    row10:
-      td1: Quarzkies und -sand
-      td2: 9,7 Mio. t
-    row11:
-      td1: Kies und Sand
-      td2: 239 Mio. t
-    row12:
-      td1: Gebrochene Natursteine
-      td2: 210 Mio. t
-    row13:
-      td1: Naturwerksteine
-      td2: 0,44 Mio. t
-    row14:
-      td1: Kalk-/Mergel-/Dolomitstein
-      td2: 48,9 Mio. t
-    star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
-  table2:
-    th1: Rohstoff
-    th2: Wert Wert (2015) in Mio. €
-    1:
-      td1: Steinkohle
-      td2: "423"
-    2:
-      td1: Braunkohle
-      td2: "2.431"
-    3:
-      td1: Erdöl
-      td2: "859"
-    4:
-      td1: Erdgas*
-      td2: "2.064"
-    5:
-      td1: Kalisalz**
-      td2: "k. A."
-    6:
-      td1: Kali- und Kalisalzprodukte
-      td2: "2.156"
-    7:
-      td1: Spezialton
-      td2: "148"
-    8:
-      td1: Steinsalz und Industriesole
-      td2: "576"
-    9:
-      td1: Kaolin
-      td2: "119"
-    10:
-      td1: Quarzkies und -sand
-      td2: "205,5"
-    11:
-      td1: Kies und Sand
-      td2: "1.510"
-    12:
-      td1: Gebrochene Natursteine
-      td2: "1.439"
-    13:
-      td1: Naturwerksteine
-      td2: "52"
-    14:
-      td1: Kalk-/Mergel-/Dolomitstein
-      td2: "719"
-    star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
-
 rechtlicher-rahmen:
   title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
   p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundesministerium für Wirtschaft und Energie. Die Bergbehörden der Bundesländer führen das Gesetz jedoch aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
@@ -739,12 +562,12 @@ verwendung-der-einnahmen:
         title: Gemessen am Marktwert
         item1: "Erdöl: 19 %"
         item2: "Steinsalz: 5 % bzw. 2,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Naturgas: 37 % des erzielten Preises"
-        sup1:
+        sup7:
           title: "7"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
@@ -753,7 +576,7 @@ verwendung-der-einnahmen:
         item2: "Sole"
       sonderregelungen2:
         title: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes2"
-        sup1:
+        sup2:
           title: "2"
           text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row2:
@@ -776,6 +599,7 @@ verwendung-der-einnahmen:
     row4:
       bundesland: "Brandenburg"
       rechtsgrundlage: "Verordnung über die Feldes- und Förderabgabe im Land Brandenburg (Brandenburgische Förderabgabeverordnung - BbgFördAV) vom 11. Dezember 2015 (GVBl. II/15 Nr.69)"
+      rechtsgrundlage_link: "https://bravors.brandenburg.de/verordnungen/bbgfoerdav_2016"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -787,10 +611,13 @@ verwendung-der-einnahmen:
         item1: "Erdöl, tonige Gesteine: 10 %"
         item2: "Kiese und Sande: 7 %"
         item3: "Torf einschließlich anfallender Mudde und Natursteine: 5 %"
-        item4: "Steinsalz und Sole: 1% bzw. 0,5 %5"
+        item4: "Steinsalz und Sole: 1% bzw. 0,5 %"
+        sup5:
+          title: "5"
+          text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird"
       abgabesätze2:
         title: "Naturgas: 10 % des Bemessungsmaßstabes"
-        sup1:
+        sup8:
           title: "8"
           text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
       sonderregelungen1:
@@ -799,12 +626,13 @@ verwendung-der-einnahmen:
         item2: "Natürliche/r Sole und Torf,  gefördert für balneologische Zwecke bzw. als Träger für Erdwärme"
       sonderregelungen2:
         title: "Erdöl und Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup2:
           title: "2"
           text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row5:
       bundesland: Bremen
       rechtsgrundlage: "Bremische Verordnung über die Feldes- und Förderabgabe vom 10.05.2012 (Gesetzblatt der Freien Hansestadt Bremen S. 180)"
+      rechtsgrundlage_link: "transparenz.bremen.de/sixcms/detail.php?gsid=bremen2014_tp.c.66589.de&asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -813,18 +641,18 @@ verwendung-der-einnahmen:
       feldesabgabe2: "Höchstsatz 80 €"
       abgabesätze1:
         title: "Erdgas: 36 % des erzielten Preises"
-        sup1:
+        sup7:
           title: "7*"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Erdöl: 9 % des Marktwertes multipliziert mit der abgabenpflichtigen Menge"
-        sup1:
+        sup6:
           title: "6"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze3: "Sande und Kiessande: 10 % des Marktwertes auf die Gewinnung im Bereich der Küstengewässer und des Festlandsockels."
       abgabesätze4:
         title: "Sole: 1 % bzw. 0,5 % des Marktwertes"
-        sup1:
+        sup6:
           title: "6"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
@@ -834,7 +662,7 @@ verwendung-der-einnahmen:
         item3: "Schwefel"
       sonderregelungen2:
         title1: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup2:
           title: "2"
           text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
@@ -843,6 +671,7 @@ verwendung-der-einnahmen:
     row6:
       bundesland: "Hamburg"
       rechtsgrundlage: "Verordnung über die Feldes- und Förderabgabe vom 24. Dezember 1985 (HmbGVBl. S. 389), zuletzt geändert durch Verordnung vom 22. April 2014 (HmbGVBl. S.142)"
+      rechtsgrundlage_link: "www.landesrecht-hamburg.de/jportal/portal/page/bshaprod.psml;jsessionid=D476CDB7473071E0DB32519DAD432FAA.jp21?showdoccase=1&st=null&doc.id=jlr-FldAbgVHA2014rahmen&doc.part=X&doc.origin=bs"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -853,12 +682,12 @@ verwendung-der-einnahmen:
         title: "Gemessen am Marktwert"
         item1: "Erdöl: 7 %"
         item2: "Sole: 1 bzw. 0,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title1: "Erdgas: 37 % des Bemessungsmaßstabes"
-        sup1:
+        sup7:
           title: "7"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
         title2: "multipliziert mit der abgabenpflichtigen Menge. Aktuell unter Anwendung einer jährlichen Verlängerungsklausel von allen Abgaben befreit."
@@ -869,12 +698,13 @@ verwendung-der-einnahmen:
         item3: Schwefel
       sonderregelungen2:
         title: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup2:
           title: "2"
           text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row7:
       bundesland: "Hessen"
       rechtsgrundlage: "Verordnung zur Änderung der Hessischen Verordnung über Feldes- und Förderabgaben vom 6. Oktober 2014 (GVBl. I S.232) (Befristet bis 31.12.2019)"
+      rechtsgrundlage_link: "starweb.hessen.de/cache/GVBL/2014/00017.pdf"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -885,12 +715,12 @@ verwendung-der-einnahmen:
         title: "Gemessen am Marktwert"
         item1: "Nichteisenmetalle und Schwerspat: 1%"
         item2: "Steinsalz und Sole: 1% bzw. 0,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Kali-, Magnesia- und Borsalze: 1 % des Bemessungsmaßstabes"
-        sup1:
+        sup10:
           title: "10"
           text: "Summe der Produkte aus (1.) dem durchschnittlichen Gehalt der aus dem Bewilligungsfeld gewonnenen Rohsalze an Kaliumoxid (K2O) und Magnesiumsulfat (MgSO4) und (2.) dem Betrag von 0,75 Euro für Kaliumoxid (K2O) und 0,25 Euro für Magnesiumsulfat (MgSO4) je Tonne und angefangenem Prozentpunkt."
       sonderregelungen1:
@@ -901,6 +731,7 @@ verwendung-der-einnahmen:
     row8:
       bundesland: "Mecklenburg-Vorpommern"
       rechtsgrundlage: "Verordnung über die Feldes- und Förderabgabe (FeFördAVO M-V) vom 8. April 2014 (GVOBl. M-V S.140)"
+      rechtsgrundlage_link: "www.landesrecht-mv.de/jportal/portal/page/bsmvprod.psml?showdoccase=1&st=lr&doc.id=jlr-F%C3%B6rdAVMV2014rahmen&doc.part=X&doc.origin=bs"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -913,12 +744,12 @@ verwendung-der-einnahmen:
         item2: "Kiese, Kreide, Kalksteine, Kies-, Quarz- und Spezialsande sowie tonige Gesteine: 10 %"
         item3: "Torf/ Mudde: 5 %"
         item4: "Sole: 1 % bzw. 0,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Erd- und Erdölgas: 20 % des Bemessungsmaßstabes"
-        sup1:
+        sup8:
           title: "8"
           text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
       sonderregelungen1:
@@ -929,6 +760,7 @@ verwendung-der-einnahmen:
     row9:
       bundesland: "Niedersachsen"
       rechtsgrundlage: "Nds. VO über die Feldes- und Förderabgabe vom 10.12.2010 (Nds. GVBl. S.564), zuletzt geändert durch VO vom 15. Dezember 2016 (Nds. GVBl. S. 273)"
+      rechtsgrundlage_link: "www.nds-voris.de/jportal/portal/t/17z1/page/bsvorisprod.psml;jsessionid=889E1C7E2C1D10CC11E86E9792A56601.jp14?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&fromdoctodoc=yes&doc.id=jlr-FldAbgVND2011rahmen&doc.part=X&doc.price=0.0#focuspoint"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -939,7 +771,7 @@ verwendung-der-einnahmen:
       abgabesätze2: "Naturgas: 30 % des Bemessungsmaßstabes8 multipliziert mit der abgabenpflichtigen Menge"
       abgasesätze3:
         title: "Sole: 1 % bzw. 0,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
@@ -949,14 +781,14 @@ verwendung-der-einnahmen:
         item3: "Schwefel"
       sonderregelungen2:
         title1: "Erdöl: Feldesbehandlungskosten in Höhe des Abgabesatzes für die abgabepflichtigen Gebiete"
-        sup1:
+        sup2:
           title: "2"
           text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
         item1: "50 % bei der Förderung mit Hilfe von Tertiärverfahren"
       sonderregelungen3:
         title1: "Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup2:
           title: "2"
           text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
@@ -966,6 +798,7 @@ verwendung-der-einnahmen:
     row10:
       bundesland: "Nordrhein-Westfalen"
       rechtsgrundlage: "Verordnung über die Feldes und Förderabgabe (FFVO) vom 14.12.1998"
+      rechtsgrundlage_link: "esb.bezreg-arnsberg.nrw.de/a_1/a_1_021/"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -974,18 +807,18 @@ verwendung-der-einnahmen:
       feldesabgabe2: "Höchstsatz: 60 €"
       abgabesätze1:
         title: "Grubengas 0,3 Cent pro m³ Methan"
-        sup1:
+        sup12:
           title: "12"
           text: "Eine Minderung des Bemessungsmaßstabs um eine Pauschale für Fortleitungskosten ist möglich."
       abgabesätze2:
         title: "Naturgas: 16 % des Bemessungsmaßstabes"
-        sup1:
+        sup9:
           title: "9"
           text: "Der Quotient aus dem Grenzübergangswert und der Menge des im Erhebungszeitraum eingeführten Naturgases in Ct/ m³."
-        sup2:
+        sup12:
           title: "12"
           text: "Eine Minderung des Bemessungsmaßstabs um eine Pauschale für Fortleitungskosten ist möglich."
-        sup3:
+        sup13:
           title: "13"
           text: "Eine Minderung des Bemessungsmaßstabs für Naturgas, das in Reinigungsanlagen durchgesetzt wird um 0,205 Ct/m³ ist möglich."
       sonderregelungen1:
@@ -994,7 +827,7 @@ verwendung-der-einnahmen:
         item2: "Natürliche Sole, gefördert für balneologische Zwecke"
       sonderregelungen2:
         title1: "Natur- und Grubengas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup3:
           title: "3"
           text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
@@ -1004,20 +837,21 @@ verwendung-der-einnahmen:
     row11:
       bundesland: "Rheinland-Pfalz"
       rechtsgrundlage: "LVO über Feldes- und Förderabgaben vom 23. September 1986 (rlps. GVBl.1986, S. 271), zuletzt geändert durch Art. 1 der VO vom 03. Dezember 2014 (rlps. GVBl. 2014 S. 286)"
+      rechtsgrundlage_link: "landesrecht.rlp.de/jportal/portal/page/bsrlpprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=1&fromdoctodoc=yes&doc.id=jlr-FldAbgVRPpG4&doc.part=X&doc.price=0.0"
       abgabesätze1:
         title: "Gemessen am Marktwert"
         item1: "Erdöl: 12 %; für die Lagerstätten Römerberg-Speyer und Rülzheim 15 % bzw. 7 %"
         item2: "10 % für Erdöl, das aus (1.) Totöllagerstätten, (2.) auflässigen Lagerstätten, (3.) Teufenbereichen von mehr als 4.000 m gefördert oder mit Hilfe von (4.) Tertiärverfahren oder (5.) Verfahren zum Aufschluss von geringpermeablen Lagerstätten zusätzlich gefördert wird."
         item3: "Sole: 1 % bzw. 0,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird."
       abgabesätze2:
         title: "Erdölgas: 10 % des erzielten Preises"
-        sup1:
+        sup7:
           title: "7"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
-        sup2:
+        sup12:
           title: "12"
           text: "Eine Minderung des Bemessungsmaßstabs um eine Pauschale für Fortleitungskosten ist möglich."
       sonderregelungen1:
@@ -1027,25 +861,27 @@ verwendung-der-einnahmen:
         item3: "Zur direkten Verstromung gefördertes Erdgas"
       sonderregelungen2:
         title: "Erdöl- und Erdölgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup4:
           title: "4"
           text: "Obergrenze: Marktwert oder nach § 31 Abs. 2 Satz 2 BBergG ermittelter Wert des in dem Erdölfeld geförderten Erdöls und Erdölgases."
     row12:
       bundesland: "Saarland"
       rechtsgrundlage: "Verordnung über die Feldes und Förderabgabe vom 5. März 1987 (Amtsblatt Seite250), zuletzt geändert durch das Gesetz vom 7.November 2001 (Amtsblatt S. 2158)"
+      rechtsgrundlage_link: "sl.juris.de/cgi-bin/landesrecht.py?d=http://sl.juris.de/sl/gesamt/FldAbgV_SL.htm"
       abgabesätze1:
         title: "Naturgas: 10 % des erzielten Preises"
-        sup1:
+        sup7:
           title: "7"
           text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
         title: "Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup3:
           title: "3"
           text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row13:
       bundesland: "Sachsen"
       rechtsgrundlage: "Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über Feldes- und Förderabgaben (FFAVO) vom 21. Juli 1997; rechtsbereinigt mit Stand vom 1. Januar 2009; zuletzt geändert durch VO vom 20.06.2012 (Sächs. GVBl. S.442)."
+      rechtsgrundlage_link: "https://www.revosax.sachsen.de/vorschrift/3399-FFAVO#abs2"
       abgabesätze1:
         title: "Gemessen am Marktwert"
         item1:
@@ -1068,17 +904,18 @@ verwendung-der-einnahmen:
     row14:
       bundesland: "Sachsen-Anhalt"
       rechtsgrundlage: "Verordnung über die Feldes- und Förderabgabe vom 18. November 1996 (GVBl. LSAS. 348), zuletzt geändert durch VO vom 23. Februar 2016 (GVBl. LSA S. 111)"
+      rechtsgrundlage_link: "www.landesrecht.sachsen-anhalt.de/jportal/?quelle=jlink&query=FldAbgV+ST&psml=bssahprod.psml&max=true&aiz=true"
       abgabesätze1:
         title: "Gemessen am Marktwert"
         item1: "Kiese, Sande, Quarz und Spezialsande: 7 %"
         item2: "Natursteine: 5 %"
         item3: "Steinsalz und Sole: 1 % bzw. 0,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird."
       abgabesätze2:
         title: "Gesteine zur Herstellung von Werk- und Dekosteinen aus Sandstein: 4 % des Bemessungsmaßstabes"
-        sup1:
+        sup11:
           title: "11"
           text: "20 % des Quotienten aus dem Produktionswert und der Produktionsmenge der im Erhebungszeitraum erzielten Produktion in Euro/t gemessen an den vom StatBA erfassten Daten."
       sonderregelungen1:
@@ -1087,6 +924,7 @@ verwendung-der-einnahmen:
     row15:
       bundesland: "Schleswig-Holstein"
       rechtsgrundlage: "Landesverordnung über die Feldes- und Förderabgabe vom 11. Dezember 2012 (GVOBl. Schl.-H. S. 776), geändert durch LVO v. 03.12.2014, GVOBl. Schl.-H.S. 496)"
+      rechtsgrundlage_link: "www.gesetze-rechtsprechung.sh.juris.de/jportal/portal/t/1cdv/page/bsshoprod.psml/action/portlets.jw.MainAction?p1=2&eventSubmit_doNavigate=searchInSubtreeTOC&showdoccase=1&doc.hl=0&doc.id=jlr-FldAbgVSH2013pIVZ&doc.part=S&toc.poskey=#focuspoint"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
         sup1:
@@ -1097,12 +935,12 @@ verwendung-der-einnahmen:
         title: "Gemessen am Marktwert"
         item1: "Erdöl: 40 % multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I erfolgt Berechnung des Förderzinses wie folgt: Z =0,0076 * ÖP² - 1,15 * ÖP + 64,5 (Z = Zins, ÖP ist ein Tausendstel des Marktwertes multipliziert mit 135), wobei Mindestförderzins 21 % und höchstens 40 % beträgt."
         item2: "Sole: 1 % bzw. 0,5 %"
-        sup1:
+        sup5:
           title: "5"
           text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird."
       abgabesätze2:
         title1: "Naturgas: 40 % des Bemessungsmaßstabes"
-        sup1:
+        sup8:
           title: "8"
           text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
         title2: "multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I 18 %"
@@ -1112,12 +950,13 @@ verwendung-der-einnahmen:
         item2: "Erdwärme"
       sonderregelungen2:
         title: "Erdöl und Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup1:
+        sup2:
           title: "2"
           text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row16:
       bundesland: "Thüringen"
       rechtsgrundlage: "Thüringer VO über die Feldes- und Förderabgabe vom 23. August 2005, zuletzt geändert durch VO vom 30.November 2015 (GVBl. S.210)"
+      rechtsgrundlage_link: "https://www.thueringen.de/mam/th8/landesbergamt/feldes_foerderabgabe_stand_2015.pdf"
       abgabesätze1:
         title: "Gemessen am Marktwert"
         item1: "Gips und Anhydrit: 5 %"
@@ -1125,7 +964,7 @@ verwendung-der-einnahmen:
         item3: "Torf/ Mudde 3 %"
       abgabesätze2:
         title: "Werk- und Dekosteine: 4 % des Bemessungsmaßstabes"
-        sup1:
+        sup11:
           title: "11"
           text: "20 % des Quotienten aus dem Produktionswert und der Produktionsmenge der im Erhebungszeitraum erzielten Produktion in Euro/t gemessen an den vom StatBA erfassten Daten."
       sonderregelungen1:
@@ -1462,28 +1301,6 @@ subventionen-und-steuerliche-begünstigungen:
           title: Kontrolle
         - name: 1-vorsorge
           title: Vorsorge
-  p1:
-    p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
-    k1: Begünstigungen für Strom- und Energiesteuer
-    p2: "). Grundsätzlich gibt es sowohl auf internationaler als auch auf nationaler Ebene unterschiedliche Definitionen und methodische Ansätze zu der Frage, was eine Subvention ist und wie sie berechnet wird. Die hier verwendete Begriffe von Subventionen für rohstoffabbauende Unternehmen beruht auf der Definition des Subventionsberichts der Bundesregierung. Demnach werden nur direkt budgetrelevante Subventionen des Bundes für private Unternehmen und Wirtschaftszweige erfasst. Subventionen der föderalen Ebene können über die Subventionsberichte der Bundesländer eingesehen werden (siehe hierzu Anlage 5 des Subventionsberichts der Bundesregierung)."
-  zuschusse:
-    title: Zuschüsse für den Absatz der Steinkohle
-    p1: "Der deutsche Steinkohlenbergbau ist – insbesondere aufgrund der geologisch bedingten hohen Förderkosten – nicht wettbewerbsfähig. Daher wurde 2007 zwischen dem Bund, den steinkohleproduzierenden Bundesländern Nordrhein-Westfalen und Saarland, der RAG AG und der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) eine Einigung darüber erzielt, dass der subventionierte Steinkohlenbergbau bis zum Jahre 2018 sozialverträglich beendet wird. Grundlage hierfür sind das Steinkohlefinanzierungsgesetz vom 20.12.2007 sowie eine Rahmenvereinbarung zwischen Bund, Revierländern, dem Bergbauunternehmen RAG AG und der IG BCE. Die öffentliche Hand gewährt zeitlich begrenzte Hilfen zur Förderung des Absatzes (Ausgleich der Differenz zwischen heimischen Förderkosten und Weltmarktpreis) und zur Bewältigung der notwendigen Stilllegungsmaßnahmen. Auch mit Blick auf Klimaschutz und Ressourcenschonung werden die Subventionen zurückgeführt und im Endergebnis vollständig abgebaut."
-    entwicklung:
-      title: Entwicklung
-      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Millionen Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u.a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
-    kontrolle:
-      title: Kontrolle
-      p: "Die Subventionierung des deutschen Steinkohlenbergbaus ist im Rahmen der EU genehmigungspflichtig und wurde von der EU-Kommission geprüft und genehmigt. Zudem werden die bereitgestellten Beihilfen hinsichtlich ihrer zweckentsprechenden Verwendung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfer/innen jährlich überprüft."
-    vorsorge:
-      title: Vorsorge
-      p: "Zur Bewältigung der notwendigen Stilllegungsmaßnahmen wird das ehemalige Beteiligungsvermögen der RAG AG zur Finanzierung der nach der Stilllegung verbleibenden Ewigkeitslasten (Grubenwasserhaltung, Dauerbergschäden, Grundwasserreinigung) durch die privatrechtliche RAG-Stiftung bereit gestellt. Soweit dieses Vermögen zur Deckung der Ewigkeitslasten nicht ausreicht, werden der Bund und die Revierländer im Verhältnis von einem Drittel und zwei Drittel eintreten."
-
-anpassungsgeld:
-  title: Anpassungsgeld
-  nav_items:
-    - name: title
-      title: Seitenanfang
     - name: beschäftigte
       title: Beschäftigte
     - name: kontrolle
@@ -1494,7 +1311,26 @@ anpassungsgeld:
         - name: table
           title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
 
-  p: Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt.
+  p1:
+    p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
+    k1: Begünstigungen für Strom- und Energiesteuer
+    p2: "). Grundsätzlich gibt es sowohl auf internationaler als auch auf nationaler Ebene unterschiedliche Definitionen und methodische Ansätze zu der Frage, was eine Subvention ist und wie sie berechnet wird. Die hier verwendete Begriffe von Subventionen für rohstoffabbauende Unternehmen beruht auf der Definition des Subventionsberichts der Bundesregierung. Demnach werden nur direkt budgetrelevante Subventionen des Bundes für private Unternehmen und Wirtschaftszweige erfasst. Subventionen der föderalen Ebene können über die Subventionsberichte der Bundesländer eingesehen werden (siehe hierzu Anlage 5 des Subventionsberichts der Bundesregierung)."
+    chart1_source: "Quelle: Subventionsbericht der Bundesregierung, eigene Darstellung (siehe Endnote)"
+  zuschusse:
+    title: Zuschüsse für den Absatz der Steinkohle
+    p1: "Der deutsche Steinkohlenbergbau ist – insbesondere aufgrund der geologisch bedingten hohen Förderkosten – nicht wettbewerbsfähig. Daher wurde 2007 zwischen dem Bund, den steinkohleproduzierenden Bundesländern Nordrhein-Westfalen und Saarland, der RAG AG und der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) eine Einigung darüber erzielt, dass der subventionierte Steinkohlenbergbau bis zum Jahre 2018 sozialverträglich beendet wird. Grundlage hierfür sind das Steinkohlefinanzierungsgesetz vom 20.12.2007 sowie eine Rahmenvereinbarung zwischen Bund, Revierländern, dem Bergbauunternehmen RAG AG und der IG BCE. Die öffentliche Hand gewährt zeitlich begrenzte Hilfen zur Förderung des Absatzes (Ausgleich der Differenz zwischen heimischen Förderkosten und Weltmarktpreis) und zur Bewältigung der notwendigen Stilllegungsmaßnahmen. Auch mit Blick auf Klimaschutz und Ressourcenschonung werden die Subventionen zurückgeführt und im Endergebnis vollständig abgebaut."
+    chart2_source: "Quelle: Subventionsbericht Bundesregierung, eigene Darstellung (siehe Endnote)"
+    entwicklung:
+      title: Entwicklung
+      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Millionen Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u.a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
+    kontrolle:
+      title: Kontrolle
+      p: "Die Subventionierung des deutschen Steinkohlenbergbaus ist im Rahmen der EU genehmigungspflichtig und wurde von der EU-Kommission geprüft und genehmigt. Zudem werden die bereitgestellten Beihilfen hinsichtlich ihrer zweckentsprechenden Verwendung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfer/innen jährlich überprüft."
+    vorsorge:
+      title: Vorsorge
+      p: "Zur Bewältigung der notwendigen Stilllegungsmaßnahmen wird das ehemalige Beteiligungsvermögen der RAG AG zur Finanzierung der nach der Stilllegung verbleibenden Ewigkeitslasten (Grubenwasserhaltung, Dauerbergschäden, Grundwasserreinigung) durch die privatrechtliche RAG-Stiftung bereit gestellt. Soweit dieses Vermögen zur Deckung der Ewigkeitslasten nicht ausreicht, werden der Bund und die Revierländer im Verhältnis von einem Drittel und zwei Drittel eintreten."
+  heading_anpassungsgeld: Anpassungsgeld
+  anpassungsgeld_p: Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt.
   beschäftigte:
     title: Beschäftigte
     p: Die Zahl der Beschäftigten entwickelt sich rückläufig. So waren Anfang des Jahres 2008 32.803 Arbeitnehmer/innen im Steinkohlenbergbau beschäftigt. Bis Ende des Jahres 2015 wurde die Beschäftigungszahl sozialverträglich auf 9.640 Arbeitnehmer/innen reduziert. Diesem Trend folgt mit zeitlicher Verzögerung auch die Anzahl der Anpassungsgeld(APG)-Berechtigten. Da nach den letzten Zechenstilllegungen zum Jahresende 2018 weitere Arbeitnehmer/innen ausscheiden werden und eine sinkende Zahl an Beschäftigten noch nach 2018 für die Stilllegung der Gruben benötigt wird, gelten die derzeit aktuellen APG-Richtlinien noch bis zum Jahre 2027.
@@ -1631,6 +1467,183 @@ explore-data:
       item3: Beitrag zur Beschäftigung
       item4: Exporte
 
+gesamtdeutsche_rohstoffproduktion:
+  title: Gesamtdeutsche Rohstoffproduktion
+  nav_title: Gesamtdeutsche Rohstoffproduktion
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: steinkohle
+      title: Steinkohle
+    - name: braunkohle
+      title: Braunkohle
+    - name: erdöl
+      title: Erdöl
+    - name: erdgas
+      title: Erdgas
+    - name: kalisalz
+      title: Kalisalz
+    - name: spezialton
+      title: Spezialton
+    - name: steinsalz
+      title: Steinsalz und Industriesole
+    - name: kaolin
+      title: Kaolin
+    - name: quarzkies_und_sand
+      title: Quarzkies und –sand
+    - name: kies_und_sand
+      title: Kies und Sand und gebrochener Naturstein
+    - name: naturwerkstein
+      title: Naturwerkstein
+    - name: kalk_mergel
+      title: Kalk-/Mergel- und Dolomitstein
+  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
+  p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
+  daten_einsehen: Daten Einsehen
+  steinkohle:
+    title: Steinkohle
+    p: Die deutsche Steinkohlenförderung sinkt seit Jahren kontinuierlich und es ist geplant bis Ende 2018 die Förderung sozialverträglich zu beenden. Im Jahr 2015 betrug die Förderung 6,2 Mio. t v.F. Aus den durchschnittlichen Grenzübergangspreisen für Kraftwerkskohlen für das Jahr 2015, kann man daraus einen Wert von etwa 423 Mio. Euro abschätzen.
+  braunkohle:
+    title: Braunkohle
+    p: Die Förderung der heimischen Braunkohle lag bei 178,1 Mio. t in etwa auf dem Vorjahresniveau. Nach Schätzung der BGR entspricht dies einem Wert von 2431 Mio. Euro.
+  erdöl:
+    title: Erdöl
+    p: Die deutsche Erdölproduktion lag im Jahr 2015 bei 2,41 Mio. t. Ähnlich wie bei der Steinkohle hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdölproduktion auf 859 Mio. Euro abgeschätzt.
+  erdgas:
+    title: Erdgas
+    p: 2015 wurde in der Bundesrepublik in neun Bundesländern Erdgas (einschl. Erdölgas) in Höhe von 9.387,62 Mio. m³ gefördert. Wie bei Erdöl, hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdgasproduktion auf 2064 Mio. Euro abgeschätzt.
+  kalisalz:
+    title: Kalisalz
+    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2015 bei 5,7 Mio. t in Form von Kaliprodukten
+    link1: (BMWi 2016).
+    p1_2: Dazu kommen noch sonstige Erzeugnisse aus der Kalifabrikation in Höhe von rund 1,5 Mio. t
+    link2: (BMWi 2016).
+    p1_3: Der Wert der Kali- und Kalisalzprodukte beträgt nach der Berechnung der BGR etwa 2.156 Mio. Euro.
+  spezialton:
+    title: Spezialton
+    p: Nach Angaben der deutschen Bergbehörden wurden im Jahr 2015 in Deutschland 6,40 Mio. t verwertbarer Menge an Spezialton gefördert. Dabei handelt es sich um hochwertigen Ton für die keramische Industrie und Feuerfesttone. Nach Angaben des Statistischen Bundesamtes hat die BGR den Wert dieser Menge auf 148 Mio. Euro berechnet.
+  steinsalz:
+    title: Steinsalz und Industriesole
+    p: Nach Angaben der deutschen Bergbehörden wurden im Jahre 2015 in Deutschland 13,7 Mio. t (NaCl-Inhalt) an Steinsalz und Industriesole gewonnen. Aufbauend auf Wertangaben des Statistischen Bundesamtes berechnete die BGR den Wert dieser Menge auf 566 Mio. Euro.
+  kaolin:
+    title: Kaolin
+    p1_1: Kaolin wird überwiegend in der Papierindustrie und zu Produktion von Feinkeramik verwendet. Nach den Meldungen der deutschen Bergbehörden, wurden im Jahr 2015 5,3 Mio. t kaolinhaltiges Rohmaterial gefördert, wovon 3,8 Mio. t verwertbar waren
+    link: (BMWi 2016).
+    p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
+  quarzkies_und_sand:
+    title: Quarzkies und –sand
+    p: Die Gewinnung von Quarzkiese und –sanden belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u.a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
+  kies_und_sand:
+    title: Kies und Sand und gebrochener Naturstein
+    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet. Hier kommen sie z.B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
+  naturwerkstein:
+    title: Naturwerkstein
+    p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z.B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
+  kalk_mergel:
+    title: Kalk-/Mergel- und Dolomitstein
+    p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u.a. im Haus- und Straßenbau sowie bei der Produktion von z.B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
+    p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
+    link1: https://erhebungsportal.estatistik.de/Erhebungsportal
+    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
+    link2: "URL: https://www.natursteinverband.de/"
+    p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
+    p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
+  table1:
+    th1: Rohstoff
+    th2: Menge (2015)
+    row1:
+      td1: Steinkohle*
+      td2: 6,22 Mio.t
+    row2:
+      td1: Braunkohle
+      td2: 178,1 Mio. t
+    row3:
+      td1: Erdöl
+      td2: 2,41 Mio. t
+    row4:
+      td1: Erdgas**
+      td2: 9.387,62 Mio. m³
+    row5:
+      td1: Kalisalz
+      td2: 5,75 Mio. t
+    row6:
+      td1: Kali- und Kalisalzprodukte
+      td2: 7,29 Mio. t
+    row7:
+      td1: Spezialton
+      td2: 6,40 Mio. t
+    row8:
+      td1: Steinsalz und Industriesole
+      td2: 13,67 Mio. t
+    row9:
+      td1: Kaolin
+      td2: 1,1 Mio. t
+    row10:
+      td1: Quarzkies und -sand
+      td2: 9,7 Mio. t
+    row11:
+      td1: Kies und Sand
+      td2: 239 Mio. t
+    row12:
+      td1: Gebrochene Natursteine
+      td2: 210 Mio. t
+    row13:
+      td1: Naturwerksteine
+      td2: 0,44 Mio. t
+    row14:
+      td1: Kalk-/Mergel-/Dolomitstein
+      td2: 48,9 Mio. t
+    star1: "*  verwertbare Förderung"
+    star2: "** einschl. Erdölgas"
+  table2:
+    th1: Rohstoff
+    th2: Wert Wert (2015) in Mio. €
+    1:
+      td1: Steinkohle
+      td2: "423"
+    2:
+      td1: Braunkohle
+      td2: "2.431"
+    3:
+      td1: Erdöl
+      td2: "859"
+    4:
+      td1: Erdgas*
+      td2: "2.064"
+    5:
+      td1: Kalisalz**
+      td2: "k. A."
+    6:
+      td1: Kali- und Kalisalzprodukte
+      td2: "2.156"
+    7:
+      td1: Spezialton
+      td2: "148"
+    8:
+      td1: Steinsalz und Industriesole
+      td2: "576"
+    9:
+      td1: Kaolin
+      td2: "119"
+    10:
+      td1: Quarzkies und -sand
+      td2: "205,5"
+    11:
+      td1: Kies und Sand
+      td2: "1.510"
+    12:
+      td1: Gebrochene Natursteine
+      td2: "1.439"
+    13:
+      td1: Naturwerksteine
+      td2: "52"
+    14:
+      td1: Kalk-/Mergel-/Dolomitstein
+      td2: "719"
+    star1: "*  verwertbare Förderung"
+    star2: "** einschl. Erdölgas"
+
 einnahmen:
     title: Beitrag zu den Staatseinnahmen
     nav_items:
@@ -1638,6 +1651,15 @@ einnahmen:
         title: Seitenanfang
       - name: steuern
         title: Steuern
+        subnav_items:
+          - name: körperschaftsteuer
+            title: Körperschaftsteuer
+          - name: gewerbesteuer
+            title: Gewerbesteuer
+          - name: einkommensteuer
+            title: Einkommensteuer
+          - name: solidaritätszuschlag
+            title: Solidaritätszuschlag
       - name: steuereinnahmen
         title: Steuereinnahmen aus dem Rohstoffsektor
       - name: förder_feldesabgaben
@@ -1651,6 +1673,28 @@ einnahmen:
       p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
       daten_einsehen: Daten einsehen
       p3: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei dargestellt.
+      körperschaftsteuer:
+        title: Körperschaftsteuer
+        p: Ausgewertet wurden statistische Daten der Jahre 2010 bis 2012. Für die Schätzung wurden die festgesetzten Körperschaftsteuern unbeschränkt und beschränkt Körperschaftsteuerpflichtiger vor Anrechnung von Kapitalertragsteuer o.Ä. berücksichtigt. Die Fortschreibung für die Jahre 2013 bis 2015 erfolgte anhand der Entwicklung der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“.
+      gewerbesteuer:
+        title: Gewerbesteuer
+        p1: Die Gewerbesteuer wird in Deutschland von den über 11.000 Gemeinden nach individuell festgelegten und dadurch differierenden Hebesätzen erhoben. Ausgangsbasis für die Bemessung der Gewerbesteuer ist der Gewerbeertrag. Dies ist der nach Einkommensteuer- bzw. Körperschaftsteuerrecht zu bestimmende Gewinn, der ggf. um Hinzurechnungen und Kürzungen nach dem Gewerbesteuergesetz erhöht bzw. gemindert wird. Auf Grundlage des Gewerbeertrags wird deutschlandweit einheitlich ein Steuermessbetrag ermittelt und durch Anwendung des jeweiligen Hebesatzes der Gemeinde auf den Steuermessbetrag die vom Unternehmen zu zahlende Gewerbesteuer bestimmt. Der Gewerbesteuer unterliegen Körperschaften, Personengesellschaften und natürliche Personen mit ihren gewerblichen Einkünften.
+        p2: In der Gewerbesteuerstatistik sind nur die im Veranlagungsverfahren ermittelten Steuermessbeträge enthalten. Das Statistische Bundesamt hat in einer Sonderauswertung der Statistiken für die Jahre 2010 und 2011 den dort nachgewiesenen positiven Steuermessbeträgen der betrachteten Unternehmen die Hebesätze der entsprechenden Gemeinden zugeordnet. Damit konnte die Gewerbesteuer näherungsweise ermittelt werden.
+      einkommensteuer:
+        title: Einkommensteuer
+        p1: Natürliche Personen können als Einzelunternehmer oder Beteiligte an einer Personengesellschaft ebenfalls Gewinne im rohstoffgewinnenden Sektor erzielen und sind mit diesen gewerbe- und einkommensteuerpflichtig. In der Einkommensteuerstatistik sind jedoch keine Untergliederungen nach Wirtschaftszweigen enthalten. Damit konnte diese Statistik für die vorliegende Untersuchung nicht genutzt werden. Die Statistik über Personengesellschaften wiederum ist zwar nach Wirtschaftszweigen gegliedert, sie dient jedoch nur der Feststellung der erzielten Einkünfte, die bei den Beteiligten (Mitunternehmern) der Besteuerung entweder bei der Körperschaftsteuer oder der Einkommensteuer unterliegen.
+        p2: "Die auf den rohstoffgewinnenden Sektor entfallende Einkommensteuer wurde aufgrund der vorgenannten Probleme mit folgenden Verfahren unter Nutzung der Gewerbesteuerstatistik und der Statistik über die Personengesellschaften und Gemeinschaften geschätzt:"
+        p3: Für die Einzelunternehmen wurde aus den in der Gewerbesteuerstatistik ausgewiesenen positiven Steuermessbeträgen dieser Personengruppe durch Rückrechnung ein näherungsweiser Gewinn ermittelt. Die Summe der Einkünfte von Personengesellschaften, die im entsprechenden Wirtschaftszweig auf natürliche Personen als Beteiligte entfällt, wurde aus der Statistik über Personengesellschaften und Gemeinschaften ausgewertet.
+        p4: Auf diesen Gewinn bzw. diese Summe der Einkünfte wurde ein durchschnittlicher Steuersatz von 28,6 % angewendet. Dieser durchschnittliche Steuersatz wurde mithilfe eines Mikrosimulationsmodells für Einkommensteuerpflichtige mit gewerblichen Einkünften ermittelt. Unter Berücksichtigung der Gewerbesteueranrechnung auf die Einkommensteuer ergibt sich die in der Tabelle dargestellte Größenordnung für die Einkommensteuer.
+      solidaritätszuschlag:
+        title: Solidaritätszuschlag
+        p1: Zur Einkommensteuer und zur Körperschaftsteuer wird ein Solidaritätszuschlag als Ergänzungsabgabe erhoben. Er beträgt grundsätzlich 5,5 % der festgesetzten Körperschaft- und Einkommensteuer (siehe vorhergehende Erläuterungen).
+        p2: Einkommensteuer und Solidaritätszuschlag sind nicht Teil des D-EITI Zahlungsabgleichs  (zur Begründung vgl. Kap. 9 / Annex).
+        p3_1: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei
+        link1: "Anfallende Zahlungen"
+        p3_2: und
+        link2:  "Umgang mit der Natur"
+        p3_3: dargestellt.
 
     steuereinnahmen:
       title: Steuereinnahmen aus dem Rohstoffsektor
@@ -1844,6 +1888,18 @@ einnahmen:
         title: "**"
         text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
 
+exporte:
+    title: Exporte
+    nav_items:
+      - name: title
+        title: Seitenanfang
+      - name: chart1
+        title: Deutsche Rohstoffexporte (Wert) 2012 – 2016
+      - name: chart2
+        title: Deutsche Rohstoffexporte 2012 – 2016 (Menge)
+    p: Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2016 exportierte das Land Waren im Wert von insgesamt rund 1,2 Billionen Euro. Dabei entfielen rund 6,6 Milliarden Euro auf Waren der rohstoffgewinnenden Industrie, was einem Anteil von 0,54 % an den Gesamtexporten entspricht. Der Bereich „Erdöl und Erdgas“ machte mit knapp 5 Milliarden Euro den größten Anteil an den Exporten aus. Dabei handelt es sich allerdings überwiegend um Re-Exporte von Erdgas. Das im Inland geförderte Erdgas wird fast vollständig auch in Deutschland verbraucht. Gefolgt wird dieser Bereich vom Sektor „Steine und Erden, sonstiger Bergbau“ mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von rund 130 Mio. Euro und Kohle von ca. 125 Mio. Euro exportiert. Auch hier beinhalten die Zahlen die Re-Exporte, allerdings in weit geringerem Umfang als beim Erdgas.
+    daten_einsehen: Daten Einsehen
+
 how-it-work:
     title: Rohstoffgewinnung
     description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
@@ -1853,9 +1909,6 @@ how-it-work:
       item2: Kohle
       item3: Salze
       item4: Steine und Erden
-    section2:
-      title: Rohstoffproduktion in Deutschland
-      item1: Gesamtdeutsche Rohstoffproduktion
     section3:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
@@ -1891,10 +1944,19 @@ downloads:
       title: Daten zur Beschäftigten
     - name: daten-zur-exporte
       title: Daten zur Exporte
+    - name: steuern
+      title: Steuern Daten zu Staatseinnahmen durch Steuern
+    - name: förderabgaben
+      title: Daten zu Feldes- und Förderabgaben
+    - name: umsatz
+      title: Daten zu Umsatz Steine und Erden
+    - name: anpassungsgeld
+      title: Daten zu Anpassungsgeld
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u.a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
   download_label: Download der Produktionsdaten
   download_link: Daten herunterladen
+  download_label_förderabgaben: Download der Daten
   h2: Daten zur gesammtdeutschen Rohstoffproduktion
   p2: Die Zahlen zu den Produktionsmengen (Kapitel 2b) von Steinkohle, Braunkohle, Erdöl, Erdgas, Kalisalz, Spezialton, Steinsalz und Industriesole, basieren auf den Angaben der BMWi Publikation „Der Bergbau in der Bundesrepublik Deutschland 2015“. Dabei handelt es sich um eine jährliche Publikation, die u.a. Informationen zur Gewinnung von Rohstoffen in Deutschland erhält.
   p3: Die Daten zur Gewinnung der Bodenschätze werden über die Bergämter erhoben und umfassen alle nutzbaren Bodenschätze, die nach den Vorschriften des BBbergG unter Aufsicht der Behörde gewonnen werden sowie Erzeugnisse, die durch Be- oder Verarbeitung der vorgenannten Bodenschätze anfallen oder hergestellt werden. D.h. bei Bodenschätzen, die nur teilweise unter Bergrecht fallen, gibt die Statistik kein umfassendes Bild. Deshalb liegen die Angaben von Produktionsmengen von Quarzkies und -sand (Bundesverband Mineralische Rohstoffe (MIRO) 2016), Kies und Sand (MIRO 2016), gebrochenem Naturstein (MIRO 2016), Kalk-, Mergel und Dolomitstein (Bundesverband der Deutschen Kalkindustrie (BVK)) sowie für Naturwerkstein (Deutscher Naturwerkstein-Verband (DNV)) die Daten der Verbände zugrunde. Für Kaolin wird auf die Schätzung der BGR (BGR 2016) zurückgegriffen, da der Wert von 3,7 Mio. t  (BMWi 2016) sich nicht auf die am Markt erhältlichen Produkte bezieht.
@@ -1919,6 +1981,38 @@ downloads:
     p2: von Destatis am 14.12.2016 entnommen. Die Daten für 2015 sind auf der
     link2: Website
     p3: des Statistischen Bundesamtes abrufbar. (EXCEL)
+  steuern:
+    title: Steuern Daten zu Staatseinnahmen durch Steuern
+    p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2012, der Gewerbesteuerstatistiken 2010 und 2011 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
+    p2: Betrachtet wurde jeweils nur der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“. Er umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der „Klassifikation der Wirtschaftszweige“ des statistischen Bundesamts auf den Seiten 175-185.
+    p3: "Da die aktuellsten statistischen Daten die Jahre 2011 bzw. 2012 betreffen, wurden die Folgejahre bis 2015 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.). Für das Jahr 2016 liegt noch kein Betrag der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ vor."
+    p4: Die für den rohstoffgewinnenden Sektor ausgewiesenen Steuerbeträge sind Beträge, die für das jeweils angegebene Jahr von den Unternehmen zu zahlen waren (sog. Veranlagungsjahr). Der statistische Zeitrahmen unterscheidet sich damit von dem für die Gesamteinnahmen des Staates, die im Jahr des Zuflusses verbucht werden (Kassenjahr).
+    p5: "Die angegebenen Gesamteinnahmen des Staates sind der Kassenstatistik des Bundes (Öffentlicher Gesamthaushalt – ÖGH) entnommen. Die Gesamteinnahmen des Staates umfassen neben den Steuereinnahmen des Staates auch Einnahmen aus Sozialversicherungsbeiträgen, Veräußerungserlösen oder Vermögensanlagen (Staatsanleihen) sowie ferner auch Gebühren, Verwaltungseinnahmen oder etwa Gewinne aus Staatsunternehmen. Detaillierte Erläuterungen bzw. Definitionen zum Öffentlichen Gesamthaushalt (ÖGH) sind auf der Website des Statistischen Bundesamtes abrufbar:"
+    link: "https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/ThemaFinanzen.html"
+  förderabgaben:
+    title: Daten zu Feldes- und Förderabgaben
+    p1_1: Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den
+    link: Abrechnungen des Länderfinanzausgleichs
+    link_data: "http://www.bundesfinanzministerium.de/Web/DE/Themen/Oeffentliche_Finanzen/Foederale_Finanzbeziehungen/Laenderfinanzausgleich/laenderfinanzausgleich.html"
+    p1_2: auf der Internetseite des BMF veröffentlicht.
+    p2_1: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von vier Bundesländern die Einnahmen aus den Feldesabgaben vor:"
+    link1: Bayern,
+    link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
+    link2: Brandenburg,
+    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%2520f%25C3%25BCr%2520Wirtschaft%2520und%2520Energie_2017-18.pdf"
+    link3: Niedersachsen,
+    link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
+    link4: Nordrhein-Westfalen.
+    link4_data: "https://www.landtag.nrw.de/web/WWW/haushalt/cd-fm-0916/daten/pdf/2017/gesamt_2017.pdf"
+  umsatz:
+    title: Daten zu Umsatz Steine und Erden
+    p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
+    link: (EXCEL).
+  anpassungsgeld:
+    title: Daten zu Anpassungsgeld
+    p: Die Daten zur Höhe der Subventionen wurden dem aktuellen Subventionsbericht der Bundesregierung entnommen, der alle zwei Jahre erscheint
+    link: (PDF).
+    link_data: "www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
 
 about:
     title: Herzlich Willkommen ...

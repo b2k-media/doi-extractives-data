@@ -1,9 +1,7 @@
 $(document).ready(function(){
 
   var jsonFilePath= '';
-  if (document.URL.search('/explore/exporte/') > 1) {
-    jsonFilePath = "../../data/graphs/exportePie.json";
-  } else if (document.URL.search('/explore/employment/') > 1) {
+  if (document.URL.search('/explore/employment/') > 1) {
     jsonFilePath = "../../data/graphs/employment.json";
   } else if (document.URL.search('explore/how-it-work/erneuerbare_energien/') > 1) {
     jsonFilePath = "../../../data/graphs/erneuerbare_energien.json";
@@ -28,7 +26,7 @@ $(document).ready(function(){
             shadow: false,
             renderer:$.jqplot.PieRenderer,
             rendererOptions:{
-                dataLabelPositionFactor : 1.2,
+                dataLabelPositionFactor : 1.3,
                 sliceMargin: 4,
                 startAngle: -90,
                 showDataLabels: true,
