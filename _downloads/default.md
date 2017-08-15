@@ -88,6 +88,20 @@ permalink: /downloads/
       </p>
     </div>
 
+    <div id="daten-zur-exporte-nach-menge">
+      <h2 id="daten-zur-exporte-nach-menge">{% t downloads.exporte.h1 %}</h2>
+      <hr/>
+      <p>
+        {% t downloads.exporte.p1 %}
+        <a href="https://www-genesis.destatis.de/">{% t downloads.exporte.link1 %}</a>
+        {% t downloads.exporte.p2 %}
+        <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">{% t downloads.exporte.link2 %}</a>
+        {% t downloads.exporte.p3 %}
+        <a href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">{% t downloads.exporte.link3 %}</a>
+        {% t downloads.exporte.p4 %}
+      </p>
+    </div>
+
     <div id="einnahmen">
       <h2 id="steuern">{% t downloads.steuern.title %}</h2>
       <hr/>
