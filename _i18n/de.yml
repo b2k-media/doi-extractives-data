@@ -611,7 +611,10 @@ verwendung-der-einnahmen:
         item1: "Erdöl, tonige Gesteine: 10 %"
         item2: "Kiese und Sande: 7 %"
         item3: "Torf einschließlich anfallender Mudde und Natursteine: 5 %"
-        item4: "Steinsalz und Sole: 1% bzw. 0,5 %5"
+        item4: "Steinsalz und Sole: 1% bzw. 0,5 %"
+        sup5:
+          title: "5"
+          text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird"
       abgabesätze2:
         title: "Naturgas: 10 % des Bemessungsmaßstabes"
         sup8:
