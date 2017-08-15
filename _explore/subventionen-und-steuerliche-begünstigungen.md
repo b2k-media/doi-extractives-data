@@ -72,7 +72,7 @@ breadcrumb:
       </section>
       <section id="anpassungsgeldentnahme" style="position: relative;">
       <br/>
-        <h2 id="beschäftigte">
+        <h2 id="anpassungsgeld">
           {% t subventionen-und-steuerliche-begünstigungen.heading_anpassungsgeld %}
         </h2>
         <p>{% t subventionen-und-steuerliche-begünstigungen.anpassungsgeld_p %}</p>

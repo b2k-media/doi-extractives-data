@@ -1151,7 +1151,7 @@ umgang-mit-der-natur:
         td2: Nein
         td3: Ja
         td4: Ja
-        td5: Ja
+        td5: Nein
 
     beispiel:
       title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
@@ -1301,13 +1301,15 @@ subventionen-und-steuerliche-begünstigungen:
           title: Kontrolle
         - name: 1-vorsorge
           title: Vorsorge
-    - name: beschäftigte
-      title: Beschäftigte
-    - name: kontrolle
-      title: Kontrolle
-    - name: begünstigungen
-      title: Begünstigungen für Strom- und Energiesteuer
+    - name: anpassungsgeld
+      title: Anpassungsgeld
       subnav_items:
+        - name: beschäftigte
+          title: Beschäftigte
+        - name: kontrolle
+          title: Kontrolle
+        - name: begünstigungen
+          title: Begünstigungen für Strom- und Energiesteuer
         - name: table
           title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
 
