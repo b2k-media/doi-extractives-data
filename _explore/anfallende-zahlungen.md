@@ -20,7 +20,11 @@ breadcrumb:
         <section id="einnahmen" style="position: relative;">
           <h2>{% t anfallende_zahlungen.einnahmen.title %}</h2>
           <p>
-            {% t anfallende_zahlungen.einnahmen.p %}
+            {% t anfallende_zahlungen.einnahmen.p1_1 %}
+            <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">
+              {% t anfallende_zahlungen.einnahmen.link1 %}
+            </a>
+            {% t anfallende_zahlungen.einnahmen.p1_2 %}
           </p>
         </section>
       </section>
@@ -100,19 +104,27 @@ breadcrumb:
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p4 %}
         </p>
         <p>
-          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5 %}
+          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5_1 %}
+          <a href="https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html">
+            {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link1 %}
+          </a>
+          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5_2 %}
         </p>
         <p>
-          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p6 %}
-          <a href="https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html">
-            {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link %}
+          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p6_1 %}
+          <a href="{{site.baseurl}}/explore/subventionen-und-steuerliche-begunstigungen/">
+            {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link2 %}
           </a>
-          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p7 %}
-          <sup>{% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}</sup>
+          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p6_2 %}
+          <sup>
+            <a href="#sup-3">
+              {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}
+            </a>
+          </sup>
         </p>
         <br/>
         <p>
-          <sup>{% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}</sup>
+          <sup id="sup-3">{% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}</sup>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.text %}
         </p>
 
