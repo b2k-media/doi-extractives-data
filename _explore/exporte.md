@@ -3,7 +3,7 @@ title: exporte
 layout: default
 permalink: /explore/exporte/
 breadcrumb:
-  - title: Exporte
+  - title: Daten
     permalink: /explore/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
