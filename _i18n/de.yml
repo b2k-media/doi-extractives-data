@@ -769,7 +769,7 @@ verwendung-der-einnahmen:
       feldesabgabe2: "Höchstsatz: 80 €"
       abgabesätze1: "Erdöl: 18 % des Marktwertes für aus den Lagerstätten Bramberge, Emlichheim, Georgsdorf, Ringe und Rühlermoor Valendis gefördertes Erdöl"
       abgabesätze2: "Naturgas: 30 % des Bemessungsmaßstabes8 multipliziert mit der abgabenpflichtigen Menge"
-      abgasesätze3:
+      abgabesätze3:
         title: "Sole: 1 % bzw. 0,5 %"
         sup5:
           title: "5"
