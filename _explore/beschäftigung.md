@@ -5,13 +5,6 @@ permalink: /explore/employment/
 breadcrumb:
   - title: Daten
     permalink: /explore/
-nav_items:
-  - name: intro
-    title: Seitenanfang
-  - name: tabelle-1
-    title: "Tabelle: Besch&auml;ftigung"
-  - name: daten-einsehen
-    title: "Daten einsehen"
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
@@ -21,95 +14,100 @@ nav_items:
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
-    <h1 id="intro">Besch&auml;ftigung</h1>
+    <h1 id="title">{% t beschäftigung.title %}</h1>
 
     <div class="container-left-9">
       <section>
-        <p>
-          Die Beschäftigten in der rohstoffgewinnenden Industrie gehen einer Vielzahl von unterschiedlichen Berufen nach. So arbeiten beispielsweise Ingenieure im Marktscheidewesen an der Erkundung und Vermessung von Vorkommen, Rohstoffingenieure und Geotechniker am Aufbau und Betrieb der technischen Anlagen und Bergbautechnologen führen den Abbau im Tage- und Untertagebau durch. Die Branche bietet auch qualifizierte Ausbildungsberufe wie z.B. Industrie- und Verfahrensmechaniker oder Elektroniker.
-        </p>
-        <p>
-          Insgesamt waren in den Unternehmen der rohstoffgewinnenden Industrie zum Stichtag 30.06.2016 in Deutschland 71.074 Mitarbeiter/innen sozialversicherungspflichtig beschäftigt, wobei über die Hälfte aller Angestellten auf den Bereich „Gewinnung von Steinen und Erden, sonstiger Bergbau“ (Anteil: rund 53%) und gut ein Fünftel auf den Kohlenbergbau (Anteil: etwa 22%) entfiel. Diese Zahlen schließen für den gleichen Stichtag insgesamt 2.373 Auszubildende in den rohstoffgewinnenden Betrieben ein. Bezogen auf die insgesamt sozialversicherungspflichtig Beschäftigten in Deutschland entfiel damit ein Anteil von rund 0,23% auf die rohstoffgewinnende Industrie.
-        </p>
-        <p>
-          Ein weiterer wichtiger Beschäftigungsfaktor sind die Sekundäreffekte des rohstoffgewinnenden Sektors, durch die zusätzliche Arbeits- und Ausbildungsplätze geschaffen werden. Hierzu gehören insbesondere die Dienstleistungen der Zulieferer und Subunternehmer, welche beispielweise mit der Übernahme von logistischen und gastronomischen Aufgaben oder dem Bau und Betrieb von Förderstätten beauftragt werden.
-        </p>
-        <br/>
+        <p>{% t beschäftigung.p1 %}</p>
+        <p>{% t beschäftigung.p2 %}</p>
+        <p>{% t beschäftigung.p3 %}</p>
 
+        <br/>
         <section id="tabelle-1" style="position: relative;">
-        <p><strong>Tabelle:</strong> Beschäftigte</p>
-          <table class="article_table">
+        <p><strong>{% t beschäftigung.table.title %}</strong></p>
+          <table>
             <tbody>
               <tr>
                 <th></th>
-                <th>
-                  <strong>Sozialversicherungspflichtig Beschäftigte am Stichtag 30.06.2016</strong>
-                </th>
-                <th>
-                  <strong>darunter Auszubildende</strong>
-                </th>
-              </tr>
-              <tr>
                 <td>
-                  <strong>Bergbau und Gewinnung von Steinen und Erden insgesamt</strong>
+                  <strong>{% t beschäftigung.table.th2 %}</strong>
                 </td>
-                <td><strong>71074</strong></td>
-                <td><strong>2373</strong></td>
+                <td>
+                  <strong>{% t beschäftigung.table.th2 %}</strong>
+                </td>
               </tr>
               <tr>
                 <td>
-                  <u>darunter:</u>
+                  <strong>{% t beschäftigung.table.row1.td1 %}</strong>
+                </td>
+                <td><strong>{% t beschäftigung.table.row1.td2 %}</strong></td>
+                <td><strong>{% t beschäftigung.table.row1.td3 %}</strong></td>
+              </tr>
+              <tr>
+                <td>
+                  <u>{% t beschäftigung.table.row2.td1 %}</u>
                 </td>
                 <td></td>
                 <td></td>
               </tr>
               <tr>
                 <td>
-                  Kohlenbergbau
+                  {% t beschäftigung.table.row3.td1 %}
                 </td>
-                <td>15881</td>
-                <td>860</td>
+                <td>{% t beschäftigung.table.row3.td2 %}</td>
+                <td>{% t beschäftigung.table.row3.td3 %}</td>
               </tr>
               <tr>
-                <td>Gewinnung von Erdöl und Erdgas</td>
-                <td>3045</td>
-                <td>105</td>
+                <td>
+                  {% t beschäftigung.table.row4.td1 %}
+                </td>
+                <td>{% t beschäftigung.table.row4.td2 %}</td>
+                <td>{% t beschäftigung.table.row4.td3 %}</td>
               </tr>
               <tr>
-                <td>Erzbergbau</td>
-                <td>860</td>
-                <td> * </td>
+                <td>
+                  {% t beschäftigung.table.row5.td1 %}
+                </td>
+                <td>{% t beschäftigung.table.row5.td2 %}</td>
+                <td>{% t beschäftigung.table.row5.td3 %}</td>
               </tr>
               <tr>
-                <td>Gewinnung von Steinen und Erden, sonstiger Bergbau</td>
-                <td>37982</td>
-                <td>1068</td>
+                <td>
+                  {% t beschäftigung.table.row6.td1 %}
+                </td>
+                <td>{% t beschäftigung.table.row6.td2 %}</td>
+                <td>{% t beschäftigung.table.row6.td3 %}</td>
               </tr>
               <tr>
-                <td>Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden</td>
-                <td>13306</td>
-                <td>340</td>
+                <td>
+                  {% t beschäftigung.table.row7.td1 %}
+                </td>
+                <td>{% t beschäftigung.table.row7.td2 %}</td>
+                <td>{% t beschäftigung.table.row7.td3 %}</td>
               </tr>
             </tbody>
           </table>
           <p><small>
-            * Aus Datenschutzgründen und Gründen der statistischen Geheimhaltung werden Zahlenwerte von 1 oder 2 und Daten, aus denen rechnerisch auf einen solchen Zahlenwert geschlossen werden kann, anonymisiert.
+            {% t beschäftigung.table.star %}
           </small></p>
           <br /><br />
           <a href="{{site.baseurl}}/downloads/#beschäftigten">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>Daten Einsehen
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t beschäftigung.daten_einsehen %}
           </a>
 
         </section>
       </section>
 
-    </div>      
+    </div>
+
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{{ page.title }}</div>
+        <div class="nav-title">{% t beschäftigung.title %}</div>
       </h3>
       <nav>
-        {% include case-studies/_nav-list.html %}
+        {% assign nav_items = site.translations[site.lang]['beschäftigung'].nav_items %}
+        {% include case-studies/_nav-list.html nav_items=nav_items %}
       </nav>
     </div>
   </section>
