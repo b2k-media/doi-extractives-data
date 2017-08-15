@@ -2001,6 +2001,16 @@ downloads:
     p2: von Destatis am 14.12.2016 entnommen. Die Daten für 2015 sind auf der
     link2: Website
     p3: des Statistischen Bundesamtes abrufbar. (EXCEL)
+  exporte:
+    h1: "Daten zu Exporten nach Menge"
+    p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt und umfassen in diesen Berechnungen die Bereiche „Kohle“ (GP09-05), „Erdöl und Erdgas“ (GP09-06), „Erze“ (GP09-07) und „Steine und Erden, sonstiger Bergbau“ (GP09-08). Die Daten der Exporte von 2012-2016 wurden der "
+    link1: "Genesis-Online-Datenbank"
+    p2: " von Destatis am 26.05.2017 entnommen. Die Daten für 2015 sind auf der "
+    link2: "Website"
+    p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
+    link3: "RGB 2016"
+    p4: ", Tabellen 5, 28 und 29) entnommen."
+
   steuern:
     title: Steuern Daten zu Staatseinnahmen durch Steuern
     p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2012, der Gewerbesteuerstatistiken 2010 und 2011 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
