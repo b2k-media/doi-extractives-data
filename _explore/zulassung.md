@@ -8,14 +8,8 @@ breadcrumb:
 nav_items:
   - name: title
     title: Seitenanfang
-  - name: Bergrechtliche Betriebspläne
-    title: Bergrechtliche Betriebspläne
-  - name: Zulassungsvoraussetzungen
-    title: Zulassungsvoraussetzungen
-  - name: planfeststellungsverfahren
-    title: "Planfeststellungsverfahren"
-  - name: Laufzeit
-    title: "Laufzeit"
+  - name: umweltverträglichkeitsprüfung
+    title: Umweltverträglichkeitsprüfung
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
@@ -29,52 +23,39 @@ nav_items:
 
     <div class="container-left-9">
       <section>
-        <h3 id="Bergrechtliche Betriebspläne">Bergrechtliche Betriebspläne</h3>
         <p>
-          Gemäß BbergG ist die Errichtung, Führung und Einstellung bergbaulicher Betriebsstätten zwecks Aufsuchung, Gewinnung und Aufbereitung von Bodenschätzen nur unter Vorweis entsprechender bergrechtlicher Betriebspläne zulässig. Insgesamt sieht das BbergG fünf Arten des Betriebsplans vor, von denen jedoch lediglich der Hauptbetriebsplan unter allen Umständen verpflichtend ist. Die weiteren sind der Rahmen-, Sonder-, Abschluss- und gemeinschaftliche Betriebsplan. Alle Betriebspläne müssen vom Unternehmer aufgestellt und von der zuständigen Behörde zugelassen werden.
+          Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur Aufbereitung dürfen nur auf Grund von Plänen (Betriebsplänen) errichtet, geführt und eingestellt werden, welche vom Unternehmer aufgestellt und von der zuständigen Behörde zugelassen worden sind. Die Zulassung solcher Betriebspläne ist an Voraussetzungen gebunden (Zulassungsvoraussetzungen). Diese betreffen u.a. die Betriebssicherheit und den Arbeitsschutz, den Schutz der Oberfläche sowie die Vermeidung gemeinschädlicher Einwirkungen, den Schutz der Lagerstätte und die Vorsorgemaßnahmen für die ordnungsgemäße Wiedernutzbarmachung der von der Rohstoffgewinnung in Anspruch genommenen Flächen. Weitere Informationen finden Sie hier <a href="{{site.baseurl}}/explore/how-it-work/umgang-mit-der-natur/">„Umgang mit dem Eingriff in die Natur“.</a>
         </p>
-        <h3 id="Zulassungsvoraussetzungen">Zulassungsvoraussetzungen</h3>
-        <p>
-          Die Zulassung von Hauptbetriebsplänen ist an Voraussetzungen gebunden. Diese betreffen u.a. die Betriebssicherheit und den Arbeitsschutz, den Schutz der Oberfläche sowie die Vermeidung gemeinschädlicher Einwirkungen, den Schutz der Lagerstätte und die Vorsorgemaßnahmen für die ordnungsgemäße Wiedernutzbarmachung der von der Rohstoffgewinnung in Anspruch genommenen Flächen. Weitere Informationen siehe auch „Umgang mit der Natur“.
-        </p>
+
         <p>Grundsätzlich umfassen Hauptbetriebspläne:</p>
         <ul>
           <li>
-            Die Darstellung des Umfanges des Vorhabens
+            die Darstellung des Umfanges des Vorhabens
           </li>
           <li>
-            Die Darstellung der technischen Durchführung des Vorhabens
+            die Darstellung der technischen Durchführung des Vorhabens
           </li>
           <li>
-            Die Dauer des Vorhabens
+            die Dauer des Vorhabens
           </li>
           <li>
-            Den Nachweis, dass die Zulassungsvoraussetzungen erfüllt sind.
+            den Nachweis, dass die Zulassungsvoraussetzungen erfüllt sind.
           </li>
         </ul>
-        <h3 id="planfeststellungsverfahren">Planfeststellungsverfahren</h3>
         <p>
-          Unter Umständen sind für die Umsetzung bergbaulicher Vorhaben neben dem eigentlichen Hauptbetriebsplan noch weitere Betriebspläne vorzulegen. So wird beispielsweise für den Fall, dass auf ein bergbauliches Vorhaben bestimmte Kriterien der Verordnung über die
-          <span class="term term_end" data-term="Umweltverträglichkeitsprüfung" title="Click to define" tabindex="0">
-            Umweltverträglichkeitsprüfung
-            <icon class="icon-book"></icon>
-          </span>
-           bergbaulicher Vorhaben (UVP-V Bergbau) zutreffen, die Erstellung eines Rahmenbetriebsplans notwendig.
+          Der Betrieb eines Bergwerks ist aufgrund der fortdauernden Anpassung an die Lagerstätte dynamischer Natur. Mit dieser Betriebsweise sind auch spezifische Risiken für Beschäftigte und Dritte verbunden. Aufgrund dieser Besonderheit bedarf es einer fortlaufenden, nach Zeitabschnitten gestuften Kontrolle des Betriebes. So soll der Hauptbetriebsplan in der Regel einen Zeitraum von zwei Jahren nicht überschreiten und von der Bergaufsicht zugelassen werden. Die ständige Abstimmung zwischen Unternehmer und Bergaufsicht soll eine intensive staatliche Kontrolle der Bergbaubetriebe bei gleichzeitiger Flexibilität der Planung gewährleisten.
+        </p>
+        <h2 id="umweltverträglichkeitsprüfung">Umweltverträglichkeitsprüfung</h2>
+        <p>
+          Unter den Voraussetzungen der Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben (UVP-V Bergbau) ist eine Umweltverträglichkeitsprüfungen (UVP) bzw. eine Vorprüfung des Einzelfalls im bergrechtlichen Verfahren notwendig. Die UVP-Pflichtigkeit von Bergbauvorhaben richtet sich dabei in der Regel nach der Größe des Vorhabens, gemessen am Fördervolumen bzw. an der benötigten Abbaufläche. Abbauvorhaben unter Bergrecht in Deutschland unterliegen keiner UVP-Pflicht, sofern sie die Kriterien der <a href="http://www.gesetze-im-internet.de/bundesrecht/uvpbergbv/gesamt.pdf">UVP-V Bergbau</a> in Verbindung mit dem Gesetz über die Umweltverträglichkeitsprüfung (<a href="http://www.gesetze-im-internet.de/bundesrecht/uvpg/gesamt.pdf">UVP-G</a>) nicht erfüllen.
         </p>
         <p>
-          Die Zulassung eines solchen Rahmenbetriebsplans erfolgt im Zuge eines erfolgreich abgeschlossenen
+          Ist eine UVP notwendig, so ist nach dem Bergrecht ein
           <span class="term term_end" data-term="Planfeststellungsverfahren" title="Click to define" tabindex="0">
             Planfeststellungsverfahrens
             <icon class="icon-book"></icon>
           </span>
-          . Gegebenenfalls ist hierbei eine Umweltverträglichkeitsprüfungen (UVP) als Teil des Verfahrens durchzuführen. Die Pflicht zur Durchführung von UVPs ergibt sich aus der Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben (UVP-V Bergbau) und dem Gesetz über die Umweltverträglichkeitsprüfung (UVPG). Eine UVP beinhaltet die Ermittlung, Beschreibung und Bewertung der unmittelbaren und mittelbaren Auswirkungen eines Vorhabens auf den Menschen und seiner natürlichen Umwelt sowie Kultur- und sonstige Sachgüter.
-        </p>
-        <p>
-          Die Durchführung eines Planfeststellungsverfahrens geschieht immer unter Einbeziehung der Öffentlichkeit. Hierzu müssen die Pläne zum Abbau von Bodenschätzen in den betroffenen Gemeinden zur Einsicht ausgelegt und potenzielle Einwände entgegengenommen werden. Im Anschluss werden unter dem Vorsitz der zuständigen Anhörungsbehörde und unter Beteiligung aller involvierten Stellen und Personen einschließlich des Trägers des Vorhabens die eingebrachten Einwänden und diesbezüglichen Stellungnahmen erörtert. Die auf diesem Beteiligungsprozess basierende Entscheidung wird von der zuständigen Behörde (hier den Bergämter) getroffen und als Verwaltungsakt festgesetzt.
-        </p>
-        <h3 id="Laufzeit">Laufzeit</h3>
-        <p>
-          Da der Betrieb eines Bergwerks typischerweise mit  Risiken für Beschäftigte und Dritte verbunden ist, soll der Hauptbetriebsplan in der Regel einen Zeitraum von zwei Jahren nicht überschreiten und von der Bergaufsicht zugelassen werden. Es handelt sich um einen Betrieb, der sich örtlich verändert und daher dynamisch ist. Die ständige Abstimmung zwischen Unternehmer und Bergaufsicht soll eine intensive staatliche Kontrolle der Bergbaubetriebe bei gleichzeitiger Flexibilität der Planung gewährleisten.
+          durchzuführen. Dieses Verfahren schließt die betroffene Bevölkerung ein, indem die Pläne zum Abbau von Bodenschätzen der betroffenen Bevölkerung zugänglich gemacht und Einwände entgegengenommen werden. Es folgt eine Anhörung der betroffenen Behörden zu den Einwänden und eine Erörterung unter Beteiligung aller Stellen und Personen, die Einwände geäußert haben. Eine Entscheidung zu den Einwänden wird von der zuständigen Behörde (hier den Bergämtern) getroffen und als Verwaltungsakt festgesetzt. Auch bei der bergrechtlichen Planfeststellung handelt es sich um eine gebundene Entscheidung, die nicht durch planerische Abwägungs- und Ermessenspielräume gekennzeichnet ist. Zudem bindet sie nicht nur Entscheidungen anderer Behörden auf horizontaler Ebene, sondern gilt nach § 57a Abs. 5 BBergG auch für die nachfolgenden Betriebspläne (vertikale Konzentration).  
         </p>
       </section>
     </div>
