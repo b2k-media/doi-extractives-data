@@ -16,24 +16,26 @@ breadcrumb:
     <h1 id="title">{% t steine-und-erden.title %}</h1>
 
     <div class="container-left-9">
-      <section id="fakten_zu_industriemineralen">
-        <h3>{% t steine-und-erden.slides_title %}</h3>
-        <div class="fakten_industriemineralen">
-        {% for item in site.translations[site.lang].steine-und-erden.slides %}
-          <div>
-            <p>
-              {{ item }}
-            </p>
+      <section id="steine-und-erden" style="psition: relative;">
+      <h2 class="sub-headline">{% t steine-und-erden.h2 %}</h2>
+        <section id="fakten_zu_industriemineralen">
+          <h3>{% t steine-und-erden.slides_title %}</h3>
+          <div class="fakten_industriemineralen">
+          {% for item in site.translations[site.lang].steine-und-erden.slides %}
+            <div>
+              <p>
+                {{ item }}
+                </p>
+            </div>
+            {% endfor %}
           </div>
-        {% endfor %}
-        </div>
-      </section>
-      <section id="intro" style="position: relative;">
-        <p>
-          {% t steine-und-erden.p1 %}
-         </p>
-       </section>
-       <section id="geschichte" style="position: relative;">
+        </section>
+        <section id="intro" style="position: relative;">
+          <p>
+            {% t steine-und-erden.p1 %}
+          </p>
+        </section>
+        <section id="geschichte" style="position: relative;">
          <h3>{% t steine-und-erden.geschichte.title %}</h3>
           <p>
             {% t steine-und-erden.geschichte.p %}
@@ -45,12 +47,15 @@ breadcrumb:
             {% t steine-und-erden.gewinnung.p %}
           </p>
         </section>
-        <section id="verwendung-industrieminerale" style="position: relative;">
+        <section id="verwendung" style="position: relative;">
           <h3>{% t steine-und-erden.verwendung.title %}</h3>
           <p>
             {% t steine-und-erden.verwendung.p %}
           </p>
         </section>
+      </section>
+      <section id="industrieminerale" style="position: relative;">
+      <h2>{% t steine-und-erden.industrieminerale.title %}</h2>
         <section id="verwendung-geschichte" style="position: relative;">
           <h3>{% t steine-und-erden.industrieminerale.geschichte.title %}</h3>
           <p>
@@ -75,6 +80,13 @@ breadcrumb:
             {% t steine-und-erden.industrieminerale.verwendung.p %}
           </p>
         </section>
+      </section>
+      <section id="eisenerze" style="position: relative;">
+        <h2>{% t steine-und-erden.eisenerze.title %}</h2>
+        <p>
+          {% t steine-und-erden.eisenerze.p %}
+        </p>
+      </section>
     </div>
 
     <div class="sticky sticky_nav container-right-3">

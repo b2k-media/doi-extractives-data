@@ -465,6 +465,46 @@ breadcrumb:
                     <li>{% t verwendung-der-einnahmen.table.row7.feldesabgabe2 %}</li>
                   </ul>
                 </td>
+                <td> <!-- Abgabesätze -->
+                  <ul>
+                    <li> <!-- Abgabesätze 1 -->
+                      {% t verwendung-der-einnahmen.table.row7.abgabesätze1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row7.abgabesätze1.item1 %}</li>
+                        <li>
+                          {% t verwendung-der-einnahmen.table.row7.abgabesätze1.item2 %}
+                          <sup>
+                            <a href="#sup-5">
+                            {% t verwendung-der-einnahmen.table.row7.abgabesätze1.sup5.title %}
+                            </a>
+                          </sup>
+                        </li>
+                      </ul>
+                    </li>
+                    <li> <!-- Abgabesätze 2 -->
+                      {% t verwendung-der-einnahmen.table.row7.abgabesätze2.title %}
+                      <sup>
+                        <a href="#sup-10">
+                        {% t verwendung-der-einnahmen.table.row7.abgabesätze2.sup10.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
+                <td> <!-- Sonderregelungen -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row7.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row7.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row7.sonderregelungen1.item2 %}</li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row7.sonderregelungen2 %}
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row8.bundesland %}</td>
@@ -483,6 +523,46 @@ breadcrumb:
                       </sup>
                     </li>
                     <li>{% t verwendung-der-einnahmen.table.row8.feldesabgabe2 %}</li>
+                  </ul>
+                </td>
+                <td> <!-- Abgabesätze -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row8.abgabesätze1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row8.abgabesätze1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row8.abgabesätze1.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row8.abgabesätze1.item3 %}</li>
+                        <li>
+                          {% t verwendung-der-einnahmen.table.row8.abgabesätze1.item4 %}
+                          <sup>
+                            <a href="#sup-5">
+                              {% t verwendung-der-einnahmen.table.row8.abgabesätze1.sup5.title %}
+                            </a>
+                          </sup>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row8.abgabesätze2.title %}
+                      <sup>
+                        <a href="#sup-8">
+                          {% t verwendung-der-einnahmen.table.row8.abgabesätze2.sup8.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
+                <td> <!-- Sonderregelungen -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row8.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row8.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row8.sonderregelungen1.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row8.sonderregelungen1.item3 %}</li>
+                      </ul>
+                    </li>
                   </ul>
                 </td>
               </tr>
@@ -505,6 +585,58 @@ breadcrumb:
                     <li>{% t verwendung-der-einnahmen.table.row9.feldesabgabe2 %}</li>
                   </ul>
                 </td>
+                <td> <!-- Abgabesätze -->
+                  <ul>
+                    <li>{% t verwendung-der-einnahmen.table.row9.abgabesätze1 %}</li>
+                    <li>{% t verwendung-der-einnahmen.table.row9.abgabesätze2 %}</li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row9.abgabesätze3.title %}
+                      <sup>
+                        <a href="#sup-5">
+                          {% t verwendung-der-einnahmen.table.row9.abgabesätze3.sup5.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
+                <td> <!-- Sonderregelungen -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row9.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row9.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row9.sonderregelungen1.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row9.sonderregelungen1.item3 %}</li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row9.sonderregelungen2.title1 %}
+                      <sup>
+                        <a href="#sup-2">
+                          {% t verwendung-der-einnahmen.table.row9.sonderregelungen2.sup2.title %}
+                        </a>
+                      </sup>
+                      {% t verwendung-der-einnahmen.table.row9.sonderregelungen2.title2 %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row9.sonderregelungen2.item1 %}</li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row9.sonderregelungen3.title1 %}
+                      <sup>
+                        <a href="#sup-2">
+                          {% t verwendung-der-einnahmen.table.row9.sonderregelungen3.sup2.title %}
+                        </a>
+                      </sup>
+                      {% t verwendung-der-einnahmen.table.row9.sonderregelungen3.title2 %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row9.sonderregelungen3.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row9.sonderregelungen3.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row9.sonderregelungen3.item3 %}</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row10.bundesland %}</td>
@@ -525,6 +657,70 @@ breadcrumb:
                     <li>{% t verwendung-der-einnahmen.table.row10.feldesabgabe2 %}</li>
                   </ul>
                 </td>
+                <td> <!-- Abgabesätze -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row10.abgabesätze1.title %}
+                      <sup>
+                        <a href="#sup-12">
+                          {% t verwendung-der-einnahmen.table.row10.abgabesätze1.sup12.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row10.abgabesätze2.title %}
+                      <sup>
+                        <a href="#sup-9">
+                          {% t verwendung-der-einnahmen.table.row10.abgabesätze2.sup9.title %}
+                        </a>
+                      </sup>
+                      <sup>
+                        <a href="#sup-12">
+                          {% t verwendung-der-einnahmen.table.row10.abgabesätze2.sup12.title %}
+                        </a>
+                      </sup>
+                      <sup>
+                        <a href="#sup-13">
+                          {% t verwendung-der-einnahmen.table.row10.abgabesätze2.sup13.title %}
+                        </a>
+                      </sup>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row10.abgabesätze3.title1 %}
+                      <sup>
+                        <a href="#sup-5">
+                          {% t verwendung-der-einnahmen.table.row10.abgabesätze3.sup5.title %}
+                        </a>
+                      </sup>
+                      {% t verwendung-der-einnahmen.table.row10.abgabesätze3.title2 %}
+                    </li>
+                  </ul>
+                </td>
+                <td> <!-- Sonderregelungen -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row10.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row10.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row10.sonderregelungen1.item2 %}</li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row10.sonderregelungen2.title1 %}
+                      <sup>
+                        <a href="#sup-3">
+                          {% t verwendung-der-einnahmen.table.row10.sonderregelungen2.sup3.title %}
+                        </a>
+                      </sup>
+                      {% t verwendung-der-einnahmen.table.row10.sonderregelungen2.title2 %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row10.sonderregelungen2.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row10.sonderregelungen2.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row10.sonderregelungen2.item3 %}</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row11.bundesland %}</td>
@@ -533,6 +729,58 @@ breadcrumb:
                     {% t verwendung-der-einnahmen.table.row11.rechtsgrundlage %}
                   </a></td>
                 <td></td>
+                <td> <!-- Abgabesätze -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row11.abgabesätze1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row11.abgabesätze1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row11.abgabesätze1.item2 %}</li>
+                        <li>
+                          {% t verwendung-der-einnahmen.table.row11.abgabesätze1.item3 %}
+                          <sup>
+                            <a href="#sup-5">
+                              {% t verwendung-der-einnahmen.table.row11.abgabesätze1.sup5.title %}
+                            </a>
+                          </sup>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row11.abgabesätze2.title %}
+                      <sup>
+                        <a href="#sup-7">
+                          {% t verwendung-der-einnahmen.table.row11.abgabesätze2.sup7.title %}
+                        </a>
+                      </sup>
+                      <sup>
+                        <a href="#sup-12">
+                          {% t verwendung-der-einnahmen.table.row11.abgabesätze2.sup12.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
+                <td> <!-- Sonderregelungen -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row11.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row11.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row11.sonderregelungen1.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row11.sonderregelungen1.item3 %}</li>
+                        </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row11.sonderregelungen2.title %}
+                      <sup>
+                        <a href="#sup-4">
+                          {% t verwendung-der-einnahmen.table.row11.sonderregelungen2.sup4.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row12.bundesland %}</td>
@@ -541,6 +789,30 @@ breadcrumb:
                     {% t verwendung-der-einnahmen.table.row12.rechtsgrundlage %}
                   </a></td>
                 <td></td>
+                <td> <!-- Abgabesätze -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row12.abgabesätze1.title %}
+                      <sup>
+                        <a href="#sup-4">
+                          {% t verwendung-der-einnahmen.table.row12.abgabesätze1.sup7.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
+                <td>
+                  <ul>
+                    <li>
+                    {% t verwendung-der-einnahmen.table.row12.sonderregelungen1.title %}
+                    <sup>
+                      <a href="#sup-4">
+                        {% t verwendung-der-einnahmen.table.row12.sonderregelungen1.sup3.title %}
+                      </a>
+                    </sup>
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row13.bundesland %}</td>
@@ -549,6 +821,42 @@ breadcrumb:
                     {% t verwendung-der-einnahmen.table.row13.rechtsgrundlage %}
                   </a></td>
                 <td></td>
+                <td> <!-- Abgabesätze -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row13.abgabesätze1.title %}
+                      <ul>
+                        <li>
+                          {% t verwendung-der-einnahmen.table.row13.abgabesätze1.item1.title %}
+                          <ul>
+                            <li>{% t verwendung-der-einnahmen.table.row13.abgabesätze1.item1.item1 %}</li>
+                            <li>{% t verwendung-der-einnahmen.table.row13.abgabesätze1.item1.item2 %}</li>
+                            <li>{% t verwendung-der-einnahmen.table.row13.abgabesätze1.item1.item3 %}</li>
+                            <li>{% t verwendung-der-einnahmen.table.row13.abgabesätze1.item1.item4 %}</li>
+                          </ul>
+                        </li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.abgabesätze1.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.abgabesätze1.item3 %}</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </td>
+                <td> <!-- Sonderregelungen -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row13.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row13.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.sonderregelungen1.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.sonderregelungen1.item3 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.sonderregelungen1.item4 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.sonderregelungen1.item5 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.sonderregelungen1.item6 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row13.sonderregelungen1.item7 %}</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row14.bundesland %}</td>
@@ -557,6 +865,43 @@ breadcrumb:
                     {% t verwendung-der-einnahmen.table.row14.rechtsgrundlage %}
                   </a></td>
                 <td></td>
+                <td> <!-- Abgasesätze -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row14.abgabesätze1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row14.abgabesätze1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row14.abgabesätze1.item2 %}</li>
+                        <li>
+                          {% t verwendung-der-einnahmen.table.row14.abgabesätze1.item3 %}
+                          <sup>
+                            <a href="#sup-5">
+                              {% t verwendung-der-einnahmen.table.row14.abgabesätze1.sup5.title %}
+                              </a>
+                          </sup>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row14.abgabesätze2.title %}
+                      <sup>
+                        <a href="#sup-11">
+                          {% t verwendung-der-einnahmen.table.row14.abgabesätze2.sup11.title %}
+                          </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row14.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row14.sonderregelungen1.item1 %}</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row15.bundesland %}</td>
@@ -577,6 +922,52 @@ breadcrumb:
                     <li>{% t verwendung-der-einnahmen.table.row15.feldesabgabe2 %}</li>
                   </ul>
                 </td>
+                <td>  <!-- Abgabesätze  -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row15.abgabesätze1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row15.abgabesätze1.item1 %}</li>
+                        <li>
+                          {% t verwendung-der-einnahmen.table.row15.abgabesätze1.item2 %}
+                          <sup>
+                            <a href="#sup-5">
+                              {% t verwendung-der-einnahmen.table.row15.abgabesätze1.sup5.title %}
+                            </a>
+                          </sup>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row15.abgabesätze2.title1 %}
+                      <sup>
+                        <a href="#sup-8">
+                          {% t verwendung-der-einnahmen.table.row15.abgabesätze2.sup8.title %}
+                        </a>
+                      </sup>
+                      {% t verwendung-der-einnahmen.table.row15.abgabesätze2.title2 %}
+                    </li>
+                  </ul>
+                </td>
+                <td>
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row15.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row15.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row15.sonderregelungen1.item2 %}</li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row15.sonderregelungen2.title %}
+                      <sup>
+                        <a href="#sup-2">
+                          {% t verwendung-der-einnahmen.table.row15.sonderregelungen2.sup2.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
               </tr>
               <tr>
                 <td>{% t verwendung-der-einnahmen.table.row16.bundesland %}</td>
@@ -585,6 +976,38 @@ breadcrumb:
                     {% t verwendung-der-einnahmen.table.row16.rechtsgrundlage %}
                   </a></td>
                 <td></td>
+                <td>  <!-- Abgabesätze  -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row16.abgabesätze1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row16.abgabesätze1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row16.abgabesätze1.item2 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row16.abgabesätze1.item3 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row16.abgabesätze1.item4 %}</li>
+                      </ul>
+                    </li>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row16.abgabesätze2.title %}
+                      <sup>
+                        <a href="#sup-11">
+                          {% t verwendung-der-einnahmen.table.row16.abgabesätze2.sup11.title %}
+                        </a>
+                      </sup>
+                    </li>
+                  </ul>
+                </td>
+                <td> <!-- Sonderregelungen -->
+                  <ul>
+                    <li>
+                      {% t verwendung-der-einnahmen.table.row16.sonderregelungen1.title %}
+                      <ul>
+                        <li>{% t verwendung-der-einnahmen.table.row16.sonderregelungen1.item1 %}</li>
+                        <li>{% t verwendung-der-einnahmen.table.row16.sonderregelungen1.item2 %}</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </td>
               </tr>
             </tbody>
           </table>

@@ -192,22 +192,30 @@ salze:
 steine-und-erden:
   title: Steine und Erden
   nav_items:
-    - name: title
-      title: Seitenanfang
-    - name: fakten_zu_industriemineralen
-      title: Wissenswertes über Steine und Erden
-    - name: geschichte
-      title: Geschichte
-    - name: gewinnung
-      title: Gewinnung
-    - name: verwendung
-      title: Verwendung Industrieminerale
-    - name: verwendung-geschichte
-      title: Geschichte
-    - name: verwendung-gewinnung
-      title: Gewinnung
-    - name: verwendung-eisenerze
-      title: Verwendung Eisenerze
+    - name: steine-und-erden
+      title: Steine und Erden
+      subnav_items:
+        - name: fakten_zu_industriemineralen
+          title: Wissenswertes über Steine und Erden
+        - name: geschichte
+          title: Geschichte
+        - name: gewinnung
+          title: Gewinnung
+        - name: verwendung
+          title: Verwendung
+    - name: industrieminerale
+      title: Industrieminerale
+      subnav_items:
+        - name: verwendung-geschichte
+          title: Geschichte
+        - name: verwendung-gewinnung
+          title: Gewinngung
+        - name: verwendung-eisenerze
+          title: Verwendung
+    - name: eisenerze
+      title: Eisenerze
+
+  h2: Steine und Erden
   p1: Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen, insbesondere Kiese und Sande, gebrochene Natursteine, Kalk-, Mergel- und Dolomitsteine, Gips- und Anhydritsteine sowie Tone und Lehme. Steine und Erden sind Massenrohstoffe; sie sind aufgrund geologischer Verhältnisse standortgebunden und nicht gleichmäßig über das Land verteilt.
   slides_title: Wissenswertes über Industrieminerale
   slides:
@@ -238,6 +246,9 @@ steine-und-erden:
     verwendung:
       title: Verwendung
       p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
+  eisenerze:
+    title: Eisenerze
+    p: "In Deutschland wird in Nordrhein-Westphalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie. In Deutschland wird in Nordrhein-Westphalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
 
 rechtlicher-rahmen:
   title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
@@ -618,7 +629,7 @@ verwendung-der-einnahmen:
         item1: "Erdöl, tonige Gesteine: 10 %"
         item2: "Kiese und Sande: 7 %"
         item3: "Torf einschließlich anfallender Mudde und Natursteine: 5 %"
-        item4: "Steinsalz und Sole: 1% bzw. 0,5 %5"
+        item4: "Steinsalz und Sole: 1% bzw. 0,5 %"
         sup5:
           title: "5"
           text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird"
@@ -776,7 +787,7 @@ verwendung-der-einnahmen:
       feldesabgabe2: "Höchstsatz: 80 €"
       abgabesätze1: "Erdöl: 18 % des Marktwertes für aus den Lagerstätten Bramberge, Emlichheim, Georgsdorf, Ringe und Rühlermoor Valendis gefördertes Erdöl"
       abgabesätze2: "Naturgas: 30 % des Bemessungsmaßstabes8 multipliziert mit der abgabenpflichtigen Menge"
-      abgasesätze3:
+      abgabesätze3:
         title: "Sole: 1 % bzw. 0,5 %"
         sup5:
           title: "5"
@@ -828,6 +839,12 @@ verwendung-der-einnahmen:
         sup13:
           title: "13"
           text: "Eine Minderung des Bemessungsmaßstabs für Naturgas, das in Reinigungsanlagen durchgesetzt wird um 0,205 Ct/m³ ist möglich."
+      abgabesätze3:
+        title1: "Steinsalz und Sole: 1 % bzw. 0,5 %"
+        sup5:
+          title: "5"
+          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
+        title2: " des Marktwertes"
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme"
@@ -950,7 +967,7 @@ verwendung-der-einnahmen:
         sup8:
           title: "8"
           text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
-        title2: "multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I 18 %"
+        title2: " multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I 18 %"
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Natürliche Sole, gefördert für balneologische Zwecke"
@@ -968,7 +985,8 @@ verwendung-der-einnahmen:
         title: "Gemessen am Marktwert"
         item1: "Gips und Anhydrit: 5 %"
         item2: "Kiese und Kiessande: 8 %"
-        item3: "Torf/ Mudde 3 %"
+        item3: "Natursteine 5 %"
+        item4: "Torf/ Mudde 3 %"
       abgabesätze2:
         title: "Werk- und Dekosteine: 4 % des Bemessungsmaßstabes"
         sup11:
