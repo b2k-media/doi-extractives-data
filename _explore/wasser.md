@@ -19,12 +19,20 @@ breadcrumb:
         <h2>{% t wasser.wasserentnahme.title %}</h2>
         <p>
           {% t wasser.wasserentnahme.p1_1 %}
-          <sup>{% t wasser.wasserentnahme.sup4.title %}</sup>
+          <sup>
+            <a href="#sub-4">
+              {% t wasser.wasserentnahme.sup4.title %}
+            </a>
+          </sup>
           {% t wasser.wasserentnahme.p1_2 %}
         </p>
         <p>
           {% t wasser.wasserentnahme.p2_1 %}
-          <sup>{% t wasser.wasserentnahme.sup5.title %}</sup>
+          <sup>
+            <a href="#sub-5">
+              {% t wasser.wasserentnahme.sup5.title %}
+            </a>
+          </sup>
           {% t wasser.wasserentnahme.p2_2 %}
         </p>
 
@@ -44,7 +52,11 @@ breadcrumb:
         </h3>
         <p>
           {% t wasser.wasserentnahme.rechtlicher.p1_1 %}
-          <sup>{% t wasser.wasserentnahme.rechtlicher.sup6.title %}</sup>
+          <sup>
+            <a href="#sub-6">
+              {% t wasser.wasserentnahme.rechtlicher.sup6.title %}
+            </a>
+          </sup>
           {% t wasser.wasserentnahme.rechtlicher.p1_2 %}
         </p>
         <p>{% t wasser.wasserentnahme.rechtlicher.p2 %}</p>
@@ -54,11 +66,19 @@ breadcrumb:
         </h3>
         <p>
           {% t wasser.wasserentnahme.ausgestaltung.p1 %}
-          <sup>{% t wasser.wasserentnahme.ausgestaltung.sup7.title %}</sup>
+          <sup>
+            <a href="#sub-7">
+              {% t wasser.wasserentnahme.ausgestaltung.sup7.title %}
+            </a>
+          </sup>
         </p>
         <p>
           {% t wasser.wasserentnahme.ausgestaltung.p2 %}
-          <sup>{% t wasser.wasserentnahme.ausgestaltung.sup8.title %}</sup>
+          <sup>
+            <a href="#sub-8">
+              {% t wasser.wasserentnahme.ausgestaltung.sup8.title %}
+            </a>
+          </sup>
         </p>
         <p>{% t wasser.wasserentnahme.ausgestaltung.p3 %}</p>
       </section>
@@ -67,55 +87,63 @@ breadcrumb:
         <h2>{% t wasser.wasserentnahmeentgelte.title %}</h2>
         <p>
           {% t wasser.wasserentnahmeentgelte.p1_1 %}
-          <sup>{% t wasser.wasserentnahmeentgelte.sup9.title %}</sup>
+          <sup>
+            <a href="#sub-9">
+              {% t wasser.wasserentnahmeentgelte.sup9.title %}
+            </a>
+          </sup>
           {% t wasser.wasserentnahmeentgelte.p1_2 %}
-          <sup>{% t wasser.wasserentnahmeentgelte.sup10.title %}</sup>
+          <sup>
+            <a href="#sub-10">
+              {% t wasser.wasserentnahmeentgelte.sup10.title %}
+            </a>
+          </sup>
           {% t wasser.wasserentnahmeentgelte.p1_3 %}
         </p>
         <p>{% t wasser.wasserentnahmeentgelte.p2 %}</p>
       </section>
       <br/>
       <section id="explanation" style="position: relative;">
-        <p>
+        <p id="sub-4">
           <sup>{% t wasser.wasserentnahme.sup4.title %}</sup>
           {% t wasser.wasserentnahme.sup4.text %}
           <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html">
             {% t wasser.wasserentnahme.sup4.link %}
           </a>
         </p>
-        <p>
+        <p id="sub-5">
           <sup>{% t wasser.wasserentnahme.sup5.title %}</sup>
           {% t wasser.wasserentnahme.sup5.text %}
           <a href="https://www.statistik.sachsen.de/download/100_Berichte-Q/Q_I_2_3j_13_SN.pdf">
             {% t wasser.wasserentnahme.sup5.link %}
           </a>
         </p>
-        <p>
+        <p id="sub-6">
           <sup>{% t wasser.wasserentnahme.rechtlicher.sup6.title %}</sup>
           {% t wasser.wasserentnahme.rechtlicher.sup6.text %}
         </p>
-        <p>
+        <p id="sub-7">
           <sup>{% t wasser.wasserentnahme.ausgestaltung.sup7.title %}</sup>
           {% t wasser.wasserentnahme.ausgestaltung.sup7.text %}
           <a href="https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf">
             {% t wasser.wasserentnahme.ausgestaltung.sup7.link %}
           </a>
         </p>
-        <p>
+        <p id="sub-8">
           <sup>{% t wasser.wasserentnahme.ausgestaltung.sup8.title %}</sup>
           {% t wasser.wasserentnahme.ausgestaltung.sup8.text %}
           <a href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_nat%25C3%25BCrlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
             {% t wasser.wasserentnahme.ausgestaltung.sup8.link %}
           </a>
         </p>
-        <p>
+        <p id="sub-9">
           <sup>{% t wasser.wasserentnahmeentgelte.sup9.title %}</sup>
           {% t wasser.wasserentnahmeentgelte.sup9.text %}
           <a href="https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx">
             {% t wasser.wasserentnahmeentgelte.sup9.link %}
           </a>
         </p>
-        <p>
+        <p id="sub-10">
           <sup>{% t wasser.wasserentnahmeentgelte.sup10.title %}</sup>
           {% t wasser.wasserentnahmeentgelte.sup10.text %}
           <a href="https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1">
