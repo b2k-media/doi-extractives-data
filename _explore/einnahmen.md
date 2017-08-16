@@ -332,15 +332,10 @@ breadcrumb:
             </div>
           </div>
         </div>
-        <div style="margin-top: 110px !important">
-          <a href="{{site.baseurl}}/downloads/#umsatz">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>
-            {% t einnahmen.umsatz.daten_einsehen %}
-          </a>
-        </div>
+
         <br/>
       </section>
-      <section id="explanation" style="position: relative;">
+      <section id="explanation" style="position: relative; margin-top: 110px !important;">
         <p id="explanation-11">
           <sup>{% t einnahmen.umsatz.star1.title %}</sup>
           {% t einnahmen.umsatz.star1.text %}
@@ -349,6 +344,12 @@ breadcrumb:
           <sup>{% t einnahmen.umsatz.star2.title %}</sup>
           {% t einnahmen.umsatz.star2.text %}
         </p>
+        <div >
+          <a href="{{site.baseurl}}/downloads/#umsatz">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t einnahmen.umsatz.daten_einsehen %}
+          </a>
+        </div>
       </section>
     </div>
 
