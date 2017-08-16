@@ -614,7 +614,7 @@ verwendung-der-einnahmen:
         item1: "Erdöl, tonige Gesteine: 10 %"
         item2: "Kiese und Sande: 7 %"
         item3: "Torf einschließlich anfallender Mudde und Natursteine: 5 %"
-        item4: "Steinsalz und Sole: 1% bzw. 0,5 %5"
+        item4: "Steinsalz und Sole: 1% bzw. 0,5 %"
         sup5:
           title: "5"
           text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird"
@@ -772,7 +772,7 @@ verwendung-der-einnahmen:
       feldesabgabe2: "Höchstsatz: 80 €"
       abgabesätze1: "Erdöl: 18 % des Marktwertes für aus den Lagerstätten Bramberge, Emlichheim, Georgsdorf, Ringe und Rühlermoor Valendis gefördertes Erdöl"
       abgabesätze2: "Naturgas: 30 % des Bemessungsmaßstabes8 multipliziert mit der abgabenpflichtigen Menge"
-      abgasesätze3:
+      abgabesätze3:
         title: "Sole: 1 % bzw. 0,5 %"
         sup5:
           title: "5"
@@ -824,6 +824,12 @@ verwendung-der-einnahmen:
         sup13:
           title: "13"
           text: "Eine Minderung des Bemessungsmaßstabs für Naturgas, das in Reinigungsanlagen durchgesetzt wird um 0,205 Ct/m³ ist möglich."
+      abgabesätze3:
+        title1: "Steinsalz und Sole: 1 % bzw. 0,5 %"
+        sup5:
+          title: "5"
+          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
+        title2: " des Marktwertes"
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme"
@@ -946,7 +952,7 @@ verwendung-der-einnahmen:
         sup8:
           title: "8"
           text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
-        title2: "multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I 18 %"
+        title2: " multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I 18 %"
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Natürliche Sole, gefördert für balneologische Zwecke"
@@ -964,7 +970,8 @@ verwendung-der-einnahmen:
         title: "Gemessen am Marktwert"
         item1: "Gips und Anhydrit: 5 %"
         item2: "Kiese und Kiessande: 8 %"
-        item3: "Torf/ Mudde 3 %"
+        item3: "Natursteine 5 %"
+        item4: "Torf/ Mudde 3 %"
       abgabesätze2:
         title: "Werk- und Dekosteine: 4 % des Bemessungsmaßstabes"
         sup11:
