@@ -44,7 +44,7 @@ breadcrumb:
           <p>
             {% t kohle.steinkohle.ausblick.p1 %}
 
-          <a href="{{ site.lang | url_lang_prefix  }}/explore/staatliche-subventionen/">
+          <a href="{{ site.lang | url_lang_prefix  }}/explore/subventionen-und-steuerliche-begunstigungen/">
               {% t kohle.steinkohle.ausblick.k1 %}
           </a>
 

@@ -87,7 +87,13 @@ breadcrumb:
         <h3 id="kies_und_sand">
           {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.title %}
         </h3>
-        <p>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.p %}</p>
+        <p>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.p %}
+          <sup>
+            <a href="#sup-1">
+              {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}
+            </a>
+          </sup>
+        </p>
 
         <h3 id="naturwerkstein">
           {% t gesamtdeutsche_rohstoffproduktion.naturwerkstein.title %}
@@ -247,6 +253,11 @@ breadcrumb:
         </table>
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star1 %}</p>
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star2 %}</p>
+
+        <p>
+          <sup id="sup-1">{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}</sup>
+          {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.text %}
+        </p>
       </section>
     </div>
 
