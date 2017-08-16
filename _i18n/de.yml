@@ -563,45 +563,70 @@ verwendung-der-einnahmen:
     th4: "Förderabgabe"
     th4_1: "Abgabesätze"
     th4_2: Sonderregelungen
+    sup1:
+      title: "1"
+      text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
+    sup2:
+      title: "2"
+      text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
+    sup3:
+      title: "3"
+      text: "Obergrenze: Nach LVO ermittelter Wert des in dem Erdgasfeld geförderten Naturgases."
+    sup4:
+      title: "4"
+      text: "Obergrenze: Marktwert oder nach § 31 Abs. 2 Satz 2 BBergG ermittelter Wert des in dem Erdölfeld geförderten Erdöls und Erdölgases."
+    sup5:
+      title: "5"
+      text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird."
+    sup6:
+      title: "6"
+      text: "Gilt für Erdöl, das (1.) aus auflässigen Lagerstätten, die erneut entwickelt worden sind, (2.) aus Bohrungen mit einer Länge von mehr als 4.000 m oder (3.) durch Tertiärverfahren zusätzlich gefördert wird."
+    sup7:
+      title: "7"
+      text: "In Euro/kWh einschließlich der Fortleitungskosten. Im Land Bremen ist darüber hinaus eine Verringerung des Bemessungsmaßstabes um die tatsächlich entstandenen Fortleitungskosten möglich und gilt für in Reinigungsanlagen durchgesetztes Naturgas in Höhe von 0,002045 Euro/m3."
+    sup8:
+      title: "8"
+      text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
+    sup9:
+      title: "9"
+      text: "Der Quotient aus dem Grenzübergangswert und der Menge des im Erhebungszeitraum eingeführten Naturgases in Ct/ m³."
+    sup10:
+      title: "10"
+      text: "Summe der Produkte aus (1.) dem durchschnittlichen Gehalt der aus dem Bewilligungsfeld gewonnenen Rohsalze an Kaliumoxid (K2O) und Magnesiumsulfat (MgSO4) und (2.) dem Betrag von 0,75 Euro für Kaliumoxid (K2O) und 0,25 Euro für Magnesiumsulfat (MgSO4) je Tonne und angefangenem Prozentpunkt."
+    sup11:
+      title: "11"
+      text: "20 % des Quotienten aus dem Produktionswert und der Produktionsmenge der im Erhebungszeitraum erzielten Produktion in Euro/t gemessen an den vom StatBA erfassten Daten."
+    sup12:
+      title: "12"
+      text: "Eine Minderung des Bemessungsmaßstabs um eine Pauschale für Fortleitungskosten ist möglich."
+    sup13:
+      title: "13"
+      text: "Eine Minderung des Bemessungsmaßstabs für Naturgas, das in Reinigungsanlagen durchgesetzt wird um 0,205 Ct/m³ ist möglich."
+
     row1:
       bundesland: "Baden-Württemberg"
       rechtsgrundlage: "VO des Umweltministeriums über die Feldes- und Förderabgabe vom 11.12.2006 (GBl. S. 395), zuletzt geändert durch VO vom 13.11.2014 (GBl. S.618)"
       feldesabgabe1:
         title: "Erdöl, -gas, Steinsalz und Sole 20 € angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz Erdöl, -gas: 80 €"
       feldesabgabe3: "Höchstsatz Steinsalz und Sole: 60 €"
       abgabesätze1:
         title: Gemessen am Marktwert
         item1: "Erdöl: 19 %"
         item2: "Steinsalz: 5 % bzw. 2,5 %"
-        sup5:
-          title: "5"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Naturgas: 37 % des erzielten Preises"
-        sup7:
-          title: "7"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme"
         item2: "Sole"
       sonderregelungen2:
         title: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes2"
-        sup2:
-          title: "2"
-          text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row2:
       bundesland: "Bayern"
       rechtsgrundlage: "Verordnung über Feldes- und Förderabgaben vom 22.12.1998 (GVBl. 1998 S.1050), zuletzt geändert €-Regelung 2001"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 60 €"
       abgabesätze1: "5 % des Marktwertes für im Gebiet Aitingen gefördertes Erdöl"
       sonderregelungen1:
@@ -617,9 +642,6 @@ verwendung-der-einnahmen:
       rechtsgrundlage_link: "https://bravors.brandenburg.de/verordnungen/bbgfoerdav_2016"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 60 €"
       abgabesätze1:
         title: Gemessen am Marktwert
@@ -627,49 +649,28 @@ verwendung-der-einnahmen:
         item2: "Kiese und Sande: 7 %"
         item3: "Torf einschließlich anfallender Mudde und Natursteine: 5 %"
         item4: "Steinsalz und Sole: 1% bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird"
       abgabesätze2:
         title: "Naturgas: 10 % des Bemessungsmaßstabes"
-        sup8:
-          title: "8"
-          text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
       sonderregelungen1:
         title: 100 % befreit
         item1: Erdwärme
         item2: "Natürliche/r Sole und Torf,  gefördert für balneologische Zwecke bzw. als Träger für Erdwärme"
       sonderregelungen2:
         title: "Erdöl und Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup2:
-          title: "2"
-          text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row5:
       bundesland: Bremen
       rechtsgrundlage: "Bremische Verordnung über die Feldes- und Förderabgabe vom 10.05.2012 (Gesetzblatt der Freien Hansestadt Bremen S. 180)"
       rechtsgrundlage_link: "transparenz.bremen.de/sixcms/detail.php?gsid=bremen2014_tp.c.66589.de&asl=bremen203_tpgesetz.c.55340.de&template=20_gp_ifg_meta_detail_d"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz 80 €"
       abgabesätze1:
         title: "Erdgas: 36 % des erzielten Preises"
-        sup7:
-          title: "7*"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Erdöl: 9 % des Marktwertes multipliziert mit der abgabenpflichtigen Menge"
-        sup6:
-          title: "6"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze3: "Sande und Kiessande: 10 % des Marktwertes auf die Gewinnung im Bereich der Küstengewässer und des Festlandsockels."
       abgabesätze4:
         title: "Sole: 1 % bzw. 0,5 % des Marktwertes"
-        sup6:
-          title: "6"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme"
@@ -677,9 +678,6 @@ verwendung-der-einnahmen:
         item3: "Schwefel"
       sonderregelungen2:
         title1: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup2:
-          title: "2"
-          text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
         item1: "75 % im Jahr der Aufnahme der Förderung und in den folgenden 5 Kalenderjahren bei Förderung aus Lagestättenbereiche mit einer durchschnittlichen effektiven Permeabilität unter 0,6 Milli-Darcy"
         item2: "40 % bei Förderung aus nahezu ausgeförderten Lagerstätten mit einer durchschnittlichen Förderrate unter 4.500 m3/h"
@@ -689,22 +687,13 @@ verwendung-der-einnahmen:
       rechtsgrundlage_link: "www.landesrecht-hamburg.de/jportal/portal/page/bshaprod.psml;jsessionid=D476CDB7473071E0DB32519DAD432FAA.jp21?showdoccase=1&st=null&doc.id=jlr-FldAbgVHA2014rahmen&doc.part=X&doc.origin=bs"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 80 €"
       abgabesätze1:
         title: "Gemessen am Marktwert"
         item1: "Erdöl: 7 %"
         item2: "Sole: 1 bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title1: "Erdgas: 37 % des Bemessungsmaßstabes"
-        sup7:
-          title: "7"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
         title2: "multipliziert mit der abgabenpflichtigen Menge. Aktuell unter Anwendung einer jährlichen Verlängerungsklausel von allen Abgaben befreit."
       sonderregelungen1:
         title: 100 % befreit
@@ -713,31 +702,19 @@ verwendung-der-einnahmen:
         item3: Schwefel
       sonderregelungen2:
         title: "Erdöl und -gas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup2:
-          title: "2"
-          text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row7:
       bundesland: "Hessen"
       rechtsgrundlage: "Verordnung zur Änderung der Hessischen Verordnung über Feldes- und Förderabgaben vom 6. Oktober 2014 (GVBl. I S.232) (Befristet bis 31.12.2019)"
       rechtsgrundlage_link: "starweb.hessen.de/cache/GVBL/2014/00017.pdf"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 60 €"
       abgabesätze1:
         title: "Gemessen am Marktwert"
         item1: "Nichteisenmetalle und Schwerspat: 1%"
         item2: "Steinsalz und Sole: 1% bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Kali-, Magnesia- und Borsalze: 1 % des Bemessungsmaßstabes"
-        sup10:
-          title: "10"
-          text: "Summe der Produkte aus (1.) dem durchschnittlichen Gehalt der aus dem Bewilligungsfeld gewonnenen Rohsalze an Kaliumoxid (K2O) und Magnesiumsulfat (MgSO4) und (2.) dem Betrag von 0,75 Euro für Kaliumoxid (K2O) und 0,25 Euro für Magnesiumsulfat (MgSO4) je Tonne und angefangenem Prozentpunkt."
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme"
@@ -749,9 +726,6 @@ verwendung-der-einnahmen:
       rechtsgrundlage_link: "www.landesrecht-mv.de/jportal/portal/page/bsmvprod.psml?showdoccase=1&st=lr&doc.id=jlr-F%C3%B6rdAVMV2014rahmen&doc.part=X&doc.origin=bs"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 80 €"
       abgabesätze1:
         title: "Gemessen am Marktwert"
@@ -759,14 +733,8 @@ verwendung-der-einnahmen:
         item2: "Kiese, Kreide, Kalksteine, Kies-, Quarz- und Spezialsande sowie tonige Gesteine: 10 %"
         item3: "Torf/ Mudde: 5 %"
         item4: "Sole: 1 % bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       abgabesätze2:
         title: "Erd- und Erdölgas: 20 % des Bemessungsmaßstabes"
-        sup8:
-          title: "8"
-          text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme"
@@ -778,17 +746,11 @@ verwendung-der-einnahmen:
       rechtsgrundlage_link: "www.nds-voris.de/jportal/portal/t/17z1/page/bsvorisprod.psml;jsessionid=889E1C7E2C1D10CC11E86E9792A56601.jp14?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&fromdoctodoc=yes&doc.id=jlr-FldAbgVND2011rahmen&doc.part=X&doc.price=0.0#focuspoint"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 80 €"
       abgabesätze1: "Erdöl: 18 % des Marktwertes für aus den Lagerstätten Bramberge, Emlichheim, Georgsdorf, Ringe und Rühlermoor Valendis gefördertes Erdöl"
       abgabesätze2: "Naturgas: 30 % des Bemessungsmaßstabes8 multipliziert mit der abgabenpflichtigen Menge"
       abgabesätze3:
         title: "Sole: 1 % bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme"
@@ -796,16 +758,10 @@ verwendung-der-einnahmen:
         item3: "Schwefel"
       sonderregelungen2:
         title1: "Erdöl: Feldesbehandlungskosten in Höhe des Abgabesatzes für die abgabepflichtigen Gebiete"
-        sup2:
-          title: "2"
-          text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
         item1: "50 % bei der Förderung mit Hilfe von Tertiärverfahren"
       sonderregelungen3:
         title1: "Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup2:
-          title: "2"
-          text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
         item1: "50 % bei Förderung aus einer Lagerstätte (1.) im Bereich des Festlandsockels oder (2.) der Küstengewässer mit Hilfe von Förderplattformen"
         item2: "75 % im Jahr der Aufnahme der Förderung und in den folgenden 5 Kalenderjahren bei Förderung aus Lagestättenbereiche mit einer durchschnittlichen effektiven Permeabilität unter 0,6 Milli-Darcy"
@@ -816,31 +772,13 @@ verwendung-der-einnahmen:
       rechtsgrundlage_link: "esb.bezreg-arnsberg.nrw.de/a_1/a_1_021/"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 60 €"
       abgabesätze1:
         title: "Grubengas 0,3 Cent pro m³ Methan"
-        sup12:
-          title: "12"
-          text: "Eine Minderung des Bemessungsmaßstabs um eine Pauschale für Fortleitungskosten ist möglich."
       abgabesätze2:
         title: "Naturgas: 16 % des Bemessungsmaßstabes"
-        sup9:
-          title: "9"
-          text: "Der Quotient aus dem Grenzübergangswert und der Menge des im Erhebungszeitraum eingeführten Naturgases in Ct/ m³."
-        sup12:
-          title: "12"
-          text: "Eine Minderung des Bemessungsmaßstabs um eine Pauschale für Fortleitungskosten ist möglich."
-        sup13:
-          title: "13"
-          text: "Eine Minderung des Bemessungsmaßstabs für Naturgas, das in Reinigungsanlagen durchgesetzt wird um 0,205 Ct/m³ ist möglich."
       abgabesätze3:
         title1: "Steinsalz und Sole: 1 % bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
         title2: " des Marktwertes"
       sonderregelungen1:
         title: "100 % befreit"
@@ -848,9 +786,6 @@ verwendung-der-einnahmen:
         item2: "Natürliche Sole, gefördert für balneologische Zwecke"
       sonderregelungen2:
         title1: "Natur- und Grubengas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup3:
-          title: "3"
-          text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
         title2: ", sowie"
         item1: "50% auf Gas, das (1.) mit Hilfe von Verfahren zum Aufschluss von geringpermeablen Lagerstätten zusätzlich gewonnen wird, (2.) aus Teufenbereichen von mehr als 5.000 Meter oder (3.) Steinkohlenflözen über Tag gewonnen wird"
         item2: "50% für die Dauer von 5 Jahren ab Aufnahme der Förderung bei Förderung aus Gebieten, mit deren Aufschluss in der Zeit vom 01.01.1999 bis zum 31.12.2005 begonnen worden ist"
@@ -864,17 +799,8 @@ verwendung-der-einnahmen:
         item1: "Erdöl: 12 %; für die Lagerstätten Römerberg-Speyer und Rülzheim 15 % bzw. 7 %"
         item2: "10 % für Erdöl, das aus (1.) Totöllagerstätten, (2.) auflässigen Lagerstätten, (3.) Teufenbereichen von mehr als 4.000 m gefördert oder mit Hilfe von (4.) Tertiärverfahren oder (5.) Verfahren zum Aufschluss von geringpermeablen Lagerstätten zusätzlich gefördert wird."
         item3: "Sole: 1 % bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird."
       abgabesätze2:
         title: "Erdölgas: 10 % des erzielten Preises"
-        sup7:
-          title: "7"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
-        sup12:
-          title: "12"
-          text: "Eine Minderung des Bemessungsmaßstabs um eine Pauschale für Fortleitungskosten ist möglich."
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Natürliche Sole, gefördert für balneologische Zwecke"
@@ -882,23 +808,14 @@ verwendung-der-einnahmen:
         item3: "Zur direkten Verstromung gefördertes Erdgas"
       sonderregelungen2:
         title: "Erdöl- und Erdölgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup4:
-          title: "4"
-          text: "Obergrenze: Marktwert oder nach § 31 Abs. 2 Satz 2 BBergG ermittelter Wert des in dem Erdölfeld geförderten Erdöls und Erdölgases."
     row12:
       bundesland: "Saarland"
       rechtsgrundlage: "Verordnung über die Feldes und Förderabgabe vom 5. März 1987 (Amtsblatt Seite250), zuletzt geändert durch das Gesetz vom 7.November 2001 (Amtsblatt S. 2158)"
       rechtsgrundlage_link: "sl.juris.de/cgi-bin/landesrecht.py?d=http://sl.juris.de/sl/gesamt/FldAbgV_SL.htm"
       abgabesätze1:
         title: "Naturgas: 10 % des erzielten Preises"
-        sup7:
-          title: "7"
-          text: "Alle Regelungen zur Höhe der Abgabesätze sowie der Sonderregelungen sind zeitlich befristet und werden regelmäßig überprüft und ggf. durch eine Aktualisierung der landesrechtlichen Verordnungen über die Feldes- und Förderabgaben angepasst."
       sonderregelungen1:
         title: "Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup3:
-          title: "3"
-          text: "Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row13:
       bundesland: "Sachsen"
       rechtsgrundlage: "Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über Feldes- und Förderabgaben (FFAVO) vom 21. Juli 1997; rechtsbereinigt mit Stand vom 1. Januar 2009; zuletzt geändert durch VO vom 20.06.2012 (Sächs. GVBl. S.442)."
@@ -931,14 +848,8 @@ verwendung-der-einnahmen:
         item1: "Kiese, Sande, Quarz und Spezialsande: 7 %"
         item2: "Natursteine: 5 %"
         item3: "Steinsalz und Sole: 1 % bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird."
       abgabesätze2:
         title: "Gesteine zur Herstellung von Werk- und Dekosteinen aus Sandstein: 4 % des Bemessungsmaßstabes"
-        sup11:
-          title: "11"
-          text: "20 % des Quotienten aus dem Produktionswert und der Produktionsmenge der im Erhebungszeitraum erzielten Produktion in Euro/t gemessen an den vom StatBA erfassten Daten."
       sonderregelungen1:
         title: "100 % befreit:"
         item1: "Braunkohle"
@@ -948,22 +859,13 @@ verwendung-der-einnahmen:
       rechtsgrundlage_link: "www.gesetze-rechtsprechung.sh.juris.de/jportal/portal/t/1cdv/page/bsshoprod.psml/action/portlets.jw.MainAction?p1=2&eventSubmit_doNavigate=searchInSubtreeTOC&showdoccase=1&doc.hl=0&doc.id=jlr-FldAbgVSH2013pIVZ&doc.part=S&toc.poskey=#focuspoint"
       feldesabgabe1:
         title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-        sup1:
-          title: "1"
-          text: "Steigert sich für jedes folgende Jahr um 20 € bis zum gegebenen Höchstsatz."
       feldesabgabe2: "Höchstsatz: 80 €"
       abgabesätze1:
         title: "Gemessen am Marktwert"
         item1: "Erdöl: 40 % multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I erfolgt Berechnung des Förderzinses wie folgt: Z =0,0076 * ÖP² - 1,15 * ÖP + 64,5 (Z = Zins, ÖP ist ein Tausendstel des Marktwertes multipliziert mit 135), wobei Mindestförderzins 21 % und höchstens 40 % beträgt."
         item2: "Sole: 1 % bzw. 0,5 %"
-        sup5:
-          title: "5"
-          text: "Gilt für Steinsalz, das bei der Errichtung eines Untergrundspeichers gewonnen und nicht wirtschaftlich verwertet wird."
       abgabesätze2:
         title1: "Naturgas: 40 % des Bemessungsmaßstabes"
-        sup8:
-          title: "8"
-          text: "Das gewogene Mittel der vom StatBA veröffentlichten monatlichen Grenzübergangspreise für Erdgas im Erhebungszeitraum in Euro/kWh."
         title2: " multipliziert mit der abgabepflichtigen Menge. Bei Förderung aus den Bewilligungsfeldern Deutsche Nordsee A6/B4 und Heide-Mittelplate I 18 %"
       sonderregelungen1:
         title: "100 % befreit"
@@ -971,9 +873,6 @@ verwendung-der-einnahmen:
         item2: "Erdwärme"
       sonderregelungen2:
         title: "Erdöl und Naturgas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
-        sup2:
-          title: "2"
-          text: "2 Obergrenze: Nach LVO für betreffende Lagerstätte erhobene Gesamtförderabgaben."
     row16:
       bundesland: "Thüringen"
       rechtsgrundlage: "Thüringer VO über die Feldes- und Förderabgabe vom 23. August 2005, zuletzt geändert durch VO vom 30.November 2015 (GVBl. S.210)"
@@ -986,9 +885,6 @@ verwendung-der-einnahmen:
         item4: "Torf/ Mudde 3 %"
       abgabesätze2:
         title: "Werk- und Dekosteine: 4 % des Bemessungsmaßstabes"
-        sup11:
-          title: "11"
-          text: "20 % des Quotienten aus dem Produktionswert und der Produktionsmenge der im Erhebungszeitraum erzielten Produktion in Euro/t gemessen an den vom StatBA erfassten Daten."
       sonderregelungen1:
         title: "100 % befreit"
         item1: "Erdwärme: Aufsuchung und Gewinnung"

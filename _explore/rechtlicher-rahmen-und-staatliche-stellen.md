@@ -287,7 +287,7 @@ breadcrumb:
           {% t rechtlicher-rahmen.rechtliche-regelung.p2 %}
         </p>
         <h3 id="tabelle-1">{% t rechtlicher-rahmen.rechtliche-unterteilung.title %}</h3>
-        <table class="article_table">
+        <table>
           <tbody>
             <tr>
               <th></th>
