@@ -45,7 +45,7 @@ breadcrumb:
             {% t offentliche-berichte.gemeinsamkeiten.p2 %}
           </p>
           <p>
-            {% t offentliche-berichte.gesetzliche-berichtspflicht.p3 %}
+            {% t offentliche-berichte.gemeinsamkeiten.p3 %}
           </p>
         </section>
       </section>

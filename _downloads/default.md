@@ -51,16 +51,9 @@ permalink: /downloads/
         {% t downloads.p5.p2 %}
         <a href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>).
         {% t downloads.p5.p3 %}
-        <a href="https://www.destatis.de/DE/Publikationen/Verzeichnis/KlassifikationWZ08_3100100089004.pdf;jsessionid=0CEA093B5E7B3662C7D0F71426EA900A.cae3?__blob=publicationFile">
-          {% t downloads.p5.link %}
-        </a>
-        {% t downloads.p5.p4 %}
       </p>
-       <p>
-         {% t downloads.p6 %}
-       </p>
-       <p>
-       <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VGR/Glossar/Bruttowertschoepfung.html">{% t downloads.link %}</a></p>
+      <p>{% t downloads.p5.p4 %}</p>
+      <p>{% t downloads.p5.p5 %}</p>
     </div>
 
     <div id="beschäftigten">
