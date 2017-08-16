@@ -189,22 +189,30 @@ salze:
 steine-und-erden:
   title: Steine und Erden
   nav_items:
-    - name: title
-      title: Seitenanfang
-    - name: fakten_zu_industriemineralen
-      title: Wissenswertes über Steine und Erden
-    - name: geschichte
-      title: Geschichte
-    - name: gewinnung
-      title: Gewinnung
-    - name: verwendung-industrieminerale
-      title: Verwendung Industrieminerale
-    - name: verwendung-geschichte
-      title: Geschichte
-    - name: verwendung-gewinnung
-      title: Gewinnung
-    - name: verwendung-eisenerze
-      title: Verwendung Eisenerze
+    - name: steine-und-erden
+      title: Steine und Erden
+      subnav_items:
+        - name: fakten_zu_industriemineralen
+          title: Wissenswertes über Steine und Erden
+        - name: geschichte
+          title: Geschichte
+        - name: gewinnung
+          title: Gewinnung
+        - name: verwendung
+          title: Verwendung
+    - name: industrieminerale
+      title: Industrieminerale
+      subnav_items:
+        - name: verwendung-geschichte
+          title: Geschichte
+        - name: verwendung-gewinnung
+          title: Gewinngung
+        - name: verwendung-eisenerze
+          title: Verwendung
+    - name: eisenerze
+      title: Eisenerze
+
+  h2: Steine und Erden
   p1: Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen, insbesondere Kiese und Sande, gebrochene Natursteine, Kalk-, Mergel- und Dolomitsteine, Gips- und Anhydritsteine sowie Tone und Lehme. Steine und Erden sind Massenrohstoffe; sie sind aufgrund geologischer Verhältnisse standortgebunden und nicht gleichmäßig über das Land verteilt.
   slides_title: Wissenswertes über Industrieminerale
   slides:
@@ -220,7 +228,7 @@ steine-und-erden:
     title: Gewinnung
     p: Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Mengenmäßig zählen Kiese und Sande mit rund 240 Mio. t und gebrochene Natursteine mit etwa 210 Mio. t zu den wichtigsten Rohstoffen der deutschen Rohstoffgewinnung. Die Branche der Kies-, Sand- und Natursteingewinnung besteht in Deutschland aus etwa 1.600 Unternehmen, die rund 3.100 Gewinnungsstätten betreiben.
   verwendung:
-    title: Verwendung Industrieminerale
+    title: Verwendung
     p: Rund 80% der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20% finden Einsatz in der Chemie-, Stahl- oder Glasindustrie. Neben den primär gewonnenen Steinen und Erden werden in der Baustoffindustrie jährlich fast 100 Mio. t Sekundärrohstoffe (mineralische Bauabfälle, Nebenprodukte aus industriellen Prozessen) eingesetzt. Diese entstehen zum Beispiel beim Abbruch von Gebäuden, der Produktion von Roheisen (Hochofenschlacken) oder bei der Stromerzeugung in konventionellen Kraftwerken (REA-Gips, Flugasche). Der Einsatz von Sekundärrohstoffen trägt zur Substitution primärer Rohstoffe bei. Die Substitutionsquote beträgt etwa 15%.
   industrieminerale:
     title: Industrieminerale
@@ -233,8 +241,11 @@ steine-und-erden:
       p1: Aufgrund natürlicher Gegebenheiten weist der Abbau von Industriemineralen in Deutschland eine hohe Regionalität auf. Während z.B. Kaolin und Kieselerde insbesondere in Bayern gefördert werden, konzentriert sich die Gewinnung von Spezialton vorwiegend auf Rheinland-Pfalz und Hessen.
       p2: Industrieminerale werden hauptsächlich von kleinen und mittelständischen Betrieben zumeist über Tage gefördert. Einige wenige Industrieminerale, wie zum Beispiel Fluss- und Schwerspat, werden jedoch auch unter Tage abgebaut. 2014 gab es insgesamt 627 aktive Förderstätten in Deutschland, von denen rund die Hälfte allein auf die Gewinnung von Quarz und Quarzsande spezialisiert waren.
     verwendung:
-      title: Verwendung Eisenerze
+      title: Verwendung
       p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
+  eisenerze:
+    title: Eisenerze
+    p: "In Deutschland wird in Nordrhein-Westphalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie. In Deutschland wird in Nordrhein-Westphalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
 
 rechtlicher-rahmen:
   title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
