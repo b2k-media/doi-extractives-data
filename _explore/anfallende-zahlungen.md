@@ -102,6 +102,9 @@ breadcrumb:
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p4 %}
+          <a href="{{site.baseurl}}/explore/subventionen-und-steuerliche-begunstigungen/">
+            {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link3 %}
+          </a>
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5_1 %}
@@ -109,6 +112,10 @@ breadcrumb:
             {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link1 %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5_2 %}
+          <a href="{{site.baseurl}}/explore/subventionen-und-steuerliche-begunstigungen/">
+            {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link4 %}
+          </a>
+          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5_3 %}
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p6_1 %}
