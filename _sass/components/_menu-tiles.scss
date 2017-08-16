@@ -118,6 +118,10 @@
   &::after { background-image: url('../img/tiles/21_beschaeftigung-h.png') }
   &.disabled::after { background-image: url('../img/tiles/21_beschaeftigung-i.png') }
 }
+.tile-erneuerbare-energien {
+  &::after { background-image: url('../img/tiles/23_erneuerbare-energien-h.png') }
+  &.disabled::after { background-image: url('../img/tiles/23_erneuerbare-energien-i.png') }
+}
 .tile-export {
   &::after { background-image: url('../img/tiles/22_export-h.png') }
   &.disabled::after { background-image: url('../img/tiles/22_export-i.png') }
