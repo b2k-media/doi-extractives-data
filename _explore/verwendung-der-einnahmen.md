@@ -114,7 +114,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row1.abgabesätze1.item2 %}
                           <sup>
                             <a href="#sup-5">
-                              {% t verwendung-der-einnahmen.table.row1.abgabesätze1.sup5.title %}
+                              {% t verwendung-der-einnahmen.table.sup5.title %}
                             </a>
                           </sup>
                         </li>
@@ -124,7 +124,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row1.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-7">
-                          {% t verwendung-der-einnahmen.table.row1.abgabesätze2.sup7.title %}
+                          {% t verwendung-der-einnahmen.table.sup7.title %}
                         </a>
                       </sup>
                     </li>
@@ -147,7 +147,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row1.sonderregelungen2.title %}
                       <sup>
                         <a href="#sup-2">
-                          {% t verwendung-der-einnahmen.table.row1.sonderregelungen2.sup2.title %}
+                          {% t verwendung-der-einnahmen.table.sup2.title %}
                         </a>
                       </sup>
                     </li>
@@ -167,7 +167,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row2.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row2.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -218,7 +218,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row4.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row4.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -243,7 +243,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row4.abgabesätze1.item4 %}
                           <sup>
                             <a href="#sup-5">
-                              {% t verwendung-der-einnahmen.table.row4.abgabesätze1.sup5.title %}
+                              {% t verwendung-der-einnahmen.table.sup5.title %}
                             </a>
                           </sup>
                         </li>
@@ -253,7 +253,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row4.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-8">
-                          {% t verwendung-der-einnahmen.table.row4.abgabesätze2.sup8.title %}
+                          {% t verwendung-der-einnahmen.table.sup8.title %}
                         </a>
                       </sup>
                     </li>
@@ -276,7 +276,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row4.sonderregelungen2.title %}
                       <sup>
                         <a href="#sup-2">
-                          {% t verwendung-der-einnahmen.table.row4.sonderregelungen2.sup2.title %}
+                          {% t verwendung-der-einnahmen.table.sup2.title %}
                         </a>
                       </sup>
                     </li>
@@ -295,7 +295,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row5.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row5.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -308,7 +308,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row5.abgabesätze1.title %}
                       <sup>
                         <a href="#sup-7">
-                          {% t verwendung-der-einnahmen.table.row5.abgabesätze1.sup7.title %}
+                          {% t verwendung-der-einnahmen.table.sup7.title %}
                         </a>
                       </sup>
                     </li>
@@ -316,7 +316,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row5.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-6">
-                          {% t verwendung-der-einnahmen.table.row5.abgabesätze2.sup6.title %}
+                          {% t verwendung-der-einnahmen.table.sup6.title %}
                         </a>
                       </sup>
                     </li>
@@ -327,7 +327,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row5.abgabesätze4.title %}
                       <sup>
                         <a href="#sup-6">
-                          {% t verwendung-der-einnahmen.table.row5.abgabesätze4.sup6.title %}
+                          {% t verwendung-der-einnahmen.table.sup6.title %}
                         </a>
                       </sup>
                     </li>
@@ -355,7 +355,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row5.sonderregelungen2.title1 %}
                       <sup>
                         <a href="#sup-2">
-                          {% t verwendung-der-einnahmen.table.row5.sonderregelungen2.sup2.title %}
+                          {% t verwendung-der-einnahmen.table.sup2.title %}
                         </a>
                       </sup>
                       {% t verwendung-der-einnahmen.table.row5.sonderregelungen2.title2 %}
@@ -383,7 +383,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row6.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row6.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -402,7 +402,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row6.abgabesätze1.item2 %}
                           <sup>
                             <a href="#sup-5">
-                              {% t verwendung-der-einnahmen.table.row6.abgabesätze1.sup5.title %}
+                              {% t verwendung-der-einnahmen.table.sup5.title %}
                             </a>
                           </sup>
                         </li>
@@ -412,7 +412,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row6.abgabesätze2.title1 %}
                       <sup>
                         <a href="#sup-7">
-                          {% t verwendung-der-einnahmen.table.row6.abgabesätze2.sup7.title %}
+                          {% t verwendung-der-einnahmen.table.sup7.title %}
                         </a>
                       </sup>
                       {% t verwendung-der-einnahmen.table.row6.abgabesätze2.title2 %}
@@ -439,7 +439,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row6.sonderregelungen2.title %}
                       <sup>
                         <a href="#sup-2">
-                          {% t verwendung-der-einnahmen.table.row6.sonderregelungen2.sup2.title %}
+                          {% t verwendung-der-einnahmen.table.sup2.title %}
                         </a>
                       </sup>
                     </li>
@@ -458,7 +458,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row7.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row7.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -475,7 +475,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row7.abgabesätze1.item2 %}
                           <sup>
                             <a href="#sup-5">
-                            {% t verwendung-der-einnahmen.table.row7.abgabesätze1.sup5.title %}
+                            {% t verwendung-der-einnahmen.table.sup5.title %}
                             </a>
                           </sup>
                         </li>
@@ -485,7 +485,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row7.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-10">
-                        {% t verwendung-der-einnahmen.table.row7.abgabesätze2.sup10.title %}
+                        {% t verwendung-der-einnahmen.table.sup10.title %}
                         </a>
                       </sup>
                     </li>
@@ -518,7 +518,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row8.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row8.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -537,7 +537,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row8.abgabesätze1.item4 %}
                           <sup>
                             <a href="#sup-5">
-                              {% t verwendung-der-einnahmen.table.row8.abgabesätze1.sup5.title %}
+                              {% t verwendung-der-einnahmen.table.sup5.title %}
                             </a>
                           </sup>
                         </li>
@@ -547,7 +547,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row8.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-8">
-                          {% t verwendung-der-einnahmen.table.row8.abgabesätze2.sup8.title %}
+                          {% t verwendung-der-einnahmen.table.sup8.title %}
                         </a>
                       </sup>
                     </li>
@@ -578,7 +578,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row9.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row9.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -593,7 +593,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row9.abgabesätze3.title %}
                       <sup>
                         <a href="#sup-5">
-                          {% t verwendung-der-einnahmen.table.row9.abgabesätze3.sup5.title %}
+                          {% t verwendung-der-einnahmen.table.sup5.title %}
                         </a>
                       </sup>
                     </li>
@@ -613,7 +613,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row9.sonderregelungen2.title1 %}
                       <sup>
                         <a href="#sup-2">
-                          {% t verwendung-der-einnahmen.table.row9.sonderregelungen2.sup2.title %}
+                          {% t verwendung-der-einnahmen.table.sup2.title %}
                         </a>
                       </sup>
                       {% t verwendung-der-einnahmen.table.row9.sonderregelungen2.title2 %}
@@ -625,7 +625,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row9.sonderregelungen3.title1 %}
                       <sup>
                         <a href="#sup-2">
-                          {% t verwendung-der-einnahmen.table.row9.sonderregelungen3.sup2.title %}
+                          {% t verwendung-der-einnahmen.table.sup2.title %}
                         </a>
                       </sup>
                       {% t verwendung-der-einnahmen.table.row9.sonderregelungen3.title2 %}
@@ -650,7 +650,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row10.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row10.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -663,7 +663,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row10.abgabesätze1.title %}
                       <sup>
                         <a href="#sup-12">
-                          {% t verwendung-der-einnahmen.table.row10.abgabesätze1.sup12.title %}
+                          {% t verwendung-der-einnahmen.table.sup12.title %}
                         </a>
                       </sup>
                     </li>
@@ -671,17 +671,17 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row10.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-9">
-                          {% t verwendung-der-einnahmen.table.row10.abgabesätze2.sup9.title %}
+                          {% t verwendung-der-einnahmen.table.sup9.title %}
                         </a>
                       </sup>
                       <sup>
                         <a href="#sup-12">
-                          {% t verwendung-der-einnahmen.table.row10.abgabesätze2.sup12.title %}
+                          {% t verwendung-der-einnahmen.table.sup12.title %}
                         </a>
                       </sup>
                       <sup>
                         <a href="#sup-13">
-                          {% t verwendung-der-einnahmen.table.row10.abgabesätze2.sup13.title %}
+                          {% t verwendung-der-einnahmen.table.sup13.title %}
                         </a>
                       </sup>
                     </li>
@@ -689,7 +689,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row10.abgabesätze3.title1 %}
                       <sup>
                         <a href="#sup-5">
-                          {% t verwendung-der-einnahmen.table.row10.abgabesätze3.sup5.title %}
+                          {% t verwendung-der-einnahmen.table.sup5.title %}
                         </a>
                       </sup>
                       {% t verwendung-der-einnahmen.table.row10.abgabesätze3.title2 %}
@@ -709,7 +709,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row10.sonderregelungen2.title1 %}
                       <sup>
                         <a href="#sup-3">
-                          {% t verwendung-der-einnahmen.table.row10.sonderregelungen2.sup3.title %}
+                          {% t verwendung-der-einnahmen.table.sup3.title %}
                         </a>
                       </sup>
                       {% t verwendung-der-einnahmen.table.row10.sonderregelungen2.title2 %}
@@ -740,7 +740,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row11.abgabesätze1.item3 %}
                           <sup>
                             <a href="#sup-5">
-                              {% t verwendung-der-einnahmen.table.row11.abgabesätze1.sup5.title %}
+                              {% t verwendung-der-einnahmen.table.sup5.title %}
                             </a>
                           </sup>
                         </li>
@@ -750,12 +750,12 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row11.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-7">
-                          {% t verwendung-der-einnahmen.table.row11.abgabesätze2.sup7.title %}
+                          {% t verwendung-der-einnahmen.table.sup7.title %}
                         </a>
                       </sup>
                       <sup>
                         <a href="#sup-12">
-                          {% t verwendung-der-einnahmen.table.row11.abgabesätze2.sup12.title %}
+                          {% t verwendung-der-einnahmen.table.sup12.title %}
                         </a>
                       </sup>
                     </li>
@@ -775,7 +775,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row11.sonderregelungen2.title %}
                       <sup>
                         <a href="#sup-4">
-                          {% t verwendung-der-einnahmen.table.row11.sonderregelungen2.sup4.title %}
+                          {% t verwendung-der-einnahmen.table.sup4.title %}
                         </a>
                       </sup>
                     </li>
@@ -794,8 +794,8 @@ breadcrumb:
                     <li>
                       {% t verwendung-der-einnahmen.table.row12.abgabesätze1.title %}
                       <sup>
-                        <a href="#sup-4">
-                          {% t verwendung-der-einnahmen.table.row12.abgabesätze1.sup7.title %}
+                        <a href="#sup-7">
+                          {% t verwendung-der-einnahmen.table.sup7.title %}
                         </a>
                       </sup>
                     </li>
@@ -806,8 +806,8 @@ breadcrumb:
                     <li>
                     {% t verwendung-der-einnahmen.table.row12.sonderregelungen1.title %}
                     <sup>
-                      <a href="#sup-4">
-                        {% t verwendung-der-einnahmen.table.row12.sonderregelungen1.sup3.title %}
+                      <a href="#sup-3">
+                        {% t verwendung-der-einnahmen.table.sup3.title %}
                       </a>
                     </sup>
                     </li>
@@ -876,7 +876,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row14.abgabesätze1.item3 %}
                           <sup>
                             <a href="#sup-5">
-                              {% t verwendung-der-einnahmen.table.row14.abgabesätze1.sup5.title %}
+                              {% t verwendung-der-einnahmen.table.sup5.title %}
                               </a>
                           </sup>
                         </li>
@@ -886,7 +886,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row14.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-11">
-                          {% t verwendung-der-einnahmen.table.row14.abgabesätze2.sup11.title %}
+                          {% t verwendung-der-einnahmen.table.sup11.title %}
                           </a>
                       </sup>
                     </li>
@@ -915,7 +915,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row15.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row15.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
@@ -932,7 +932,7 @@ breadcrumb:
                           {% t verwendung-der-einnahmen.table.row15.abgabesätze1.item2 %}
                           <sup>
                             <a href="#sup-5">
-                              {% t verwendung-der-einnahmen.table.row15.abgabesätze1.sup5.title %}
+                              {% t verwendung-der-einnahmen.table.sup5.title %}
                             </a>
                           </sup>
                         </li>
@@ -942,7 +942,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row15.abgabesätze2.title1 %}
                       <sup>
                         <a href="#sup-8">
-                          {% t verwendung-der-einnahmen.table.row15.abgabesätze2.sup8.title %}
+                          {% t verwendung-der-einnahmen.table.sup8.title %}
                         </a>
                       </sup>
                       {% t verwendung-der-einnahmen.table.row15.abgabesätze2.title2 %}
@@ -962,7 +962,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row15.sonderregelungen2.title %}
                       <sup>
                         <a href="#sup-2">
-                          {% t verwendung-der-einnahmen.table.row15.sonderregelungen2.sup2.title %}
+                          {% t verwendung-der-einnahmen.table.sup2.title %}
                         </a>
                       </sup>
                     </li>
@@ -991,7 +991,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row16.abgabesätze2.title %}
                       <sup>
                         <a href="#sup-11">
-                          {% t verwendung-der-einnahmen.table.row16.abgabesätze2.sup11.title %}
+                          {% t verwendung-der-einnahmen.table.sup11.title %}
                         </a>
                       </sup>
                     </li>
@@ -1011,6 +1011,60 @@ breadcrumb:
               </tr>
             </tbody>
           </table>
+        </section>
+        <section id="explanation" style="position: relative;">
+          <p id="sup-1">
+            <sup>{% t verwendung-der-einnahmen.table.sup1.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup1.text %}
+          </p>
+          <p id="sup-2">
+            <sup>{% t verwendung-der-einnahmen.table.sup2.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup2.text %}
+          </p>
+          <p id="sup-3">
+            <sup>{% t verwendung-der-einnahmen.table.sup3.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup3.text %}
+          </p>
+          <p id="sup-4">
+            <sup>{% t verwendung-der-einnahmen.table.sup4.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup4.text %}
+          </p>
+          <p id="sup-5">
+            <sup>{% t verwendung-der-einnahmen.table.sup5.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup5.text %}
+          </p>
+          <p id="sup-6">
+            <sup>{% t verwendung-der-einnahmen.table.sup6.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup6.text %}
+          </p>
+          <p id="sup-7">
+            <sup>{% t verwendung-der-einnahmen.table.sup7.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup7.text %}
+          </p>
+          <p id="sup-8">
+            <sup>{% t verwendung-der-einnahmen.table.sup8.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup8.text %}
+          </p>
+          <p id="sup-9">
+            <sup>{% t verwendung-der-einnahmen.table.sup9.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup9.text %}
+          </p>
+          <p id="sup-10">
+            <sup>{% t verwendung-der-einnahmen.table.sup10.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup10.text %}
+          </p>
+          <p id="sup-11">
+            <sup>{% t verwendung-der-einnahmen.table.sup11.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup11.text %}
+          </p>
+          <p id="sup-12">
+            <sup>{% t verwendung-der-einnahmen.table.sup12.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup12.text %}
+          </p>
+          <p id="sup-13">
+            <sup>{% t verwendung-der-einnahmen.table.sup13.title %}</sup>
+            {% t verwendung-der-einnahmen.table.sup13.text %}
+          </p>
         </section>
       </section>
     </div>
