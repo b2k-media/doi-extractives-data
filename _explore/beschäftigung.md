@@ -69,7 +69,7 @@ breadcrumb:
                   {% t beschäftigung.table.row5.td1 %}
                 </td>
                 <td>{% t beschäftigung.table.row5.td2 %}</td>
-                <td>{% t beschäftigung.table.row5.td3 %}</td>
+                <td><a href="#star">{% t beschäftigung.table.row5.td3 %}</a></td>
               </tr>
               <tr>
                 <td>
@@ -87,7 +87,7 @@ breadcrumb:
               </tr>
             </tbody>
           </table>
-          <p><small>
+          <p id="star"><small>
             {% t beschäftigung.table.star %}
           </small></p>
           <br /><br />

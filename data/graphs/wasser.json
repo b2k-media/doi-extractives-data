@@ -1,0 +1,52 @@
+[{
+	"title": "Umsatz des Sektors „Bergbau und Gewinnung von Steinen und Erden  ",
+	"title_en": "Umsatz des Sektors „Bergbau und Gewinnung von Steinen und Erden  [EN]",
+	"data": [
+    [
+			[46.580, "BB"],
+			[22.365, "ST"],
+			[41.358, "BW"],
+			[30.996, "BY"],
+			[25.440, "SL"],
+			[14.689, "NI"],
+			[10.599, "RP"],
+			[8.131, "HE"],
+			[4.898, "TH"],
+			[6.677, "MV*"],
+			[4.696, "SH"]
+		],
+		[
+			[225.434, "NRW"],
+			[2.340, "SN"]
+		],
+		[
+			[408.385, "NRW"],
+			[13.611, "SN"]
+		],
+		[
+			[241.710, "BB"],
+			[60.226, "ST"],
+			[4.909, "BW"],
+			[6.940, "BY"],
+			[4.065, "SL"],
+			[9.287, "NI"],
+			[5.376, "RP"],
+			[4.015, "HE"],
+			[3.463, "TH"],
+			[296, "SH"]
+		],
+		[
+			[225.434, "NRW"],
+			[196.486, "SN"]
+		],
+		[
+			[19.394, "NRW"],
+			[3.274, "SN"]
+		]
+	],
+	"color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff", "#3c67b2", "#5288e5"],
+	"labels": ["Insgesamt genutzt", "Kohle,Torf,Erdöl,Gas genutzt", "Erzbau, Steine u. Erden, sonst. Bergbau, sonstiger Bergbau genutzt",
+    "Insgesamt ungenutzt", "Kohle,Torf,Erdöl,Gas ungenutzt", "Erzbau, Steine u. Erden, sonst. Bergbau, sonstiger Bergbau ungenutzt"
+  ],
+  "xAxis": [0, 100, 200, 300, 450]
+}]
