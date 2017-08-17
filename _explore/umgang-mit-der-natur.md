@@ -260,6 +260,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table_source %}</p>
 
         <h3 id="beispiel">
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.title %}
