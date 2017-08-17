@@ -420,6 +420,71 @@ genehmigung-von-bergbauprojekten:
     k4: Wasserhaushaltsgesetz
     p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
 
+lizenzregister_und_verträge:
+  title: Wo sind Informationen zu den vergebenen Lizenzen zugänglich?
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: lizenzregister
+      title: Lizenzregister
+      subnav_items:
+        - name: rechtliche_grundlage
+          title: Rechtliche Grundlage
+        - name: beispiel
+          title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
+        - name: handhabung
+          title: Handhabung in anderen Bundesländern
+    - name: verträge
+      title: Verträge
+
+  lizenzregister:
+    title: Lizenzregister
+  rechtliche_grundlage:
+    title: Rechtliche Grundlage
+    p1: In Deutschland wird allein für bergfreie Bodenschätze (siehe Glossar) das Recht zur bergbaulichen Exploration und Gewinnung staatlich vergeben. Das Verfügungsrecht über einen bergfreien Bodenschatz wird als Bergbauberechtigung bezeichnet und kann bei den Bergbehörden der Bundesländer beantragt werden
+    link1: (Genehmigung von Bergbauvorhaben).
+    p2: Nach § 75 BBergG führen die Bergbehörden sogenannte Berechtsamsbücher und Berechtsamskarten, in denen die nach BBergG neu erteilten oder nach § 149 BBergG aufrechterhaltenen Bergbauberechtigungen (sogenannte Alte Rechte und Verträge) einzutragen sind.
+    p3: "Eine öffentliche Einsicht in die Berechtsamsbücher und –karten wurde im Rahmen der deutschen Umsetzung der D-EITI geschaffen. Seit dem 21.07.2017 können nach § 76 Abs. 3 BBergG auf Antrag bei den Bergbehörden folgende Angaben zu den erteilten und aufrechterhaltenen Bergbauberechtigungen, ohne Darlegung eines berechtigten Interesses, eingesehen werden:"
+    item1: Inhaber
+    item2: Felder, auf die sich die Bergbauberechtigung bezieht
+    item3: Datum der Beantragung und der Erteilung
+    item4: Laufzeit
+    item5: "Bodenschatz, auf den sich die Bergbauberechtigung bezieht"
+    p4: "Die zuständigen Behörden können die genannten Informationen auch direkt öffentlich zugänglich machen, was bereits seit längerem in einer Vielzahl der Bundesländer geschieht. So veröffentlichen einige Bundesländer übersichtliche Online-Lizenzkataster. Weitere Bundesländer planen den Aufbau entsprechender Systeme. "
+    p5_1: "Weiterhin werden alle Bergbauberechtigungen in Deutschland im Bereich Kohlenwasserstoffe in der jährlich erscheinenden Publikation"
+    linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
+    p5_2: "veröffentlicht"
+
+  beispiel:
+    title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
+    p1_1: "Ein gutes Beispiel für die Veröffentlichung von Angaben zu Bergbauberechtigungen im Internet ist der vom Landesamt für Bergbau, Energie und Geologie (LBEG) in Niedersachsen geführte"
+    link1: " NIBIS-Kartenserver"
+    link_data: "https://www.nibis.lbeg.de/cardomap3/"
+    p1_2: "Auf dieser Webseite können sich Bürgerinnen und Bürger in mehr als 400 Fachkarten über die Themenbereiche Altlasten, Bergbau, Bodenkunde, Erosion, Geologie, Geothermie, Geophysik, Hydrogeologie, Ingenieurgeologie, Klima und Rohstoffe informieren. Bezogen auf die Bergbauberechtigungen sind im NIBIS-Kartenserver für die Bundesländer Niedersachsen, Bremen, Hamburg und Schleswig-Holstein regelmäßig folgende Daten öffentlich einsehbar:"
+    item1: Informationen zum Lizenzinhaber
+    item2: Koordinaten des Lizenzgebiets
+    item3: Erteilungsdatum und Geltungsdauer der Lizenz
+    item4: Art des Bodenschatzes
+    image_source: "Abbildung 1: Bergbauberechtigungen im NIBIS-Kartenserver"
+
+  handhabung:
+    title: "Handhabung in anderen Bundesländern"
+    p1_1: "Auch andere Bundesländer haben die Möglichkeit geschaffen, online Einsicht in die Berechtsamsbücher und –karten zu nehmen. Beispiele hierfür sind Baden-Württemberg unter"
+    link1: "www.maps.lgrb-bw.de"
+    p1_2: "Berlin und Brandenburg unter"
+    link2: "www.geo.brandenburg.de/lbgr/bergbau"
+    p1_3: "oder das Saarland unter"
+    link3: "www.geoportal.saarland.de"
+
+  verträge:
+    title: Verträge
+    p1: "In einigen Ländern werden die Bedingungen, unter denen Bodenschätze gefördert werden können, unmittelbar zwischen den rohstofffördernden Unternehmen und den staatlichen Stellen verhandelt und im Rahmen von Verträgen zwischen den beteiligten Parteien festgehalten. In Deutschland ist das grundsätzlich nicht der Fall, da die Bedingungen für das Aufsuchen und die Gewinnung von Bodenschätzen in Gesetzen allgemein gültig festgelegt sind und diese durch die jeweils zuständigen Behörden umgesetzt werden."
+    p2: "Vor diesem (internationalen) Hintergrund ermutigt die Initiative für Transparenz im rohstoffgewinnenden Sektor (EITI) teilnehmende Länder in Anforderung 2.4 des EITI-Standards dazu, die Transparenz hinsichtlich dieser Verträge zu fördern. Die EITI-Anforderung erfordert somit zunächst ein Verständnis über den Inhalt und den Umfang der in Frage stehenden „Verträge“ bzw. „Vereinbarungen“ zwischen staatlichen Stellen und rohstoffabbauenden Unternehmen, in denen „Bedingungen“ im Zusammenhang mit dem Abbau von Rohstoffen festgelegt sind."
+    p3: "In Deutschland unterliegt die Gewinnung sowohl von bergfreien als auch von grundeigenen Rohstoffen und Grundeigentümerbodenschätzen verfahrensrechtlich einem öffentlich-rechtlichen Genehmigungsregime, dessen Inhalt, Ablauf und Umfang sich je nach Art der betroffenen Rohstoffe und Größe des Abbauvorhabens unterscheidet. Es können u.a. Vorschriften des Bergrechts, Bundesbaurechts, Wasserrechts sowie Immissionsschutz- und Naturschutzrechts einschlägig sein. Die verschiedenen gesetzlichen Vorschriften werden für das jeweilige Abbauvorhaben über Genehmigungsbescheide konkretisiert und umgesetzt. Die „Bedingungen“ im Sinne der EITI-Anforderung 2.4, unter denen die Gewinnung von Rohstoffen stattfindet, werden als Bestandteil der Genehmigung von staatlicher Seite festgelegt. Diese in Deutschland auf Grundlage einschlägiger rechtlicher Vorgaben erfolgte Genehmigungspraxis unterscheidet sich deutlich von der in einer Vielzahl anderer Länder geübten Praxis privatrechtlicher Verträge. Bei der künftigen Festlegung der Anforderungen des EITI-Standards unter 2.4 müssen diese Aspekte entsprechend berücksichtigt werden. "
+    p4: "Außerdem werden Genehmigungen heute schon, wenn das Vorhaben einer Umweltverträglichkeitsprüfung bedarf, von den zuständigen Behörden auf ihrer Webseite veröffentlicht. Zudem besteht Transparenz hinsichtlich Bergbauberechtigungen, soweit der Abbau bergfreier Rohstoffe betroffen ist (siehe Kapitel Lizenzregister). Für eine vergleichbare Offenlegung von Abbauberechtigungen, d.h. zum Eigentum von Abbauflächen bzw. Nutzungsrechten hinsichtlich des Abbaus nicht bergfreier Rohstoffe, bestehen derzeit keine gesetzlichen Vorgaben."
+    p5: "Darüber hinaus können „Vereinbarungen“ auch privatrechtlicher Natur sein und zwischen rohstoffabbauenden Unternehmen und staatlichen Stellen geschlossen werden. Hier können zwischen den Vertragsparteien weitere Bedingungen bzw. Auflagen im Zusammenhang mit dem Rohstoffabbau vereinbart werden. Einer zentralen Erfassung bzw. Veröffentlichung dieser Vereinbarungen können im Einzelfall vertragliche Abreden zur Verschwiegenheit über den Vertragsinhalt entgegenstehen. Die Vorschriften zur Erstellung eines Zahlungsberichts sehen allerdings in § 341r Nr. 3 HGB bereits eine Verpflichtung zur Offenlegung von Zahlungen rohstoffgewinnender Unternehmen „zur Verbesserung der Infrastruktur“ vor. Darunter fallen nach dem Verständnis des Instituts der Wirtschaftsprüfer in Deutschland e.V. u.a. Zahlungen zur Förderung von kommunalen Investitionen oder Bildungseinrichtungen, die beispielsweise in privatrechtlichen Vereinbarungen festgehalten werden. Insofern ist davon auszugehen, dass es über die Veröffentlichung von Zahlungsberichten auch zu einer Offenlegung von Zahlungsströmen aus privatrechtlichen Vereinbarungen zwischen der Rohstoffindustrie und dem Staat kommen wird, nicht jedoch zu einer Offenlegung von Vertragsinhalten privatrechtlicher Vereinbarungen. Für eine genaue inhaltliche Ausgestaltung dieses Zahlungsgrundes bleibt die zukünftige Analyse von veröffentlichten Zahlungsberichten und die weitere rechtliche bzw. betriebswirtschaftliche Entwicklung abzuwarten."
+    p6: "Im deutschen Kontext wird die EITI-Anforderung zur Förderung von Transparenz im Bereich Verträge und Vereinbarungen zwischen staatlichen Stellen und rohstoffgewinnenden Unternehmen im Zusammenhang mit dem Rohstoffabbau weiter in der MSG behandelt und diskutiert."
+
 anfallende_zahlungen:
   title: Anfallende Zahlungen
   nav_items:
@@ -1884,7 +1949,7 @@ how-it-work:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
       item2: Genehmigung von Bergbauprojekten
-      item3: Öffentliches Lizenzregister
+      item3: Lizenzregister und Verträge
       item4: Wirtschaftlicher Eigentümer
     section4:
       title: Welche Einnahmen erzielt der Staat?
