@@ -90,7 +90,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row1.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row1.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>

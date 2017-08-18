@@ -488,6 +488,52 @@ lizenzregister_und_verträge:
     p5: "Darüber hinaus können „Vereinbarungen“ auch privatrechtlicher Natur sein und zwischen rohstoffabbauenden Unternehmen und staatlichen Stellen geschlossen werden. Hier können zwischen den Vertragsparteien weitere Bedingungen bzw. Auflagen im Zusammenhang mit dem Rohstoffabbau vereinbart werden. Einer zentralen Erfassung bzw. Veröffentlichung dieser Vereinbarungen können im Einzelfall vertragliche Abreden zur Verschwiegenheit über den Vertragsinhalt entgegenstehen. Die Vorschriften zur Erstellung eines Zahlungsberichts sehen allerdings in § 341r Nr. 3 HGB bereits eine Verpflichtung zur Offenlegung von Zahlungen rohstoffgewinnender Unternehmen „zur Verbesserung der Infrastruktur“ vor. Darunter fallen nach dem Verständnis des Instituts der Wirtschaftsprüfer in Deutschland e.V. u.a. Zahlungen zur Förderung von kommunalen Investitionen oder Bildungseinrichtungen, die beispielsweise in privatrechtlichen Vereinbarungen festgehalten werden. Insofern ist davon auszugehen, dass es über die Veröffentlichung von Zahlungsberichten auch zu einer Offenlegung von Zahlungsströmen aus privatrechtlichen Vereinbarungen zwischen der Rohstoffindustrie und dem Staat kommen wird, nicht jedoch zu einer Offenlegung von Vertragsinhalten privatrechtlicher Vereinbarungen. Für eine genaue inhaltliche Ausgestaltung dieses Zahlungsgrundes bleibt die zukünftige Analyse von veröffentlichten Zahlungsberichten und die weitere rechtliche bzw. betriebswirtschaftliche Entwicklung abzuwarten."
     p6: "Im deutschen Kontext wird die EITI-Anforderung zur Förderung von Transparenz im Bereich Verträge und Vereinbarungen zwischen staatlichen Stellen und rohstoffgewinnenden Unternehmen im Zusammenhang mit dem Rohstoffabbau weiter in der MSG behandelt und diskutiert."
 
+wirtschaftlich_berechtigter:
+  title: "Wo sind Informationen zu den vergebenen Lizenzen zugänglich?"
+  nav_items:
+    - name: "title"
+      title: "Seitenanfang"
+    - name: wirtschaftlich_berechtigter
+      title: Wirtschaftlich Berechtigter
+      subnav_items:
+        - name: deutsches_transparenzregister
+          title: Deutsches Transparenzregister
+        - name: angaben
+          title: Angaben zu wirtschaftlich Berechtigten im Transparenzregister
+        - name: betreuung
+          title: Betreuung des Transparenzregisters
+        - name: einsicht
+          title: Einsicht in das Transparenzregister
+  sup1:
+    title: "1"
+    text: "Eine Transaktion bezeichnet hierbei all jene Handlungen, die eine Geldbewegung oder eine sonstige Vermögensbewegung bezweckt oder bewirkt."
+  sup2:
+    title: "2"
+    text: "Richtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission (ABl. L 141 vom 5.6.2015, S. 73)."
+
+  wirtschaftlich_berechtigter:
+    title: Wirtschaftlich Berechtigter
+    p1_1: "Die Frage, wer hinter einem Unternehmen steht und sein sogenannter wirtschaftlich Berechtigter ist, hat in den letzten Jahren im Hinblick auf die Bekämpfung von Terrorismusfinanzierung, Geldwäsche und deren Vortaten wie etwa Steuerstraftaten an Bedeutung gewonnen. Wirtschaftlich Berechtigte von Unternehmen sind solche natürlichen Personen, in deren Eigentum oder unter deren Kontrolle ein Unternehmen letztlich steht bzw. jene natürlichen Personen, auf deren Veranlassung eine Transaktion"
+    p1_2: "letztlich durchgeführt oder eine Geschäftsbeziehung letztlich begründet wird (vgl. § 3 Abs. 1 Geldwäschegesetz – GwG). Die bessere Zugänglichkeit dieser Informationen soll die Bekämpfung von Geldwäsche und Terrorismusfinanzierung erleichtern."
+
+  deutsches_transparenzregister:
+    title: Deutsches Transparenzregister
+    p1_1: "In Deutschland ergibt sich der wirtschaftlich Berechtigte bereits zum Teil aus Angaben, die in öffentlich zugänglichen Registern wie etwa dem Handels-, Genossenschafts-, Partnerschafts-, Vereins- oder Unternehmensregister enthalten sind. Im Rahmen der Umsetzung der Vierten Geldwäscherichtlinie (EU) 2015/849"
+    p1_2: "wurde zum 26. Juni 2017 ein Transparenzregister eingerichtet, welches Daten zum wirtschaftlich Berechtigten in Form eines Internetportals vorhält. Das bedeutet konkret, dass über das Portal in erster Linie Informationen aus bereits bestehenden, öffentlich zugänglichen elektronischen Registern (s. o.) abrufbar sind. Nur soweit sich der wirtschaftlich Berechtigte daraus nicht ableiten lässt, wird eine Mitteilung des wirtschaftlich Berechtigten an das Transparenzregister verlangt. Das Transparenzregister erweitert und vervollständigt also die Informationen zu wirtschaftlich Berechtigten. Dies betrifft auch bisher nicht erfasste Trusts und diesen ähnliche Rechtsgestaltungen."
+    p2: "Das Register ist über die Webseite www.transparenzregister.de elektronisch zugänglich. Soweit eine Meldepflicht an das Transparenzregister besteht, weil sich der wirtschaftlich Berechtigte nicht bereits aus anderen Registern ergibt, sind diese Meldungen bis zum 1. Oktober 2017 vorzunehmen. Informationen zum wirtschaftlich Berechtigten – das betrifft auch Unternehmen der rohstoffgewinnenden Industrie – sollen ab dem 27. Dezember 2017 im Register einsehbar sein (zu den Details s. unten „Einsicht in das Transparenzregister“)."
+
+  angaben:
+    title: "Angaben zu wirtschaftlich Berechtigten im Transparenzregister"
+    p: "Erfasst werden Vor- und Nachname des wirtschaftlich Berechtigten, das Geburtsdatum und Wohnort sowie Art und Umfang des wirtschaftlichen Interesses. Im Falle von Trusts und Trust-ähnlichen Rechtsgestaltungen wird zudem die Staatsangehörigkeit erhoben (vgl. §§ 19, 21 Abs. 1 GwG)."
+
+  betreuung:
+    title: "Betreuung des Transparenzregisters"
+    p: "Das Transparenzregister wird technisch vom Bundesanzeiger Verlag GmbH geführt. Grundsätzlich sind alle Unternehmen in Deutschland dazu verpflichtet, die aktuellen Angaben zum wirtschaftlich Berechtigten in elektronischer Form an das Transparenzregister zu melden, sofern ihre Angaben noch nicht in einem anderen Registern verzeichnet sind (vgl. zu den Details § 20 Abs. 2 GwG)."
+
+  einsicht:
+    title: "Einsicht in das Transparenzregister"
+    p: "Die Informationen zu wirtschaftlich Berechtigten im Transparenzregister sind bestimmten staatlichen Behörden im Rahmen ihrer gesetzlichen Aufgaben, geldwäscherechtlich Verpflichteten im Rahmen der Erfüllung ihrer geldwäscherechtlichen Sorgfaltspflichten und jedem anderen, der ein berechtigtes Interesse an der Einsichtnahme darlegt (z. B. Nichtregierungsorganisationen (NRO’s) oder Journalis-ten), zugänglich (§ 23 Abs. 1 GwG). Ein derartiges Interesse besteht insbesondere, wenn ein Bezug zur Verhinderung und Bekämpfung von Terrorismusfinanzierung und Geldwäsche sowie deren Vortaten wie etwa Korruption nachvollziehbar vorgebracht wird. Die Bundesregierung hat am 2. Juli 2014 beschlossen, die Kandidatur Deutschlands bei der internationalen „Initiative für Transparenz in der Rohstoffwirtschaft“ (Extractive Industries Transparency Initiative – EITI) einzuleiten. Mit der Umsetzung in Deutschland (D-EITI) stärkt die Bundesregierung die internationalen Bemühungen bei der Bekämpfung von Korruption im Zusammenhang mit Rohstoffgeschäften. Dieses erklärte Ziel begründet ein berechtigtes Interesses von D-EITI zur Einsichtnahme in das Transparenzregister. "
+
 anfallende_zahlungen:
   title: Payments made
   nav_items:
@@ -1967,7 +2013,7 @@ how-it-work:
       item1: Rechtlicher Rahmen
       item2: Genehmigung von Bergbauprojekten
       item3: Lizenzregister und Verträge
-      item4: Wirtschaftlicher Eigentümer
+      item4: Wirtschaftlich Berechtigter
     section4:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
