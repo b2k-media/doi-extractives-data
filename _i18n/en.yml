@@ -2009,6 +2009,27 @@ einnahmen:
         title: "**"
         text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
 
+bip:
+    title: "Beitrag zum BIP"
+    nav_items:
+      - name: intro
+        title: Seitenanfang
+      - name: bip
+        title: "BIP: Wie groß ist der deutsche Rohstoffsektor?"
+      - name: daten
+        title: Daten einsehen
+
+    bip:
+      title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
+      p1_1: "Mit einem"
+      p1_2: "Bruttoinlandsprodukt"
+      p1_3: "von rund 3.032,82 Milliarden Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
+      p1_4: "Bruttowertschöpfung"
+      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Milliarden Euro, was einem Anteil von"
+      p1_6: "0,14%"
+      p1_7: "am BIP entspricht."
+      daten: Daten Einsehen
+
 beschäftigung:
     title: Beschäftigung
     nav_items:

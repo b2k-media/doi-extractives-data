@@ -5,13 +5,6 @@ permalink: /explore/BIP/
 breadcrumb:
   - title: Daten
     permalink: /explore/
-nav_items:
-  - name: intro
-    title: Seitenanfang
-  - name: bip
-    title: "BIP: Wie groß ist der deutsche Rohstoffsektor?"
-  - name: daten
-    title: Daten einsehen
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
@@ -21,23 +14,25 @@ nav_items:
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
-    <h1 id="intro">Beitrag zum BIP</h1>
+    <h1 id="intro">{% t bip.title %}</h1>
 
     <div class="container-left-9">
       <section id="bip" style="position: relative;">
-        <h3>BIP:  Wie groß ist der deutsche Rohstoffsektor?</h3>
+        <h3>{% t bip.bip.title %}</h3>
         <p>
-          Mit einem
+          {% t bip.bip.p1_1 %}
           <span class="term term_end" data-term="Bruttoinlandsprodukt" title="Click to define" tabindex="0">
-            Bruttoinlandsprodukt
+            {% t bip.bip.p1_2 %}
             <icon class="icon-book"></icon>
           </span>
-           von rund 3.032,82 Milliarden Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die
+            {% t bip.bip.p1_3 %}
            <span class="term term_end" data-term="Bruttowertschöpfung" title="Click to define" tabindex="0">
-             Bruttowertschöpfung
+              {% t bip.bip.p1_4 %}
              <icon class="icon-book"></icon>
            </span>
-            des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Milliarden Euro, was einem Anteil von <b>0,14%</b> am BIP entspricht.
+            {% t bip.bip.p1_5 %}
+              <b>{% t bip.bip.p1_6 %}</b>
+            {% t bip.bip.p1_7 %}
         </p>
         <a href="{{site.baseurl}}/downloads/#bip">
           <icon class="fa fa-file-text-o u-padding-right"></icon>Daten Einsehen
@@ -46,10 +41,11 @@ nav_items:
     </div>
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{{ page.title }}</div>
+        <div class="nav-title">{% t bip.title %}</div>
       </h3>
       <nav>
-        {% include case-studies/_nav-list.html %}
+        {% assign nav_items = site.translations[site.lang]['bip'].nav_items %}
+        {% include case-studies/_nav-list.html nav_items=nav_items %}
       </nav>
     </div>
   </section>
