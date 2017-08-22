@@ -454,7 +454,8 @@
     selection.select('.value')
       .text(function(d) {
         var val = isState ? d.value + ' ' +traslation.product : formatNumber(d.value);
-        return d.value ? val : traslation.zero_products;
+        var val_lang = langEn ? val: val.replace(/,/g,".");
+        return d.value ? val_lang : traslation.zero_products;
       });
   }
 
