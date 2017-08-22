@@ -1550,7 +1550,7 @@ explore-data:
 
       Hier können Sie interaktiv Zahlen und Daten rund um die <a href="#production">Förderung von Rohstoffen in Deutschland</a> entdecken und sich über den <a href="#revenue">wirtschaftlichen</a> und <a href="#economic-impact">sozialen Beitrag</a> des rohstoffgewinnenden Sektors informieren.
 
-    introduction-second: ""
+    introduction-second: " "
     figcaption: |
       Eine interaktive Rohstoffkarte finden Sie im Abschnitt:
       <a class="link-alpha" href="#production">Produktionsdaten</a>
