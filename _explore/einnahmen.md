@@ -25,41 +25,6 @@ breadcrumb:
           {% t einnahmen.steuern.daten_einsehen %}
         </a>
         <br/>
-        <h3 id="körperschaftsteuer">
-          {% t einnahmen.steuern.körperschaftsteuer.title %}
-        </h3>
-        <p>{% t einnahmen.steuern.körperschaftsteuer.p %}</p>
-
-        <h3 id="gewerbesteuer">
-          {% t einnahmen.steuern.gewerbesteuer.title %}
-        </h3>
-        <p>{% t einnahmen.steuern.gewerbesteuer.p1 %}</p>
-        <p>{% t einnahmen.steuern.gewerbesteuer.p2 %}</p>
-
-        <h3 id="einkommensteuer">
-          {% t einnahmen.steuern.einkommensteuer.title %}
-        </h3>
-        <p>{% t einnahmen.steuern.einkommensteuer.p1 %}</p>
-        <p>{% t einnahmen.steuern.einkommensteuer.p2 %}</p>
-        <p>{% t einnahmen.steuern.einkommensteuer.p3 %}</p>
-        <p>{% t einnahmen.steuern.einkommensteuer.p4 %}</p>
-
-        <h3 id="solidaritätszuschlag">
-          {% t einnahmen.steuern.solidaritätszuschlag.title %}
-        </h3>
-        <p>{% t einnahmen.steuern.solidaritätszuschlag.p1 %}</p>
-        <p>{% t einnahmen.steuern.solidaritätszuschlag.p2 %}</p>
-        <p>
-          {% t einnahmen.steuern.solidaritätszuschlag.p3_1 %}
-          <a href="{{ site.baseurl }}/explore/how-it-work/anfallende-zahlungen">
-          {% t einnahmen.steuern.solidaritätszuschlag.link1 %}
-          </a>
-          {% t einnahmen.steuern.solidaritätszuschlag.p3_2 %}
-          <a href="{{ site.baseurl }}/explore/how-it-work/umgang-mit-der-natur">
-          {% t einnahmen.steuern.solidaritätszuschlag.link2 %}
-          </a>
-          {% t einnahmen.steuern.solidaritätszuschlag.p3_3 %}
-        </p>
       </section>
       <br/>
       <section id="steuereinnahmen" style="position: relative;">
