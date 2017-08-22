@@ -154,17 +154,19 @@ salze:
   title: Salze
   nav_items:
     - name: title
-      title: Seitenanfang
-    - name: fakten_zu_salze
-      title: Wissenswertes über Salze
-    - name: geschichte
-      title: Geschichte
-    - name: wirtschaftliche-bedeutung
-      title: Wirtschaftliche Bedeutung
-    - name: gewinnung
-      title: Gewinnung
-    - name: verwendung
-      title: Verwendung
+      title: Salze
+      subnav_items:
+        - name: fakten_zu_salze
+          title: Wissenswertes über Salze
+        - name: geschichte
+          title: Geschichte
+        - name: wirtschaftliche-bedeutung
+          title: Wirtschaftliche Bedeutung
+        - name: gewinnung
+          title: Gewinnung
+        - name: verwendung
+          title: Verwendung
+  h2: Salze
   slides_title: Wissenswertes über Salze
   slides:
     - Salz wird seit über 5.000 Jahren aktiv durch den Menschen gewonnen.
@@ -215,7 +217,7 @@ steine-und-erden:
 
   h2: Steine und Erden
   p1: Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen, insbesondere Kiese und Sande, gebrochene Natursteine, Kalk-, Mergel- und Dolomitsteine, Gips- und Anhydritsteine sowie Tone und Lehme. Steine und Erden sind Massenrohstoffe; sie sind aufgrund geologischer Verhältnisse standortgebunden und nicht gleichmäßig über das Land verteilt.
-  slides_title: Wissenswertes über Industrieminerale
+  slides_title: Wissenswertes über Steine und Erden
   slides:
     - Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Darüber hinaus kommen bei der Herstellung von Baustoffen jährlich fast 100 Mio. t Sekundärrohstoffe zur Schonung der Ressourcen zum Einsatz.
     - Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen; der mengenmäßig größte Anteil an der Gewinnung entfällt auf die Rohstoffe Kies, Sand und Naturstein.
