@@ -534,7 +534,7 @@ lizenzregister_und_verträge:
     title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
     p1_1: "Ein gutes Beispiel für die Veröffentlichung von Angaben zu Bergbauberechtigungen im Internet ist der vom Landesamt für Bergbau, Energie und Geologie (LBEG) in Niedersachsen geführte"
     link1: " NIBIS-Kartenserver"
-    link_data: "https://www.nibis.lbeg.de/cardomap3/"
+    link_data: "http://nibis.lbeg.de/cardomap3/"
     p1_2: "Auf dieser Webseite können sich Bürgerinnen und Bürger in mehr als 400 Fachkarten über die Themenbereiche Altlasten, Bergbau, Bodenkunde, Erosion, Geologie, Geothermie, Geophysik, Hydrogeologie, Ingenieurgeologie, Klima und Rohstoffe informieren. Bezogen auf die Bergbauberechtigungen sind im NIBIS-Kartenserver für die Bundesländer Niedersachsen, Bremen, Hamburg und Schleswig-Holstein regelmäßig folgende Daten öffentlich einsehbar:"
     item1: Informationen zum Lizenzinhaber
     item2: Koordinaten des Lizenzgebiets
@@ -1401,7 +1401,7 @@ subventionen-und-steuerliche-begünstigungen:
       title: Zuschüsse für den Absatz der Steinkohle
       subnav_items:
         - name: 1-entwicklung
-          title: Etwicklung
+          title: Entwicklung
         - name: 1-kontrolle
           title: Kontrolle
         - name: 1-vorsorge
@@ -1550,7 +1550,7 @@ explore-data:
 
       Hier können Sie interaktiv Zahlen und Daten rund um die <a href="#production">Förderung von Rohstoffen in Deutschland</a> entdecken und sich über den <a href="#revenue">wirtschaftlichen</a> und <a href="#economic-impact">sozialen Beitrag</a> des rohstoffgewinnenden Sektors informieren.
 
-    introduction-second: "-"
+    introduction-second: ""
     figcaption: |
       Eine interaktive Rohstoffkarte finden Sie im Abschnitt:
       <a class="link-alpha" href="#production">Produktionsdaten</a>
@@ -2182,9 +2182,9 @@ downloads:
     link1: Bayern,
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
-    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%2520f%25C3%25BCr%2520Wirtschaft%2520und%2520Energie_2017-18.pdf"
+    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%20f%C3%BCr%20Wirtschaft%20und%20Energie_2017-18.pdf"
     link3: Niedersachsen,
-    link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
+    link3_data: "http://www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
     link4: Nordrhein-Westfalen.
     link4_data: "https://www.landtag.nrw.de/web/WWW/haushalt/cd-fm-0916/daten/pdf/2017/gesamt_2017.pdf"
   umsatz:
@@ -2195,7 +2195,7 @@ downloads:
     title: Daten zu Anpassungsgeld
     p: Die Daten zur Höhe der Subventionen wurden dem aktuellen Subventionsbericht der Bundesregierung entnommen, der alle zwei Jahre erscheint
     link: (PDF).
-    link_data: "www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
+    link_data: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
 
 about:
     title: Herzlich Willkommen ...

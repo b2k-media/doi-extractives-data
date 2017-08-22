@@ -91,7 +91,7 @@ breadcrumb:
             {% t beschäftigung.table.star %}
           </small></p>
           <br /><br />
-          <a href="{{site.baseurl}}/downloads/#beschäftigten">
+          <a target="_blank" href="{{site.baseurl}}/downloads/#beschäftigten">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t beschäftigung.daten_einsehen %}
           </a>

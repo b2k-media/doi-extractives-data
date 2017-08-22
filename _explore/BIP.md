@@ -34,7 +34,7 @@ breadcrumb:
               <b>{% t bip.bip.p1_6 %}</b>
             {% t bip.bip.p1_7 %}
         </p>
-        <a href="{{site.baseurl}}/downloads/#bip">
+        <a target="_blank" href="{{site.baseurl}}/downloads/#bip">
           <icon class="fa fa-file-text-o u-padding-right"></icon>Daten Einsehen
         </a>
       </section>

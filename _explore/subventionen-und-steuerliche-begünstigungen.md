@@ -97,7 +97,7 @@ breadcrumb:
           </div>
         </div>
         <p style="margin-top: 10px">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}</p>
-        <a href="{{site.baseurl}}/downloads/#anpassungsgeld">
+        <a target="_blank" href="{{site.baseurl}}/downloads/#anpassungsgeld">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.steuern.daten_einsehen %}
         </a>
@@ -195,7 +195,7 @@ breadcrumb:
         <br/>
         <p>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_1 %}
-          <a href="https://webgate.ec.europa.eu/competition/transparency/public/search/home">
+          <a target="_blank" href="https://webgate.ec.europa.eu/competition/transparency/public/search/home">
             {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.link %}
           </a>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_2 %}
@@ -210,7 +210,7 @@ breadcrumb:
         <p id="explanation-12">
           <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.title %}</sup>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.text1 %}
-          <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VGR/Inlandsprodukt/Tabellen/BWSBereichen.html">
+          <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VGR/Inlandsprodukt/Tabellen/BWSBereichen.html">
             {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.link %}
           </a>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.text2 %}
