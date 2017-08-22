@@ -179,6 +179,7 @@ breadcrumb:
         </a>
         <br/><br/>
         <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p>
+        <h4>{% t einnahmen.förder_feldesabgaben.table1.title %}</h4>
         <table class="einnahmen_table_1">
           <tbody>
             <tr>
@@ -270,6 +271,12 @@ breadcrumb:
               <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td1 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td2 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td3 %}</td>
+            </tr>
+
+            <tr style="height: 33px">
+              <td> </td>
+              <td> </td>
+              <td> </td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td1 %}</td>

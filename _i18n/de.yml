@@ -1887,6 +1887,7 @@ einnahmen:
       daten_einsehen: Daten einsehen
       p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
       table1:
+        title: "Einnahmen aus Förderabgaben für die Jahre 2015 und 2016"
         th1: Förderabgabe in Euro
         th2: "2015"
         th3: "2016"
@@ -1895,69 +1896,69 @@ einnahmen:
           td2: "386.954.750,40"
           td3: "232.507.396,33"
         row2:
-          td1: Baden-Württemberg
-          td2: "117.387,84"
-          td3: "128.185,25"
-        row3:
-          td1: Bayern
-          td2: "479.125,65"
-          td3: "1.479.828,47"
-        row4:
-          td1: Berlin
-          td2: "0,00"
-          td3: "0,00"
-        row5:
-          td1: Bremen
-          td2: "0,00"
-          td3: "0,00"
-        row6:
-          td1: Hamburg
-          td2: "167.392,87"
-          td3: "86.573,83"
-        row7:
-          td1: Hessen
-          td2: "455.052,77"
-          td3: "462.929,24"
-        row8:
           td1: Niedersachsen
           td2: "295.865.995,20"
           td3: "172.075.617,30"
-        row9:
-          td1: Nordrhein-Westfalen
-          td2: "1.451.800,74"
-          td3: "666.541,61"
-        row10:
-          td1: Rheinland-Pfalz
-          td2: "8.112.789,63"
-          td3: "5.191.731,39"
-        row11:
-          td1: Saarland
-          td2: "137.667,06"
-          td3: "33.121,21"
-        row12:
+        row3:
           td1: Schleswig-Holstein
           td2: "75.966.953,81"
           td3: "48.139.515,05"
-        row13:
-          td1: Brandenburg
-          td2: "528.292,70"
-          td3: "536.917,05"
-        row14:
-          td1: Mecklenburg-Vorpommern
-          td2: "466.322,01"
-          td3: "247.585,55"
-        row15:
-          td1: Sachsen
-          td2: "335.156,57"
-          td3: "523.795,20"
-        row16:
+        row4:
+          td1: Rheinland-Pfalz
+          td2: "8.112.789,63"
+          td3: "5.191.731,39"
+        row5:
           td1: Sachsen-Anhalt
           td2: "1.363.756,74"
           td3: "1.480.734,27"
-        row17:
+        row6:
+          td1: Bayern
+          td2: "479.125,65"
+          td3: "1.479.828,47"
+        row7:
           td1: Thüringen
           td2: "1.507.056,81"
           td3: "1.454.320,91"
+        row8:
+          td1: Nordrhein-Westfalen
+          td2: "1.451.800,74"
+          td3: "666.541,61"
+        row9:
+          td1: Brandenburg
+          td2: "528.292,70"
+          td3: "536.917,05"
+        row10:
+          td1: Sachsen
+          td2: "335.156,57"
+          td3: "523.795,20"
+        row11:
+          td1: Hessen
+          td2: "455.052,77"
+          td3: "462.929,24"
+        row12:
+          td1: Mecklenburg-Vorpommern
+          td2: "466.322,01"
+          td3: "247.585,55"
+        row13:
+          td1: Baden-Württemberg
+          td2: "117.387,84"
+          td3: "128.185,25"
+        row14:
+          td1: Hamburg
+          td2: "167.392,87"
+          td3: "86.573,83"
+        row15:
+          td1: Saarland
+          td2: "137.667,06"
+          td3: "33.121,21"
+        row16:
+          td1: Berlin
+          td2: "0,00"
+          td3: "0,00"
+        row17:
+          td1: Bremen
+          td2: "0,00"
+          td3: "0,00"
         row18:
           td1: Förderabgaben in Mio. Euro
           td2: "387,0"
