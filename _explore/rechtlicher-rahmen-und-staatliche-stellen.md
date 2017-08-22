@@ -261,15 +261,15 @@ breadcrumb:
         <p>{% t rechtlicher-rahmen.rechtliche-regelung.p1 %}</p>
         <ul>
             <li>
-              <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.title %}</strong>
+              <strong id="rechtliche-regelung-1" >{% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.title %}</strong>
               {% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.p %}
             </li>
             <li>
-            <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.title %}</strong>
+            <strong id="rechtliche-regelung-2" >{% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.title %}</strong>
             {% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.p %}
             </li>
             <li>
-            <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.title %}</strong>
+            <strong id="rechtliche-regelung-3" >{% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.title %}</strong>
             {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.p1 %}
             <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
               {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.k1 %}

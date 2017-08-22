@@ -263,8 +263,14 @@ rechtlicher-rahmen:
     - name: rechtliche-regelung
       title: Rechtliche Regelung
       subnav_items:
-        - name: tabelle-1
-          title: Rechtliche Unterteilung der Bodenschätze in Deutschland
+        - name: rechtliche-regelung-1
+          title: "Bergfreie Bodenschätze"
+        - name: rechtliche-regelung-2
+          title: "Grundeigene Bodenschätze"
+        - name: rechtliche-regelung-3
+          title: "Grundeigentümerbodenschätze"
+    - name: tabelle-1
+      title: Rechtliche Unterteilung der Bodenschätze in Deutschland
   grid:
     baden-wurttemberg:
       title: Baden-Württemberg
