@@ -20,7 +20,8 @@ breadcrumb:
         <p>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.p1 %}</p>
         <p>
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.p2_1 %}
-          <a href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">
+          <a
+          target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">
             {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.link1 %}
           </a>
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.p2_2 %}
