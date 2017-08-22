@@ -953,9 +953,6 @@ verwendung-der-einnahmen:
       bundesland: "Nordrhein-Westfalen"
       rechtsgrundlage: "Verordnung über die Feldes und Förderabgabe (FFVO) vom 14.12.1998"
       rechtsgrundlage_link: "esb.bezreg-arnsberg.nrw.de/a_1/a_1_021/"
-      feldesabgabe1:
-        title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-      feldesabgabe2: "Höchstsatz: 60 €"
       abgabesätze1:
         title: "Grubengas 0,3 Cent pro m³ Methan"
       abgabesätze2:
@@ -2117,7 +2114,7 @@ downloads:
     - name: daten-zur-exporte
       title: Daten zur Exporte
     - name: steuern
-      title: Steuern Daten zu Staatseinnahmen durch Steuern
+      title: Daten zu Staatseinnahmen durch Steuern
     - name: förderabgaben
       title: Daten zu Feldes- und Förderabgaben
     - name: umsatz
@@ -2162,7 +2159,7 @@ downloads:
     p4: ", Tabellen 5, 28 und 29) entnommen."
 
   steuern:
-    title: Steuern Daten zu Staatseinnahmen durch Steuern
+    title: Daten zu Staatseinnahmen durch Steuern
     p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2012, der Gewerbesteuerstatistiken 2010 und 2011 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
     p2: Betrachtet wurde jeweils nur der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“. Er umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der „Klassifikation der Wirtschaftszweige“ des statistischen Bundesamts auf den Seiten 175-185.
     p3: "Da die aktuellsten statistischen Daten die Jahre 2011 bzw. 2012 betreffen, wurden die Folgejahre bis 2015 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.). Für das Jahr 2016 liegt noch kein Betrag der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ vor."

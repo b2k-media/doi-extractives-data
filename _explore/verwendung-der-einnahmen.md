@@ -652,17 +652,7 @@ breadcrumb:
                     {% t verwendung-der-einnahmen.table.row10.rechtsgrundlage %}
                   </a></td>
                 <td>
-                  <ul>
-                    <li>
-                      {% t verwendung-der-einnahmen.table.row10.feldesabgabe1.title %}
-                      <sup>
-                        <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.sup1.title %}
-                        </a>
-                      </sup>
-                    </li>
-                    <li>{% t verwendung-der-einnahmen.table.row10.feldesabgabe2 %}</li>
-                  </ul>
+                  
                 </td>
                 <td> <!-- Abgabesätze -->
                   <ul>
