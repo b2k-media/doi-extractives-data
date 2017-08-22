@@ -423,6 +423,184 @@ genehmigung-von-bergbauprojekten:
     k4: Wasserhaushaltsgesetz
     p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
 
+bergbauberechtigungen:
+  title: Bergbauberechtigungen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: erlaubnis
+      title: Erlaubnis
+    - name: bewilligung
+      title: Bewilligung
+    - name: bergwerkseigentum
+      title: Bergwerkseigentum
+    - name: sonderfall1
+      title: "Sonderfall: Alte Rechte"
+    - name: sonderfall2
+      title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
+
+  p1: "Bergbauberechtigungen stellen die Grundlage für das Aufsuchen und die Gewinnung von bergfreien Bodenschätzen dar. Sie werden in Form einer Erlaubnis, einer Bewilligung oder eines Bergwerkseigentums beantragt."
+  p2: "Es werden drei Arten von Bergbauberechtigungen unterschieden:"
+
+  erlaubnis:
+    title: "Erlaubnis"
+    p1: "Die Erlaubnis ist eine Bergbauberechtigung, die das Recht zur Aufsuchung von bergfreien Bodenschätzen in einem bestimmten Erlaubnisfeld erteilt. Die Erlaubnis ist auf höchstens 5 Jahre befristet und kann um jeweils drei Jahre verlängert werden (s. § 16 Abs. 4 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Erlaubnis, soweit keine Versagungsgründe vorliegen."
+    p2: "Die Erlaubnis kann verweigert werden, wenn beispielsweise kein Arbeitsprogramm vorliegt oder der festgesetzte Zeitraum in der Planung nicht berücksichtigt wird. Die Versagungsgründe sind abschließend in § 11 BBergG aufgeführt. Wenn die Aufsuchung aus Gründen, die der Erlaubnisinhaber zu vertreten hat, nicht innerhalb eines Jahres aufgenommen worden ist, ist die Erlaubnis zu widerrufen (§ 18 BBergG)."
+
+  bewilligung:
+    title: "Bewilligung"
+    p1: "Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem bestimmten Bewilligungsfeld erteilt. Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich  (s. § 16, Abs. 5 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Bewilligung, sollten keine Versagungsgründe vorliegen."
+    p2: "Die Bewilligung kann verweigert werden, wenn beispielsweise nicht nachgewiesen werden kann, dass die Bodenschätze nach ihrer Lage und Beschaffenheit gewonnen werden können (s. § 12 BBergG). Wenn die Gewinnung der Rohstoffe nicht innerhalb von drei Jahren aufgenommen worden ist, ist die Bewilligung grundsätzlich zu wiederrufen (s. § 18 BBergG). Die Versagungsgründe sind in § 12 BBergG abschließend aufgeführt."
+
+  bergwerkseigentum:
+    title: "Bergwerkseigentum"
+    p1: "Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen. Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, Abs. 5 BBergG).  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, ist das Bergwerkseigentum grundsätzlich zu widerrufen (s. § 18 BBergG). Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in bereits im Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG)."
+    p2: "Für die Dokumentation der Bergbauberechtigungen werden nach § 75 ff. BBergG sogenannte Berechtsamsbücher und Berechtsamskarten angelegt. Dort sind die Informationen zu Erlaubnissen, Bewilligungen und Bergwerkseigentum sowie Angaben zu den betreffenden Feldern einzusehen."
+
+  sonderfall1:
+    title: "Sonderfall: Alte Rechte"
+    p: "Zu den Berechtigungsformen gehören neben den oben genannten Berechtigungen (Erlaubnis, Bewilligung bzw. Bergwerkseigentum) auch aus altem Recht übergeleitete Berechtigungen, die als alte Rechte bezeichnet werden. Hierbei handelt es sich um Bergbauberechtigungen, die vor dem Inkrafttreten des aktuellen Bundesberggesetzes von 1982 zugeteilt worden sind. Dazu gehören beispielsweise die Braunkohletagebaue im Rheinischen Revier. Sie erhalten nach heutigem Recht weiterhin ihre Gültigkeit  (s. § 149 Abs. 1 Satz 1 BBergG), wenn sie innerhalb einer Übergangsfrist von drei Jahren nach Inkrafttreten des BBergG 1982 bei den Bergbehörden angezeigt und durch die Bergaufsicht bestätigt worden sind. Berechtigungen nach altem Recht sind im Gegensatz zu Berechtigungen nach dem neuen BBergG weder befristet, noch müssen Förder- oder Feldesabgaben bezahlt werden. In der Praxis betreffen diese Altrechte insbesondere die Stein- und die Braunkohle. Für die Förderung der Bodenschätze in dieser Kategorie ist ebenfalls die Zulassung eines Betriebsplans notwendig."
+
+  sonderfall2:
+    title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
+    p: "Das Bergrechtssystem der DDR kannte nur die volkseigenen mineralischen Rohstoffe und die sonstigen mineralischen Rohstoffe. Die volkseigenen Rohstoffe umfassten im Wesentlichen die nach bundesdeutschem Gesetz bergfreien und grundeigenen Bodenschätze und standen im Volkseigentum. Die sonstigen mineralischen Rohstoffe umfassten im Wesentlichen die Grundeigentümerbodenschätze und waren dem Grundeigentum zugeordnet. Mit der Verleihungs-Verordnung vom 15.08.1990 wurde die Grundlage geschaffen, Bergbauberechtigungen volkseigener mineralischer Rohstoffe in bergfreie Bodenschätze umzuwandeln und diese somit im Rechtssystem im wiedervereinigten Deutschland anzuerkennen. Die übertragenen Bergbauberechtigungen gelten als Bergwerkseigentum. Sie sind wie die Bergbauberechtigungen nach altem Recht unbefristet sowie von der Feldes- und Förderabgabe befreit (s. § 149 und § 151 BBergG). Im Unterschied zu den alten Bundesländern erstrecken sich die Altrechte (s. Abschnitt zu Bergbauberechtigung nach altem Recht) in den neuen Bundesländern nicht nur bis 1980, sondern auf die bis 1990 erkundeten Lagerstätten. Sie umfassen zudem nicht nur die bergfreien, sondern auch die grundeigenen Bodenschätze. Die  Rechte zur Aufsuchung und Gewinnung von grundeigenen Bodenschätzen wurden nach DDR-Recht ebenfalls über staatlich vergebene Bergbauberechtigungen geregelt."
+
+  tableHead: "Schaubild:"
+  tableHead1: "Übersicht zu altem Bergrecht, Bergrecht in der DDR und neuem Bergrecht"
+
+  table:
+    th1: "Berechtigungen nach altem Bergrecht (BRD)"
+    th2: "Berechtigungen nach Bergrecht in der DDR"
+    th3: "Berechtigungen nach neuem Bergrecht"
+    row1:
+      td1: "Rohstoffbezeichnung"
+      td2: "Bergfreie Rohstoffe"
+      td3: "Volkseigene Rohstoffe"
+      td4: "Bergfreie Rohstoffe"
+    row2:
+      td1: "Zahlung von Feldes- und Förderabgaben"
+      td2: "Nein"
+      td3: "Nein"
+      td4: "Entscheidung auf Ebene des Bundeslandes"
+    row3:
+      td1: "Befristung"
+      td2: "Nein"
+      td3: "Nein"
+      td4: "Ja"
+      text : "(siehe Erläuterungen unter)"
+      link: "Bergbauberechtigungen"
+
+lizenzregister_und_verträge:
+  title: Wo sind Informationen zu den vergebenen Lizenzen zugänglich?
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: lizenzregister
+      title: Lizenzregister
+      subnav_items:
+        - name: rechtliche_grundlage
+          title: Rechtliche Grundlage
+        - name: beispiel
+          title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
+        - name: handhabung
+          title: Handhabung in anderen Bundesländern
+    - name: verträge
+      title: Verträge
+
+  lizenzregister:
+    title: Lizenzregister
+  rechtliche_grundlage:
+    title: Rechtliche Grundlage
+    p1: In Deutschland wird allein für bergfreie Bodenschätze (siehe Glossar) das Recht zur bergbaulichen Exploration und Gewinnung staatlich vergeben. Das Verfügungsrecht über einen bergfreien Bodenschatz wird als Bergbauberechtigung bezeichnet und kann bei den Bergbehörden der Bundesländer beantragt werden
+    link1: (Genehmigung von Bergbauvorhaben).
+    p2: Nach § 75 BBergG führen die Bergbehörden sogenannte Berechtsamsbücher und Berechtsamskarten, in denen die nach BBergG neu erteilten oder nach § 149 BBergG aufrechterhaltenen Bergbauberechtigungen (sogenannte Alte Rechte und Verträge) einzutragen sind.
+    p3: "Eine öffentliche Einsicht in die Berechtsamsbücher und –karten wurde im Rahmen der deutschen Umsetzung der D-EITI geschaffen. Seit dem 21.07.2017 können nach § 76 Abs. 3 BBergG auf Antrag bei den Bergbehörden folgende Angaben zu den erteilten und aufrechterhaltenen Bergbauberechtigungen, ohne Darlegung eines berechtigten Interesses, eingesehen werden:"
+    item1: Inhaber
+    item2: Felder, auf die sich die Bergbauberechtigung bezieht
+    item3: Datum der Beantragung und der Erteilung
+    item4: Laufzeit
+    item5: Bodenschatz, auf den sich die Bergbauberechtigung bezieht
+    p4: "Die zuständigen Behörden können die genannten Informationen auch direkt öffentlich zugänglich machen, was bereits seit längerem in einer Vielzahl der Bundesländer geschieht. So veröffentlichen einige Bundesländer übersichtliche Online-Lizenzkataster. Weitere Bundesländer planen den Aufbau entsprechender Systeme. "
+    p5_1: "Weiterhin werden alle Bergbauberechtigungen in Deutschland im Bereich Kohlenwasserstoffe in der jährlich erscheinenden Publikation"
+    linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
+    p5_2: "veröffentlicht"
+
+  beispiel:
+    title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
+    p1_1: "Ein gutes Beispiel für die Veröffentlichung von Angaben zu Bergbauberechtigungen im Internet ist der vom Landesamt für Bergbau, Energie und Geologie (LBEG) in Niedersachsen geführte"
+    link1: " NIBIS-Kartenserver"
+    link_data: "https://www.nibis.lbeg.de/cardomap3/"
+    p1_2: "Auf dieser Webseite können sich Bürgerinnen und Bürger in mehr als 400 Fachkarten über die Themenbereiche Altlasten, Bergbau, Bodenkunde, Erosion, Geologie, Geothermie, Geophysik, Hydrogeologie, Ingenieurgeologie, Klima und Rohstoffe informieren. Bezogen auf die Bergbauberechtigungen sind im NIBIS-Kartenserver für die Bundesländer Niedersachsen, Bremen, Hamburg und Schleswig-Holstein regelmäßig folgende Daten öffentlich einsehbar:"
+    item1: Informationen zum Lizenzinhaber
+    item2: Koordinaten des Lizenzgebiets
+    item3: Erteilungsdatum und Geltungsdauer der Lizenz
+    item4: Art des Bodenschatzes
+    image_source: "Abbildung 1: Bergbauberechtigungen im NIBIS-Kartenserver"
+
+  handhabung:
+    title: "Handhabung in anderen Bundesländern"
+    p1_1: "Auch andere Bundesländer haben die Möglichkeit geschaffen, online Einsicht in die Berechtsamsbücher und –karten zu nehmen. Beispiele hierfür sind Baden-Württemberg unter"
+    link1: "www.maps.lgrb-bw.de"
+    p1_2: "Berlin und Brandenburg unter"
+    link2: "www.geo.brandenburg.de/lbgr/bergbau"
+    p1_3: "oder das Saarland unter"
+    link3: "www.geoportal.saarland.de."
+
+  verträge:
+    title: Verträge
+    p1: "In einigen Ländern werden die Bedingungen, unter denen Bodenschätze gefördert werden können, unmittelbar zwischen den rohstofffördernden Unternehmen und den staatlichen Stellen verhandelt und im Rahmen von Verträgen zwischen den beteiligten Parteien festgehalten. In Deutschland ist das grundsätzlich nicht der Fall, da die Bedingungen für das Aufsuchen und die Gewinnung von Bodenschätzen in Gesetzen allgemein gültig festgelegt sind und diese durch die jeweils zuständigen Behörden umgesetzt werden."
+    p2: "Vor diesem (internationalen) Hintergrund ermutigt die Initiative für Transparenz im rohstoffgewinnenden Sektor (EITI) teilnehmende Länder in Anforderung 2.4 des EITI-Standards dazu, die Transparenz hinsichtlich dieser Verträge zu fördern. Die EITI-Anforderung erfordert somit zunächst ein Verständnis über den Inhalt und den Umfang der in Frage stehenden „Verträge“ bzw. „Vereinbarungen“ zwischen staatlichen Stellen und rohstoffabbauenden Unternehmen, in denen „Bedingungen“ im Zusammenhang mit dem Abbau von Rohstoffen festgelegt sind."
+    p3: "In Deutschland unterliegt die Gewinnung sowohl von bergfreien als auch von grundeigenen Rohstoffen und Grundeigentümerbodenschätzen verfahrensrechtlich einem öffentlich-rechtlichen Genehmigungsregime, dessen Inhalt, Ablauf und Umfang sich je nach Art der betroffenen Rohstoffe und Größe des Abbauvorhabens unterscheidet. Es können u.a. Vorschriften des Bergrechts, Bundesbaurechts, Wasserrechts sowie Immissionsschutz- und Naturschutzrechts einschlägig sein. Die verschiedenen gesetzlichen Vorschriften werden für das jeweilige Abbauvorhaben über Genehmigungsbescheide konkretisiert und umgesetzt. Die „Bedingungen“ im Sinne der EITI-Anforderung 2.4, unter denen die Gewinnung von Rohstoffen stattfindet, werden als Bestandteil der Genehmigung von staatlicher Seite festgelegt. Diese in Deutschland auf Grundlage einschlägiger rechtlicher Vorgaben erfolgte Genehmigungspraxis unterscheidet sich deutlich von der in einer Vielzahl anderer Länder geübten Praxis privatrechtlicher Verträge. Bei der künftigen Festlegung der Anforderungen des EITI-Standards unter 2.4 müssen diese Aspekte entsprechend berücksichtigt werden. "
+    p4: "Außerdem werden Genehmigungen heute schon, wenn das Vorhaben einer Umweltverträglichkeitsprüfung bedarf, von den zuständigen Behörden auf ihrer Webseite veröffentlicht. Zudem besteht Transparenz hinsichtlich Bergbauberechtigungen, soweit der Abbau bergfreier Rohstoffe betroffen ist (siehe Kapitel Lizenzregister). Für eine vergleichbare Offenlegung von Abbauberechtigungen, d.h. zum Eigentum von Abbauflächen bzw. Nutzungsrechten hinsichtlich des Abbaus nicht bergfreier Rohstoffe, bestehen derzeit keine gesetzlichen Vorgaben."
+    p5: "Darüber hinaus können „Vereinbarungen“ auch privatrechtlicher Natur sein und zwischen rohstoffabbauenden Unternehmen und staatlichen Stellen geschlossen werden. Hier können zwischen den Vertragsparteien weitere Bedingungen bzw. Auflagen im Zusammenhang mit dem Rohstoffabbau vereinbart werden. Einer zentralen Erfassung bzw. Veröffentlichung dieser Vereinbarungen können im Einzelfall vertragliche Abreden zur Verschwiegenheit über den Vertragsinhalt entgegenstehen. Die Vorschriften zur Erstellung eines Zahlungsberichts sehen allerdings in § 341r Nr. 3 HGB bereits eine Verpflichtung zur Offenlegung von Zahlungen rohstoffgewinnender Unternehmen „zur Verbesserung der Infrastruktur“ vor. Darunter fallen nach dem Verständnis des Instituts der Wirtschaftsprüfer in Deutschland e.V. u.a. Zahlungen zur Förderung von kommunalen Investitionen oder Bildungseinrichtungen, die beispielsweise in privatrechtlichen Vereinbarungen festgehalten werden. Insofern ist davon auszugehen, dass es über die Veröffentlichung von Zahlungsberichten auch zu einer Offenlegung von Zahlungsströmen aus privatrechtlichen Vereinbarungen zwischen der Rohstoffindustrie und dem Staat kommen wird, nicht jedoch zu einer Offenlegung von Vertragsinhalten privatrechtlicher Vereinbarungen. Für eine genaue inhaltliche Ausgestaltung dieses Zahlungsgrundes bleibt die zukünftige Analyse von veröffentlichten Zahlungsberichten und die weitere rechtliche bzw. betriebswirtschaftliche Entwicklung abzuwarten."
+    p6: "Im deutschen Kontext wird die EITI-Anforderung zur Förderung von Transparenz im Bereich Verträge und Vereinbarungen zwischen staatlichen Stellen und rohstoffgewinnenden Unternehmen im Zusammenhang mit dem Rohstoffabbau weiter in der MSG behandelt und diskutiert."
+
+wirtschaftlich_berechtigter:
+  title: "Wo sind Informationen zu den vergebenen Lizenzen zugänglich?"
+  nav_items:
+    - name: "title"
+      title: "Seitenanfang"
+    - name: wirtschaftlich_berechtigter
+      title: Wirtschaftlich Berechtigter
+      subnav_items:
+        - name: deutsches_transparenzregister
+          title: Deutsches Transparenzregister
+        - name: angaben
+          title: Angaben zu wirtschaftlich Berechtigten im Transparenzregister
+        - name: betreuung
+          title: Betreuung des Transparenzregisters
+        - name: einsicht
+          title: Einsicht in das Transparenzregister
+  sup1:
+    title: "1"
+    text: "Eine Transaktion bezeichnet hierbei all jene Handlungen, die eine Geldbewegung oder eine sonstige Vermögensbewegung bezweckt oder bewirkt."
+  sup2:
+    title: "2"
+    text: "Richtlinie (EU) 2015/849 des Europäischen Parlaments und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission (ABl. L 141 vom 5.6.2015, S. 73)."
+
+  wirtschaftlich_berechtigter:
+    title: Wirtschaftlich Berechtigter
+    p1_1: "Die Frage, wer hinter einem Unternehmen steht und sein sogenannter wirtschaftlich Berechtigter ist, hat in den letzten Jahren im Hinblick auf die Bekämpfung von Terrorismusfinanzierung, Geldwäsche und deren Vortaten wie etwa Steuerstraftaten an Bedeutung gewonnen. Wirtschaftlich Berechtigte von Unternehmen sind solche natürlichen Personen, in deren Eigentum oder unter deren Kontrolle ein Unternehmen letztlich steht bzw. jene natürlichen Personen, auf deren Veranlassung eine Transaktion"
+    p1_2: "letztlich durchgeführt oder eine Geschäftsbeziehung letztlich begründet wird (vgl. § 3 Abs. 1 Geldwäschegesetz – GwG). Die bessere Zugänglichkeit dieser Informationen soll die Bekämpfung von Geldwäsche und Terrorismusfinanzierung erleichtern."
+
+  deutsches_transparenzregister:
+    title: Deutsches Transparenzregister
+    p1_1: "In Deutschland ergibt sich der wirtschaftlich Berechtigte bereits zum Teil aus Angaben, die in öffentlich zugänglichen Registern wie etwa dem Handels-, Genossenschafts-, Partnerschafts-, Vereins- oder Unternehmensregister enthalten sind. Im Rahmen der Umsetzung der Vierten Geldwäscherichtlinie (EU) 2015/849"
+    p1_2: "wurde zum 26. Juni 2017 ein Transparenzregister eingerichtet, welches Daten zum wirtschaftlich Berechtigten in Form eines Internetportals vorhält. Das bedeutet konkret, dass über das Portal in erster Linie Informationen aus bereits bestehenden, öffentlich zugänglichen elektronischen Registern (s. o.) abrufbar sind. Nur soweit sich der wirtschaftlich Berechtigte daraus nicht ableiten lässt, wird eine Mitteilung des wirtschaftlich Berechtigten an das Transparenzregister verlangt. Das Transparenzregister erweitert und vervollständigt also die Informationen zu wirtschaftlich Berechtigten. Dies betrifft auch bisher nicht erfasste Trusts und diesen ähnliche Rechtsgestaltungen."
+    p2: "Das Register ist über die Webseite www.transparenzregister.de elektronisch zugänglich. Soweit eine Meldepflicht an das Transparenzregister besteht, weil sich der wirtschaftlich Berechtigte nicht bereits aus anderen Registern ergibt, sind diese Meldungen bis zum 1. Oktober 2017 vorzunehmen. Informationen zum wirtschaftlich Berechtigten – das betrifft auch Unternehmen der rohstoffgewinnenden Industrie – sollen ab dem 27. Dezember 2017 im Register einsehbar sein (zu den Details s. unten „Einsicht in das Transparenzregister“)."
+
+  angaben:
+    title: "Angaben zu wirtschaftlich Berechtigten im Transparenzregister"
+    p: "Erfasst werden Vor- und Nachname des wirtschaftlich Berechtigten, das Geburtsdatum und Wohnort sowie Art und Umfang des wirtschaftlichen Interesses. Im Falle von Trusts und Trust-ähnlichen Rechtsgestaltungen wird zudem die Staatsangehörigkeit erhoben (vgl. §§ 19, 21 Abs. 1 GwG)."
+
+  betreuung:
+    title: "Betreuung des Transparenzregisters"
+    p: "Das Transparenzregister wird technisch vom Bundesanzeiger Verlag GmbH geführt. Grundsätzlich sind alle Unternehmen in Deutschland dazu verpflichtet, die aktuellen Angaben zum wirtschaftlich Berechtigten in elektronischer Form an das Transparenzregister zu melden, sofern ihre Angaben noch nicht in einem anderen Registern verzeichnet sind (vgl. zu den Details § 20 Abs. 2 GwG)."
+
+  einsicht:
+    title: "Einsicht in das Transparenzregister"
+    p: "Die Informationen zu wirtschaftlich Berechtigten im Transparenzregister sind bestimmten staatlichen Behörden im Rahmen ihrer gesetzlichen Aufgaben, geldwäscherechtlich Verpflichteten im Rahmen der Erfüllung ihrer geldwäscherechtlichen Sorgfaltspflichten und jedem anderen, der ein berechtigtes Interesse an der Einsichtnahme darlegt (z. B. Nichtregierungsorganisationen (NRO’s) oder Journalis-ten), zugänglich (§ 23 Abs. 1 GwG). Ein derartiges Interesse besteht insbesondere, wenn ein Bezug zur Verhinderung und Bekämpfung von Terrorismusfinanzierung und Geldwäsche sowie deren Vortaten wie etwa Korruption nachvollziehbar vorgebracht wird. Die Bundesregierung hat am 2. Juli 2014 beschlossen, die Kandidatur Deutschlands bei der internationalen „Initiative für Transparenz in der Rohstoffwirtschaft“ (Extractive Industries Transparency Initiative – EITI) einzuleiten. Mit der Umsetzung in Deutschland (D-EITI) stärkt die Bundesregierung die internationalen Bemühungen bei der Bekämpfung von Korruption im Zusammenhang mit Rohstoffgeschäften. Dieses erklärte Ziel begründet ein berechtigtes Interesses von D-EITI zur Einsichtnahme in das Transparenzregister. "
+
 anfallende_zahlungen:
   title: Payments made
   nav_items:
@@ -1076,6 +1254,7 @@ umgang-mit-der-natur:
         td3: Ja
         td4: Ja
         td5: Ja
+    table_source: "Quelle: eigene Darstellung, Stand: Mai 2017"
 
     beispiel:
       title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
@@ -1830,6 +2009,27 @@ einnahmen:
         title: "**"
         text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
 
+bip:
+    title: "Beitrag zum BIP"
+    nav_items:
+      - name: intro
+        title: Seitenanfang
+      - name: bip
+        title: "BIP: Wie groß ist der deutsche Rohstoffsektor?"
+      - name: daten
+        title: Daten einsehen
+
+    bip:
+      title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
+      p1_1: "Mit einem"
+      p1_2: "Bruttoinlandsprodukt"
+      p1_3: "von rund 3.032,82 Milliarden Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
+      p1_4: "Bruttowertschöpfung"
+      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Milliarden Euro, was einem Anteil von"
+      p1_6: "0,14%"
+      p1_7: "am BIP entspricht."
+      daten: Daten Einsehen
+
 beschäftigung:
     title: Beschäftigung
     nav_items:
@@ -1900,8 +2100,8 @@ how-it-work:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
       item2: Genehmigung von Bergbauprojekten
-      item3: Öffentliches Lizenzregister
-      item4: Wirtschaftlicher Eigentümer
+      item3: Lizenzregister und Verträge
+      item4: Wirtschaftlich Berechtigter
     section4:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen

@@ -5,19 +5,6 @@ permalink: /genehmigung-von-bergbauprojekten/bergbauberechtigungen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor/Bergbauberechtigungen
     permalink: /genehmigung-von-bergbauprojekten/
-nav_items:
-  - name: title
-    title: Seitenanfang
-  - name: Erlaubnis
-    title: "Erlaubnis"
-  - name: Bewilligung
-    title: "Bewilligung"
-  - name: Bergwerkseigentum
-    title: "Bergwerkseigentum"
-  - name: Sonderfall-1
-    title: "Sonderfall: Bergbauberechtigung nach altem Recht (nur für die Sidebar: Alte Rechte)"
-  - name: Sonderfall-2
-    title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
@@ -27,96 +14,57 @@ nav_items:
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
-    <h1 id="title">Bergbauberechtigungen</h1>
+    <h1 id="title">{% t bergbauberechtigungen.title %}</h1>
 
     <div class="container-left-9">
       <section>
-        <p>
-          Bergbauberechtigungen stellen die Grundlage für das Aufsuchen und die Gewinnung von bergfreien Bodenschätzen dar. Sie werden in Form einer Erlaubnis, einer Bewilligung oder eines Bergwerkseigentums beantragt.
-        </p>
-        <p>
-          Es werden drei Arten von Bergbauberechtigungen unterschieden:
-        </p>
-        <h3 id="Erlaubnis">Erlaubnis</h3>
-        <p>
-          Die Erlaubnis ist eine Bergbauberechtigung, die das Recht zur Aufsuchung von bergfreien Bodenschätzen in einem bestimmten Erlaubnisfeld erteilt. Die Erlaubnis ist auf höchstens 5 Jahre befristet und kann um jeweils drei Jahre verlängert werden (s. § 16 Abs. 4 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Erlaubnis, soweit keine Versagungsgründe vorliegen.
-        </p>
-        <p>
-          Die Erlaubnis kann verweigert werden, wenn beispielsweise kein Arbeitsprogramm vorliegt oder der festgesetzte Zeitraum in der Planung nicht berücksichtigt wird. Die Versagungsgründe sind abschließend in § 11 BBergG aufgeführt. Wenn die Aufsuchung aus Gründen, die der Erlaubnisinhaber zu vertreten hat, nicht innerhalb eines Jahres aufgenommen worden ist, ist die Erlaubnis zu widerrufen (§ 18 BBergG).
-        </p>
-        <h3>Bewilligung</h3>
-        <p>
-        Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem bestimmten Bewilligungsfeld erteilt. Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich  (s. § 16, Abs. 5 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Bewilligung, sollten keine Versagungsgründe vorliegen.
-        </p>
-        <p>
-          Die Bewilligung kann verweigert werden, wenn beispielsweise nicht nachgewiesen werden kann, dass die Bodenschätze nach ihrer Lage und Beschaffenheit gewonnen werden können (s. § 12 BBergG). Wenn die Gewinnung der Rohstoffe nicht innerhalb von drei Jahren aufgenommen worden ist, ist die Bewilligung grundsätzlich zu wiederrufen (s. § 18 BBergG). Die Versagungsgründe sind in § 12 BBergG abschließend aufgeführt.
-        </p>
-        <h3 id="Bergwerkseigentum">Bergwerkseigentum</h3>
-        <p>
-          Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen. Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, Abs. 5 BBergG).  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, ist das Bergwerkseigentum grundsätzlich zu widerrufen (s. § 18 BBergG). Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in bereits im Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG).
-        </p>
-        <p>
-          Für die Dokumentation der Bergbauberechtigungen werden nach § 75 ff. BBergG sogenannte Berechtsamsbücher und Berechtsamskarten angelegt. Dort sind die Informationen zu Erlaubnissen, Bewilligungen und Bergwerkseigentum sowie Angaben zu den betreffenden Feldern einzusehen.
-        </p>
-        <h3 id="Sonderfall-1">Sonderfall: Alte Rechte</h3>
-        <p>
-          Zu den Berechtigungsformen gehören neben den oben genannten Berechtigungen (Erlaubnis, Bewilligung bzw. Bergwerkseigentum) auch aus altem Recht übergeleitete Berechtigungen, die als alte Rechte bezeichnet werden. Hierbei handelt es sich um Bergbauberechtigungen, die vor dem Inkrafttreten des aktuellen Bundesberggesetzes von 1982 zugeteilt worden sind. Dazu gehören beispielsweise die Braunkohletagebaue im Rheinischen Revier. Sie erhalten nach heutigem Recht weiterhin ihre Gültigkeit  (s. § 149 Abs. 1 Satz 1 BBergG), wenn sie innerhalb einer Übergangsfrist von drei Jahren nach Inkrafttreten des BBergG 1982 bei den Bergbehörden angezeigt und durch die Bergaufsicht bestätigt worden sind. Berechtigungen nach altem Recht sind im Gegensatz zu Berechtigungen nach dem neuen BBergG weder befristet, noch müssen Förder- oder Feldesabgaben bezahlt werden. In der Praxis betreffen diese Altrechte insbesondere die Stein- und die Braunkohle. Für die Förderung der Bodenschätze in dieser Kategorie ist ebenfalls die Zulassung eines Betriebsplans notwendig.
-        </p>
-        <h3 id="Sonderfall-2">Sonderfall: Besonderheiten in den neuen Bundesländern</h3>
-        <p>
-          Das Bergrechtssystem der DDR kannte nur die volkseigenen mineralischen Rohstoffe und die sonstigen mineralischen Rohstoffe. Die volkseigenen Rohstoffe umfassten im Wesentlichen die nach bundesdeutschem Gesetz bergfreien und grundeigenen Bodenschätze und standen im Volkseigentum. Die sonstigen mineralischen Rohstoffe umfassten im Wesentlichen die Grundeigentümerbodenschätze und waren dem Grundeigentum zugeordnet. Mit der Verleihungs-Verordnung vom 15.08.1990 wurde die Grundlage geschaffen, Bergbauberechtigungen volkseigener mineralischer Rohstoffe in bergfreie Bodenschätze umzuwandeln und diese somit im Rechtssystem im wiedervereinigten Deutschland anzuerkennen. Die übertragenen Bergbauberechtigungen gelten als Bergwerkseigentum. Sie sind wie die Bergbauberechtigungen nach altem Recht unbefristet sowie von der Feldes- und Förderabgabe befreit (s. § 149 und § 151 BBergG). Im Unterschied zu den alten Bundesländern erstrecken sich die Altrechte (s. Abschnitt zu Bergbauberechtigung nach altem Recht) in den neuen Bundesländern nicht nur bis 1980, sondern auf die bis 1990 erkundeten Lagerstätten. Sie umfassen zudem nicht nur die bergfreien, sondern auch die grundeigenen Bodenschätze. Die  Rechte zur Aufsuchung und Gewinnung von grundeigenen Bodenschätzen wurden nach DDR-Recht ebenfalls über staatlich vergebene Bergbauberechtigungen geregelt.
-        </p>
-        
-        <p><strong>Schaubild:</strong> Übersicht zu altem Bergrecht, Bergrecht in der DDR und neuem Bergrecht</p>
+        <p>{% t bergbauberechtigungen.p1 %}</p>
+        <p>{% t bergbauberechtigungen.p2 %}</p>
+        <h3 id="erlaubnis">{% t bergbauberechtigungen.erlaubnis.title %}</h3>
+        <p>{% t bergbauberechtigungen.erlaubnis.p1 %}</p>
+        <p>{% t bergbauberechtigungen.erlaubnis.p2 %}</p>
+        <h3 id="bewilligung">{% t bergbauberechtigungen.bewilligung.title %}</h3>
+        <p>{% t bergbauberechtigungen.bewilligung.p1 %}</p>
+        <p>{% t bergbauberechtigungen.bewilligung.p2 %}</p>
+        <h3 id="bergwerkseigentum">{% t bergbauberechtigungen.bergwerkseigentum.title %}</h3>
+        <p>{% t bergbauberechtigungen.bergwerkseigentum.p1 %}</p>
+        <p>{% t bergbauberechtigungen.bergwerkseigentum.p2 %}</p>
+        <h3 id="sonderfall1">{% t bergbauberechtigungen.sonderfall1.title %}</h3>
+        <p>{% t bergbauberechtigungen.sonderfall1.p %}</p>
+        <h3 id="sonderfall2">{% t bergbauberechtigungen.sonderfall2.title %}</h3>
+        <p>{% t bergbauberechtigungen.sonderfall2.p %}</p>
+
+        <p><strong>{% t bergbauberechtigungen.tableHead %}</strong>{% t bergbauberechtigungen.tableHead1 %}</p>
         <table>
           <tbody>
             <tr>
               <th></th>
-              <th>
-                Berechtigungen nach altem Bergrecht (BRD)
-              </th>
-              <th>
-                Berechtigungen nach Bergrecht in der DDR
-              </th>
-              <th>
-                Berechtigungen nach neuem Bergrecht
-              </th>
+              <td>{% t bergbauberechtigungen.table.th1 %}</td>
+              <td>{% t bergbauberechtigungen.table.th2 %}</td>
+              <td>{% t bergbauberechtigungen.table.th3 %}</td>
             </tr>
             <tr>
-              <td><strong>Rohstoffbezeichnung</strong></td>
-              <td>
-                Bergfreie Rohstoffe
-              </td>
-              <td>
-                Volkseigene Rohstoffe
-              </td>
-              <td>
-                Bergfreie Rohstoffe
-              </td>
+              <td><strong>{% t bergbauberechtigungen.table.row1.td1 %}</strong></td>
+              <td>{% t bergbauberechtigungen.table.row1.td2 %}</td>
+              <td>{% t bergbauberechtigungen.table.row1.td3 %}</td>
+              <td>{% t bergbauberechtigungen.table.row1.td4 %}</td>
             </tr>
             <tr>
-              <td><strong>Zahlung von Feldes- und Förderabgaben</strong></td>
-              <td>
-                Nein
-              </td>
-              <td>
-                Nein
-              </td>
-              <td>
-                Entscheidung auf Ebene des Bundeslandes
-              </td>
+              <td><strong>{% t bergbauberechtigungen.table.row2.td1 %}</strong></td>
+              <td>{% t bergbauberechtigungen.table.row2.td2 %}</td>
+              <td>{% t bergbauberechtigungen.table.row2.td3 %}</td>
+              <td>{% t bergbauberechtigungen.table.row2.td4 %}</td>
             </tr>
             <tr>
-              <td><strong>Befristung</strong></td>
+              <td><strong>{% t bergbauberechtigungen.table.row3.td1 %}</strong></td>
+              <td>{% t bergbauberechtigungen.table.row3.td2 %}</td>
+              <td>{% t bergbauberechtigungen.table.row3.td3 %}</td>
               <td>
-                Nein
-              </td>
-              <td>
-                Nein
-              </td>
-              <td>
-                    Ja <br/><br/>
-      (siehe Erläuterungen unter <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">Bergbauberechtigungen</a>)
+              {% t bergbauberechtigungen.table.row3.td4 %}<br/><br/>
+              {% t bergbauberechtigungen.table.row3.text %}
+                <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">
+                  {% t bergbauberechtigungen.table.row3.link %}
+                </a>
               </td>
             </tr>
           </tbody>
@@ -126,10 +74,11 @@ nav_items:
 
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{{ page.title }}</div>
+        <div class="nav-title">{% t bergbauberechtigungen.title  %}</div>
       </h3>
       <nav>
-        {% include case-studies/_nav-list.html %}
+        {% assign nav_items = site.translations[site.lang]['bergbauberechtigungen'].nav_items %}
+        {% include case-studies/_nav-list.html nav_items=nav_items %}
       </nav>
     </div>
   </section>

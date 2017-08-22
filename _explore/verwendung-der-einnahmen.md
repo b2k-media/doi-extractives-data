@@ -45,6 +45,13 @@ breadcrumb:
             </a>
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p6_3 %}
           </p>
+          <br/>
+          <div>
+            <a href="https://www.bundeshaushalt-info.de/#/2017/soll/einnahmen/einzelplan.html">
+              <img style="width: 100%" src="{{ site.baseurl_root }}/img/verwendung-der-einnahmen/einzelplan.png" alt="Einzelplan">
+            </a>
+          </div>
+          <br/>
         </section>
         <section id="landesrechtliche_regelungen" style="position: relative;">
           <h2 id="title">{% t verwendung-der-einnahmen.landesrechtliche_regelungen.title %}</h2>
@@ -90,7 +97,7 @@ breadcrumb:
                       {% t verwendung-der-einnahmen.table.row1.feldesabgabe1.title %}
                       <sup>
                         <a href="#sup-1">
-                          {% t verwendung-der-einnahmen.table.row1.feldesabgabe1.sup1.title %}
+                          {% t verwendung-der-einnahmen.table.sup1.title %}
                         </a>
                       </sup>
                     </li>
