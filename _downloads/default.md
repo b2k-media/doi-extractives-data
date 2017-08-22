@@ -29,6 +29,103 @@ permalink: /downloads/
       <p>{% t downloads.p2 %}</p>
       <p>{% t downloads.p3 %}</p>
       <p>{% t downloads.p4 %}</p>
+      <h3 id="steinkohle">
+        {% t gesamtdeutsche_rohstoffproduktion.steinkohle.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.steinkohle.p %}</p>
+
+      <h3 id="braunkohle">
+        {% t gesamtdeutsche_rohstoffproduktion.braunkohle.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.braunkohle.p %}</p>
+
+      <h3 id="erdöl">
+        {% t gesamtdeutsche_rohstoffproduktion.erdöl.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.erdöl.p %}</p>
+
+      <h3 id="erdgas">
+        {% t gesamtdeutsche_rohstoffproduktion.erdgas.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.erdgas.p %}</p>
+
+      <h3 id="kalisalz">
+        {% t gesamtdeutsche_rohstoffproduktion.kalisalz.title %}
+      </h3>
+      <p>
+        {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_1 %}
+        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+          {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
+        </a>
+        {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_2 %}
+        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+          {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link2 %}
+        </a>
+        {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_3 %}
+      </p>
+
+      <h3 id="spezialton">
+        {% t gesamtdeutsche_rohstoffproduktion.spezialton.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.spezialton.p %}</p>
+
+      <h3 id="steinsalz">
+        {% t gesamtdeutsche_rohstoffproduktion.steinsalz.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.steinsalz.p %}</p>
+
+      <h3 id="kaolin">
+        {% t gesamtdeutsche_rohstoffproduktion.kaolin.title %}
+      </h3>
+      <p>
+        {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_1 %}
+        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+          {% t gesamtdeutsche_rohstoffproduktion.kaolin.link %}
+        </a>
+        {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_2 %}
+      </p>
+
+      <h3 id="quarzkies_und_sand">
+        {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p %}</p>
+
+      <h3 id="kies_und_sand">
+        {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.p %}
+        <sup>
+          <a href="#sup-1">
+            {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}
+          </a>
+        </sup>
+      </p>
+
+      <h3 id="naturwerkstein">
+        {% t gesamtdeutsche_rohstoffproduktion.naturwerkstein.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.naturwerkstein.p %}</p>
+
+      <h3 id="kalk_mergel">
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.title %}
+      </h3>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p %}</p>
+      <p>
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_1 %}
+        <a href="https://erhebungsportal.estatistik.de/Erhebungsportal/">
+          {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
+        </a>
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_2 %}
+      </p>
+      <p>
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_1 %}
+        <a href="https://www.natursteinverband.de/">
+          {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
+        </a>
+      </p>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p4 %}</p>
+      <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p5 %}</p>
+      <br/>
       <p class="downloads-download_links-intro">
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
@@ -108,6 +205,42 @@ permalink: /downloads/
       <a target="_blank" href="{% t downloads.steuern.link %}">
         {% t downloads.steuern.link %}
       </a>
+      <br/>
+      <h3 id="körperschaftsteuer">
+        {% t einnahmen.steuern.körperschaftsteuer.title %}
+      </h3>
+      <p>{% t einnahmen.steuern.körperschaftsteuer.p %}</p>
+
+      <h3 id="gewerbesteuer">
+        {% t einnahmen.steuern.gewerbesteuer.title %}
+      </h3>
+      <p>{% t einnahmen.steuern.gewerbesteuer.p1 %}</p>
+      <p>{% t einnahmen.steuern.gewerbesteuer.p2 %}</p>
+
+      <h3 id="einkommensteuer">
+        {% t einnahmen.steuern.einkommensteuer.title %}
+      </h3>
+      <p>{% t einnahmen.steuern.einkommensteuer.p1 %}</p>
+      <p>{% t einnahmen.steuern.einkommensteuer.p2 %}</p>
+      <p>{% t einnahmen.steuern.einkommensteuer.p3 %}</p>
+      <p>{% t einnahmen.steuern.einkommensteuer.p4 %}</p>
+
+      <h3 id="solidaritätszuschlag">
+        {% t einnahmen.steuern.solidaritätszuschlag.title %}
+      </h3>
+      <p>{% t einnahmen.steuern.solidaritätszuschlag.p1 %}</p>
+      <p>{% t einnahmen.steuern.solidaritätszuschlag.p2 %}</p>
+      <p>
+        {% t einnahmen.steuern.solidaritätszuschlag.p3_1 %}
+        <a href="{{ site.baseurl }}/explore/how-it-work/anfallende-zahlungen">
+        {% t einnahmen.steuern.solidaritätszuschlag.link1 %}
+        </a>
+        {% t einnahmen.steuern.solidaritätszuschlag.p3_2 %}
+        <a href="{{ site.baseurl }}/explore/how-it-work/umgang-mit-der-natur">
+        {% t einnahmen.steuern.solidaritätszuschlag.link2 %}
+        </a>
+        {% t einnahmen.steuern.solidaritätszuschlag.p3_3 %}
+      </p>
     </div>
     <br/>
     <div id="förderabgaben">
