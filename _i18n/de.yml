@@ -1731,15 +1731,6 @@ einnahmen:
         title: Seitenanfang
       - name: steuern
         title: Steuern
-        subnav_items:
-          - name: körperschaftsteuer
-            title: Körperschaftsteuer
-          - name: gewerbesteuer
-            title: Gewerbesteuer
-          - name: einkommensteuer
-            title: Einkommensteuer
-          - name: solidaritätszuschlag
-            title: Solidaritätszuschlag
       - name: steuereinnahmen
         title: Steuereinnahmen aus dem Rohstoffsektor
       - name: förder_feldesabgaben
@@ -2116,6 +2107,15 @@ downloads:
       title: Daten zur Exporte
     - name: steuern
       title: Steuern Daten zu Staatseinnahmen durch Steuern
+      subnav_items:
+        - name: körperschaftsteuer
+          title: Körperschaftsteuer
+        - name: gewerbesteuer
+          title: Gewerbesteuer
+        - name: einkommensteuer
+          title: Einkommensteuer
+        - name: solidaritätszuschlag
+          title: Solidaritätszuschlag
     - name: förderabgaben
       title: Daten zu Feldes- und Förderabgaben
     - name: umsatz
