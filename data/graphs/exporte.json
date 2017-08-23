@@ -69,5 +69,5 @@
 	],
   "color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff"],
 	"labels": ["Kohle", "Erdöl und Erdgas", "Erze", "Steine und Erden"],
-	"xAxis": [0, 10, 20, 30, 40]
+	"xAxis": [0, 10, 20, 30, 40, 50]
 }]
