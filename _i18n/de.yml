@@ -625,7 +625,7 @@ anfallende_zahlungen:
         - name: pachtzahlungen
           title: Pachtzahlungen
         - name: verbrauchsteuern
-          title: verbrauchsteuern
+          title: Verbrauchsteuern
 
   einnahmen:
     title: Einnahmen
