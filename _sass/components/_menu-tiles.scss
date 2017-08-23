@@ -126,3 +126,8 @@
   &::after { background-image: url('../img/tiles/22_export-h.png') }
   &.disabled::after { background-image: url('../img/tiles/22_export-i.png') }
 }
+
+.tile-lupe {
+  &::after { background-image: url('../img/tiles/24-lupe_waage-h.png') }
+  &.disabled::after { background-image: url('../img/tiles/24-lupe_waage-i.png') }
+}
