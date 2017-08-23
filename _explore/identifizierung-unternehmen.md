@@ -48,8 +48,8 @@ breadcrumb:
 
       <p>
         {% t identifizierung-unternehmen.p7 %}
-        <a href="{{site.baseurl}}/explore/">
-          MISSING {% t identifizierung-unternehmen.link3 %}
+        <a href="{{site.baseurl}}/explore/zahlungsströme">
+           {% t identifizierung-unternehmen.link3 %}
         </a>
         {% t identifizierung-unternehmen.p8 %}
         <a target="_blank" href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger_Verwalter.pdf">
