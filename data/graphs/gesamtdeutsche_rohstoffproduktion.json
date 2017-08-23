@@ -1,0 +1,49 @@
+[{
+	"title": "Rohstoff Menge (2015)",
+	"title_en": "Rohstoff Menge (2015) EN",
+	"data": [
+		[
+      [938762, "Erdgas**"],
+      [239, "Kies und Sand"],
+      [210, "Gebrochene Natursteine"],
+      [178.1, "Braunkohle"],
+      [48.9, "Kalk-/Mergel-/Dolomitstein"],
+      [13.67, "Steinsalz und Industriesole"],
+      [9.7, "Quarzkies und -sand"],
+      [7.29, "Kali- und Kalisalzprodukte"],
+      [6.40, "Spezialton"],
+			[6.22 , "Steinkohle*"],
+      [5.75, "Kalisalz"],
+      [2.41, "Erdöl"],
+      [1.1, "Kaolin"],
+      [0.44, "Naturwerksteine"]
+		]
+	],
+	"color": ["#28467a"],
+	"labels": ["Rohstoff Menge"],
+	"xAxis": [0, 50, 100, 150, 200, 1100000]
+}, {
+	"title": "Rohstoff Wert (2015)",
+	"title_en": "Rohstoff Wert (2015) EN",
+	"data": [
+		[
+			[423 , "Steinkohle*"],
+      [2.431, "Braunkohle"],
+      [859, "Erdöl"],
+      [2.064, "Erdgas*"],
+      ["K.A", "Kalisalz**"],
+      [2.156, "Kali- und Kalisalzprodukte"],
+      [148, "Spezialton"],
+      [576, "Steinsalz und Industriesole"],
+      [119, "Kaolin"],
+      [205,5, "Quarzkies und -sand"],
+      [1.510, "Kies und Sand"],
+      [1.439, "Gebrochene Natursteine"],
+      [52, "Naturwerksteine"],
+      [719, "Kalk-/Mergel-/Dolomitstein"]
+		]
+	],
+	"color": ["#28467a"],
+	"labels": ["Rohstoff Wert"],
+	"xAxis": [0, 200, 400, 600, 800, 1000]
+}]

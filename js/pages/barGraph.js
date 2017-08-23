@@ -17,6 +17,8 @@ $(document).ready(function(){
     jsonFilePath = "../../data/graphs/einnahmen.json";
   } else if (document.URL.search('explore/how-it-work/wasser/') > 1) {
     jsonFilePath = "../../../data/graphs/wasser.json";
+  } else if (document.URL.search('explore/gesamtdeutsche_rohstoffproduktion/') > 1) {
+    jsonFilePath = "../../data/graphs/gesamtdeutsche_rohstoffproduktion.json";
   }
 
   $.ajax({
@@ -48,8 +50,8 @@ $(document).ready(function(){
   function plotGraph(chart, data, jsondata, chartTitle, colorsData, ticks, labels, displayTwoDecimalPoints) {
 
     var pointLabels = displayTwoDecimalPoints ?
-      { show: true, location: 'e', edgeTolerance: -15, formatString: '%.2f', hideZeros: true } :
-      { show: true, location: 'e', edgeTolerance: -15, hideZeros: true }
+      { show: true, location: 'e', edgeTolerance: -15, formatString: '%.2f' } :
+      { show: true, location: 'e', edgeTolerance: -15 }
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
     plot2b = $.jqplot(chart, data, {
         animate: !$.jqplot.use_excanvas,
