@@ -24,12 +24,23 @@ breadcrumb:
         </a>
 
         <br/><br/>
-
+        <section style="position: relative;">
+        <h2 id="rohstoff-menge">Rohstoff Menge (2015)</h2>
         <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
               <div class="container chart-container">
                 <div id="chart1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="explore-exploration slab-alpha">
+          <div class="regions container">
+            <div class="graph">
+              <div class="container chart-container">
+                <div id="chart2"></div>
               </div>
             </div>
           </div>
@@ -101,7 +112,10 @@ breadcrumb:
         </table> -->
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star1 %}</p>
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star2 %}</p>
+        </section>
         <br/>
+        <section style="position: relative;">
+        <h2 id="rohstoff-wert">Rohstoff Wert (2015)</h2>
         <!-- <table>
           <tbody>
             <tr>
@@ -170,13 +184,14 @@ breadcrumb:
           <div class="regions container">
             <div class="graph">
               <div class="container chart-container">
-                <div id="chart2"></div>
+                <div id="chart3"></div>
               </div>
             </div>
           </div>
         </div>
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star1 %}</p>
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star2 %}</p>
+        </section>
 
         <p>
           <sup id="sup-1">{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}</sup>
