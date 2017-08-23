@@ -2106,6 +2106,33 @@ identifizierung-unternehmen:
   link4: hier
   p9: "erläuterten Größenkriterien erfüllen und damit nicht von den durch die MSG beschlossenen Auswahlkriterien erfasst werden. Die Abdeckung des Sektors Steine und Erden bleibt damit bedingt durch die hohe Anzahl nicht erfasster kleiner und mittlerer Unternehmen deutlich hinter der Abdeckung der übrigen Sektoren zurück."
 
+regierungsstellen-steuergeheimnis:
+  title: "Identifizierung der Regierungsstellen & Steuergeheimnis"
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: regierungsstellen
+      title: Regierungsstellen
+    - name: steuergeheimnis
+      title: Steuergeheimnis
+  regierungsstellen:
+    h: "Identifizierung der Regierungsstellen"
+    p1: "Die Gesamtheit der Regierungseinheiten, die Einnahmen aus der Rohstoffindustrie in Deutschland generieren, ergibt sich unmittelbar aus den Zahlungsströmen, die für den vorliegenden ersten D-EITI Bericht festgelegt wurden. Aufgrund des föderalen Aufbaus der Verwaltung in Deutschland ist keine zentrale Erfassung der relevanten Zahlungsströme möglich. Es handelt sich im Einzelnen grundsätzlich um folgende staatliche Stellen:"
+    list1:
+      li1: "Körperschaftsteuer: die zuständigen Finanzämter am jeweiligen Sitz der Unternehmen"
+      li2: "Feldes- und Förderabgabe: die jeweils zuständigen Bergbehörden der Bundesländer, in denen das Erlaubnis-/Bewilligungsfeld liegt"
+      li3: "Gewerbesteuer: die Gemeinden, in deren Gebiet sich die steuerlich relevanten
+Betriebsstätten befinden (ohne Zahlungsabgleich)"
+      li4: "Pachtzahlungen: die staatlichen Stellen, die aufgrund einzelvertraglicher Regelungen Einnahmen im Zusammenhang mit dem Rohstoffabbau erzielen (ohne Zahlungsabgleich)"
+  steuergeheimnis:
+    h: "Umgang mit dem Steuergeheimnis"
+    p1: "Sowohl die EITI-Berichterstattung als auch der Zahlungsabgleich umfassen Steuerdaten, namentlich Zahlungsströme betreffend Körperschaftsteuer und Gewerbesteuer, die dem "
+    link1: "Steuergeheimnis"
+    p2: "gemäß §§ 30 ff. AO unterliegen. Im Zusammenhang mit dem Steuergeheimnis sind nachfolgende Aspekte von Bedeutung:"
+    list1:
+      li1: "Im Zuge der Erstellung des EITI-Berichts werden die von den Unternehmen gemeldeten Zahlungsströme an staatliche Stellen aufbereitet und offengelegt. Davon betroffen sind auch Steuerzahlungen, also Daten, die unter das Steuergeheimnis fallen. Diese Form der Nutzung steuerrelevanter Daten ist nur dann zulässig, wenn der Steuerpflichtige, also das jeweilige Unternehmen, ausdrücklich zustimmt (§ 30 Abs. 4 Nr. 3 AO). Über die Vorlagen zur Datenerhebung ist sichergestellt, dass diese Zustimmung zum Zwecke der Veröffentlichung der Daten im Rahmen der EITI-Berichterstattung von jedem einzelnen Unternehmen eingeholt wird."
+      li2: "Im Rahmen des vorzunehmenden Zahlungsabgleichs müssen die vom Unternehmen gemeldeten Steuerzahlungen abgeglichen werden mit den Daten, die die Finanzverwaltung als Empfänger der Zahlungen meldet. Aufgrund des Steuergeheimnisses darf die Finanzbehörde diese Daten grundsätzlich nicht für Zwecke des Zahlungsabgleichs zur Verfügung stellen. Dazu bedarf es vielmehr einer ausdrücklichen Bevollmächtigung durch den Steuerpflichtigen zugunsten des Unabhängigen Verwalters."
+    p3: "Form und Inhalt dieser Vollmacht sind durch die zuständigen Fachabteilungen des Bundesfinanzministeriums und der Länder geprüft und auch im Rahmen eines gemeinsamen Bund-Länder-Ausschusses abgestimmt worden. Die abgestimmte Vollmacht zur Vorlage bei den jeweiligen Finanzämtern wurde nach Abstimmung mit der MSG und den Bergbehörden auch als Muster für die entsprechende Vollmacht zur Vorlage bei den zuständigen Bergbehörden zum Zwecke des Abgleichs der Feldes- und Förderabgaben verwendet."
 
 how-it-work:
     title: Rohstoffgewinnung
