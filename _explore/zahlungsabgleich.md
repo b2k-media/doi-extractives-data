@@ -11,20 +11,68 @@ breadcrumb:
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
-    <h1 id="title">{% t auswahl-sektoren.title %}</h1>
+    <h1 id="title">{% t zahlungsabgleich.title %}</h1>
     <div class="container-left-9">
-        <p>{% t auswahl-sektoren.p1 %}</p>
-
-
-
+        <p>
+          {% t zahlungsabgleich.p1.p1 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link1 %}
+          </a>
+          {% t zahlungsabgleich.p1.p2 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link2 %}
+          </a>
+          {% t zahlungsabgleich.p1.p3 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link3 %}
+          </a>
+          {% t zahlungsabgleich.p1.p4 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link4 %}
+          </a>
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link5 %}
+          </a>
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link6 %}
+          </a>
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link7 %}
+          </a>
+          {% t zahlungsabgleich.p1.p5 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p1.link8 %}
+          </a>
+          {% t zahlungsabgleich.p1.p6 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.p2.p7 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p2.link9 %}
+          </a>
+          {% t zahlungsabgleich.p2.p8 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.p3.p9 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p3.link10 %}
+          </a>
+          {% t zahlungsabgleich.p3.p10 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.p4.p11 %}
+          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            {% t zahlungsabgleich.p4.link11 %}
+          </a>
+        </p>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{% t auswahl-sektoren.title %}</div>
+        <div class="nav-title">{% t zahlungsabgleich.title %}</div>
       </h3>
       <nav>
-        {% assign nav_items = site.translations[site.lang]['auswahl-sektoren'].nav_items %}
+        {% assign nav_items = site.translations[site.lang]['zahlungsabgleich'].nav_items %}
         {% include case-studies/_nav-list.html nav_items=nav_items %}
       </nav>
     </div>
