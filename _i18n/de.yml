@@ -2049,6 +2049,77 @@ exporte:
     p: Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2016 exportierte das Land Waren im Wert von insgesamt rund 1,2 Billionen Euro. Dabei entfielen rund 6,6 Milliarden Euro auf Waren der rohstoffgewinnenden Industrie, was einem Anteil von 0,54 % an den Gesamtexporten entspricht. Der Bereich „Erdöl und Erdgas“ machte mit knapp 5 Milliarden Euro den größten Anteil an den Exporten aus. Dabei handelt es sich allerdings überwiegend um Re-Exporte von Erdgas. Das im Inland geförderte Erdgas wird fast vollständig auch in Deutschland verbraucht. Gefolgt wird dieser Bereich vom Sektor „Steine und Erden, sonstiger Bergbau“ mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von rund 130 Mio. Euro und Kohle von ca. 125 Mio. Euro exportiert. Auch hier beinhalten die Zahlen die Re-Exporte, allerdings in weit geringerem Umfang als beim Erdgas.
     daten_einsehen: Daten Einsehen
 
+auswahl-sektoren:
+  title: Auswahl der Sektoren
+  nav_items:
+    - name: title
+      title: Seitenanfang
+  p1: "Der EITI-Standard verlangt eine Berücksichtigung aller wesentlichen Zahlungsströme des extraktiven Sektors eines Landes. Die MSG hat in verschiedenen Sitzungen darüber beraten, welche Sektoren der Rohstoffgewinnung in den ersten deutschen EITI-Bericht aufgenommen werden sollen. Im Einzelnen wurde die Berücksichtigung folgender Sektoren beschlossen:"
+  li1: "Braunkohle"
+  li2: "Erdöl und Erdgas"
+  li3: "Kali und Salze"
+  li4: "Steine und Erden"
+  p2: "Der Abbau von Steinkohle läuft Ende 2018 in Deutschland aus, der Sektor wird daher nicht im Rahmen des Zahlungsabgleichs berücksichtigt (Lesen Sie hierzu auch die"
+  link1: "allgemeinen Erläuterungen "
+  p3: "zum Abbau von Steinkohle in Deutschland und zu"
+  link2: "staatlichen Finanzhilfen "
+  p4: "für den Steinkohlesektor)."
+
+identifizierung-unternehmen:
+  title: Identifizierung der Unternehmen
+  nav_items:
+    - name: title
+      title: Seitenanfang
+  p1: "Hinsichtlich der Auswahl der Unternehmen hat die MSG beschlossen, sich an den Vorgaben der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 zu orientieren. Für die Identifizierung der für den ersten D-EITI Bericht relevanten Unternehmen hat der Unabhängige Verwalter im ersten Schritt anhand einer Datenbankanalyse"
+  sup1:
+    title: "1"
+    text1: "Orbis Europe Datenbank des Anbieters Bureau van Dijk "
+    link: "(www.bvdinfo.com),"
+    text2: "abgerufen am 02.02.17, 03.02.17 und 28.02.17."
+  p2: "sämtliche Unternehmen selektiert, die in der Haupttätigkeit der rohstoffgewinnenden Industrie in den Bereichen Braunkohle, Erdöl/Erdgas sowie Steine und Erden (inklusive Kali/Salze) zugeordnet sind. Das Ordnungskriterium stellte hierbei die Zuordnung der Unternehmen zu den Abteilungen 05 bis 08 entsprechend der Verordnung 1893/2006/EG vom 20.12.2006 dar (Lesen Sie "
+  link1: hier
+  p3: "mehr zur Auswahl der Unternehmen). Im zweiten Schritt erfolgte eine Filterung dieser Unternehmen nach den Größenkriterien, die durch das HGB für „große“ Gesellschaften vorgegeben sind. "
+  p4: "Der Kreis dieser vorläufig identifizierten Unternehmen wurde durch den Unabhängigen Verwalter manuell erweitert um Unternehmensgruppen, bei denen eine sogenannte Konzerninfizierung über „tätige“ Tochterunternehmen in Frage kommen könnte (Lesen Sie "
+  link2: hier
+  p5: "mehr zur Auswahl der Unternehmen). Im Anschluss wurde das Ergebnis einer Analyse durch die Mitglieder der MSG unterzogen. Es ergaben sich insbesondere folgende Erkenntnisse bzw. Ergebnisse:"
+  li1: "Unternehmen, deren Tätigkeit schwerpunktmäßig der Speicherung (z. B. Errichtung und Betrieb von Kavernenspeichern zur Speicherung von Erdgas) von Rohstoffen unter Tage zuzuordnen ist, werden trotz Zuordnung zu den Abteilungen 05 bis 08 nicht berücksichtigt, da hier nicht die Gewinnung von Rohstoffen im Vordergrund steht;"
+  li2: "Sämtliche zunächst erfasste Gesellschaften der Abteilung 07 (Erzbergbau) betreiben keinen aktiven Rohstoffabbau in Deutschland und werden damit nicht berücksichtigt."
+  p6: "Auf Grundlage des beschriebenen Auswahlprozesses wurden insgesamt 48 Unternehmen bzw. Unternehmensgruppen für eine mögliche Mitwirkung am deutschen EITI-Prozess identifiziert und um Teilnahme gebeten. Aufgrund der schwierigen Datenlage kann diese Zahlenangabe weder als eindeutig noch als abschließend bezeichnet werden."
+  p7: "Es zeigt sich, dass durch die von der MSG festgelegten Auswahlkriterien eine hohe Abdeckung für die Sektoren Braunkohle, Erdöl- bzw. Erdgas, Kali und Salze/Industriesole erreicht wird (vgl. die Darstellung in der "
+  link3: Tabelle
+  p8: "zu teilnehmenden Unternehmen). Bei diesen Rohstoffen handelt es sich ausschließlich um bergfreie Bodenschätze. Diese Sektoren enthalten vergleichsweise wenige, aber verhältnismäßig große Unternehmenseinheiten. Dagegen werden die Rohstoffe des Sektors Steine und Erden von einer sehr hohen Anzahl an Unternehmenseinheiten mit einer Vielzahl von Werken bzw. Abbaustätten gewonnen. Die hohe Frachtkostenintensität ist ein wesentlicher Grund für die regionale Gewinnung und Vermarktung dieser Rohstoffe. Nach Schätzungen des Bundesverbandes Baustoffe – Steine und Erden (bbs) würden aufgrund der Kleinteiligkeit des Sektors die 25 größten Steine-Erden-Anbieter lediglich einen Anteil von etwa 1,6 % an der Gesamtzahl der Unternehmen der Branche und ca. 22 % an der Gesamtzahl der Gewinnungsstätten der Branche ausmachen. Hierbei ist zudem davon auszugehen, dass sich bereits unter den 25 größten Anbietern dieser Branche eine Reihe von Unternehmen bzw. Unternehmensgruppen befinden, die nicht die "
+  link4: hier
+  p9: "erläuterten Größenkriterien erfüllen und damit nicht von den durch die MSG beschlossenen Auswahlkriterien erfasst werden. Die Abdeckung des Sektors Steine und Erden bleibt damit bedingt durch die hohe Anzahl nicht erfasster kleiner und mittlerer Unternehmen deutlich hinter der Abdeckung der übrigen Sektoren zurück."
+
+
+regierungsstellen-steuergeheimnis:
+  title: "Identifizierung der Regierungsstellen & Steuergeheimnis"
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: regierungsstellen
+      title: Regierungsstellen
+    - name: steuergeheimnis
+      title: Steuergeheimnis
+  regierungsstellen:
+    h: "Identifizierung der Regierungsstellen"
+    p1: "Die Gesamtheit der Regierungseinheiten, die Einnahmen aus der Rohstoffindustrie in Deutschland generieren, ergibt sich unmittelbar aus den Zahlungsströmen, die für den vorliegenden ersten D-EITI Bericht festgelegt wurden. Aufgrund des föderalen Aufbaus der Verwaltung in Deutschland ist keine zentrale Erfassung der relevanten Zahlungsströme möglich. Es handelt sich im Einzelnen grundsätzlich um folgende staatliche Stellen:"
+    list1:
+      li1: "Körperschaftsteuer: die zuständigen Finanzämter am jeweiligen Sitz der Unternehmen"
+      li2: "Feldes- und Förderabgabe: die jeweils zuständigen Bergbehörden der Bundesländer, in denen das Erlaubnis-/Bewilligungsfeld liegt"
+      li3: "Gewerbesteuer: die Gemeinden, in deren Gebiet sich die steuerlich relevanten
+Betriebsstätten befinden (ohne Zahlungsabgleich)"
+      li4: "Pachtzahlungen: die staatlichen Stellen, die aufgrund einzelvertraglicher Regelungen Einnahmen im Zusammenhang mit dem Rohstoffabbau erzielen (ohne Zahlungsabgleich)"
+  steuergeheimnis:
+    h: "Umgang mit dem Steuergeheimnis"
+    p1: "Sowohl die EITI-Berichterstattung als auch der Zahlungsabgleich umfassen Steuerdaten, namentlich Zahlungsströme betreffend Körperschaftsteuer und Gewerbesteuer, die dem "
+    link1: "Steuergeheimnis"
+    p2: "gemäß §§ 30 ff. AO unterliegen. Im Zusammenhang mit dem Steuergeheimnis sind nachfolgende Aspekte von Bedeutung:"
+    list1:
+      li1: "Im Zuge der Erstellung des EITI-Berichts werden die von den Unternehmen gemeldeten Zahlungsströme an staatliche Stellen aufbereitet und offengelegt. Davon betroffen sind auch Steuerzahlungen, also Daten, die unter das Steuergeheimnis fallen. Diese Form der Nutzung steuerrelevanter Daten ist nur dann zulässig, wenn der Steuerpflichtige, also das jeweilige Unternehmen, ausdrücklich zustimmt (§ 30 Abs. 4 Nr. 3 AO). Über die Vorlagen zur Datenerhebung ist sichergestellt, dass diese Zustimmung zum Zwecke der Veröffentlichung der Daten im Rahmen der EITI-Berichterstattung von jedem einzelnen Unternehmen eingeholt wird."
+      li2: "Im Rahmen des vorzunehmenden Zahlungsabgleichs müssen die vom Unternehmen gemeldeten Steuerzahlungen abgeglichen werden mit den Daten, die die Finanzverwaltung als Empfänger der Zahlungen meldet. Aufgrund des Steuergeheimnisses darf die Finanzbehörde diese Daten grundsätzlich nicht für Zwecke des Zahlungsabgleichs zur Verfügung stellen. Dazu bedarf es vielmehr einer ausdrücklichen Bevollmächtigung durch den Steuerpflichtigen zugunsten des Unabhängigen Verwalters."
+    p3: "Form und Inhalt dieser Vollmacht sind durch die zuständigen Fachabteilungen des Bundesfinanzministeriums und der Länder geprüft und auch im Rahmen eines gemeinsamen Bund-Länder-Ausschusses abgestimmt worden. Die abgestimmte Vollmacht zur Vorlage bei den jeweiligen Finanzämtern wurde nach Abstimmung mit der MSG und den Bergbehörden auch als Muster für die entsprechende Vollmacht zur Vorlage bei den zuständigen Bergbehörden zum Zwecke des Abgleichs der Feldes- und Förderabgaben verwendet."
+
 zahlungsströme:
   title: "Auswahl der Zahlungsströme und Wesentlichkeit von Zahlungen"
   nav_items:
