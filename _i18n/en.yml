@@ -2064,6 +2064,89 @@ exporte:
     p: Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2016 exportierte das Land Waren im Wert von insgesamt rund 1,2 Billionen Euro. Dabei entfielen rund 6,6 Milliarden Euro auf Waren der rohstoffgewinnenden Industrie, was einem Anteil von 0,54 % an den Gesamtexporten entspricht. Der Bereich „Erdöl und Erdgas“ machte mit knapp 5 Milliarden Euro den größten Anteil an den Exporten aus. Dabei handelt es sich allerdings überwiegend um Re-Exporte von Erdgas. Das im Inland geförderte Erdgas wird fast vollständig auch in Deutschland verbraucht. Gefolgt wird dieser Bereich vom Sektor „Steine und Erden, sonstiger Bergbau“ mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von rund 130 Mio. Euro und Kohle von ca. 125 Mio. Euro exportiert. Auch hier beinhalten die Zahlen die Re-Exporte, allerdings in weit geringerem Umfang als beim Erdgas.
     daten_einsehen: Daten Einsehen
 
+zahlungsströme:
+  title: "Auswahl der Zahlungsströme und Wesentlichkeit von Zahlungen"
+  nav_items:
+    - name: title
+      title: Seitenanfang
+    - name: steuern
+      title: Steuern
+      subnav_items:
+        - name: körperschaftsteuer
+          title: Körperschaftsteuer
+        - name: gewerbesteuer
+          title: Gewerbesteuer
+        - name: besonderheiten
+          title: Besonderheiten hinsichtlich der Erfassung von Steuerzahlungen in bestimmten Mutter-Tochter-Konstellationen
+        - name: organschaftsverhältnissen
+          title: Besonderheiten hinsichtlich der Erfassung von Steuerzahlungen bei steuerlichen Organschaftsverhältnissen
+    - name: feldes
+      title: Feldes- und Förderabgaben nach Bundesberggesetz
+    - name: pachtzahlungen
+      title: Pachtzahlungen
+    - name: wesentlichkeit
+      title: Wesentlichkeit von Zahlungen
+
+  p1: "Zahlungsströme der Rohstoffwirtschaft sind gemäß EITI-Standard zu berücksichtigen, wenn sie als erheblich für eine vollständige Darstellung der Unternehmenszahlungen und Staatseinnahmen anzusehen sind. Die nachfolgenden Zahlungsströme werden im Rahmen des ersten deutschen EITI-Berichts erfasst bzw. dem Zahlungsabgleich mit den Einnahmen der staatlichen Stellen unterworfen. Lesen Sie hierzu mehr unter"
+  link: "Anfallende Zahlungen."
+  sup1:
+    title: "1"
+    text: " So existieren nach Angaben des statistischen Bundesamtes in Deutschland insgesamt 11.192 Gemeinden"
+  steuern: "Steuern"
+  körperschaftsteuer:
+    title: "Körperschaftsteuer"
+    p1_1: "Die Körperschaftsteuer ist in Deutschland die zentrale Ertragsteuer der Kapitalgesellschaften. Sie stellt keine spezifische Steuer für Unternehmen des Rohstoffsektors dar, sondern erfasst werden alle im Inland ansässigen oder tätigen Kapitalgesellschaften. Bemessungsgrundlage der Körperschaftsteuer ist das zu versteuernde Einkommen, welches unter Berücksichtigung steuerlicher Modifikationen aus dem handelsrechtlichen Jahresüberschuss abgeleitet wird. Soweit ein Unternehmen neben Tätigkeiten im Rohstoffsektor auch in anderen Bereichen wirtschaftlich tätig ist, kann es zu Abgrenzungsproblemen hinsichtlich des Anteils der Körperschaftsteuer kommen, die auf die Tätigkeiten im Rohstoffsektor entfällt, da die"
+    link: "Körperschaftsteuer"
+    p1_2: "auf Basis des gesamten zu versteuernden Einkommens berechnet wird."
+    p2: "Aus diesem Grunde wird die Körperschaftsteuer in den nach handelsrechtlichen Vorschriften aufzustellenden Zahlungsberichten als nicht projektbezogene Zahlung eingestuft. Eine Aufteilung dieser Zahlungen auf Tätigkeiten innerhalb und außerhalb des Rohstoffsektors kann durch die Unternehmen wahlweise vorgenommen werden, wenn eine sachgerechte Schlüsselung anhand geeigneter Aufteilungsmaßstäbe verlässlich möglich ist. Dieser handelsrechtlichen Vorgehensweise wird für Zwecke der EITI-Berichterstattung gefolgt."
+
+  gewerbesteuer:
+    title: "Gewerbesteuer"
+    p1_1: "Weiterhin werden gewerblich tätige Unternehmen in Deutschland der Gewerbesteuer unterworfen. Hebeberechtigt sind die Gemeinden, in denen das jeweilige Unternehmen Betriebsstätten unterhält; eine Betriebsstätte kann sich hierbei auch über mehrere Gemeinden erstrecken. Zahlungsempfänger für Gewerbesteuerzahlungen sind entsprechend die einzelnen Gemeinden und nicht etwa der Bund oder die Länder in zentraler Funktion. Insofern spiegelt sich der föderale Staatsaufbau in Deutschland wieder (Lesen Sie hierzu auch mehr zur"
+    link: "Gewerbesteuer"
+    p1_2: "). Dies stellt den Zahlungsabgleich hinsichtlich der Gewerbesteuer angesichts der Vielzahl an Gemeinden vor besondere Herausforderungen."
+    p1_3: "Hinzu kommt, dass die einzelnen Gemeinden – anders als die einzelnen Finanzämter im Fall der Körperschaftsteuer – nicht zentral über eine Organisationseinheit angesprochen werden können."
+    p2: "Es ist nicht im Vorhinein absehbar, an welche und an wie viele Gemeinden Zahlungen für Gewerbesteuer geleistet werden. Diese Informationen können nur von den Unternehmen selbst im Rahmen des Datenerhebungsprozesses generiert werden. "
+    p3: "Vor diesem Hintergrund hat die MSG beschlossen, die Gewerbesteuerzahlungen der Unternehmen im Rahmen der Datenerhebung aufzunehmen und im vorliegenden EITI-Bericht darzustellen, allerdings auf einen generellen Zahlungsabgleich für den ersten deutschen EITI-Bericht zu verzichten. Der Abgleich der Gewerbesteuerzahlungen mit den Einnahmen der Gemeinden als Zahlungsempfänger soll stattdessen beispielhaft stellvertretend für alle anderen teilnehmenden Unternehmen anhand der Zahlungsdaten eines am Berichtsprozess teilnehmenden Unternehmens veranschaulicht werden. Für diesen beispielhaften Zahlungsabgleich der Gewerbesteuerzahlungen hat sich die esco - european salt company GmbH & Co. KG, Hannover, ein Unternehmen der K+S-Gruppe mit Sitz in Kassel, bereit erklärt. Zu weiteren Einzelheiten und den Ergebnissen dieses Zahlungsabgleichs der Gewerbesteuerzahlungen vgl. die Ausführungen unter Kapitel 9.c.iii."
+
+  besonderheiten:
+    title: "Besonderheiten hinsichtlich der Erfassung von Steuerzahlungen in bestimmten Mutter-Tochter-Konstellationen"
+    p1: "Personengesellschaften wie die GmbH & Co. KG spielen in Deutschland traditionell – im Gegensatz zu vielen anderen Rechtskreisen – gerade in der mittelständischen Wirtschaft eine große Rolle. Sie unterliegen der Gewerbesteuer, nicht aber der Körperschaftsteuer. Eine Belastung mit Körperschaftsteuer erfolgt erst auf Ebene des Gesellschafters, soweit dieser eine Kapitalgesellschaft ist. Insofern ist eine Besonderheit des deutschen Steuerrechts zu beachten, wonach Personengesellschaften im Bereich der Ertragsteuern selbst nicht Steuersubjekt sind, sondern der im Unternehmen erwirtschaftete Ertrag wird auf Ebene der Gesellschafter zusammen mit den von diesen aus anderen Quellen erzielten Einkünften der Besteuerung unterworfen."
+    p2: "In der Konstellation Tochter-Personengesellschaft einer Mutter-Kapitalgesellschaft können sich Konsequenzen für die Erfassung der Steuerzahlungen (Gewerbesteuer und Körperschaftsteuer) im Rahmen der Datenerhebung für den EITI-Bericht ergeben, die nachfolgend beispielhaft dargestellt werden. Dabei wird jeweils unterstellt, dass ein Unternehmen bei entsprechender Tätigkeit im Rohstoffsektor freiwillig an der Datenerhebung für den EITI-Bericht teilnimmt."
+    p3: "Wenn sowohl die Mutter-Kapitalgesellschaft als auch die Tochter-Personengesellschaft im Rohstoffsektor tätig sind werden alle relevanten Steuerzahlungen (Gewerbesteuer der Tochter- und der Muttergesellschaft sowie Körperschaftsteuer auf Ebene der Muttergesellschaft) im EITI-Bericht erfasst. Falls dagegen Tochter- oder Muttergesellschaft nicht im Rohstoffsektor tätig sind, werden nicht alle oder zu viele Steuerzahlungen an staatliche Stellen erfasst. Wenn beispielsweise die Mutter-Kapitalgesellschaft im Rohstoffsektor tätig ist, die Tochter-Personengesellschaft aber nicht, umfassen die gemeldeten Körperschaftsteuerzahlungen des Mutterunternehmens auch die Ergebnisse des Tochterunternehmens. Aus handelsrechtlicher Sicht besteht in diesem Fall die Möglichkeit, aber nicht die Pflicht zur Aufteilung der Körperschaftsteuerzahlungen auf Tätigkeiten im Rohstoffsektor und auf Tätigkeiten außerhalb des Rohstoffsektors. Ist umgekehrt die Tochter-Personengesellschaft im Rohstoffsektor tätig, die Mutter-Kapitalgesellschaft aber nicht, werden über die (alleinige) Teilnahme der Tochtergesellschaft an der Datenerhebung lediglich die Gewerbesteuerzahlungen der Tochtergesellschaft erfasst, nicht aber (anteilig) die auf die Ergebnisse der Tochtergesellschaft entfallende Körperschaftsteuer bei der Mutter-Kapitalgesellschaft. "
+    p4: "Vorstehende Ergebnisse sind im deutschen Steuersystem begründet. Die MSG hat beschlossen, der dargestellten steuerrechtlichen Sichtweise auch für EITI-Zwecke zu folgen."
+
+  organschaftsverhältnissen:
+    title: "Besonderheiten hinsichtlich der Erfassung von Steuerzahlungen bei steuerlichen Organschaftsverhältnissen"
+    p1: "Das deutsche Steuerrecht kennt bei der Gewerbesteuer und bei der Körperschaftsteuer punktuelle Sonderregelungen zur Behandlung von Unternehmensgruppen. Unter bestimmten Bedingungen kann eine sogenannte steuerliche Organschaft vorliegen. In solchen Konstellationen tätigen die eingegliederten Gesellschaften (Organgesellschaften), welche selbst Kapitalgesellschaften sind, i.d.R. keine Steuerzahlungen, sondern die Versteuerung des Ergebnisses aller in die Organschaft einbezogenen Unternehmen erfolgt vielmehr insgesamt ausschließlich über den Organträger. Der Organträger zahlt wiederum Steuern auf eigene Erträge und Erträge der Organgesellschaften, die ggf. nicht ausschließlich aus Tätigkeiten im Zusammenhang mit der Gewinnung von Rohstoffen resultieren."
+    p2: "Auf Ebene des Organträgers wird daher für Zwecke des handelsrechtlichen (Konzern-) Zahlungsberichts wie folgt differenziert:"
+    item1: "Ist die Organschaft entsprechend § 341r Nr. 1 HGB schwerpunktmäßig in der mineralgewinnenden Industrie tätig, kann eine Berichterstattung über den Gesamtbetrag der durch den Organträger gezahlten Steuern erfolgen. Es besteht keine Pflicht zur Aufteilung der Steuerzahlungen auf Tätigkeiten innerhalb bzw. außerhalb des Anwendungsbereich des § 341r Nr. 1 HGB."
+    item2: "Ist die Organschaft dagegen nicht schwerpunktmäßig entsprechend § 341r Nr. 1 HGB in der mineralgewinnenden Industrie tätig, können die Steuerzahlungen des Organträgers auf freiwilliger Basis aufgeteilt werden. Andernfalls unterbleibt die Angabe der durch den Organträger geleisteten Steuerzahlungen."
+    p3: "Die Ergebnisse des Zahlungsabgleichs belegen die hohe praktische Bedeutung von steuerlichen Organschaften im Rahmen der Besteuerung von Unternehmensgruppen. In der Folge unterbleibt daher in verschiedenen Fällen bei den am Zahlungsabgleich teilnehmenden Unternehmen eine Angabe der durch den Organträger gezahlten Steuern (vgl. hierzu die Darstellungen zu den Ergebnissen des"
+    link1: "Zahlungsabgleichs)."
+    p4: "Auch hinsichtlich der Erfassung von Steuerzahlungen im Rahmen steuerlicher Organschaften hat sich die MSG dafür entschieden, für EITI-Zwecke der handelsrechtlichen Sichtweise zu folgen."
+
+  feldes:
+    title: "Feldes- und Förderabgaben nach Bundesberggesetz"
+    p1_1: "In Deutschland wird für sogenannte bergfreie Rohstoffe auf Basis des Bundesberggesetzes als spezifische Abgabe für Unternehmen des Rohstoffsektors die"
+    link1: "Feldes- und die Förderabgabe"
+    p1_2: "(§§ 30, 31 BBergG) erhoben."
+    p2: "Die MSG hat beschlossen, die Feldes- und Förderabgabe als Zahlungsstrom in den EITI-Bericht aufzunehmen und neben der Körperschaftsteuer dem Zahlungsabgleich zu unterwerfen."
+
+  pachtzahlungen:
+    title: "Pachtzahlungen"
+    p1: "Über die Feldes- und Förderabgaben hinaus werden in Deutschland keine weiteren Gegenleistungen für das Aufsuchen und die Gewinnung von bergfreien Rohstoffen erhoben. Jedoch können Pachtzahlungen an staatliche Stellen im Zusammenhang mit dem Abbau nicht bergfreier Rohstoffe insbesondere im Bereich Steine und Erden anfallen. Dies ist der Fall, wenn staatliche Stellen als Grundeigentümer privatrechtliche Verträge über den Abbau von Rohstoffen mit der Rohstoffwirtschaft abschließen. Die vertraglichen Regelungen können sowohl fixe Zahlungen als auch Zahlungen in Abhängigkeit von der abgebauten Menge oder eine Kombination beider Varianten vorsehen."
+    p2_1: "Zahlungsempfänger für Pachtzahlungen sind die staatlichen Stellen, die vertragliche Regelungen mit dem Unternehmen abgeschlossen haben (z.B. Gemeinden, Forstämter, staatliche Domänenverwaltung bzw. Moorverwaltung). Inhalt und Anzahl der Verträge werden nicht zentral dokumentiert (Lesen Sie mehr zu den "
+    link: "Zahlungen"
+    p2_2: "der rohstoffgewinnenden Industrie). Hinzu kommt, dass die einzelnen staatlichen Stellen, die Pachtverträge abgeschlossen haben – anders als die einzelnen Finanzämter im Fall der Körperschaftsteuer – nicht zentral über eine Organisationseinheit angesprochen werden können. Dies führt wie bei der Gewerbesteuer zu besonderen Schwierigkeiten hinsichtlich eines Zahlungsabgleichs. "
+    p3: "Es ist nicht im Vorhinein absehbar, an welche und an wie viele staatliche Stellen Pachtzahlungen geleistet werden. Diese Informationen können nur von den teilnehmenden Unternehmen selbst im Rahmen des Datenerhebungsprozesses bereitgestellt werden. "
+    p4: "Die MSG hat daher beschlossen, Pachtzahlungen der Unternehmen an staatliche Stellen im Rahmen der Datenerhebung zu erfassen, jedoch nicht in den Zahlungsabgleich einzubeziehen. Analog zu den Gewerbesteuerzahlungen hat die MSG ursprünglich beabsichtigt, die Pachtzahlungen beispielhaft durch ein teilnehmendes Unternehmen stellvertretend für alle anderen teilnehmenden Unternehmen durch den unabhängigen Verwalter abgleichen zu lassen. Dieser beispielhafte Abgleich ist allerdings bisher nicht zustande gekommen."
+
+  wesentlichkeit:
+    title: "Wesentlichkeit von Zahlungen"
+    p1: "Die handelsrechtlichen Regelungen zur Erstellung von (Konzern-)Zahlungsberichten sehen vor, dass die betroffenen Unternehmen Zahlungen eines Berichtsjahres ab einem Betrag von EUR 100.000,00 je staatlicher Stelle zu berichten haben (vgl. § 341t Abs. 4 HGB). Eine staatliche Stelle, an die im Berichtszeitraum weniger als 100.000,00 Euro geleistet wurde, braucht nicht angegeben zu werden. "
+    p2: "Die MSG hat sich dazu entschieden, diese Regelungen für den ersten D-EITI Bericht zu übernehmen. Sind Zahlungen geleistet worden, die den Betrag von 100.000,00 Euro je staatlicher Stelle im Berichtsjahr 2016 nicht erreichten, sehen die Vorlagen zur Datenerhebung einen entsprechenden Hinweis auf das Vorhandensein von Zahlungen vor, ohne dass diese betragsmäßig zu nennen wären."
+
 how-it-work:
     title: Rohstoffgewinnung
     description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
