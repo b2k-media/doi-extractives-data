@@ -18,6 +18,7 @@ erdol-erdgas:
        - Erdöl und Erdgas entstehen aus Ablagerungen großer Mengen von Kleinstlebewesen vor allem Algen.
        - Durchschnittlich lagern Erdölfelder in rund 1,5 km Teufe. Durch den technischen Fortschritt ist es aber möglich, auch Erdölfelder in 5.000 m Teufe und darunter zu erschließen.
        - Seit Beginn der Erdöl- und Erdgasförderung in Deutschland wurden mehr als 22.000 Bohrungen durchgeführt
+       - "95% des geförderten Erdgases stammt aus Niedersachsen."
     geschichte:
       title: Geschichte
       p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2015 betrug rund 2,4 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden zum 01.01.2016 auf rund 34 Mio. t geschätzt.
@@ -153,17 +154,19 @@ salze:
   title: Salze
   nav_items:
     - name: title
-      title: Seitenanfang
-    - name: fakten_zu_salze
-      title: Wissenswertes über Salze
-    - name: geschichte
-      title: Geschichte
-    - name: wirtschaftliche-bedeutung
-      title: Wirtschaftliche Bedeutung
-    - name: gewinnung
-      title: Gewinnung
-    - name: verwendung
-      title: Verwendung
+      title: Salze
+      subnav_items:
+        - name: fakten_zu_salze
+          title: Wissenswertes über Salze
+        - name: geschichte
+          title: Geschichte
+        - name: wirtschaftliche-bedeutung
+          title: Wirtschaftliche Bedeutung
+        - name: gewinnung
+          title: Gewinnung
+        - name: verwendung
+          title: Verwendung
+  h2: Salze
   slides_title: Wissenswertes über Salze
   slides:
     - Salz wird seit über 5.000 Jahren aktiv durch den Menschen gewonnen.
@@ -214,7 +217,7 @@ steine-und-erden:
 
   h2: Steine und Erden
   p1: Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen, insbesondere Kiese und Sande, gebrochene Natursteine, Kalk-, Mergel- und Dolomitsteine, Gips- und Anhydritsteine sowie Tone und Lehme. Steine und Erden sind Massenrohstoffe; sie sind aufgrund geologischer Verhältnisse standortgebunden und nicht gleichmäßig über das Land verteilt.
-  slides_title: Wissenswertes über Industrieminerale
+  slides_title: Wissenswertes über Steine und Erden
   slides:
     - Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Darüber hinaus kommen bei der Herstellung von Baustoffen jährlich fast 100 Mio. t Sekundärrohstoffe zur Schonung der Ressourcen zum Einsatz.
     - Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen; der mengenmäßig größte Anteil an der Gewinnung entfällt auf die Rohstoffe Kies, Sand und Naturstein.
@@ -260,8 +263,14 @@ rechtlicher-rahmen:
     - name: rechtliche-regelung
       title: Rechtliche Regelung
       subnav_items:
-        - name: tabelle-1
-          title: Rechtliche Unterteilung der Bodenschätze in Deutschland
+        - name: rechtliche-regelung-1
+          title: "Bergfreie Bodenschätze"
+        - name: rechtliche-regelung-2
+          title: "Grundeigene Bodenschätze"
+        - name: rechtliche-regelung-3
+          title: "Grundeigentümerbodenschätze"
+    - name: tabelle-1
+      title: Rechtliche Unterteilung der Bodenschätze in Deutschland
   grid:
     baden-wurttemberg:
       title: Baden-Württemberg
@@ -525,7 +534,7 @@ lizenzregister_und_verträge:
     title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
     p1_1: "Ein gutes Beispiel für die Veröffentlichung von Angaben zu Bergbauberechtigungen im Internet ist der vom Landesamt für Bergbau, Energie und Geologie (LBEG) in Niedersachsen geführte"
     link1: " NIBIS-Kartenserver"
-    link_data: "https://www.nibis.lbeg.de/cardomap3/"
+    link_data: "http://nibis.lbeg.de/cardomap3/"
     p1_2: "Auf dieser Webseite können sich Bürgerinnen und Bürger in mehr als 400 Fachkarten über die Themenbereiche Altlasten, Bergbau, Bodenkunde, Erosion, Geologie, Geothermie, Geophysik, Hydrogeologie, Ingenieurgeologie, Klima und Rohstoffe informieren. Bezogen auf die Bergbauberechtigungen sind im NIBIS-Kartenserver für die Bundesländer Niedersachsen, Bremen, Hamburg und Schleswig-Holstein regelmäßig folgende Daten öffentlich einsehbar:"
     item1: Informationen zum Lizenzinhaber
     item2: Koordinaten des Lizenzgebiets
@@ -950,9 +959,6 @@ verwendung-der-einnahmen:
       bundesland: "Nordrhein-Westfalen"
       rechtsgrundlage: "Verordnung über die Feldes und Förderabgabe (FFVO) vom 14.12.1998"
       rechtsgrundlage_link: "esb.bezreg-arnsberg.nrw.de/a_1/a_1_021/"
-      feldesabgabe1:
-        title: "Erdöl und -gas 20 €/ angefangenem km² für das erste Jahr"
-      feldesabgabe2: "Höchstsatz: 60 €"
       abgabesätze1:
         title: "Grubengas 0,3 Cent pro m³ Methan"
       abgabesätze2:
@@ -1395,7 +1401,7 @@ subventionen-und-steuerliche-begünstigungen:
       title: Zuschüsse für den Absatz der Steinkohle
       subnav_items:
         - name: 1-entwicklung
-          title: Etwicklung
+          title: Entwicklung
         - name: 1-kontrolle
           title: Kontrolle
         - name: 1-vorsorge
@@ -1544,7 +1550,7 @@ explore-data:
 
       Hier können Sie interaktiv Zahlen und Daten rund um die <a href="#production">Förderung von Rohstoffen in Deutschland</a> entdecken und sich über den <a href="#revenue">wirtschaftlichen</a> und <a href="#economic-impact">sozialen Beitrag</a> des rohstoffgewinnenden Sektors informieren.
 
-    introduction-second: "-"
+    introduction-second: " "
     figcaption: |
       Eine interaktive Rohstoffkarte finden Sie im Abschnitt:
       <a class="link-alpha" href="#production">Produktionsdaten</a>
@@ -1848,6 +1854,7 @@ einnahmen:
       daten_einsehen: Daten einsehen
       p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
       table1:
+        title: "Einnahmen aus Förderabgaben für die Jahre 2015 und 2016"
         th1: Förderabgabe in Euro
         th2: "2015"
         th3: "2016"
@@ -1856,69 +1863,69 @@ einnahmen:
           td2: "386.954.750,40"
           td3: "232.507.396,33"
         row2:
-          td1: Baden-Württemberg
-          td2: "117.387,84"
-          td3: "128.185,25"
-        row3:
-          td1: Bayern
-          td2: "479.125,65"
-          td3: "1.479.828,47"
-        row4:
-          td1: Berlin
-          td2: "0,00"
-          td3: "0,00"
-        row5:
-          td1: Bremen
-          td2: "0,00"
-          td3: "0,00"
-        row6:
-          td1: Hamburg
-          td2: "167.392,87"
-          td3: "86.573,83"
-        row7:
-          td1: Hessen
-          td2: "455.052,77"
-          td3: "462.929,24"
-        row8:
           td1: Niedersachsen
           td2: "295.865.995,20"
           td3: "172.075.617,30"
-        row9:
-          td1: Nordrhein-Westfalen
-          td2: "1.451.800,74"
-          td3: "666.541,61"
-        row10:
-          td1: Rheinland-Pfalz
-          td2: "8.112.789,63"
-          td3: "5.191.731,39"
-        row11:
-          td1: Saarland
-          td2: "137.667,06"
-          td3: "33.121,21"
-        row12:
+        row3:
           td1: Schleswig-Holstein
           td2: "75.966.953,81"
           td3: "48.139.515,05"
-        row13:
-          td1: Brandenburg
-          td2: "528.292,70"
-          td3: "536.917,05"
-        row14:
-          td1: Mecklenburg-Vorpommern
-          td2: "466.322,01"
-          td3: "247.585,55"
-        row15:
-          td1: Sachsen
-          td2: "335.156,57"
-          td3: "523.795,20"
-        row16:
+        row4:
+          td1: Rheinland-Pfalz
+          td2: "8.112.789,63"
+          td3: "5.191.731,39"
+        row5:
           td1: Sachsen-Anhalt
           td2: "1.363.756,74"
           td3: "1.480.734,27"
-        row17:
+        row6:
+          td1: Bayern
+          td2: "479.125,65"
+          td3: "1.479.828,47"
+        row7:
           td1: Thüringen
           td2: "1.507.056,81"
           td3: "1.454.320,91"
+        row8:
+          td1: Nordrhein-Westfalen
+          td2: "1.451.800,74"
+          td3: "666.541,61"
+        row9:
+          td1: Brandenburg
+          td2: "528.292,70"
+          td3: "536.917,05"
+        row10:
+          td1: Sachsen
+          td2: "335.156,57"
+          td3: "523.795,20"
+        row11:
+          td1: Hessen
+          td2: "455.052,77"
+          td3: "462.929,24"
+        row12:
+          td1: Mecklenburg-Vorpommern
+          td2: "466.322,01"
+          td3: "247.585,55"
+        row13:
+          td1: Baden-Württemberg
+          td2: "117.387,84"
+          td3: "128.185,25"
+        row14:
+          td1: Hamburg
+          td2: "167.392,87"
+          td3: "86.573,83"
+        row15:
+          td1: Saarland
+          td2: "137.667,06"
+          td3: "33.121,21"
+        row16:
+          td1: Berlin
+          td2: "0,00"
+          td3: "0,00"
+        row17:
+          td1: Bremen
+          td2: "0,00"
+          td3: "0,00"
         row18:
           td1: Förderabgaben in Mio. Euro
           td2: "387,0"
@@ -2106,7 +2113,7 @@ downloads:
     - name: daten-zur-exporte
       title: Daten zur Exporte
     - name: steuern
-      title: Steuern Daten zu Staatseinnahmen durch Steuern
+      title: Daten zu Staatseinnahmen durch Steuern
       subnav_items:
         - name: körperschaftsteuer
           title: Körperschaftsteuer
@@ -2160,7 +2167,7 @@ downloads:
     p4: ", Tabellen 5, 28 und 29) entnommen."
 
   steuern:
-    title: Steuern Daten zu Staatseinnahmen durch Steuern
+    title: Daten zu Staatseinnahmen durch Steuern
     p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2012, der Gewerbesteuerstatistiken 2010 und 2011 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
     p2: Betrachtet wurde jeweils nur der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“. Er umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der „Klassifikation der Wirtschaftszweige“ des statistischen Bundesamts auf den Seiten 175-185.
     p3: "Da die aktuellsten statistischen Daten die Jahre 2011 bzw. 2012 betreffen, wurden die Folgejahre bis 2015 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.). Für das Jahr 2016 liegt noch kein Betrag der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ vor."
@@ -2177,9 +2184,9 @@ downloads:
     link1: Bayern,
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
-    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%2520f%25C3%25BCr%2520Wirtschaft%2520und%2520Energie_2017-18.pdf"
+    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%20f%C3%BCr%20Wirtschaft%20und%20Energie_2017-18.pdf"
     link3: Niedersachsen,
-    link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
+    link3_data: "http://www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
     link4: Nordrhein-Westfalen.
     link4_data: "https://www.landtag.nrw.de/web/WWW/haushalt/cd-fm-0916/daten/pdf/2017/gesamt_2017.pdf"
   umsatz:
@@ -2190,7 +2197,7 @@ downloads:
     title: Daten zu Anpassungsgeld
     p: Die Daten zur Höhe der Subventionen wurden dem aktuellen Subventionsbericht der Bundesregierung entnommen, der alle zwei Jahre erscheint
     link: (PDF).
-    link_data: "www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
+    link_data: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
 
 about:
     title: Herzlich Willkommen ...

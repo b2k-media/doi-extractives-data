@@ -20,7 +20,7 @@ breadcrumb:
         </h2>
         <p>{% t einnahmen.steuern.p1 %}</p>
         <p>{% t einnahmen.steuern.p2 %}</p>
-        <a href="{{site.baseurl}}/downloads/#steuern">
+        <a target="_blank" href="{{site.baseurl}}/downloads/#steuern">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.steuern.daten_einsehen %}
         </a>
@@ -138,12 +138,13 @@ breadcrumb:
           {% t einnahmen.förder_feldesabgaben.title %}
         </h3>
         <p>{% t einnahmen.förder_feldesabgaben.p1 %}</p>
-        <a href="{{site.baseurl}}/downloads/#förderabgaben">
+        <a target="_blank" href="{{site.baseurl}}/downloads/#förderabgaben">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.förder_feldesabgaben.daten_einsehen %}
         </a>
         <br/><br/>
         <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p>
+        <h4>{% t einnahmen.förder_feldesabgaben.table1.title %}</h4>
         <table class="einnahmen_table_1">
           <tbody>
             <tr>
@@ -236,6 +237,12 @@ breadcrumb:
               <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td2 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td3 %}</td>
             </tr>
+
+            <tr style="height: 33px">
+              <td> </td>
+              <td> </td>
+              <td> </td>
+            </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td1 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td2 %}</td>
@@ -310,7 +317,7 @@ breadcrumb:
           {% t einnahmen.umsatz.star2.text %}
         </p>
         <div >
-          <a href="{{site.baseurl}}/downloads/#umsatz">
+          <a target="_blank" href="{{site.baseurl}}/downloads/#umsatz">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t einnahmen.umsatz.daten_einsehen %}
           </a>

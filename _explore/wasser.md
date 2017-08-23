@@ -116,14 +116,14 @@ breadcrumb:
         <p id="sub-4">
           <sup>{% t wasser.wasserentnahme.sup4.title %}</sup>
           {% t wasser.wasserentnahme.sup4.text %}
-          <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html">
+          <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html">
             {% t wasser.wasserentnahme.sup4.link %}
           </a>
         </p>
         <p id="sub-5">
           <sup>{% t wasser.wasserentnahme.sup5.title %}</sup>
           {% t wasser.wasserentnahme.sup5.text %}
-          <a href="https://www.statistik.sachsen.de/download/100_Berichte-Q/Q_I_2_3j_13_SN.pdf">
+          <a target="_blank" href="https://www.statistik.sachsen.de/download/100_Berichte-Q/Q_I_2_3j_13_SN.pdf">
             {% t wasser.wasserentnahme.sup5.link %}
           </a>
         </p>
@@ -134,28 +134,28 @@ breadcrumb:
         <p id="sub-7">
           <sup>{% t wasser.wasserentnahme.ausgestaltung.sup7.title %}</sup>
           {% t wasser.wasserentnahme.ausgestaltung.sup7.text %}
-          <a href="https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf">
+          <a target="_blank" href="https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf">
             {% t wasser.wasserentnahme.ausgestaltung.sup7.link %}
           </a>
         </p>
         <p id="sub-8">
           <sup>{% t wasser.wasserentnahme.ausgestaltung.sup8.title %}</sup>
           {% t wasser.wasserentnahme.ausgestaltung.sup8.text %}
-          <a href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_nat%25C3%25BCrlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
+          <a target="_blank"  href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_nat%C3%BCrlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
             {% t wasser.wasserentnahme.ausgestaltung.sup8.link %}
           </a>
         </p>
         <p id="sub-9">
           <sup>{% t wasser.wasserentnahmeentgelte.sup9.title %}</sup>
           {% t wasser.wasserentnahmeentgelte.sup9.text %}
-          <a href="https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx">
+          <a target="_blank" href="https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx">
             {% t wasser.wasserentnahmeentgelte.sup9.link %}
           </a>
         </p>
         <p id="sub-10">
           <sup>{% t wasser.wasserentnahmeentgelte.sup10.title %}</sup>
           {% t wasser.wasserentnahmeentgelte.sup10.text %}
-          <a href="https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1">
+          <a target="_blank" href="https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1">
             {% t wasser.wasserentnahmeentgelte.sup10.link %}
           </a>
         </p>

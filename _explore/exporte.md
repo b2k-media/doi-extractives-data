@@ -30,7 +30,7 @@ breadcrumb:
         </div>
 
         <div style="margin-top: 110px !important">
-          <a href="{{site.baseurl}}/downloads/#exporte">
+          <a target="_blank" href="{{site.baseurl}}/downloads/#exporte">
             <icon class="fa fa-file-text-o u-padding-right"></icon>{% t exporte.daten_einsehen %}
           </a>
         </div>
@@ -45,7 +45,7 @@ breadcrumb:
           </div>
         </div>
         <div style="margin-top: 110px !important">
-          <a href="{{site.baseurl}}/downloads/#daten-zur-exporte-nach-menge">
+          <a target="_blank" href="{{site.baseurl}}/downloads/#daten-zur-exporte-nach-menge">
             <icon class="fa fa-file-text-o u-padding-right"></icon>{% t exporte.daten_einsehen %}
           </a>
         </div>

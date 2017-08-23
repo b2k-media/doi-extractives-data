@@ -18,11 +18,13 @@ breadcrumb:
       <section id="gesamtdeutsche_rohstoffproduktion" style="position: relative;">
         <p>{% t gesamtdeutsche_rohstoffproduktion.p1 %}</p>
         <p>{% t gesamtdeutsche_rohstoffproduktion.p2 %}</p>
-        <a href="{{site.baseurl}}/downloads/#chart-title-1">
+        <a target="_blank" href="{{site.baseurl}}/downloads/#chart-title-1">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t gesamtdeutsche_rohstoffproduktion.daten_einsehen %}
         </a>
+
         <br/><br/>
+        
         <table>
           <tbody>
             <tr>

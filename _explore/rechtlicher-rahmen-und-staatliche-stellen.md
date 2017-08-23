@@ -23,7 +23,7 @@ breadcrumb:
       <br/>
       <section style="position: relative;">
       <h2 id="zustandige-staatliche-stellen">{% t rechtlicher-rahmen.subtitle %}</h2>
-      <a href="http://www.bmwi.de/">
+      <a target="_blank" href="http://www.bmwi.de/">
         <img src="{{ site.baseurl_root }}/img/bundesministerium.png" alt="BMWi">
       </a>
       <br/>
@@ -38,7 +38,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.lgrb-bw.de/home/index_html">
+                <a target="_blank" href="http://www.lgrb-bw.de/home/index_html">
                   {% t rechtlicher-rahmen.grid.baden-wurttemberg.link %}
                 </a>
               </div>
@@ -51,13 +51,13 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.regierung.oberbayern.bayern.de/aufgaben/wirtschaft/bergamt/">
+                <a target="_blank" href="http://www.regierung.oberbayern.bayern.de/aufgaben/wirtschaft/bergamt/">
                   {% t rechtlicher-rahmen.grid.bayern.link1 %}
                 </a>
 
                 und<br/>
 
-                <a href="https://www.regierung.oberfranken.bayern.de/bergamt_nordbayern/index.php">
+                <a target="_blank" href="https://www.regierung.oberfranken.bayern.de/bergamt_nordbayern/index.php">
                   {% t rechtlicher-rahmen.grid.bayern.link2 %}
                 </a>
               </div>
@@ -70,7 +70,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.lbgr.brandenburg.de/">
+                <a target="_blank" href="http://www.lbgr.brandenburg.de/">
                   {% t rechtlicher-rahmen.grid.berlin.link %}
                 </a>
               </div>
@@ -85,7 +85,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.lbgr.brandenburg.de/">
+                <a target="_blank" href="http://www.lbgr.brandenburg.de/">
                   {% t rechtlicher-rahmen.grid.brandenburg.link %}
                 </a>
               </div>
@@ -98,7 +98,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.lbeg.niedersachsen.de/startseite/">
+                <a target="_blank" href="http://www.lbeg.niedersachsen.de/startseite/">
                   {% t rechtlicher-rahmen.grid.bremen.link %}
                 </a>
               </div>
@@ -111,7 +111,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-               <a href="http://www.lbeg.niedersachsen.de/startseite/">
+               <a target="_blank" href="http://www.lbeg.niedersachsen.de/startseite/">
                 {% t rechtlicher-rahmen.grid.hamburg.link %}
                </a>
               </div>
@@ -126,7 +126,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="https://rp-darmstadt.hessen.de/irj/RPDA_Internet?cid=bd0bc0dafb5c5d10c47c461eafdaaaef">
+                <a target="_blank" href="https://rp-darmstadt.hessen.de/irj/RPDA_Internet?cid=bd0bc0dafb5c5d10c47c461eafdaaaef">
                   {% t rechtlicher-rahmen.grid.hessen.link %}
                 </a>
               </div>
@@ -141,7 +141,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.bergamt-mv.de/">
+                <a target="_blank" href="http://www.bergamt-mv.de/">
                   {% t rechtlicher-rahmen.grid.mecklenburg-vorpommern.link %}
                 </a>
               </div>
@@ -156,7 +156,7 @@ breadcrumb:
               </span>
             </div>
             <div>
-              <a href="http://www.lbeg.niedersachsen.de/startseite/">
+              <a target="_blank" href="http://www.lbeg.niedersachsen.de/startseite/">
                 {% t rechtlicher-rahmen.grid.niedersachsen.link %}
               </a>
             </div>
@@ -169,7 +169,7 @@ breadcrumb:
               </span>
             </div>
             <div>
-              <a href="http://www.bezreg-arnsberg.nrw.de/energie_bergbau/">
+              <a target="_blank" href="http://www.bezreg-arnsberg.nrw.de/energie_bergbau/">
                 {% t rechtlicher-rahmen.grid.nordrhein-westfalen.link %}
               </a>
             </div>
@@ -184,7 +184,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.lgb-rlp.de/startseite.html">
+                <a target="_blank" href="http://www.lgb-rlp.de/startseite.html">
                   {% t rechtlicher-rahmen.grid.rheinland-pfalz.link %}
                 </a>
               </div>
@@ -197,7 +197,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-              <a href="http://www.saarland.de/7809.htm">
+              <a target="_blank" href="http://www.saarland.de/7809.htm">
                 {% t rechtlicher-rahmen.grid.saarland.link %}
               </a>
               </div>
@@ -210,7 +210,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-              <a href="http://www.oba.sachsen.de/">{% t rechtlicher-rahmen.grid.sachsen.link %}</a>
+              <a target="_blank" href="http://www.oba.sachsen.de/">{% t rechtlicher-rahmen.grid.sachsen.link %}</a>
               </div>
             </td>
           </tr>
@@ -223,7 +223,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.lagb.sachsen-anhalt.de/">
+                <a target="_blank" href="http://www.lagb.sachsen-anhalt.de/">
                   {% t rechtlicher-rahmen.grid.sachsen-anhalt.link %}
                 </a>
               </div>
@@ -236,7 +236,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.schleswig-holstein.de/DE/Landesregierung/LLUR/Organisation/abteilungen/abteilung6.html">
+                <a target="_blank" href="http://www.schleswig-holstein.de/DE/Landesregierung/LLUR/Organisation/abteilungen/abteilung6.html">
                   {% t rechtlicher-rahmen.grid.schleswig-holstein.link %}
                 </a>
               </div>
@@ -249,7 +249,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a href="http://www.thueringen.de/th8/landesbergamt/index.aspx">
+                <a target="_blank" href="http://www.thueringen.de/th8/landesbergamt/index.aspx">
                   {% t rechtlicher-rahmen.grid.thuringen.link %}
                 </a>
               </div>
@@ -261,15 +261,15 @@ breadcrumb:
         <p>{% t rechtlicher-rahmen.rechtliche-regelung.p1 %}</p>
         <ul>
             <li>
-              <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.title %}</strong>
+              <strong id="rechtliche-regelung-1" >{% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.title %}</strong>
               {% t rechtlicher-rahmen.rechtliche-regelung.ul.li1.p %}
             </li>
             <li>
-            <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.title %}</strong>
+            <strong id="rechtliche-regelung-2" >{% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.title %}</strong>
             {% t rechtlicher-rahmen.rechtliche-regelung.ul.li2.p %}
             </li>
             <li>
-            <strong>{% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.title %}</strong>
+            <strong id="rechtliche-regelung-3" >{% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.title %}</strong>
             {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.p1 %}
             <span class="term term_end" data-term="Bundesimmissionsschutzgesetz" title="Click to define" tabindex="0">
               {% t rechtlicher-rahmen.rechtliche-regelung.ul.li3.k1 %}

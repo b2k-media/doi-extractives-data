@@ -14,9 +14,13 @@ breadcrumb:
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
-    <h1 id="title">{% t salze.title %}</h1>
+    <h1>{% t salze.title %}</h1>
 
     <div class="container-left-9">
+    <section id="title" style="position: relative;">
+      <h2 class="sub-headline">{% t salze.h2 %}</h2>
+
+
       <section id="fakten_zu_salze">
         <h3>{% t salze.slides_title %}</h3>
         <div class="fakten_salze">
@@ -57,6 +61,7 @@ breadcrumb:
         <p>
           {% t salze.verwendung.p2 %}
         </p>
+      </section>
       </section>
     </div>
 

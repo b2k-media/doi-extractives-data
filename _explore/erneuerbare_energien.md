@@ -62,7 +62,7 @@ breadcrumb:
         <p id="explanation-14">
           <sup>{% t erneuerbare_energien.sup14.title %}</sup>
           {% t erneuerbare_energien.sup14.text1 %}
-          <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/erneuerbare-energien-in-zahlen-2015-09.html">
+          <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/erneuerbare-energien-in-zahlen-2015-09.html">
             {% t erneuerbare_energien.sup14.link %}
           </a>
           {% t erneuerbare_energien.sup14.text2 %}

@@ -144,9 +144,11 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.p5.p1 %}
-        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigPDF_2180140.pdf?__blob=publicationFile">PDF</a>
+        <a target="_blank"
+ href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigPDF_2180140.pdf?__blob=publicationFile">PDF</a>
         {% t downloads.p5.p2 %}
-        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>).
+        <a target="_blank"
+ href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>).
         {% t downloads.p5.p3 %}
       </p>
       <p>{% t downloads.p5.p4 %}</p>
@@ -158,7 +160,7 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.p7.p1 %}
-        <a href="https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201606/iiia6/beschaeftigung-sozbe-wz-heft/wz-heft-d-0-201606-xlsx.xlsx">{% t downloads.p7.link %}</a>.
+        <a target="_blank" href="https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201606/iiia6/beschaeftigung-sozbe-wz-heft/wz-heft-d-0-201606-xlsx.xlsx">{% t downloads.p7.link %}</a>.
 
 
       </p>
@@ -169,9 +171,9 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.p8.p1 %}
-        <a href="https://www-genesis.destatis.de/">{% t downloads.p8.link1 %}</a>
+        <a target="_blank" href="https://www-genesis.destatis.de/">{% t downloads.p8.link1 %}</a>
         {% t downloads.p8.p2 %}
-        <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">
+        <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">
           {% t downloads.p8.link2 %}
         </a>
         {% t downloads.p8.p3 %}
@@ -183,11 +185,11 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.exporte.p1 %}
-        <a href="https://www-genesis.destatis.de/">{% t downloads.exporte.link1 %}</a>
+        <a target="_blank" href="https://www-genesis.destatis.de/">{% t downloads.exporte.link1 %}</a>
         {% t downloads.exporte.p2 %}
-        <a href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">{% t downloads.exporte.link2 %}</a>
+        <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">{% t downloads.exporte.link2 %}</a>
         {% t downloads.exporte.p3 %}
-        <a href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">{% t downloads.exporte.link3 %}</a>
+        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">{% t downloads.exporte.link3 %}</a>
         {% t downloads.exporte.p4 %}
       </p>
     </div>
@@ -200,7 +202,7 @@ permalink: /downloads/
       <p>{% t downloads.steuern.p3 %}</p>
       <p>{% t downloads.steuern.p4 %}</p>
       <p>{% t downloads.steuern.p5 %}</p>
-      <a href="{% t downloads.steuern.link %}">
+      <a target="_blank" href="{% t downloads.steuern.link %}">
         {% t downloads.steuern.link %}
       </a>
       <br/>
@@ -246,23 +248,23 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.förderabgaben.p1_1 %}
-        <a href="{% t downloads.förderabgaben.link_data %}">
+        <a target="_blank" href="{% t downloads.förderabgaben.link_data %}">
           {% t downloads.förderabgaben.link1 %}
         </a>
         {% t downloads.förderabgaben.p1_2 %}
       </p>
       <p>
         {% t downloads.förderabgaben.p1_1 %}
-        <a href="{% t downloads.förderabgaben.link1_data %}">
+        <a target="_blank" href="{% t downloads.förderabgaben.link1_data %}">
           {% t downloads.förderabgaben.link1 %}
         </a>
-        <a href="{% t downloads.förderabgaben.link2_data %}">
+        <a target="_blank" href="{% t downloads.förderabgaben.link2_data %}">
           {% t downloads.förderabgaben.link2 %}
         </a>
-        <a href="{% t downloads.förderabgaben.link3_data %}">
+        <a target="_blank" href="{% t downloads.förderabgaben.link3_data %}">
           {% t downloads.förderabgaben.link3 %}
         </a>
-        <a href="{% t downloads.förderabgaben.link4_data %}">
+        <a target="_blank" href="{% t downloads.förderabgaben.link4_data %}">
           {% t downloads.förderabgaben.link4 %}
         </a>
       </p>
@@ -284,7 +286,7 @@ permalink: /downloads/
       <h2 id="umsatz">{% t downloads.umsatz.title %}</h2>
       <hr/>
       <p>{% t downloads.umsatz.p %}
-        <a href="https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Strukturdaten/Jahresbericht5422701167005.html">
+        <a target="_blank" href="https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Strukturdaten/Jahresbericht5422701167005.html">
           {% t downloads.umsatz.link %}
         </a>
       </p>
@@ -294,7 +296,7 @@ permalink: /downloads/
       <h2 id="anpassungsgeld">{% t downloads.anpassungsgeld.title %}</h2>
       <hr/>
       <p>{% t downloads.anpassungsgeld.p %}
-        <a href="{% t downloads.anpassungsgeld.link_data %}">
+        <a target="_blank" href="{% t downloads.anpassungsgeld.link_data %}">
           {% t downloads.anpassungsgeld.link %}
         </a>
       </p>

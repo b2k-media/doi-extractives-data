@@ -37,7 +37,7 @@ breadcrumb:
           <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p4 %}</p>
           <p>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_1 %}
-            <a href="https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html">
+            <a target="_blank" href="https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html">
               {% t lizenzregister_und_verträge.rechtliche_grundlage.linkp %}
             </a>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_2 %}
@@ -47,7 +47,7 @@ breadcrumb:
           <h3>{% t lizenzregister_und_verträge.beispiel.title %}</h3>
           <p>
             {% t lizenzregister_und_verträge.beispiel.p1_1 %}
-            <a href="{% t lizenzregister_und_verträge.beispiel.link_data %}">
+            <a target="_blank" href="{% t lizenzregister_und_verträge.beispiel.link_data %}">
               {% t lizenzregister_und_verträge.beispiel.link1 %}
             </a>
             {% t lizenzregister_und_verträge.beispiel.p1_2 %}
@@ -69,15 +69,15 @@ breadcrumb:
           <h3>{% t lizenzregister_und_verträge.handhabung.title %}</h3>
           <p>
             {% t lizenzregister_und_verträge.handhabung.p1_1 %}
-            <a href="https://www.maps.lgrb-bw.de">
+            <a target="_blank" href="http://www.maps.lgrb-bw.de">
               {% t lizenzregister_und_verträge.handhabung.link1 %}
             </a>
             {% t lizenzregister_und_verträge.handhabung.p1_2 %}
-            <a href="https://www.geo.brandenburg.de/lbgr/bergbau">
+            <a target="_blank" href="http://www.geo.brandenburg.de/lbgr/bergbau">
               {% t lizenzregister_und_verträge.handhabung.link2 %}
             </a>
             {% t lizenzregister_und_verträge.handhabung.p1_3 %}
-            <a href="https://www.geoportal.saarland.de">
+            <a target="_blank" href="http://www.geoportal.saarland.de">
               {% t lizenzregister_und_verträge.handhabung.link3 %}
             </a>
           </p>

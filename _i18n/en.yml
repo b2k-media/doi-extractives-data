@@ -165,6 +165,7 @@ salze:
       title: Gewinnung
     - name: verwendung
       title: Verwendung
+  h2: Salze
   slides_title: Wissenswertes über Salze
   slides:
     - Salz wird seit über 5.000 Jahren aktiv durch den Menschen gewonnen.
@@ -1865,6 +1866,7 @@ einnahmen:
       daten_einsehen: Daten einsehen
       p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
       table1:
+        title: "Einnahmen aus Förderabgaben für die Jahre 2015 und 2016"
         th1: Förderabgabe in Euro
         th2: "2015"
         th3: "2016"
