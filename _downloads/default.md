@@ -301,6 +301,21 @@ permalink: /downloads/
         </a>
       </p>
     </div>
+    <div id="zahlungsabgleich">
+      <h2 id="zahlungsabgleich">{% t downloads.zahlungsabgleich.title %}</h2>
+      <hr/>
+      <p>
+        {% t downloads.zahlungsabgleich.p1_1 %}
+        <a href="{{site.baseurl_root}}/downloads/D-EITI_Zahlungsabgleich_2016.xlsx">
+          {% t downloads.zahlungsabgleich.link1 %}
+        </a>
+        {% t downloads.zahlungsabgleich.p1_2 %}
+        <a href="{{site.baseurl_root}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger Verwalter.pdf">
+          {% t downloads.zahlungsabgleich.link2 %}
+        </a>
+        {% t downloads.zahlungsabgleich.p1_3 %}
+      </p>
+    </div>
   </div>
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
