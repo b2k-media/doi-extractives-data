@@ -1596,6 +1596,10 @@ gesamtdeutsche_rohstoffproduktion:
   nav_items:
     - name: title
       title: Seitenanfang
+    - name: rohstoff-menge
+      title: Rohstoff Menge (2015)
+    - name: rohstoff-wert
+      title: Rohstoff Wert (2015)
   p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
