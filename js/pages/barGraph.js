@@ -2,6 +2,7 @@ $(document).ready(function(){
 
   var jsonData = [];
   var category = [];
+  var jsonUnit = '';
   var isEn = document.URL.search('/en/');
   var ticks = [];
   var labels = [];
@@ -42,6 +43,7 @@ $(document).ready(function(){
     title = jsonData.title;
     ticks= jsondata.xAxis;
     labels= jsondata.labels;
+    jsonUnit = jsondata.unit;
     var colors = jsondata.color;
     var chartTitle = (isEn > 1) ? jsondata.title_en : jsondata.title;
     plotGraph('chart'+(number+1),jsonData, jsondata, chartTitle, colors, ticks, labels, displayTwoDecimalPoints);
@@ -94,7 +96,10 @@ $(document).ready(function(){
         },
         title: chartTitle
     });
-    $(".jqplot-xaxis-tick").last().text('Mio. €');
+    if(jsonUnit != null)
+      $(".jqplot-xaxis-tick").last().text(jsonUnit);
+    else
+      $(".jqplot-xaxis-tick").last().text('Mio. €');
 
     if($( window ).width() < 600) {
       $(".jqplot-point-label").css("left", $( window ).width() - 50);
