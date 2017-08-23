@@ -1592,30 +1592,6 @@ gesamtdeutsche_rohstoffproduktion:
   nav_items:
     - name: title
       title: Seitenanfang
-    - name: steinkohle
-      title: Steinkohle
-    - name: braunkohle
-      title: Braunkohle
-    - name: erdöl
-      title: Erdöl
-    - name: erdgas
-      title: Erdgas
-    - name: kalisalz
-      title: Kalisalz
-    - name: spezialton
-      title: Spezialton
-    - name: steinsalz
-      title: Steinsalz und Industriesole
-    - name: kaolin
-      title: Kaolin
-    - name: quarzkies_und_sand
-      title: Quarzkies und –sand
-    - name: kies_und_sand
-      title: Kies und Sand und gebrochener Naturstein
-    - name: naturwerkstein
-      title: Naturwerkstein
-    - name: kalk_mergel
-      title: Kalk-/Mergel- und Dolomitstein
   p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
@@ -1773,15 +1749,6 @@ einnahmen:
         title: Seitenanfang
       - name: steuern
         title: Steuern
-        subnav_items:
-          - name: körperschaftsteuer
-            title: Körperschaftsteuer
-          - name: gewerbesteuer
-            title: Gewerbesteuer
-          - name: einkommensteuer
-            title: Einkommensteuer
-          - name: solidaritätszuschlag
-            title: Solidaritätszuschlag
       - name: steuereinnahmen
         title: Steuereinnahmen aus dem Rohstoffsektor
       - name: förder_feldesabgaben
@@ -2127,6 +2094,31 @@ downloads:
       title: Daten zur interaktiven Rohstoffkarte
     - name: chart-title-1
       title: Daten zur gesammtdeutschen Rohstoffproduktion
+      subnav_items:
+        - name: steinkohle
+          title: Steinkohle
+        - name: braunkohle
+          title: Braunkohle
+        - name: erdöl
+          title: Erdöl
+        - name: erdgas
+          title: Erdgas
+        - name: kalisalz
+          title: Kalisalz
+        - name: spezialton
+          title: Spezialton
+        - name: steinsalz
+          title: Steinsalz und Industriesole
+        - name: kaolin
+          title: Kaolin
+        - name: quarzkies_und_sand
+          title: Quarzkies und –sand
+        - name: kies_und_sand
+          title: Kies und Sand und gebrochener Naturstein
+        - name: naturwerkstein
+          title: Naturwerkstein
+        - name: kalk_mergel
+          title: Kalk-/Mergel- und Dolomitstein
     - name: daten-zur-beitrag-zum-bip
       title: Daten zur Beitrag zum BIP
     - name: daten-zur-beschaftigten
@@ -2135,6 +2127,15 @@ downloads:
       title: Daten zur Exporte
     - name: steuern
       title: Steuern Daten zu Staatseinnahmen durch Steuern
+      subnav_items:
+        - name: körperschaftsteuer
+          title: Körperschaftsteuer
+        - name: gewerbesteuer
+          title: Gewerbesteuer
+        - name: einkommensteuer
+          title: Einkommensteuer
+        - name: solidaritätszuschlag
+          title: Solidaritätszuschlag
     - name: förderabgaben
       title: Daten zu Feldes- und Förderabgaben
     - name: umsatz

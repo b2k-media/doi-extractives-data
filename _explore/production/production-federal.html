@@ -143,7 +143,12 @@ breadcrumb:
                   data-object="states"
                   data-id="'DE-' + id"
                   data-href="'#?region=' + id"
-                  data-title="properties.name"
+                  {% if site.lang == "en" %}
+                    data-title="properties.en_name"
+                  {% else %}
+                    data-title="properties.name"
+                  {% endif %}>
+
                   data-mesh="true">
                 </g>
               </svg>
