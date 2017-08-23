@@ -47,7 +47,7 @@ breadcrumb:
         </h3>
         <p>{% t wasser.wasserentnahme.beispiel.p1 %}</p>
 
-        <div class="explore-exploration slab-alpha">
+        <!-- <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
               <div class="container chart-container">
@@ -55,8 +55,12 @@ breadcrumb:
               </div>
             </div>
           </div>
+        </div> -->
+        <div>
+          <img style="width: 100%" src="{{ site.baseurl_root }}/img/wasser/wasser_bild.png" alt="KAchel Wasser_Bild">
         </div>
-        <h3 id="rechtlicher" style="margin-top: 180px !important">
+        <br/>
+        <h3 id="rechtlicher">
           {% t wasser.wasserentnahme.rechtlicher.title %}
         </h3>
         <p>
