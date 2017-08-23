@@ -65,6 +65,81 @@ breadcrumb:
             {% t zahlungsabgleich.p4.link11 %}
           </a>
         </p>
+        <section id="förderabgaben" style="position: relative;">
+          <h2>{% t zahlungsabgleich.förderabgaben.title %}</h2>
+          <p>
+            {% t zahlungsabgleich.förderabgaben.p1 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.förderabgaben.p2 %}
+            <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsströme/">
+              {% t zahlungsabgleich.förderabgaben.link %}
+            </a>
+          </p>
+        </section>
+        <section id="abdeckung" style="position: relative;">
+          <h2>{% t zahlungsabgleich.abdeckung.title %}</h2>
+          <p>
+            {% t zahlungsabgleich.abdeckung.p1 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.abdeckung.p2 %}
+            <a href="{{site.baseurl}}/explore/identifizierung-unternehmen/">
+              {% t zahlungsabgleich.abdeckung.link1 %}
+            </a>
+            {% t zahlungsabgleich.abdeckung.p3 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.abdeckung.p4 %}
+          </p>
+          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t zahlungsabgleich.abdeckung.link2 %}
+          </a>
+          <br/><br/>
+        </section>
+        <section id="unternehmen" style="position: relative;">
+          <h2>{% t zahlungsabgleich.unternehmen.title %}</h2>
+          <p>
+            {% t zahlungsabgleich.unternehmen.p1 %}
+            <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsströme/">
+              {% t zahlungsabgleich.unternehmen.link1 %}
+            </a>
+            {% t zahlungsabgleich.unternehmen.p2 %}
+          </p>
+          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t zahlungsabgleich.unternehmen.link2 %}
+          </a>
+          <p>
+            {% t zahlungsabgleich.unternehmen.p3 %}
+          </p>
+          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t zahlungsabgleich.unternehmen.link3 %}
+          </a>
+          <p>
+            {% t zahlungsabgleich.unternehmen.p4 %}
+            <a href="{{site.baseurl}}/explore/zahlungsströme/">
+              {% t zahlungsabgleich.unternehmen.link4 %}
+            </a>
+            {% t zahlungsabgleich.unternehmen.p5 %}
+          </p>
+        </section>
+        <section id="gewerbesteuer" style="position: relative;">
+          <h2>{% t zahlungsabgleich.gewerbesteuer.title %}</h2>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuer.p1 %}
+            <a href="{{site.baseurl}}/explore/zahlungsströme/">
+              {% t zahlungsabgleich.gewerbesteuer.link1 %}
+            </a>
+            {% t zahlungsabgleich.gewerbesteuer.p2 %}
+          </p>
+          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t zahlungsabgleich.gewerbesteuer.link2 %}
+          </a>
+        </section>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
