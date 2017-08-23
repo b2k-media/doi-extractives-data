@@ -2132,6 +2132,32 @@ zahlungsströme:
     p1: "Die handelsrechtlichen Regelungen zur Erstellung von (Konzern-)Zahlungsberichten sehen vor, dass die betroffenen Unternehmen Zahlungen eines Berichtsjahres ab einem Betrag von EUR 100.000,00 je staatlicher Stelle zu berichten haben (vgl. § 341t Abs. 4 HGB). Eine staatliche Stelle, an die im Berichtszeitraum weniger als 100.000,00 Euro geleistet wurde, braucht nicht angegeben zu werden. "
     p2: "Die MSG hat sich dazu entschieden, diese Regelungen für den ersten D-EITI Bericht zu übernehmen. Sind Zahlungen geleistet worden, die den Betrag von 100.000,00 Euro je staatlicher Stelle im Berichtsjahr 2016 nicht erreichten, sehen die Vorlagen zur Datenerhebung einen entsprechenden Hinweis auf das Vorhandensein von Zahlungen vor, ohne dass diese betragsmäßig zu nennen wären."
 
+unternehmen-und-zahlungsströme:
+    title: "Unternehmen und Zahlungsströme"
+    nav_items:
+      - name: title
+        title: Seitenanfang
+      - name: zahlungsabgleich
+        title: "Am Zahlungsabgleich teilnehmende Unternehmen"
+      - name: zahlungen
+        title: "Zahlungen und Differenzen Körperschaftsteuer"
+      - name: differenzen
+        title: "Zahlungen und Differenzen Feldes- und Förderabgaben"
+      - name: feldes
+        title: "Feldes- Förderabgaben nach Bergbehörde"
+    daten_einsehen: "Daten einsehen"
+    zahlungsabgleich:
+      title: "Am Zahlungsabgleich teilnehmende Unternehmen"
+    zahlungen:
+      title: "Zahlungen und Differenzen Körperschaftsteuer"
+      p: "Die Zahlungen und Differenzen des Zahlungsstroms Körperschaftsteuer stellen sich je Unternehmen wie folgt dar: "
+    differenzen:
+      title: "Zahlungen und Differenzen Feldes- und Förderabgaben"
+      p: "Die Zahlungen und Differenzen des Zahlungsstroms Feldes-/Förderabgaben stellen sich je Unternehmen wie folgt dar: "
+    feldes:
+      title: "Feldes- Förderabgaben nach Bergbehörde"
+      p: "Die Zahlungen und Differenzen für Feldes-/Förderabgaben entfallen auf die nachfolgend aufgeführten Bergbehörden:"
+
 how-it-work:
     title: Rohstoffgewinnung
     description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
@@ -2218,6 +2244,8 @@ downloads:
       title: Daten zu Umsatz Steine und Erden
     - name: anpassungsgeld
       title: Daten zu Anpassungsgeld
+    - name: zahlungsabgleich
+      title: Daten zum Zahlungsabgleich
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u.a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
   download_label: Download der Produktionsdaten
@@ -2287,6 +2315,13 @@ downloads:
     p: Die Daten zur Höhe der Subventionen wurden dem aktuellen Subventionsbericht der Bundesregierung entnommen, der alle zwei Jahre erscheint
     link: (PDF).
     link_data: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
+  zahlungsabgleich:
+    title: "Daten zum Zahlungsabgleich"
+    p1_1: "Die Informationen zum Zahlungsabgleich finden Sie in dieser"
+    link1: "Excel-Datei."
+    p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den ersten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
+    link2: "pdf"
+    p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
 
 about:
     title: Herzlich Willkommen ...
