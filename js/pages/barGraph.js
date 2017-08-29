@@ -10,7 +10,6 @@ $(document).ready(function(){
   var displayTwoDecimalPoints = false;
 
   if (isEn === -1) {
-    console.log('inside gr');
     $.jqplot.sprintf.thousandsSeparator = '.';
     $.jqplot.sprintf.decimalMark = ',';
   }
@@ -61,6 +60,7 @@ $(document).ready(function(){
       { show: true, location: 'e', edgeTolerance: -15, formatString: '%.2f' } :
       { show: true, location: 'e', edgeTolerance: -15 }
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
+
     plot2b = $.jqplot(chart, data, {
         animate: !$.jqplot.use_excanvas,
         seriesDefaults: {
