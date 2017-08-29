@@ -2542,6 +2542,19 @@ zahlungsabgleich:
         p7: "0"
         p8: " "
     link2: "Daten einsehen"
+  sub-1:
+    title: "1"
+    text: "keine Zahlungen aufgrund Rechtsform"
+  sub-2:
+    title: "2"
+    text: "Zahlungen erfolgen durch den Organträger"
+  sub-3:
+    title: "3"
+    text: "keine Angabe von Zahlungen aufgrund Organschaft"
+  sub-4:
+    title: "4"
+    text: "Es sind Zahlungen erfolgt, allerdings in Summe unter EUR 100.000,00"
+
 
 how-it-work:
     title: Rohstoffgewinnung
