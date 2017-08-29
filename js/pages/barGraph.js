@@ -9,6 +9,12 @@ $(document).ready(function(){
   var jsonFilePath= '';
   var displayTwoDecimalPoints = false;
 
+  if (isEn === -1) {
+    console.log('inside gr');
+    $.jqplot.sprintf.thousandsSeparator = '.';
+    $.jqplot.sprintf.decimalMark = ',';
+  }
+
   if (document.URL.search('/explore/exporte/') > 1) {
     jsonFilePath = "../../data/graphs/exporte.json";
     displayTwoDecimalPoints = true;
