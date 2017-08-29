@@ -153,6 +153,202 @@ breadcrumb:
           <p>
             {% t zahlungsabgleich.unternehmen.p3 %}
           </p>
+          <table>
+            <tbody style="font-size: 0.9rem;">
+              <tr>
+                <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h1 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h2 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h3 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h4 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h5 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h6 %}</strong></td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row1.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row1.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row1.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row1.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row1.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row1.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row2.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row2.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row2.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row2.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row2.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row2.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row3.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row3.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row3.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row3.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row3.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row3.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row4.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row4.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row4.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row4.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row4.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row4.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row5.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row5.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row5.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row5.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row5.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row5.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row6.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row6.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row6.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row6.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row6.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row6.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row7.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row7.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row7.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row7.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row7.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row7.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row8.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row8.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row8.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row8.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row8.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row8.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row9.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row9.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row9.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row9.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row9.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row9.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row10.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row10.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row10.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row10.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row10.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row10.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row11.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row11.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row11.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row11.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row11.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row11.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row12.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row12.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row12.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row12.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row12.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row12.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row13.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row13.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row13.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row13.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row13.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row13.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row14.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row14.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row14.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row14.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row14.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row14.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row15.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row15.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row15.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row15.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row15.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row15.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row16.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row16.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row16.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row16.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row16.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row16.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row17.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row17.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row17.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row17.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row17.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row17.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row18.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row18.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row18.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row18.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row18.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row18.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row20.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row20.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row20.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row20.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row20.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row20.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p6 %}</td>
+              </tr>
+              <tr>
+                  <td><strong>{% t zahlungsabgleich.unternehmen.table.row23.p1 %}</strong></td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p6 %}</td>
+              </tr>
+            </tbody>
+          </table>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.unternehmen.link3 %}
@@ -174,6 +370,72 @@ breadcrumb:
             </a>
             {% t zahlungsabgleich.gewerbesteuer.p2 %}
           </p>
+          <table>
+            <tbody>
+            <tr>
+              <td><strong>
+              {% t zahlungsabgleich.gewerbesteuer.table.head.h1 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h2 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h3 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h4 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h5 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h6 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h7 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h8 %}</strong></td>
+            </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p1 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p2 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p3 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p4 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p5 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p6 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p7 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p8 %}</td>
+            </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p1 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p2 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p3 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p4 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p5 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p6 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p7 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p8 %}</td>
+            </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p1 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p2 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p3 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p4 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p5 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p6 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p7 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p8 %}</td>
+            </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p1 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p2 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p3 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p4 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p5 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p6 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p7 %}</td>
+              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p8 %}</td>
+            </tr>
+            <tr>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p1 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p2 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p3 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p4 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p5 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p6 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p7 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p8 %}</strong></td>
+            </tr>
+
+            </tbody>
+          </table>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.gewerbesteuer.link2 %}
