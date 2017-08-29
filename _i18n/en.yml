@@ -2275,11 +2275,14 @@ zahlungsabgleich:
     p6: "von 100.000 € und für das Geschäftsjahr 2016 gemeldet."
   p2:
     p7: "Die berichteten Zahlungen der Unternehmen für Körperschaftsteuer und Feldes- und Förderabgaben wurden mit den korrespondierenden Einnahmen der "
+    link8_1: "öffentlichen Stellen"
+    p7_1: "abgeglichen. Hierfür haben die teilnehmenden Unternehmen die öffentlichen Stellen vom"
     link9: "Steuergeheimnis"
     p8: befreit.
   p3:
     p9: "Die Zahlungen der Unternehmen für"
-    link10: "Gewerbesteuer, Pachtzahlungen"
+    link10: "Gewerbesteuer,"
+    link10_1: " Pachtzahlungen"
     p10: "wurden für das Jahr 2016 nicht mit den Einnahmen der staatlichen Stellen abgeglichen."
 
   p4:
