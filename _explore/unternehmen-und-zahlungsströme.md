@@ -19,6 +19,133 @@ breadcrumb:
       <section id="unternehmen-und-zahlungsströme" style="position: relative;">
         <section id="zahlungsabgleich" style="position: relative;">
           <h2>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.title %}</h2>
+          <table>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row1.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row1.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row1.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row2.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row2.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row2.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row3.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row3.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row3.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row4.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row4.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row4.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row5.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row5.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row5.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row6.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row6.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row6.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row7.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row7.td2 %}</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row7_1.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row7_1.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row7_2.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row7_2.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8.td2 %}</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_1.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_1.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_2.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_2.td3 %}</td>
+            </tr>
+
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_3.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_3.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_4.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_4.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_5.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_5.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_6.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_6.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_7.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_7.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_8.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_8.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_9.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_9.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row9.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row9.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row9.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row10.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row10.td2 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row10_1.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row10_1.td3 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row10_2.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row10_2.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row11.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row11.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row11.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row12.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row12.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row12.td3 %}</td>
+            </tr>
+          </table>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t unternehmen-und-zahlungsströme.daten_einsehen %}

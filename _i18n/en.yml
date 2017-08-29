@@ -2234,6 +2234,91 @@ unternehmen-und-zahlungsströme:
     daten_einsehen: "Daten einsehen"
     zahlungsabgleich:
       title: "Am Zahlungsabgleich teilnehmende Unternehmen"
+      table:
+        row1:
+          td1: "1"
+          td2: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
+          td3: "Erdöl und Erdgas"
+        row2:
+          td1: "2"
+          td2: "DEA Deutsche Erdoel AG, Hamburg"
+          td3: "Erdöl und Erdgas"
+        row3:
+          td1: "3"
+          td2: "Dyckerhoff - Gruppe, Wiesbaden"
+          td3: "Steine und Erden"
+        row4:
+          td1: "4"
+          td2: "ENGIE E&P Deutschland GmbH, Lingen"
+          td3: "Erdöl und Erdgas"
+        row5:
+          td1: "5"
+          td2: "ExxonMobil Production Deutschland GmbH, Hannover"
+          td3: "Erdöl und Erdgas"
+        row6:
+          td1: "6"
+          td2: "Heidelberger Sand und Kies GmbH, Heidelberg"
+          td3: "Steine und Erden"
+        row7:
+          td1: "7"
+          td2: "K+S - Gruppe"
+        row7_1:
+          td2: "esco - european salt company GmbH & Co. KG, Hannover"
+          td3: "Kali und Salze"
+        row7_2:
+          td2: "K+S Kali GmbH, Kassel"
+          td3: "Kali und Salze"
+        row8:
+          td1: "8"
+          td2: "LafargeHolcim - Gruppe"
+        row8_1:
+          td2: "Buss Basalt GmbH & Co. KG, Münzenberg"
+          td3: "Steine und Erden"
+        row8_2:
+          td2: "Holcim (Deutschland) GmbH, Hamburgg"
+          td3: "Steine und Erden"
+        row8_3:
+          td2: "Holcim Beton und Zuschlagstoffe GmbH, Hamburg"
+          td3: "Steine und Erden"
+        row8_4:
+          td2: "Holcim Kieswerk Zeithain GmbH & Co. KG, Dresden"
+          td3: "Steine und Erden"
+        row8_5:
+          td2: "Holcim West Zement GmbH, Beckum"
+          td3: "Steine und Erden"
+        row8_6:
+          td2: "Kalksteinwerke Medenbach GmbH, Breitscheid"
+          td3: "Steine und Erden"
+        row8_7:
+          td2: "Kieswerk Leinetal GmbH & Co. KG, Diekholzen"
+          td3: "Steine und Erden"
+        row8_8:
+          td2: "Kieswerk Hermann GmbH & Co. KG, Kirchhain"
+          td3: "Steine und Erden"
+        row8_9:
+          td2: "Kieswerke Borsberg GmbH & Co. KG, Pirna"
+          td3: "Steine und Erden"
+        row9:
+          td1: "9"
+          td2: "Lausitz Energie Bergbau AG, Cottbus"
+          td3: "Braunkohle"
+        row10:
+          td1: "10"
+          td2: "RWE - Gruppe"
+        row10_1:
+          td2: "Rheinische Baustoffwerke GmbH, Bergheim"
+          td3: "Steine und Erden"
+        row10_2:
+          td2: "RWE Power AG, Essen"
+          td3: "Braunkohle"
+        row11:
+          td1: "11"
+          td2: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
+          td3: "Erdöl und Erdgas"
+        row12:
+          td1: "12"
+          td2: "Wintershall Holding GmbH, Celle"
+          td3: "Erdöl und Erdgas"
     zahlungen:
       title: "Zahlungen und Differenzen Körperschaftsteuer"
       p: "Die Zahlungen und Differenzen des Zahlungsstroms Körperschaftsteuer stellen sich je Unternehmen wie folgt dar: "
