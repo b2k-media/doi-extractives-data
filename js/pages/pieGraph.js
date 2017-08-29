@@ -5,6 +5,8 @@ $(document).ready(function(){
     jsonFilePath = "../../data/graphs/employment.json";
   } else if (document.URL.search('explore/how-it-work/erneuerbare_energien/') > 1) {
     jsonFilePath = "../../../data/graphs/erneuerbare_energien.json";
+  } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
+    jsonFilePath = "../../data/graphs/zahlungsabgleich_Pie.json";
   }
 
   var isEn = document.URL.search('/en/');

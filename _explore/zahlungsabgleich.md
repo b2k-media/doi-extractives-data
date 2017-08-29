@@ -136,6 +136,16 @@ breadcrumb:
             </a>
             {% t zahlungsabgleich.unternehmen.p2 %}
           </p>
+          <br/>
+          <div id="chart-1" class="explore-exploration slab-alpha">
+            <div class="regions container">
+              <div class="graph">
+                <div class="container chart-container">
+                  <div id="pieChart"></div>
+                </div>
+              </div>
+            </div>
+          </div>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.unternehmen.link2 %}
@@ -193,5 +203,6 @@ breadcrumb:
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.categoryAxisRenderer.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.pointLabels.min.js"></script>
 
+<script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/pieGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/barGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/lib/explore.min.js" charset="utf-8"></script>

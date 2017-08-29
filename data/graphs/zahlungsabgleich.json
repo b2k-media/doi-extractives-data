@@ -35,6 +35,6 @@
     ]
 	],
 	"color": ["#28467a", "#4682be"],
-	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
-	"xAxis": [0, 50, 100, 120]
+	"labels": ["Geschätzte Abdeckung aller identifizierter Unternehmen", "Geschätzte Abdeckung aller teilnehmenden Unternehmen"],
+	"xAxis": [0, 20, 40, 60, 80, 106]
 }]
