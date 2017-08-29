@@ -7,6 +7,12 @@ $(document).ready(function(){
     jsonFilePath = "../../../data/graphs/erneuerbare_energien.json";
   }
 
+  var isEn = document.URL.search('/en/');
+  if (isEn === -1) {
+    $.jqplot.sprintf.thousandsSeparator = '.';
+    $.jqplot.sprintf.decimalMark = ',';
+  }
+
   $.ajax({
     type: "GET",
     url: jsonFilePath,
