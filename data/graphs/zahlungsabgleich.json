@@ -1,0 +1,40 @@
+[{
+	"title": "Zahlungsabgleich Feldes- und Förderabgaben und Körperschaftsteuer",
+	"title_en": "Zahlungsabgleich Feldes- und Förderabgaben und Körperschaftsteuer EN",
+	"data": [
+    [
+      [302377257.69 , "Zahlungsabgleich Gesamt"],
+      [231384155.87 , "Feldes- und Förderabgaben"],
+      [70993101.82 , "Körperschaft- steuer"]
+		],
+    [
+      [302377257.66 , "Zahlungsabgleich Gesamt"],
+      [231384155.84 , "Feldes- und Förderabgaben"],
+      [70993101.82 , "Körperschaft- steuer"]
+    ]
+	],
+	"color": ["#28467a", "#4682be"],
+	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
+	"xAxis": [0, 100000000, 200000000, 300000000, 400000000]
+}, {
+	"title": "Abdeckung der Sektoren*",
+	"title_en": "Abdeckung der Sektoren* EN",
+	"data": [
+    [
+      [100.0 , "Braunkohle"],
+      [96.0 , "Erdöl"],
+      [99.7 , "Erdgas"],
+      [97.8 , "Kali"],
+      [83.4 , "Salze"]
+		],
+    [
+      [89.0 , "Braunkohle"],
+      [96.0 , "Erdöl"],
+      [99.7 , "Erdgas"],
+      [97.8 , "Kali"]
+    ]
+	],
+	"color": ["#28467a", "#4682be"],
+	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
+	"xAxis": [0, 50, 100, 120]
+}]
