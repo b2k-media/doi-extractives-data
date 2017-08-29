@@ -25,6 +25,9 @@ $(document).ready(function(){
     jsonFilePath = "../../../data/graphs/wasser.json";
   } else if (document.URL.search('explore/gesamtdeutsche_rohstoffproduktion/') > 1) {
     jsonFilePath = "../../data/graphs/gesamtdeutsche_rohstoffproduktion.json";
+  } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
+    jsonFilePath = "../../data/graphs/zahlungsabgleich.json";
+    displayTwoDecimalPoints = true;
   }
 
   $.ajax({
@@ -104,6 +107,8 @@ $(document).ready(function(){
     });
     if(jsonUnit != null)
       $(".jqplot-xaxis-tick").last().text(jsonUnit);
+    else if (chartTitle == "Abdeckung der Sektoren*" || chartTitle == "Abdeckung der Sektoren* EN")
+      $(".jqplot-xaxis-tick").last().text('100%');
     else
       $(".jqplot-xaxis-tick").last().text('Mio. €');
 
