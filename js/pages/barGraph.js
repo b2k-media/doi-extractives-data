@@ -9,6 +9,11 @@ $(document).ready(function(){
   var jsonFilePath= '';
   var displayTwoDecimalPoints = false;
 
+  if (isEn === -1) {
+    $.jqplot.sprintf.thousandsSeparator = '.';
+    $.jqplot.sprintf.decimalMark = ',';
+  }
+
   if (document.URL.search('/explore/exporte/') > 1) {
     jsonFilePath = "../../data/graphs/exporte.json";
     displayTwoDecimalPoints = true;
@@ -55,6 +60,7 @@ $(document).ready(function(){
       { show: true, location: 'e', edgeTolerance: -15, formatString: '%.2f' } :
       { show: true, location: 'e', edgeTolerance: -15 }
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
+
     plot2b = $.jqplot(chart, data, {
         animate: !$.jqplot.use_excanvas,
         seriesDefaults: {
