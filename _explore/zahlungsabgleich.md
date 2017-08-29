@@ -15,53 +15,60 @@ breadcrumb:
     <div class="container-left-9">
         <p>
           {% t zahlungsabgleich.p1.p1 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/identifizierung-unternehmen">
             {% t zahlungsabgleich.p1.link1 %}
           </a>
           {% t zahlungsabgleich.p1.p2 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/auswahl-sektoren/">
             {% t zahlungsabgleich.p1.link2 %}
           </a>
           {% t zahlungsabgleich.p1.p3 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsströme/">
             {% t zahlungsabgleich.p1.link3 %}
           </a>
           {% t zahlungsabgleich.p1.p4 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/zahlungsströme/#körperschaftsteuer">
             {% t zahlungsabgleich.p1.link4 %}
           </a>
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/zahlungsströme/#feldes">
             {% t zahlungsabgleich.p1.link5 %}
           </a>
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/zahlungsströme/#gewerbesteuer">
             {% t zahlungsabgleich.p1.link6 %}
           </a>
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/zahlungsströme/#pachtzahlungen">
             {% t zahlungsabgleich.p1.link7 %}
           </a>
           {% t zahlungsabgleich.p1.p5 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/zahlungsströme/#wesentlichkeit">
             {% t zahlungsabgleich.p1.link8 %}
           </a>
           {% t zahlungsabgleich.p1.p6 %}
         </p>
         <p>
           {% t zahlungsabgleich.p2.p7 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/regierungsstellen-steuergeheimnis/">
+            {% t zahlungsabgleich.p2.link8_1 %}
+          </a>
+          {% t zahlungsabgleich.p2.p7_1 %}
+          <a href="{{site.baseurl}}/explore/regierungsstellen-steuergeheimnis/">
             {% t zahlungsabgleich.p2.link9 %}
           </a>
           {% t zahlungsabgleich.p2.p8 %}
         </p>
         <p>
           {% t zahlungsabgleich.p3.p9 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/explore/zahlungsstr%C3%B6me/#gewerbesteuer">
             {% t zahlungsabgleich.p3.link10 %}
+          </a>
+          <a href="{{site.baseurl}}/explore/zahlungsstr%C3%B6me/#pachtzahlungen">
+            {% t zahlungsabgleich.p3.link10_1 %}
           </a>
           {% t zahlungsabgleich.p3.p10 %}
         </p>
         <p>
           {% t zahlungsabgleich.p4.p11 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             {% t zahlungsabgleich.p4.link11 %}
           </a>
         </p>
@@ -92,7 +99,7 @@ breadcrumb:
           <p>
             {% t zahlungsabgleich.abdeckung.p4 %}
           </p>
-          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.abdeckung.link2 %}
           </a>
@@ -107,14 +114,14 @@ breadcrumb:
             </a>
             {% t zahlungsabgleich.unternehmen.p2 %}
           </p>
-          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.unternehmen.link2 %}
           </a>
           <p>
             {% t zahlungsabgleich.unternehmen.p3 %}
           </p>
-          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.unternehmen.link3 %}
           </a>
@@ -135,7 +142,7 @@ breadcrumb:
             </a>
             {% t zahlungsabgleich.gewerbesteuer.p2 %}
           </p>
-          <a target="_blank" href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.gewerbesteuer.link2 %}
           </a>
