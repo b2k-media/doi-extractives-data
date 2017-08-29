@@ -3,10 +3,10 @@
   "title_en": "Summe berichteter Zahlungen der Unternehmen [EN]",
   "data": [
   	[
-  		["Körperschaftsteuer", 7099310182],
-  		["Gewerbesteuer", 9844494439],
-  		["Feldes-/Förderabgabe", 23181214145],
-  		["Pachtzahlungen", 36045506]
+  		["Pachtzahlungen: 360.455,06 €",  360455.06],
+  		["Körperschaftsteuer: 70.993.101,82 €", 70993101.82],
+  		["Gewerbesteuer: 98.444.944,39 €", 98444944.39],
+  		["Feldes-/Förderabgabe: 231.812.141,45 €", 231812141.45]
   	]
   ],
   "color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff"]
