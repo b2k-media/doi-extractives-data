@@ -311,10 +311,6 @@ breadcrumb:
           <sup>{% t einnahmen.umsatz.star1.title %}</sup>
           {% t einnahmen.umsatz.star1.text %}
         </p>
-        <p id="explanation-11">
-          <sup>{% t einnahmen.umsatz.star2.title %}</sup>
-          {% t einnahmen.umsatz.star2.text %}
-        </p>
         <div >
           <a target="_blank" href="{{site.baseurl}}/downloads/#umsatz">
             <icon class="fa fa-file-text-o u-padding-right"></icon>

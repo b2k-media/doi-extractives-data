@@ -10,10 +10,10 @@
 		]
 	],
 	"color": ["#28467a", "#4682be"],
-	"labels": ["Zuschüsse für den Absatz deutscher Steinkohle (Bund)", "Anpassungsbeihilfen (Bund)"],
+	"labels": ["Zuschüsse für den Absatz und Stilllegungen (Bund)", "Anpassungsgeld (Bund)"],
 	"xAxis": [0, 200, 400, 600, 800, 1000, 1200, 1400]
 }, {
-	"title": "Zuschüsse für den Absatz deutscher Steinkohle 2013-16 (Anteil Bund)",
+	"title": "Zuschüsse für den Absatz und Stilllegung deutscher Steinkohle 2013 – 16 (Anteil Bund)",
 	"title_en": "Grants for the sale of German hard coal 2013-16 (Share of Confederation)",
 	"data": [
 		[

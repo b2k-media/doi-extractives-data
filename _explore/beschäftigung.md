@@ -25,7 +25,7 @@ breadcrumb:
         <br/>
         <section id="tabelle-1" style="position: relative;">
         <p><strong>{% t beschäftigung.table.title %}</strong></p>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#beschäftigten">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
+
           <table>
             <tbody>
               <tr>
@@ -34,7 +34,7 @@ breadcrumb:
                   <strong>{% t beschäftigung.table.th2 %}</strong>
                 </td>
                 <td>
-                  <strong>{% t beschäftigung.table.th2 %}</strong>
+                  <strong>{% t beschäftigung.table.th3 %}</strong>
                 </td>
               </tr>
               <tr>

@@ -142,7 +142,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td5 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td6 %}
-                <a target="_blank" href="http://www.metaver.de/kartendienste%2520,">
+                <a target="_blank" href="http://www.geoportal-hamburg.de/Geoportal/geo-online/index.html">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.link %}
                 </a>
               </td>
@@ -154,7 +154,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td5 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td6 %}
-                <a target="_blank" href="http://www.metaver.de/kartendienste%2520,">
+                <a target="_blank" href="http://natureg.hessen.de/Main.html">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.link %}
                 </a>
               </td>
