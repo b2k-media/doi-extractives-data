@@ -2333,6 +2333,7 @@ unternehmen-und-zahlungsströme:
           h7: "ungeklärte Differenzen EUR"
           h8: "ungeklärte Differenzen %"
         row1:
+          i: "1"
           p1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
           p2: "---"
           p3: " "
@@ -2342,6 +2343,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row2:
+          i: "2"
           p1: "DEA Deutsche Erdoel AG, Hamburg"
           p2: "0"
           p3: "0"
@@ -2350,8 +2352,11 @@ unternehmen-und-zahlungsströme:
           p6: "0"
           p7: "0"
           p8: "0"
+        subhead1:
+          i: "3"
+          title: "Dyckerhoff - Gruppe:"
         row3:
-          p1: "Dyckerhoff - Gruppe: Dyckerhoff GmbH, Wiesbaden"
+          p1: "Dyckerhoff GmbH, Wiesbaden"
           p2: "1447779"
           p3: "1447779"
           p4: "0"
@@ -2360,7 +2365,7 @@ unternehmen-und-zahlungsströme:
           p7: "0"
           p8: "0"
         row4:
-          p1: "Dyckerhoff - Gruppe: Dyckerhoff Kieswerk Trebur GmbH, Trebur-Geinsheim"
+          p1: "Dyckerhoff Kieswerk Trebur GmbH, Trebur-Geinsheim"
           p2: "9008,64"
           p3: "9008,64"
           p4: "0"
@@ -2369,6 +2374,7 @@ unternehmen-und-zahlungsströme:
           p7: "0"
           p8: "0"
         row5:
+          i: "4"
           p1: "ENGIE E&P Deutschland GmbH, Lingen"
           p2: "12819700"
           p3: "12819700"
@@ -2378,6 +2384,7 @@ unternehmen-und-zahlungsströme:
           p7: "0"
           p8: "0"
         row6:
+          i: "5"
           p1: "ExxonMobil Production Deutschland GmbH, Hannover"
           p2: "55301318"
           p3: "55301318"
@@ -2387,6 +2394,7 @@ unternehmen-und-zahlungsströme:
           p7: "0"
           p8: "0"
         row7:
+          i: "6"
           p1: "Heidelberger Sand und Kies GmbH, Heidelberg"
           p2: "1127213,66"
           p3: "1127213,66"
@@ -2395,8 +2403,11 @@ unternehmen-und-zahlungsströme:
           p6: "0"
           p7: "0"
           p8: "0"
+        subhead2:
+          i: "7"
+          title: "K+S - Gruppe:"
         row8:
-          p1: "K+S - Gruppe: esco - european salt company GmbH & Co. KG, Hannover"
+          p1: "esco - european salt company GmbH & Co. KG, Hannover"
           p2: "---"
           p3: " "
           p4: " "
@@ -2405,7 +2416,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row9:
-          p1: "K+S - Gruppe: K+S Kali GmbH, Kassel"
+          p1: "K+S Kali GmbH, Kassel"
           p2: "k.A."
           p3: " "
           p4: " "
@@ -2413,8 +2424,11 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
+        subhead3:
+          i: "8"
+          title: "LafargeHolcim - Gruppe:"
         row10:
-          p1: "LafargeHolcim - Gruppe: Buss Basalt GmbH & Co. KG, Münzenberg"
+          p1: "Buss Basalt GmbH & Co. KG, Münzenberg"
           p2: "---"
           p3: " "
           p4: " "
@@ -2423,7 +2437,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row11:
-          p1: "LafargeHolcim - Gruppe: Holcim (Deutschland) GmbH, Hamburg"
+          p1: "Holcim (Deutschland) GmbH, Hamburg"
           p2: "k.A."
           p3: " "
           p4: " "
@@ -2432,7 +2446,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row12:
-          p1: "LafargeHolcim - Gruppe: Holcim Beton und Zuschlagstoffe GmbH, Hamburg"
+          p1: "Holcim Beton und Zuschlagstoffe GmbH, Hamburg"
           p2: "k.A."
           p3: " "
           p4: " "
@@ -2441,7 +2455,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row13:
-          p1: "HLafargeHolcim - Gruppe: olcim Kieswerk Zeithain GmbH & Co. KG, Dresden"
+          p1: "olcim Kieswerk Zeithain GmbH & Co. KG, Dresden"
           p2: "---"
           p3: " "
           p4: " "
@@ -2450,7 +2464,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row14:
-          p1: "LafargeHolcim - Gruppe: Holcim West Zement GmbH, Beckum"
+          p1: "Holcim West Zement GmbH, Beckum"
           p2: "k.A."
           p3: " "
           p4: " "
@@ -2459,7 +2473,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row15:
-          p1: "LafargeHolcim - Gruppe: Kalksteinwerke Medenbach GmbH, Breitscheid"
+          p1: "Kalksteinwerke Medenbach GmbH, Breitscheid"
           p2: "288082,52"
           p3: "288082,52"
           p4: "0"
@@ -2468,7 +2482,7 @@ unternehmen-und-zahlungsströme:
           p7: "0"
           p8: "0"
         row16:
-          p1: "LafargeHolcim - Gruppe: Kieswerk Leinetal GmbH & Co. KG, Diekholzen"
+          p1: "Kieswerk Leinetal GmbH & Co. KG, Diekholzen"
           p2: "---"
           p3: " "
           p4: " "
@@ -2477,7 +2491,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row17:
-          p1: "LafargeHolcim - Gruppe: Kieswerk Hermann GmbH & Co. KG, Kirchhain"
+          p1: "Kieswerk Hermann GmbH & Co. KG, Kirchhain"
           p2: "---"
           p3: " "
           p4: " "
@@ -2486,7 +2500,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row18:
-          p1: "LafargeHolcim - Gruppe: Kieswerke Borsberg GmbH & Co. KG, Pirna"
+          p1: "Kieswerke Borsberg GmbH & Co. KG, Pirna"
           p2: "---"
           p3: " "
           p4: " "
@@ -2495,6 +2509,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row19:
+          i: "9"
           p1: "Lausitz Energie Bergbau AG, Cottbus"
           p2: "0"
           p3: "0"
@@ -2503,8 +2518,11 @@ unternehmen-und-zahlungsströme:
           p6: "0"
           p7: "0"
           p8: "0"
+        subhead4:
+          i: "10"
+          title: "RWE - Gruppe:"
         row20:
-          p1: "RWE - Gruppe: Rheinische Baustoffwerke GmbH, Bergheim"
+          p1: "Rheinische Baustoffwerke GmbH, Bergheim"
           p2: "k.A."
           p3: " "
           p4: " "
@@ -2513,7 +2531,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row21:
-          p1: "RWE - Gruppe: RWE Power AG, Essen"
+          p1: "RWE Power AG, Essen"
           p2: "k.A."
           p3: " "
           p4: " "
@@ -2522,6 +2540,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row22:
+          i: "11"
           p1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
           p2: "---"
           p3: " "
@@ -2531,6 +2550,7 @@ unternehmen-und-zahlungsströme:
           p7: " "
           p8: " "
         row23:
+          i: "12"
           p1: "Wintershall Holding GmbH, Celle"
           p2: "k.A."
           p3: " "
