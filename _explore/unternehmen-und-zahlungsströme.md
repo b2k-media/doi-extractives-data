@@ -152,6 +152,7 @@ breadcrumb:
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row12.td3 %}</td>
             </tr>
           </table>
+          <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t unternehmen-und-zahlungsströme.daten_einsehen %}
@@ -594,6 +595,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
         <p id="sub-1">
           <sup>{% t unternehmen-und-zahlungsströme.sub-1.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub-1.text %}
@@ -977,6 +979,7 @@ breadcrumb:
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row13.td9 %}</strong></td>
           </tr>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
 
         <p id="sub0">
           <sup>{% t unternehmen-und-zahlungsströme.sub0.title %}</sup>
@@ -1093,7 +1096,7 @@ breadcrumb:
               </tr>
           </tbody>
         </table>
-
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
         <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t unternehmen-und-zahlungsströme.daten_einsehen %}

@@ -131,6 +131,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
       </section>
       <br/>
       <section id="förder_feldesabgaben" style="position: relative;">
@@ -260,6 +261,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
         <p>{% t einnahmen.förder_feldesabgaben.p3 %}</p>
         <table class="einnahmen_table_2">
           <tbody>
@@ -288,6 +290,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
       </section>
       <br/>
       <section id="umsatz" style="position: relative;">

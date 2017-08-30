@@ -3379,6 +3379,10 @@ downloads:
     p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
     link3: "RGB 2016"
     p4: ", Tabellen 5, 28 und 29) entnommen."
+  table_link:
+    p1: Detaillierte Quellenangaben siehe
+    link: "Daten einsehen."
+    p2: "Eigene Darstellung."
 
   steuern:
     title: Steuern Daten zu Staatseinnahmen durch Steuern

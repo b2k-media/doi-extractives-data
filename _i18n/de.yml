@@ -24,13 +24,13 @@ erdol-erdgas:
       p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2015 betrug rund 2,4 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden zum 01.01.2016 auf rund 34 Mio. t geschätzt.
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt."
+      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt."
       sup1:
         title: "1"
         text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
     gewinnung:
       title: Gewinnung
-      p1: 2015 gab es in Deutschland 50 Ölfelder. Auf ihnen wird durch rund 1000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Ölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer. Es wird seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
+      p1: 2015 gab es in Deutschland 50 Ölfelder. Auf ihnen wird durch rund 1.000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Ölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer. Es wird seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
       p2: Erdöl ist ein fossiler Energieträger und dient v.a. als Treibstoff für Verkehrs- und Transportmittel und zur Beheizung von Gebäuden. Zudem wird Erdöl in der chemischen Industrie z.B. zur Herstellung von Kunststoffen verwendet.
   erdgas:
     title: Erdgas
@@ -262,15 +262,6 @@ rechtlicher-rahmen:
       title: Zuständige staatliche Stellen
     - name: rechtliche-regelung
       title: Rechtliche Regelung
-      subnav_items:
-        - name: rechtliche-regelung-1
-          title: "Bergfreie Bodenschätze"
-        - name: rechtliche-regelung-2
-          title: "Grundeigene Bodenschätze"
-        - name: rechtliche-regelung-3
-          title: "Grundeigentümerbodenschätze"
-    - name: tabelle-1
-      title: Rechtliche Unterteilung der Bodenschätze in Deutschland
   grid:
     baden-wurttemberg:
       title: Baden-Württemberg
@@ -408,7 +399,7 @@ genehmigung-von-bergbauprojekten:
     name: Grundeigene Bodenschätze
     title: Besitznachweis
     subtitle: für Grundstück z.B. Pachtvertrag ist der Bergbehörde vorzulegen
-    h1_link: Zulassung des Betriebsplans
+    h1_link: "➲ Zulassung des Betriebsplans"
     h1: durch die Bergbehörde
     p1: Eine betriebsbezogene Zulassung bestimmt, unter welchen technischen und umweltrechtlichen Voraussetzungen Bodenschätze aufgesucht und gewonnen werden dürfen. Hauptbetriebspläne werden alle zwei Jahre zugelassen.
     h2: Aufsicht durch die Bergbehörden der Länder
@@ -441,7 +432,7 @@ bergbauberechtigungen:
     - name: bergwerkseigentum
       title: Bergwerkseigentum
     - name: sonderfall1
-      title: "Sonderfall: Alte Rechte"
+      title: "Sonderfall: Bergbauberechtigung nach altem Recht"
     - name: sonderfall2
       title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
 
@@ -455,16 +446,16 @@ bergbauberechtigungen:
 
   bewilligung:
     title: "Bewilligung"
-    p1: "Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem bestimmten Bewilligungsfeld erteilt. Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich  (s. § 16, Abs. 5 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Bewilligung, sollten keine Versagungsgründe vorliegen."
+    p1: "Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem bestimmten Bewilligungsfeld erteilt. Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist. Eine und das Komma in folgendem Satz:  Eine Verlängerung ist möglich (siehe § 16 Abs. 5 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Bewilligung, sollten keine Versagungsgründe vorliegen."
     p2: "Die Bewilligung kann verweigert werden, wenn beispielsweise nicht nachgewiesen werden kann, dass die Bodenschätze nach ihrer Lage und Beschaffenheit gewonnen werden können (s. § 12 BBergG). Wenn die Gewinnung der Rohstoffe nicht innerhalb von drei Jahren aufgenommen worden ist, ist die Bewilligung grundsätzlich zu wiederrufen (s. § 18 BBergG). Die Versagungsgründe sind in § 12 BBergG abschließend aufgeführt."
 
   bergwerkseigentum:
     title: "Bergwerkseigentum"
-    p1: "Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen. Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, Abs. 5 BBergG).  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, ist das Bergwerkseigentum grundsätzlich zu widerrufen (s. § 18 BBergG). Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in bereits im Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG)."
+    p1: "Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen. Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist. Eine und das Komma in folgendem Satz:  Eine Verlängerung ist möglich (siehe § 16 Abs. 5 BBergG).  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, ist das Bergwerkseigentum grundsätzlich zu widerrufen (s. § 18 BBergG). Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in bereits im Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG)."
     p2: "Für die Dokumentation der Bergbauberechtigungen werden nach § 75 ff. BBergG sogenannte Berechtsamsbücher und Berechtsamskarten angelegt. Dort sind die Informationen zu Erlaubnissen, Bewilligungen und Bergwerkseigentum sowie Angaben zu den betreffenden Feldern einzusehen."
 
   sonderfall1:
-    title: "Sonderfall: Alte Rechte"
+    title: "Sonderfall: Bergbauberechtigung nach altem Recht"
     p: "Zu den Berechtigungsformen gehören neben den oben genannten Berechtigungen (Erlaubnis, Bewilligung bzw. Bergwerkseigentum) auch aus altem Recht übergeleitete Berechtigungen, die als alte Rechte bezeichnet werden. Hierbei handelt es sich um Bergbauberechtigungen, die vor dem Inkrafttreten des aktuellen Bundesberggesetzes von 1982 zugeteilt worden sind. Dazu gehören beispielsweise die Braunkohletagebaue im Rheinischen Revier. Sie erhalten nach heutigem Recht weiterhin ihre Gültigkeit  (s. § 149 Abs. 1 Satz 1 BBergG), wenn sie innerhalb einer Übergangsfrist von drei Jahren nach Inkrafttreten des BBergG 1982 bei den Bergbehörden angezeigt und durch die Bergaufsicht bestätigt worden sind. Berechtigungen nach altem Recht sind im Gegensatz zu Berechtigungen nach dem neuen BBergG weder befristet, noch müssen Förder- oder Feldesabgaben bezahlt werden. In der Praxis betreffen diese Altrechte insbesondere die Stein- und die Braunkohle. Für die Förderung der Bodenschätze in dieser Kategorie ist ebenfalls die Zulassung eines Betriebsplans notwendig."
 
   sonderfall2:
@@ -635,7 +626,7 @@ anfallende_zahlungen:
 
   zuständigkeit-für-die-einnahmen:
     title: Zuständigkeit für die Einnahmen
-    p: Aufgrund der föderalen Struktur der Bundesrepublik Deutschland ist die Steuerverwaltung zwischen dem Bund und den Ländern aufgeteilt. Je nach Art der Steuer wird sie von den Finanzverwaltungen des Bundes, der Länder oder der Gemeinden erhoben. Eine Ausnahme bilden die Feldes- und Förderabgaben, für deren Erhebung die  Bergämter der Länder zuständig sind.
+    p: Aufgrund der föderalen Struktur der Bundesrepublik Deutschland ist die Steuerverwaltung zwischen dem Bund und den Ländern aufgeteilt. Je nach Art der Steuer wird sie von den Finanzverwaltungen des Bundes, der Länder oder der Gemeinden erhoben. Eine Ausnahme bilden die Feldes- und Förderabgaben, für deren Erhebung die Bergämter der Länder Bundesländer zuständig sind.
   zahlungen-industrie:
     title: Zahlungen der rohstoffgewinnenden Industrie
     körperschaftsteuer:
@@ -656,7 +647,7 @@ anfallende_zahlungen:
       p2: Rohstoffgewinnende Unternehmen in der Rechtsform einer Personen- oder Kapitalgesellschaft sind gewerbesteuerpflichtig. Wenn sich die Betriebsstätte auf dem Gebiet mehrerer Gemeinden befindet oder in mehreren Gemeinden Betriebsstätten betrieben werden, wird die Bemessungsgrundlage der Gewerbesteuer auf die einzelnen Gemeinden aufgeteilt (sogenannte Zerlegung). Als Maßstab für die Zerlegung werden grundsätzlich die Arbeitslöhne in den einzelnen Betriebsstätten herangezogen. Dies bedeutet, dass jede betroffene Gemeinde ihren Anteil an der Gewerbesteuer eines Rohstoffunternehmens erheben kann.
       p3: Eine Übersicht zu den Hebesätzen (2015) der Gemeinden in Deutschland finden Sie
       link: hier.
-      p4: Für die Gemeinden stellt die Gewerbesteuer – neben der Grundsteuer – die wesentliche Steuerquelle dar. Einen Teil der Gewerbesteuereinnahmen müssen die Gemeinden als Gewerbesteuerumlage an Bund und Länder abführen. Die den Gemeinden verbleibende Gewerbesteuer fließt in deren allgemeinen Haushalt ein und dient damit u.a. der Finanzierung der lokalen Infrastruktur sowie Bildungs- und Sozialeinrichtungen.
+      p4: Eine Übersicht zu den Hebesätzen (2015) der Gemeinden in Deutschland finden Sie hier. Für die Gemeinden stellt die Gewerbesteuer – neben der Grundsteuer – die wesentliche Steuerquelle dar. Einen Teil der Gewerbesteuereinnahmen müssen die Gemeinden als Gewerbesteuerumlage an Bund und Länder abführen. Die den Gemeinden verbleibende Gewerbesteuer fließt in deren allgemeinen Haushalt ein und dient damit u.a. der Finanzierung der lokalen Infrastruktur sowie Bildungs- und Sozialeinrichtungen.
     pachtzahlungen:
       title: Pachtzahlungen
       p1: Die Gewinnung von Bodenschätzen ist in Deutschland durch das BBergG geregelt, soweit es sich um sog. bergfreie oder grundeigene Bodenschätze handelt. Zu den bergfreien Bodenschätzen gehören nach § 3 Abs. 3 BBergG u.a. Metalle, Salze sowie die fossilen Energierohstoffe wie Kohlenwasserstoffe und Stein- und Braunkohle. Das Eigentum an einem Grundstück erstreckt sich nicht auf bergfreie Rohstoffe, insofern sind die Eigentumsrechte des Grundstückseigentümers beschränkt. Grundeigene Bodenschätze stehen dagegen im Eigentum des Grundeigentümers. Der Grundeigentümer darf sie aufsuchen und sich durch Abbau aneignen, ohne dass es hierfür neben der Betriebsplangenehmigung und weiterer erforderlicher öffentlich-rechtlicher Genehmigungen eines zusätzlichen besonderen Rechtstitels bedürfte. Ihre Einbeziehung in den Geltungsbereich des BBergG hat den Zweck, ihren Abbau unter einen bundesweit einheitlichen Rechtsrahmen zu stellen und insbesondere die Rohstoffgewinnung im untertägigen Bergbau einheitlich zu regeln und einer einheitlichen Bergaufsicht zu unterstellen.
@@ -1584,9 +1575,9 @@ gesamtdeutsche_rohstoffproduktion:
     - name: title
       title: Seitenanfang
     - name: rohstoff-menge
-      title: Rohstoff Menge (2015)
+      title: Rohstoffgewinnung in Deutschland für 2015 (Menge)
     - name: rohstoff-wert
-      title: Rohstoff Wert (2015)
+      title: Rohstoffgewinnung in Deutschland für 2015 (Wert)
   p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
@@ -1643,8 +1634,8 @@ gesamtdeutsche_rohstoffproduktion:
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
     p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
   table1:
-    th1: Rohstoff
-    th2: Menge (2015)
+    th1: Rohstoffgewinnung in Deutschland für 2015
+    th2: (Menge)
     row1:
       td1: Steinkohle*
       td2: 6,22 Mio.t
@@ -1688,12 +1679,12 @@ gesamtdeutsche_rohstoffproduktion:
       td1: Kalk-/Mergel-/Dolomitstein
       td2: 48,9 Mio. t
     star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
+    star2: "** einschließlich Erdölbegleitgas"
   table2:
     th1: Rohstoff
     th2: Wert Wert (2015) in Mio. €
     1:
-      td1: Steinkohle
+      td1: Steinkohle*
       td2: "423"
     2:
       td1: Braunkohle
@@ -1702,10 +1693,10 @@ gesamtdeutsche_rohstoffproduktion:
       td1: Erdöl
       td2: "859"
     4:
-      td1: Erdgas*
+      td1: Erdgas**
       td2: "2.064"
     5:
-      td1: Kalisalz**
+      td1: Kalisalz
       td2: "k. A."
     6:
       td1: Kali- und Kalisalzprodukte
@@ -1735,7 +1726,7 @@ gesamtdeutsche_rohstoffproduktion:
       td1: Kalk-/Mergel-/Dolomitstein
       td2: "719"
     star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
+    star2: "** einschließlich Erdölbegleitgas"
 
 einnahmen:
     title: Beitrag zu den Staatseinnahmen
@@ -3364,6 +3355,10 @@ downloads:
     p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
     link3: "RGB 2016"
     p4: ", Tabellen 5, 28 und 29) entnommen."
+  table_link:
+    p1: Detaillierte Quellenangaben siehe
+    link: "Daten einsehen."
+    p2: "Eigene Darstellung."
 
   steuern:
     title: Daten zu Staatseinnahmen durch Steuern
@@ -3412,7 +3407,7 @@ about:
     description-1-1:   und zur Förderung von
     description-1-link-2: Rohstoffen in Deutschland
     description-1-2: .
-    description-2:  Besuchen Sie dieses Portal gerne regelmäßig, um über neue Ergebnisse der deutschen EITI Initiative auf dem Laufenden zu bleiben.
+    description-2:  Besuchen Sie dieses Portal gerne regelmäßig, um über neue Ergebnisse der deutschen EITI auf dem Laufenden zu bleiben.
 
 federal-production:
     heading-1: Interaktive Rohstoffkarte
