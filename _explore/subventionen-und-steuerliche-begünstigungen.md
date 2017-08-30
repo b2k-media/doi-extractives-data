@@ -219,7 +219,7 @@ breadcrumb:
         <p id="explanation-13">
           <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.title %}</sup>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.text1 %}
-          <a href="{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}</a>
+          <a target="_blank" href="{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}</a>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.text2 %}
         </p>
       </section>
