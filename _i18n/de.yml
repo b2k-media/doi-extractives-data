@@ -1406,8 +1406,9 @@ subventionen-und-steuerliche-begünstigungen:
           title: Beschäftigte
         - name: kontrolle
           title: Kontrolle
-        - name: begünstigungen
-          title: Begünstigungen für Strom- und Energiesteuer
+    - name: begünstigungen
+      title: Begünstigungen für Strom- und Energiesteuer
+      subnav_items:
         - name: table
           title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
 
