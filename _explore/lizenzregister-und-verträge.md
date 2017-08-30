@@ -1,7 +1,7 @@
 ---
 title: Lizenzregister und Verträge
 layout: default
-permalink: /lizenzregister-und-verträge/
+permalink: /lizenzregister-und-vertraege/
 breadcrumb:
   - title: Lizenzregister und Verträge
     permalink: /explore/

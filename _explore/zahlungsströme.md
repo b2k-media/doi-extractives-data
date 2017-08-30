@@ -1,7 +1,7 @@
 ---
 title: Auswahl der Zahlungsströme und Wesentlichkeit von Zahlungen
 layout: default
-permalink: /explore/zahlungsströme/
+permalink: /explore/zahlungsstroeme/
 breadcrumb:
   - title: Auswahl der Zahlungsströme und Wesentlichkeit von Zahlungen
     permalink: /explore/

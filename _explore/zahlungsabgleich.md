@@ -23,24 +23,24 @@ breadcrumb:
             {% t zahlungsabgleich.p1.link2 %}
           </a>
           {% t zahlungsabgleich.p1.p3 %}
-          <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsströme/">
+          <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsstroeme/">
             {% t zahlungsabgleich.p1.link3 %}
           </a>
           {% t zahlungsabgleich.p1.p4 %}
-          <a href="{{site.baseurl}}/explore/zahlungsströme/#körperschaftsteuer">
+          <a href="{{site.baseurl}}/explore/zahlungsstroeme/#körperschaftsteuer">
             {% t zahlungsabgleich.p1.link4 %}
           </a>
-          <a href="{{site.baseurl}}/explore/zahlungsströme/#feldes">
+          <a href="{{site.baseurl}}/explore/zahlungsstroeme/#feldes">
             {% t zahlungsabgleich.p1.link5 %}
           </a>
-          <a href="{{site.baseurl}}/explore/zahlungsströme/#gewerbesteuer">
+          <a href="{{site.baseurl}}/explore/zahlungsstroeme/#gewerbesteuer">
             {% t zahlungsabgleich.p1.link6 %}
           </a>
-          <a href="{{site.baseurl}}/explore/zahlungsströme/#pachtzahlungen">
+          <a href="{{site.baseurl}}/explore/zahlungsstroeme/#pachtzahlungen">
             {% t zahlungsabgleich.p1.link7 %}
           </a>
           {% t zahlungsabgleich.p1.p5 %}
-          <a href="{{site.baseurl}}/explore/zahlungsströme/#wesentlichkeit">
+          <a href="{{site.baseurl}}/explore/zahlungsstroeme/#wesentlichkeit">
             {% t zahlungsabgleich.p1.link8 %}
           </a>
           {% t zahlungsabgleich.p1.p6 %}
@@ -58,10 +58,10 @@ breadcrumb:
         </p>
         <p>
           {% t zahlungsabgleich.p3.p9 %}
-          <a href="{{site.baseurl}}/explore/zahlungsstr%C3%B6me/#gewerbesteuer">
+          <a href="{{site.baseurl}}/explore/zahlungsstroeme/#gewerbesteuer">
             {% t zahlungsabgleich.p3.link10 %}
           </a>
-          <a href="{{site.baseurl}}/explore/zahlungsstr%C3%B6me/#pachtzahlungen">
+          <a href="{{site.baseurl}}/explore/zahlungsstroeme/#pachtzahlungen">
             {% t zahlungsabgleich.p3.link10_1 %}
           </a>
           {% t zahlungsabgleich.p3.p10 %}
@@ -90,7 +90,7 @@ breadcrumb:
           <br/>
           <p style="position: relative; margin-top: 50px !important;">
             {% t zahlungsabgleich.förderabgaben.p2 %}
-            <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsströme/">
+            <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.förderabgaben.link %}
             </a>
           </p>
@@ -131,7 +131,7 @@ breadcrumb:
           <h2>{% t zahlungsabgleich.unternehmen.title %}</h2>
           <p>
             {% t zahlungsabgleich.unternehmen.p1 %}
-            <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsströme/">
+            <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.unternehmen.link1 %}
             </a>
             {% t zahlungsabgleich.unternehmen.p2 %}
@@ -541,7 +541,7 @@ breadcrumb:
           <br/>
           <p>
             {% t zahlungsabgleich.unternehmen.p4 %}
-            <a href="{{site.baseurl}}/explore/zahlungsströme/">
+            <a href="{{site.baseurl}}/explore/zahlungsstroeme/">
               {% t zahlungsabgleich.unternehmen.link4 %}
             </a>
             {% t zahlungsabgleich.unternehmen.p5 %}
@@ -551,7 +551,7 @@ breadcrumb:
           <h2>{% t zahlungsabgleich.gewerbesteuer.title %}</h2>
           <p>
             {% t zahlungsabgleich.gewerbesteuer.p1 %}
-            <a href="{{site.baseurl}}/explore/zahlungsströme/">
+            <a href="{{site.baseurl}}/explore/zahlungsstroeme/">
               {% t zahlungsabgleich.gewerbesteuer.link1 %}
             </a>
             {% t zahlungsabgleich.gewerbesteuer.p2 %}
