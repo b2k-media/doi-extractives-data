@@ -517,10 +517,28 @@ breadcrumb:
               </tr>
             </tbody>
           </table>
+          <p id="sub-1">
+            <sup>{% t zahlungsabgleich.sub-1.title %}</sup>
+            {% t zahlungsabgleich.sub-1.text %}
+          </p>
+          <p id="sub-4">
+            <sup>{% t zahlungsabgleich.sub-2.title %}</sup>
+            {% t zahlungsabgleich.sub-2.text %}
+          </p>
+          <p id="sub-3">
+            <sup>{% t zahlungsabgleich.sub-3.title %}</sup>
+            {% t zahlungsabgleich.sub-3.text %}
+          </p>
+          <p id="sub-2">
+            <sup>{% t zahlungsabgleich.sub-4.title %}</sup>
+            {% t zahlungsabgleich.sub-4.text %}
+          </p>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.unternehmen.link3 %}
           </a>
+          <br/>
+          <br/>
           <p>
             {% t zahlungsabgleich.unternehmen.p4 %}
             <a href="{{site.baseurl}}/explore/zahlungsströme/">
@@ -609,22 +627,7 @@ breadcrumb:
             {% t zahlungsabgleich.gewerbesteuer.link2 %}
           </a>
 
-          <p id="sub-1">
-            <sup>{% t zahlungsabgleich.sub-1.title %}</sup>
-            {% t zahlungsabgleich.sub-1.text %}
-          </p>
-          <p id="sub-4">
-            <sup>{% t zahlungsabgleich.sub-2.title %}</sup>
-            {% t zahlungsabgleich.sub-2.text %}
-          </p>
-          <p id="sub-3">
-            <sup>{% t zahlungsabgleich.sub-3.title %}</sup>
-            {% t zahlungsabgleich.sub-3.text %}
-          </p>
-          <p id="sub-2">
-            <sup>{% t zahlungsabgleich.sub-4.title %}</sup>
-            {% t zahlungsabgleich.sub-4.text %}
-          </p>
+
         </section>
     </div>
 
