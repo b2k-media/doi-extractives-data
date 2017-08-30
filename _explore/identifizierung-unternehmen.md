@@ -48,7 +48,7 @@ breadcrumb:
 
       <p>
         {% t identifizierung-unternehmen.p7 %}
-        <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsströme/">
+        <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsstroeme/">
            {% t identifizierung-unternehmen.link3 %}
         </a>
         {% t identifizierung-unternehmen.p8 %}

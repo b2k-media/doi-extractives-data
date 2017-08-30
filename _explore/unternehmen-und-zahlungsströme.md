@@ -1,7 +1,7 @@
 ---
 title: Unternehmen und Zahlungsströme
 layout: default
-permalink: /explore/unternehmen-und-zahlungsströme/
+permalink: /explore/unternehmen-und-zahlungsstroeme/
 breadcrumb:
   - title: Unternehmen und Zahlungsströme
     permalink: /explore/
