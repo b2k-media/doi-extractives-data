@@ -1473,7 +1473,9 @@ subventionen-und-steuerliche-begünstigungen:
       source: "Quelle: 25. Subventionsbericht der Bundesregierung 2015"
       sup13:
         title: "17"
-        text:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter: [Website+Hyperlink] veröffentlicht."
+        text1:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter:"
+        link: "http://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2017-08-23-subventionsbericht-26.html;jsessionid=FD52705712D36647993AF8610E28B5A0"
+        text2: "veröffentlicht."
       th1: Regelung
       th2:
         title: Jahr
@@ -3379,6 +3381,10 @@ downloads:
     p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
     link3: "RGB 2016"
     p4: ", Tabellen 5, 28 und 29) entnommen."
+  table_link:
+    p1: Detaillierte Quellenangaben siehe
+    link: "Daten einsehen."
+    p2: "Eigene Darstellung."
 
   steuern:
     title: Steuern Daten zu Staatseinnahmen durch Steuern

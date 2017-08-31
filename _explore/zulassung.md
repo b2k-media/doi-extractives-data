@@ -47,7 +47,7 @@ nav_items:
         </p>
         <h2 id="umweltverträglichkeitsprüfung">Umweltverträglichkeitsprüfung</h2>
         <p>
-          Unter den Voraussetzungen der Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben (UVP-V Bergbau) ist eine Umweltverträglichkeitsprüfungen (UVP) bzw. eine Vorprüfung des Einzelfalls im bergrechtlichen Verfahren notwendig. Die UVP-Pflichtigkeit von Bergbauvorhaben richtet sich dabei in der Regel nach der Größe des Vorhabens, gemessen am Fördervolumen bzw. an der benötigten Abbaufläche. Abbauvorhaben unter Bergrecht in Deutschland unterliegen keiner UVP-Pflicht, sofern sie die Kriterien der
+          Unter den Voraussetzungen der Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben (UVP-V Bergbau) ist eine Umweltverträglichkeitsprüfung (UVP) bzw. eine Vorprüfung des Einzelfalls im bergrechtlichen Verfahren notwendig. Die UVP-Pflichtigkeit von Bergbauvorhaben richtet sich dabei in der Regel nach der Größe des Vorhabens, gemessen am Fördervolumen bzw. an der benötigten Abbaufläche. Abbauvorhaben unter Bergrecht in Deutschland unterliegen keiner UVP-Pflicht, sofern sie die Kriterien der
           <a target="_blank" href="http://www.gesetze-im-internet.de/bundesrecht/uvpbergbv/gesamt.pdf">UVP-V Bergbau</a> in Verbindung mit dem Gesetz über die Umweltverträglichkeitsprüfung (<a target="_blank" href="http://www.gesetze-im-internet.de/bundesrecht/uvpg/gesamt.pdf">UVP-G</a>) nicht erfüllen.
         </p>
         <p>

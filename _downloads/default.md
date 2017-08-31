@@ -248,13 +248,6 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.förderabgaben.p1_1 %}
-        <a target="_blank" href="{% t downloads.förderabgaben.link_data %}">
-          {% t downloads.förderabgaben.link1 %}
-        </a>
-        {% t downloads.förderabgaben.p1_2 %}
-      </p>
-      <p>
-        {% t downloads.förderabgaben.p1_1 %}
         <a target="_blank" href="{% t downloads.förderabgaben.link1_data %}">
           {% t downloads.förderabgaben.link1 %}
         </a>
@@ -263,9 +256,6 @@ permalink: /downloads/
         </a>
         <a target="_blank" href="{% t downloads.förderabgaben.link3_data %}">
           {% t downloads.förderabgaben.link3 %}
-        </a>
-        <a target="_blank" href="{% t downloads.förderabgaben.link4_data %}">
-          {% t downloads.förderabgaben.link4 %}
         </a>
       </p>
 

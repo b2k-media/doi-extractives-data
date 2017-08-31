@@ -131,6 +131,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
       </section>
       <br/>
       <section id="förder_feldesabgaben" style="position: relative;">
@@ -260,6 +261,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
         <p>{% t einnahmen.förder_feldesabgaben.p3 %}</p>
         <table class="einnahmen_table_2">
           <tbody>
@@ -282,12 +284,9 @@ breadcrumb:
               <td>{% t einnahmen.förder_feldesabgaben.table2.row3.td1 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row3.td2 %}</td>
             </tr>
-            <tr>
-              <td>{% t einnahmen.förder_feldesabgaben.table2.row4.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table2.row4.td2 %}</td>
-            </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
       </section>
       <br/>
       <section id="umsatz" style="position: relative;">
@@ -311,10 +310,6 @@ breadcrumb:
         <p id="explanation-11">
           <sup>{% t einnahmen.umsatz.star1.title %}</sup>
           {% t einnahmen.umsatz.star1.text %}
-        </p>
-        <p id="explanation-11">
-          <sup>{% t einnahmen.umsatz.star2.title %}</sup>
-          {% t einnahmen.umsatz.star2.text %}
         </p>
         <div >
           <a target="_blank" href="{{site.baseurl}}/downloads/#umsatz">

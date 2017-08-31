@@ -24,13 +24,13 @@ erdol-erdgas:
       p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2015 betrug rund 2,4 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden zum 01.01.2016 auf rund 34 Mio. t geschätzt.
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt."
+      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2% des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 1,4 Mrd. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt."
       sup1:
         title: "1"
         text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
     gewinnung:
       title: Gewinnung
-      p1: 2015 gab es in Deutschland 50 Ölfelder. Auf ihnen wird durch rund 1000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Ölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer. Es wird seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
+      p1: 2015 gab es in Deutschland 50 Ölfelder. Auf ihnen wird durch rund 1.000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Ölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer. Es wird seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
       p2: Erdöl ist ein fossiler Energieträger und dient v.a. als Treibstoff für Verkehrs- und Transportmittel und zur Beheizung von Gebäuden. Zudem wird Erdöl in der chemischen Industrie z.B. zur Herstellung von Kunststoffen verwendet.
   erdgas:
     title: Erdgas
@@ -131,7 +131,7 @@ kohle:
       p2: und steuerliche Begünstigungen.
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p1: Steinkohle deckt in Deutschland 12,7 % (2015) des Primärenergieverbrauches ab und trägt zu 18,1 % (2015) zur deutschen Stromerzeugung bei. Im Jahre 2015 entfielen auf die Kraftwerke 78 % des Gesamtverbrauchs an Steinkohle, auf die Stahlindustrie 20 % sowie auf das sonstige produzierende Gewerbe und auf den Hausbrand und Kleinverbraucher etwa 2 %. Die einheimische Steinkohlenförderung belief sich im Jahr 2015 auf 6,2 Mio. t. Dies entspricht einem Wert von rund 557 Millionen Euro. Aktuell werden in Deutschland noch zwei Bergwerke (ein Bergwerk im Ruhrgebiet, ein Bergwerk in Ibbenbüren) mit 8.500 Beschäftigten betrieben. Angesichts dieser Entwicklung werden heute rund  90 % des Bedarfs an Steinkohle und Steinkohleprodukten (57,5 Mio. t in 2015) durch Importe gedeckt.
+      p1: Steinkohle deckt in Deutschland 12,7 % (2015) des Primärenergieverbrauches ab und trägt zu 18,1 % (2015) zur deutschen Stromerzeugung bei. Im Jahre 2015 entfielen auf die Kraftwerke 78 % des Gesamtverbrauchs an Steinkohle, auf die Stahlindustrie 20 % sowie auf das sonstige produzierende Gewerbe und auf den Hausbrand und Kleinverbraucher etwa 2 %. Die einheimische Steinkohlenförderung belief sich im Jahr 2015 auf 6,2 Mio. t. Dies entspricht einem Wert von rund 557 Millionen Euro. Aktuell werden in Deutschland noch zwei Bergwerke (ein Bergwerk in Bottrop, ein Bergwerk in Ibbenbüren) mit 8.500 Beschäftigten betrieben. Angesichts dieser Entwicklung werden heute rund  90 % des Bedarfs an Steinkohle und Steinkohleprodukten (57,5 Mio. t in 2015) durch Importe gedeckt.
   braunkohle:
     title: Braunkohle
     slides_title: Wissenswertes über Braunkohle
@@ -180,7 +180,7 @@ salze:
     p2: Die Inbetriebnahme der ersten Kalifabrik der Welt in Staßfurt im Jahr 1861 begründete die fast 150-jährige Tradition des deutschen Kalibergbaus. Die Salzgewinnung aus salzhaltigen Quellen sowie im bergmännischen Abbau von Salzlagerstätten hat eine lange Geschichte. Bereits im 12. Jahrhundert wurde im Raum Berchtesgaden nach Salz gegraben. Im 16. Jahrhundert wurde dort ein noch heute aktives Salzbergwerk errichtet.
   wirtschaftliche-bedeutung:
     title: Wirtschaftliche Bedeutung
-    p: 2014 betrug die Fördermenge in Deutschland ca. 12,7 Mio. t Steinsalz (einschließlich Industriesole) und rund 36,6 Mio. t Kalirohsalz mit einem Wertstoffgehalt K2O von 3,8 Mio. t. Mit einer Gesamtfördermenge von 5,3 % ist Deutschland weltweit der viertgrößte Produzent von Salz nach China, den USA, Indien und Kanada (2014) und zugleich der fünftgrößte Kaliproduzent mit rund 9% der weltweiten Gesamtfördermenge. Im Kalibergbau in Deutschland sind rund 8.200 Mitarbeiter direkt beschäftigt, im Salzbergbau 2.500 (2014).
+    p: 2014 betrug die Fördermenge in Deutschland ca. 12,7 Mio. t Steinsalz (einschließlich Industriesole) und rund 36,6 Mio. t Kalirohsalz mit einem Wertstoffgehalt K2O von 3,8 Mio. t. Mit einer Gesamtfördermenge von 5,3 % ist Deutschland weltweit der fünftgrößte Produzent von Salz nach China, den USA, Indien und Kanada (2014) und zugleich der fünftgrößte Kaliproduzent mit rund 9% der weltweiten Gesamtfördermenge. Im Kalibergbau in Deutschland sind rund 8.200 Mitarbeiter direkt beschäftigt, im Salzbergbau 2.500 (2014).
   gewinnung:
     title: Gewinnung
     p: Der Abbau erfolgt in Deutschland in sechs Kalibergwerken (in Hessen, Niedersachsen, Sachsen-Anhalt und Thüringen), sieben Salzbergwerken (in Baden-Württemberg, Bayern, Niedersachsen, Nordrhein-Westfalen, Sachsen-Anhalt und Thüringen) und sieben Salinen (in Baden-Württemberg, Bayern, Mecklenburg-Vorpommern, Niedersachsen und Nordrhein-Westfalen). Der Salzabbau erfolgt in Bergwerken durch bergmännischen Abbau mittels Bohr-, Spreng- oder Schneidtechnik oder durch Aussolung von unterirdischen Lagerstätten. Beim Verfahren der Aussolung wird über Bohrlochsonden Süßwasser oder Halbsole in die Lagerstätte eingebracht, wo sich die Salze lösen. Die so entstehende Sole wird über eine Sonde abgepumpt und über Tage in Salinen zu Salz und weiteren Produkten verarbeitet.
@@ -238,7 +238,7 @@ steine-und-erden:
     geschichte:
       title: Geschichte
       p1: Als Industrieminerale werden mineralische Gesteine bezeichnet, die aufgrund ihrer besonderen chemischen und physikalischen Eigenschaften sofort, d.h. ohne Stoffumwandlung, eine industrielle Verwendung finden. Zu dieser Gruppe gehören Kaolin (auch Porzellanerde genannt), Quarzsand, Quarzit, Feldspat, Klebsand, Bentonit, Spezialton, Kieselerde, Flussspat, Schwerspat und Kali.
-      p2: Industrieminerale werden in Deutschland seit mehreren Hundert Jahren in sehr unterschiedlichem Umfang gefördert. Die beiden in Deutschland mengenmäßig am meisten geförderten Industrieminerale sind Quarz und Quarzsande sowie Spezialtone mit einer Fördermenge von rund 30,9 Millionen und 6,4 Millionen Tonnen.
+      p2: Industrieminerale werden in Deutschland seit mehreren hundert Jahren in sehr unterschiedlichem Umfang gefördert. Die beiden in Deutschland mengenmäßig am meisten geförderten Industrieminerale sind Quarz und Quarzsande sowie Spezialtone mit einer Fördermenge von rund 30,9 Millionen und 6,4 Millionen Tonnen.
     gewinnung:
       title: Gewinnung
       p1: Aufgrund natürlicher Gegebenheiten weist der Abbau von Industriemineralen in Deutschland eine hohe Regionalität auf. Während z.B. Kaolin und Kieselerde insbesondere in Bayern gefördert werden, konzentriert sich die Gewinnung von Spezialton vorwiegend auf Rheinland-Pfalz und Hessen.
@@ -262,15 +262,6 @@ rechtlicher-rahmen:
       title: Zuständige staatliche Stellen
     - name: rechtliche-regelung
       title: Rechtliche Regelung
-      subnav_items:
-        - name: rechtliche-regelung-1
-          title: "Bergfreie Bodenschätze"
-        - name: rechtliche-regelung-2
-          title: "Grundeigene Bodenschätze"
-        - name: rechtliche-regelung-3
-          title: "Grundeigentümerbodenschätze"
-    - name: tabelle-1
-      title: Rechtliche Unterteilung der Bodenschätze in Deutschland
   grid:
     baden-wurttemberg:
       title: Baden-Württemberg
@@ -287,7 +278,7 @@ rechtlicher-rahmen:
       link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
     brandenburg:
       title: Brandenburg
-      descr: Min. für Wirtschaft<br/> und Europaangelegenheiten
+      descr: Min. für Wirtschaft<br/> und Energie
       link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
     bremen:
       title: Bremen
@@ -408,7 +399,7 @@ genehmigung-von-bergbauprojekten:
     name: Grundeigene Bodenschätze
     title: Besitznachweis
     subtitle: für Grundstück z.B. Pachtvertrag ist der Bergbehörde vorzulegen
-    h1_link: Zulassung des Betriebsplans
+    h1_link: "➲ Zulassung des Betriebsplans"
     h1: durch die Bergbehörde
     p1: Eine betriebsbezogene Zulassung bestimmt, unter welchen technischen und umweltrechtlichen Voraussetzungen Bodenschätze aufgesucht und gewonnen werden dürfen. Hauptbetriebspläne werden alle zwei Jahre zugelassen.
     h2: Aufsicht durch die Bergbehörden der Länder
@@ -441,7 +432,7 @@ bergbauberechtigungen:
     - name: bergwerkseigentum
       title: Bergwerkseigentum
     - name: sonderfall1
-      title: "Sonderfall: Alte Rechte"
+      title: "Sonderfall: Bergbauberechtigung nach altem Recht"
     - name: sonderfall2
       title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
 
@@ -455,16 +446,16 @@ bergbauberechtigungen:
 
   bewilligung:
     title: "Bewilligung"
-    p1: "Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem bestimmten Bewilligungsfeld erteilt. Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich  (s. § 16, Abs. 5 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Bewilligung, sollten keine Versagungsgründe vorliegen."
+    p1: "Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem bestimmten Bewilligungsfeld erteilt. Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist. Eine und das Komma in folgendem Satz:  Eine Verlängerung ist möglich (siehe § 16 Abs. 5 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Bewilligung, sollten keine Versagungsgründe vorliegen."
     p2: "Die Bewilligung kann verweigert werden, wenn beispielsweise nicht nachgewiesen werden kann, dass die Bodenschätze nach ihrer Lage und Beschaffenheit gewonnen werden können (s. § 12 BBergG). Wenn die Gewinnung der Rohstoffe nicht innerhalb von drei Jahren aufgenommen worden ist, ist die Bewilligung grundsätzlich zu wiederrufen (s. § 18 BBergG). Die Versagungsgründe sind in § 12 BBergG abschließend aufgeführt."
 
   bergwerkseigentum:
     title: "Bergwerkseigentum"
-    p1: "Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen. Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, Abs. 5 BBergG).  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, ist das Bergwerkseigentum grundsätzlich zu widerrufen (s. § 18 BBergG). Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in bereits im Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG)."
+    p1: "Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen. Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist. Eine und das Komma in folgendem Satz:  Eine Verlängerung ist möglich (siehe § 16 Abs. 5 BBergG).  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, ist das Bergwerkseigentum grundsätzlich zu widerrufen (s. § 18 BBergG). Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in bereits im Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG)."
     p2: "Für die Dokumentation der Bergbauberechtigungen werden nach § 75 ff. BBergG sogenannte Berechtsamsbücher und Berechtsamskarten angelegt. Dort sind die Informationen zu Erlaubnissen, Bewilligungen und Bergwerkseigentum sowie Angaben zu den betreffenden Feldern einzusehen."
 
   sonderfall1:
-    title: "Sonderfall: Alte Rechte"
+    title: "Sonderfall: Bergbauberechtigung nach altem Recht"
     p: "Zu den Berechtigungsformen gehören neben den oben genannten Berechtigungen (Erlaubnis, Bewilligung bzw. Bergwerkseigentum) auch aus altem Recht übergeleitete Berechtigungen, die als alte Rechte bezeichnet werden. Hierbei handelt es sich um Bergbauberechtigungen, die vor dem Inkrafttreten des aktuellen Bundesberggesetzes von 1982 zugeteilt worden sind. Dazu gehören beispielsweise die Braunkohletagebaue im Rheinischen Revier. Sie erhalten nach heutigem Recht weiterhin ihre Gültigkeit  (s. § 149 Abs. 1 Satz 1 BBergG), wenn sie innerhalb einer Übergangsfrist von drei Jahren nach Inkrafttreten des BBergG 1982 bei den Bergbehörden angezeigt und durch die Bergaufsicht bestätigt worden sind. Berechtigungen nach altem Recht sind im Gegensatz zu Berechtigungen nach dem neuen BBergG weder befristet, noch müssen Förder- oder Feldesabgaben bezahlt werden. In der Praxis betreffen diese Altrechte insbesondere die Stein- und die Braunkohle. Für die Förderung der Bodenschätze in dieser Kategorie ist ebenfalls die Zulassung eines Betriebsplans notwendig."
 
   sonderfall2:
@@ -635,7 +626,7 @@ anfallende_zahlungen:
 
   zuständigkeit-für-die-einnahmen:
     title: Zuständigkeit für die Einnahmen
-    p: Aufgrund der föderalen Struktur der Bundesrepublik Deutschland ist die Steuerverwaltung zwischen dem Bund und den Ländern aufgeteilt. Je nach Art der Steuer wird sie von den Finanzverwaltungen des Bundes, der Länder oder der Gemeinden erhoben. Eine Ausnahme bilden die Feldes- und Förderabgaben, für deren Erhebung die  Bergämter der Länder zuständig sind.
+    p: Aufgrund der föderalen Struktur der Bundesrepublik Deutschland ist die Steuerverwaltung zwischen dem Bund und den Ländern aufgeteilt. Je nach Art der Steuer wird sie von den Finanzverwaltungen des Bundes, der Länder oder der Gemeinden erhoben. Eine Ausnahme bilden die Feldes- und Förderabgaben, für deren Erhebung die Bergämter der Bundesländer zuständig sind.
   zahlungen-industrie:
     title: Zahlungen der rohstoffgewinnenden Industrie
     körperschaftsteuer:
@@ -654,7 +645,7 @@ anfallende_zahlungen:
       title: Gewerbesteuer
       p1: Für die Gewerbesteuer sind die Gemeinden zuständig. Sie wird von der Gemeinde erhoben, in deren Gebiet sich die Betriebsstätte befindet. Besteuert wird die objektive Ertragskraft eines Gewerbebetriebs, die im Unterschied zu der Körperschaftsteuer nicht an die wirtschaftliche Leistungsfähigkeit anknüpft. Hinzurechnungen und Kürzungen korrigieren den Ertrag des Gewerbebetriebs (§§ 8 und 9 GewStG). Für die Berechnung der Gewerbesteuer ermittelt das zuständige Finanzamt den Steuermessbetrag, der 3,5% der objektiven Ertragskraft beträgt. Die zuständige Gemeinde setzt einheitlich für alle Unternehmen einen Hebesatz fest, der mindestens 200% betragen muss (§ 16 Abs. 4 Satz 2 GewStG)  und berechnet die Gewerbesteuer auf der Grundlage des Steuermessbetrags und des Hebesatzes.
       p2: Rohstoffgewinnende Unternehmen in der Rechtsform einer Personen- oder Kapitalgesellschaft sind gewerbesteuerpflichtig. Wenn sich die Betriebsstätte auf dem Gebiet mehrerer Gemeinden befindet oder in mehreren Gemeinden Betriebsstätten betrieben werden, wird die Bemessungsgrundlage der Gewerbesteuer auf die einzelnen Gemeinden aufgeteilt (sogenannte Zerlegung). Als Maßstab für die Zerlegung werden grundsätzlich die Arbeitslöhne in den einzelnen Betriebsstätten herangezogen. Dies bedeutet, dass jede betroffene Gemeinde ihren Anteil an der Gewerbesteuer eines Rohstoffunternehmens erheben kann.
-      p3: Eine Übersicht zu den Hebesätzen (2015) der Gemeinden in Deutschland finden Sie
+      p3: Eine Übersicht zu den Hebesätzen der Gemeinden in Deutschland finden Sie
       link: hier.
       p4: Für die Gemeinden stellt die Gewerbesteuer – neben der Grundsteuer – die wesentliche Steuerquelle dar. Einen Teil der Gewerbesteuereinnahmen müssen die Gemeinden als Gewerbesteuerumlage an Bund und Länder abführen. Die den Gemeinden verbleibende Gewerbesteuer fließt in deren allgemeinen Haushalt ein und dient damit u.a. der Finanzierung der lokalen Infrastruktur sowie Bildungs- und Sozialeinrichtungen.
     pachtzahlungen:
@@ -1415,8 +1406,9 @@ subventionen-und-steuerliche-begünstigungen:
           title: Beschäftigte
         - name: kontrolle
           title: Kontrolle
-        - name: begünstigungen
-          title: Begünstigungen für Strom- und Energiesteuer
+    - name: begünstigungen
+      title: Begünstigungen für Strom- und Energiesteuer
+      subnav_items:
         - name: table
           title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
 
@@ -1472,7 +1464,9 @@ subventionen-und-steuerliche-begünstigungen:
       source: "Quelle: 25. Subventionsbericht der Bundesregierung 2015"
       sup13:
         title: "17"
-        text:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter: [Website+Hyperlink] veröffentlicht."
+        text1:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter:"
+        link: "http://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2017-08-23-subventionsbericht-26.html;jsessionid=FD52705712D36647993AF8610E28B5A0"
+        text2: "veröffentlicht."
       th1: Regelung
       th2:
         title: Jahr
@@ -1584,9 +1578,9 @@ gesamtdeutsche_rohstoffproduktion:
     - name: title
       title: Seitenanfang
     - name: rohstoff-menge
-      title: Rohstoff Menge (2015)
+      title: Rohstoffgewinnung in Deutschland für 2015 (Menge)
     - name: rohstoff-wert
-      title: Rohstoff Wert (2015)
+      title: Rohstoffgewinnung in Deutschland für 2015 (Wert)
   p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
@@ -1643,8 +1637,8 @@ gesamtdeutsche_rohstoffproduktion:
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
     p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
   table1:
-    th1: Rohstoff
-    th2: Menge (2015)
+    th1: Rohstoffgewinnung in Deutschland für 2015
+    th2: (Menge)
     row1:
       td1: Steinkohle*
       td2: 6,22 Mio.t
@@ -1688,12 +1682,12 @@ gesamtdeutsche_rohstoffproduktion:
       td1: Kalk-/Mergel-/Dolomitstein
       td2: 48,9 Mio. t
     star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
+    star2: "** einschließlich Erdölbegleitgas"
   table2:
     th1: Rohstoff
     th2: Wert Wert (2015) in Mio. €
     1:
-      td1: Steinkohle
+      td1: Steinkohle*
       td2: "423"
     2:
       td1: Braunkohle
@@ -1702,10 +1696,10 @@ gesamtdeutsche_rohstoffproduktion:
       td1: Erdöl
       td2: "859"
     4:
-      td1: Erdgas*
+      td1: Erdgas**
       td2: "2.064"
     5:
-      td1: Kalisalz**
+      td1: Kalisalz
       td2: "k. A."
     6:
       td1: Kali- und Kalisalzprodukte
@@ -1735,21 +1729,20 @@ gesamtdeutsche_rohstoffproduktion:
       td1: Kalk-/Mergel-/Dolomitstein
       td2: "719"
     star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
+    star2: "** einschließlich Erdölbegleitgas"
 
 einnahmen:
     title: Beitrag zu den Staatseinnahmen
     nav_items:
       - name: title
-        title: Seitenanfang
-      - name: steuern
-        title: Steuern
-      - name: steuereinnahmen
-        title: Steuereinnahmen aus dem Rohstoffsektor
-      - name: förder_feldesabgaben
-        title: Förder- und Feldesabgaben
+        title: Beitrag zu den Staatseinnahmen
+        subnav_items:
+          - name: steuern
+            title: Steuern
+          - name: förder_feldesabgaben
+            title: Förder- und Feldesabgaben
       - name: umsatz
-        title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
+        title: "Umsatz"
     p1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 750 Mio. Euro im Jahr 2015. Dies entspricht einem Anteil von 0,06 Prozent an den Gesamteinnahmen des Staates. Daneben gibt es weitere Zahlungen des rohstoffgewinnenden Sektors an den Staat wie zum Beispiel Pachten, Energie- und Stromsteuern (s. Kap. 4) sowie Zahlungen in Zusammenhang mit naturschutzrechtlichen Eingriffen sowie der Wassernutzung (s. Kap. 6), die hier nicht dargestellt sind.
     steuern:
       title: Steuern
@@ -1866,9 +1859,9 @@ einnahmen:
         th2: "2015"
         th3: "2016"
         row1:
-          td1: Bundesgebiet
-          td2: "386.954.750,40"
-          td3: "232.507.396,33"
+          td1: Bundesländer
+          td2: " "
+          td3: " "
         row2:
           td1: Niedersachsen
           td2: "295.865.995,20"
@@ -1934,44 +1927,41 @@ einnahmen:
           td2: "0,00"
           td3: "0,00"
         row18:
-          td1: Förderabgaben in Mio. Euro
-          td2: "387,0"
-          td3: "232,5"
+          td1: Gesamtförderabgaben
+          td2: "387.954.750"
+          td3: "232.507.296"
         row19:
           td1: Gesamteinnahmen des Staates in Mio. Euro
           td2: "1.301.816"
           td3: "1.351.851"
         row20:
-          td1: Anteil im Prozent
-          td2: "0,03"
-          td3: "0,02"
+          td1: Anteil
+          td2: "0,03%"
+          td3: "0,02%"
       p3: "Die Feldeseinnahmen der Bundesländer werden nicht systematisch bundesweit zusammengestellt oder veröffentlicht. Ihre Höhe ist deutlich geringer als die Höhe der Fördereinnahmen und sie fallen überhaupt nur in einigen Bundesländern an (siehe nachfolgende Tabelle):"
       table2:
         title: Feldesabgabe im Jahr 2015
         th1: Bundesland
-        th2: in Tausend Euro
+        th2: "in Euro"
         row1:
-          td1: Bayern
-          td2: "46"
-        row2:
-          td1: Brandenburg
-          td2: "30"
-        row3:
           td1: Niedersachsen
-          td2: "351"
-        row4:
-          td1: Nordrhein-Westfalen
-          td2: "1452"
+          td2: "351.000"
+        row2:
+          td1: Bayern
+          td2: "45.200"
+        row3:
+          td1: Brandenburg
+          td2: "29.578"
+
     umsatz:
       title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
       p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Milliarden Euro. Davon entfielen etwa 8,1 Milliarden Euro (rund 88%) auf Inlandsumsätze und 1,1 Milliarden Euro (12%) auf Umsätze mit dem Ausland.
       daten_einsehen: Daten einsehen
       star1:
         title: "*"
-        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07)"
-      star2:
-        title: "**"
-        text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
+        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07), bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten"
+
+
 
 bip:
     title: "Beitrag zum BIP"
@@ -2000,20 +1990,20 @@ beschäftigung:
       - name: title
         title: Seitenanfang
       - name: tabelle-1
-        title: "Tabelle: Besch&auml;ftigung"
+        title: "Beschäftigte des Sektors „Bergbau und Gewinnung von Steinen und Erden“ 2016"
       - name: daten-einsehen
         title: "Daten einsehen"
     p1: "Die Beschäftigten in der rohstoffgewinnenden Industrie gehen einer Vielzahl von unterschiedlichen Berufen nach. So arbeiten beispielsweise Ingenieure im Marktscheidewesen an der Erkundung und Vermessung von Vorkommen, Rohstoffingenieure und Geotechniker am Aufbau und Betrieb der technischen Anlagen und Bergbautechnologen führen den Abbau im Tage- und Untertagebau durch. Die Branche bietet auch qualifizierte Ausbildungsberufe wie z.B. Industrie- und Verfahrensmechaniker oder Elektroniker."
     p2: "Insgesamt waren in den Unternehmen der rohstoffgewinnenden Industrie zum Stichtag 30.06.2016 in Deutschland 71.074 Mitarbeiter/innen sozialversicherungspflichtig beschäftigt, wobei über die Hälfte aller Angestellten auf den Bereich „Gewinnung von Steinen und Erden, sonstiger Bergbau“ (Anteil: rund 53%) und gut ein Fünftel auf den Kohlenbergbau (Anteil: etwa 22%) entfiel. Diese Zahlen schließen für den gleichen Stichtag insgesamt 2.373 Auszubildende in den rohstoffgewinnenden Betrieben ein. Bezogen auf die insgesamt sozialversicherungspflichtig Beschäftigten in Deutschland entfiel damit ein Anteil von rund 0,23% auf die rohstoffgewinnende Industrie."
     p3: "Ein weiterer wichtiger Beschäftigungsfaktor sind die Sekundäreffekte des rohstoffgewinnenden Sektors, durch die zusätzliche Arbeits- und Ausbildungsplätze geschaffen werden. Hierzu gehören insbesondere die Dienstleistungen der Zulieferer und Subunternehmer, welche beispielweise mit der Übernahme von logistischen und gastronomischen Aufgaben oder dem Bau und Betrieb von Förderstätten beauftragt werden."
     table:
-      title: "Tabelle: Beschäftigte"
+      title: "Beschäftigte des Sektors „Bergbau und Gewinnung von Steinen und Erden“ 2016"
       th2: "Sozialversicherungspflichtig Beschäftigte am Stichtag 30.06.2016"
       th3: "darunter Auszubildende"
       row1:
         td1: "Bergbau und Gewinnung von Steinen und Erden insgesamt"
-        td2: "71074"
-        td3: "2373"
+        td2: "71.074"
+        td3: "2.373"
       row2:
         td1: "darunter:"
       row3:
@@ -3304,11 +3294,11 @@ downloads:
         - name: kalk_mergel
           title: Kalk-/Mergel- und Dolomitstein
     - name: daten-zur-beitrag-zum-bip
-      title: Daten zur Beitrag zum BIP
+      title: Daten zum Beitrag zum BIP
     - name: daten-zur-beschaftigten
-      title: Daten zur Beschäftigten
+      title: Daten zu Beschäftigten
     - name: daten-zur-exporte
-      title: Daten zur Exporte
+      title: Daten zu Exporten
     - name: steuern
       title: Daten zu Staatseinnahmen durch Steuern
       subnav_items:
@@ -3364,6 +3354,10 @@ downloads:
     p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
     link3: "RGB 2016"
     p4: ", Tabellen 5, 28 und 29) entnommen."
+  table_link:
+    p1: Detaillierte Quellenangaben siehe
+    link: "Daten einsehen."
+    p2: "Eigene Darstellung."
 
   steuern:
     title: Daten zu Staatseinnahmen durch Steuern
@@ -3374,20 +3368,17 @@ downloads:
     p5: "Die angegebenen Gesamteinnahmen des Staates sind der Kassenstatistik des Bundes (Öffentlicher Gesamthaushalt – ÖGH) entnommen. Die Gesamteinnahmen des Staates umfassen neben den Steuereinnahmen des Staates auch Einnahmen aus Sozialversicherungsbeiträgen, Veräußerungserlösen oder Vermögensanlagen (Staatsanleihen) sowie ferner auch Gebühren, Verwaltungseinnahmen oder etwa Gewinne aus Staatsunternehmen. Detaillierte Erläuterungen bzw. Definitionen zum Öffentlichen Gesamthaushalt (ÖGH) sind auf der Website des Statistischen Bundesamtes abrufbar:"
     link: "https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/ThemaFinanzen.html"
   förderabgaben:
-    title: Daten zu Feldes- und Förderabgaben
-    p1_1: Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den
-    link: Abrechnungen des Länderfinanzausgleichs
-    link_data: "http://www.bundesfinanzministerium.de/Web/DE/Themen/Oeffentliche_Finanzen/Foederale_Finanzbeziehungen/Laenderfinanzausgleich/laenderfinanzausgleich.html"
-    p1_2: auf der Internetseite des BMF veröffentlicht.
-    p2_1: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von vier Bundesländern die Einnahmen aus den Feldesabgaben vor:"
-    link1: Bayern,
+    title: "Daten zu Feldes- und Förderabgaben"
+    p1_1: "Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen
+Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den Abrechnungen des Länderfinanzausgleichs auf der Internetseite des
+BMF veröffentlicht. Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von drei Bundesländern
+die Einnahmen aus den Feldesabgaben vor:"
+    link1: "Bayern,"
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
     link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%20f%C3%BCr%20Wirtschaft%20und%20Energie_2017-18.pdf"
-    link3: Niedersachsen,
+    link3: Niedersachsen.
     link3_data: "http://www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
-    link4: Nordrhein-Westfalen.
-    link4_data: "https://www.landtag.nrw.de/web/WWW/haushalt/cd-fm-0916/daten/pdf/2017/gesamt_2017.pdf"
   umsatz:
     title: Daten zu Umsatz Steine und Erden
     p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
@@ -3412,7 +3403,7 @@ about:
     description-1-1:   und zur Förderung von
     description-1-link-2: Rohstoffen in Deutschland
     description-1-2: .
-    description-2:  Besuchen Sie dieses Portal gerne regelmäßig, um über neue Ergebnisse der deutschen EITI Initiative auf dem Laufenden zu bleiben.
+    description-2:  Besuchen Sie dieses Portal gerne regelmäßig, um über neue Ergebnisse der deutschen EITI auf dem Laufenden zu bleiben.
 
 federal-production:
     heading-1: Interaktive Rohstoffkarte

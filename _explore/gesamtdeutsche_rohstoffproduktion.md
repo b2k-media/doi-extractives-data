@@ -25,7 +25,7 @@ breadcrumb:
 
         <br/><br/>
         <section style="position: relative;">
-        <h2 id="rohstoff-menge">Rohstoff Menge (2015)</h2>
+        <h2 id="rohstoff-menge">Rohstoffgewinnung in Deutschland für 2015 (Menge)</h2>
         <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
@@ -115,7 +115,7 @@ breadcrumb:
         </section>
         <br/>
         <section style="position: relative;">
-        <h2 id="rohstoff-wert">Rohstoff Wert (2015)</h2>
+        <h2 id="rohstoff-wert">Rohstoffgewinnung in Deutschland für 2015 (Wert)</h2>
         <!-- <table>
           <tbody>
             <tr>

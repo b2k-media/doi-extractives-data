@@ -36,7 +36,7 @@ breadcrumb:
         </div>
       </div>
       <br/><br/>
-      <p>
+      <p style="font-size: 0.75rem">
         {% t subventionen-und-steuerliche-begünstigungen.p1.chart1_source %}
       </p>
       <h2 id="zuschusse-fur-den-absatz-der-steinkohle" class="margin-class">{% t subventionen-und-steuerliche-begünstigungen.zuschusse.title %}</h2>
@@ -184,6 +184,7 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
+        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#anpassungsgeld">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
         <p>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}
           <sup>
@@ -217,7 +218,9 @@ breadcrumb:
         </p>
         <p id="explanation-13">
           <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.title %}</sup>
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.text %}
+          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.text1 %}
+          <a target="_blank" href="{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}</a>
+          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.text2 %}
         </p>
       </section>
     </div>

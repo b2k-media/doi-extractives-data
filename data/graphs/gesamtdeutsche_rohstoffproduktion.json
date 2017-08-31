@@ -41,7 +41,7 @@
 	"title_en": "",
 	"data": [
 		[
-			["K.A",	 "Kalisalz**"],
+			["K.A",	 "Kalisalz"],
 			[52,	 "Naturwerksteine"],
 			[119,	 "Kaolin"],
 			[148,	 "Spezialton"],
@@ -52,7 +52,7 @@
 			[859,	 "Erdöl"],
 			[1439,	 "Gebrochene Natursteine"],
 			[1510,	 "Kies und Sand"],
-			[2064,	 "Erdgas*"],
+			[2064,	 "Erdgas**"],
 			[2156,	 "Kali- und Kalisalzprodukte"],
 			[2431,	 "Braunkohle"]
 		]
