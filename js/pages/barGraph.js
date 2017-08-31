@@ -41,7 +41,10 @@ $(document).ready(function(){
     type: "GET",
     url: jsonFilePath,
     dataType: "text",
-    success: function(data) {processData(data);}
+    success: function(data) {
+      processData(data);
+      orderLegends();
+    }
   });
 
   function processData(data) {
@@ -124,14 +127,18 @@ $(document).ready(function(){
     } else {
       $(".jqplot-point-label").css("left", "650px");
     }
-
+  }
+  function orderLegends() {
     if (orderSeries1) {
       var legentChart1 = $("#chart1 table.jqplot-table-legend tbody");
-      legentChart1.children().each(function(i, tr){legentChart1.prepend(tr)});
+      legentChart1.children().each(function(i, tr){
+        legentChart1.prepend(tr)
+      });
     }
     if (orderSeries2) {
       var legent1 = $("#chart2 table.jqplot-table-legend tbody");
       legent1.children().each(function(i, tr){legent1.prepend(tr)});
     }
   }
+
 });
