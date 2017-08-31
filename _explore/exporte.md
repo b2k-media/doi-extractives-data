@@ -23,13 +23,17 @@ breadcrumb:
           <div class="regions container">
             <div class="graph">
               <div class="container chart-container">
-                <div id="chart1"></div>
+                <div id="chart1" class="hide-legend-table"></div>
               </div>
             </div>
           </div>
         </div>
+        <img
+          src="{{ site.baseurl_root }}/img/legend.png"
+          style="height:130px; margin-left:250px"
+        >
 
-        <div style="margin-top: 110px !important">
+        <div style="margin-top: 50px !important">
           <a target="_blank" href="{{site.baseurl}}/downloads/#exporte">
             <icon class="fa fa-file-text-o u-padding-right"></icon>{% t exporte.daten_einsehen %}
           </a>
