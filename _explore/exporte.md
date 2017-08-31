@@ -29,7 +29,7 @@ breadcrumb:
           </div>
         </div>
 
-        <div style="margin-top: 50px !important">
+        <div style="margin-top: 110px !important">
           <a target="_blank" href="{{site.baseurl}}/downloads/#exporte">
             <icon class="fa fa-file-text-o u-padding-right"></icon>{% t exporte.daten_einsehen %}
           </a>
