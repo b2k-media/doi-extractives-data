@@ -8,6 +8,8 @@ $(document).ready(function(){
   var labels = [];
   var jsonFilePath= '';
   var displayTwoDecimalPoints = false;
+  var orderSeries1= false;
+  var orderSeries2= false;
 
   if (isEn === -1) {
     $.jqplot.sprintf.thousandsSeparator = '.';
@@ -17,10 +19,13 @@ $(document).ready(function(){
   if (document.URL.search('/explore/exporte/') > 1) {
     jsonFilePath = "../../data/graphs/exporte.json";
     displayTwoDecimalPoints = true;
+    orderSeries1 = true;
+    orderSeries2 = true;
   } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
   } else if (document.URL.search('explore/einnahmen/') > 1) {
     jsonFilePath = "../../data/graphs/einnahmen.json";
+    orderSeries1 = true;
   } else if (document.URL.search('explore/how-it-work/wasser/') > 1) {
     jsonFilePath = "../../../data/graphs/wasser.json";
   } else if (document.URL.search('explore/gesamtdeutsche_rohstoffproduktion/') > 1) {
@@ -28,6 +33,8 @@ $(document).ready(function(){
   } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich.json";
     displayTwoDecimalPoints = true;
+    orderSeries1 = true;
+    orderSeries2 = true;
   }
 
   $.ajax({
@@ -116,6 +123,15 @@ $(document).ready(function(){
       $(".jqplot-point-label").css("left", $( window ).width() - 50);
     } else {
       $(".jqplot-point-label").css("left", "650px");
+    }
+
+    if (orderSeries1) {
+      var legentChart1 = $("#chart1 table.jqplot-table-legend tbody");
+      legentChart1.children().each(function(i, tr){legentChart1.prepend(tr)});
+    }
+    if (orderSeries2) {
+      var legent1 = $("#chart2 table.jqplot-table-legend tbody");
+      legent1.children().each(function(i, tr){legent1.prepend(tr)});
     }
   }
 });
