@@ -497,7 +497,7 @@ lizenzregister_und_verträge:
     - name: title
       title: Seitenanfang
     - name: lizenzregister
-      title: Lizenzregister
+      title: Informationen zu vergebenen Lizenzen
       subnav_items:
         - name: rechtliche_grundlage
           title: Rechtliche Grundlage
@@ -509,11 +509,11 @@ lizenzregister_und_verträge:
       title: Verträge
 
   lizenzregister:
-    title: Lizenzregister
+    title: Informationen zu vergebenen Lizenzen
   rechtliche_grundlage:
     title: Rechtliche Grundlage
-    p1: In Deutschland wird allein für bergfreie Bodenschätze (siehe Glossar) das Recht zur bergbaulichen Exploration und Gewinnung staatlich vergeben. Das Verfügungsrecht über einen bergfreien Bodenschatz wird als Bergbauberechtigung bezeichnet und kann bei den Bergbehörden der Bundesländer beantragt werden
-    link1: (Genehmigung von Bergbauvorhaben).
+    p1: In Deutschland wird allein für bergfreie Bodenschätze das Recht zur bergbaulichen Exploration und Gewinnung staatlich vergeben. Das Verfügungsrecht über einen bergfreien Bodenschatz wird als Bergbauberechtigung bezeichnet und kann bei den Bergbehörden der Bundesländer beantragt werden
+    link1: (weitere Informationen siehe auch Genehmigung von Bergbauvorhaben).
     p2: Nach § 75 BBergG führen die Bergbehörden sogenannte Berechtsamsbücher und Berechtsamskarten, in denen die nach BBergG neu erteilten oder nach § 149 BBergG aufrechterhaltenen Bergbauberechtigungen (sogenannte Alte Rechte und Verträge) einzutragen sind.
     p3: "Eine öffentliche Einsicht in die Berechtsamsbücher und –karten wurde im Rahmen der deutschen Umsetzung der D-EITI geschaffen. Seit dem 21.07.2017 können nach § 76 Abs. 3 BBergG auf Antrag bei den Bergbehörden folgende Angaben zu den erteilten und aufrechterhaltenen Bergbauberechtigungen, ohne Darlegung eines berechtigten Interesses, eingesehen werden:"
     item1: Inhaber
@@ -524,19 +524,19 @@ lizenzregister_und_verträge:
     p4: "Die zuständigen Behörden können die genannten Informationen auch direkt öffentlich zugänglich machen, was bereits seit längerem in einer Vielzahl der Bundesländer geschieht. So veröffentlichen einige Bundesländer übersichtliche Online-Lizenzkataster. Weitere Bundesländer planen den Aufbau entsprechender Systeme. "
     p5_1: "Weiterhin werden alle Bergbauberechtigungen in Deutschland im Bereich Kohlenwasserstoffe in der jährlich erscheinenden Publikation"
     linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
-    p5_2: "veröffentlicht"
+    p5_2: "veröffentlicht."
 
   beispiel:
     title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
     p1_1: "Ein gutes Beispiel für die Veröffentlichung von Angaben zu Bergbauberechtigungen im Internet ist der vom Landesamt für Bergbau, Energie und Geologie (LBEG) in Niedersachsen geführte"
-    link1: " NIBIS-Kartenserver"
+    link1: " NIBIS-Kartenserver."
     link_data: "http://nibis.lbeg.de/cardomap3/"
     p1_2: "Auf dieser Webseite können sich Bürgerinnen und Bürger in mehr als 400 Fachkarten über die Themenbereiche Altlasten, Bergbau, Bodenkunde, Erosion, Geologie, Geothermie, Geophysik, Hydrogeologie, Ingenieurgeologie, Klima und Rohstoffe informieren. Bezogen auf die Bergbauberechtigungen sind im NIBIS-Kartenserver für die Bundesländer Niedersachsen, Bremen, Hamburg und Schleswig-Holstein regelmäßig folgende Daten öffentlich einsehbar:"
     item1: Informationen zum Lizenzinhaber
     item2: Koordinaten des Lizenzgebiets
     item3: Erteilungsdatum und Geltungsdauer der Lizenz
     item4: Art des Bodenschatzes
-    image_source: "Abbildung 1: Bergbauberechtigungen im NIBIS-Kartenserver"
+    image_source: "Bergbauberechtigungen im NIBIS-Kartenserver"
 
   handhabung:
     title: "Handhabung in anderen Bundesländern"
@@ -545,7 +545,8 @@ lizenzregister_und_verträge:
     p1_2: "Berlin und Brandenburg unter"
     link2: "www.geo.brandenburg.de/lbgr/bergbau"
     p1_3: "oder das Saarland unter"
-    link3: "www.geoportal.saarland.de"
+    link3: "www.geoportal.saarland.de."
+
 
   verträge:
     title: Verträge
