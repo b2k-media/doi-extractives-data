@@ -18,9 +18,10 @@ breadcrumb:
         <p>
           {% t genehmigung-von-bergbauprojekten.p1 %}
         </p>
-        <h3>
+        <br/>
+        <div class="chart-title-style">
           {% t genehmigung-von-bergbauprojekten.subtitle %}
-        </h3>
+        </div>
         <br/>
         <div class="tabs" id="Bergfreie">
           <ul class="tab-links">
@@ -106,7 +107,7 @@ breadcrumb:
         <section>
           <br/>
           <br/>
-          <h3 style="margin-top: 30px;">{% t genehmigung-von-bergbauprojekten.h2 %}</h3>
+          <div style="margin-top: 60px;" class="chart-title-style">{% t genehmigung-von-bergbauprojekten.h2 %}</div>
           <div class="third-slide" id="Grundeigentümerbodenschätze">
             <div class="tab-bottom-top">
               <p>{% t genehmigung-von-bergbauprojekten.h3 %}</p>

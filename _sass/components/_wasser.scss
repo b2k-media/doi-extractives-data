@@ -12,7 +12,13 @@
 
 
 sup {
-  vertical-align: top !important; 
+  vertical-align: top !important;
   position: relative;
   top: -0.5em;
+}
+
+.chart-title-style {
+  color: #666;
+  font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+  font-size: 1.2em;
 }
