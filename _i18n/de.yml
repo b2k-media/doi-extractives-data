@@ -1565,9 +1565,9 @@ explore-data:
 
     economic-impact:
       heading-1: Wirtschaftliche und soziale Bedeutung
-      item1: Beitrag zum BIP
+      item1: BIP und Umsatz
       item2: Einnahmen
-      item3: Beitrag zur Beschäftigung
+      item3: Beschäftigung
       item4: Exporte
       item5: Zahlungsabgleich
 
@@ -1964,7 +1964,7 @@ einnahmen:
 
 
 bip:
-    title: "Beitrag zum BIP"
+    title: "BIP und Umsatz"
     nav_items:
       - name: intro
         title: Seitenanfang

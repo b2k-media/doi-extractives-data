@@ -1,5 +1,5 @@
 ---
-title: Beitrag zum BIP
+title: BIP und Umsatz
 layout: default
 permalink: /explore/BIP/
 breadcrumb:
