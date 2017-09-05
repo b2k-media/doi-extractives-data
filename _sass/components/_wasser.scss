@@ -3,3 +3,16 @@
     font-size: 15px;
   }
 }
+
+#pieChart {
+  .jqplot-title {
+    top: -20px !important;
+  }
+}
+
+
+sup {
+  vertical-align: top !important; 
+  position: relative;
+  top: -0.5em;
+}
