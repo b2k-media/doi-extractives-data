@@ -55,7 +55,7 @@ breadcrumb:
                   {% t rechtlicher-rahmen.grid.bayern.link1 %}
                 </a>
 
-                und<br/>
+                <br/>
 
                 <a target="_blank" href="https://www.regierung.oberfranken.bayern.de/bergamt_nordbayern/index.php">
                   {% t rechtlicher-rahmen.grid.bayern.link2 %}
@@ -344,8 +344,9 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
-        <small>{% t rechtlicher-rahmen.p2 %}</small>
+        <small style="font-size: 0.75rem">{% t rechtlicher-rahmen.p2 %}
+        <a target="_blank" href="http://www.infogeo.de/dokumente/download_pool/rohstoffsicherung_2008.pdf">{% t rechtlicher-rahmen.link %}</a>
+        </small>
         <br /><br />
       </section>
     </div>

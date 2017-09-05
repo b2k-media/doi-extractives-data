@@ -251,9 +251,9 @@ steine-und-erden:
     p: "In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie. In Deutschland wird in Nordrhein-Westphalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
 
 rechtlicher-rahmen:
-  title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
+  title: Wer ist zuständig? Gesetze und Zuständigkeiten staatlicher Stellen
   p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundesministerium für Wirtschaft und Energie. Die Bergbehörden der Bundesländer führen das Gesetz jedoch aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
-  subtitle: "Zuständige staatliche Stellen:"
+  subtitle: "Zuständige staatliche Stellen"
   nav_title: RECHTLICHER RAHMEN UND STAATLICHE STELLEN
   nav_items:
     - name: title
@@ -270,8 +270,8 @@ rechtlicher-rahmen:
     bayern:
       title: Bayern
       descr: Staatsmin. für Wirtschaft und Medien,<br/> Energie und Technologie
-      link1: Regierungspräs. München
-      link2: Regierungspräs. Oberfranken
+      link1: Regierung von Oberbayern, <br /> Bergamt Südbayern
+      link2: Regierung von Oberfranken, <br /> Bergamt Nordbayern
     berlin:
       title: Berlin
       descr: Senatsverw. für Wirtschaft,<br/> Technologie und Forschung
@@ -283,11 +283,11 @@ rechtlicher-rahmen:
     bremen:
       title: Bremen
       descr: Senator für Wirtschaft,<br/> Arbeit und Häfen
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      link: Landesamt für Bergbau,<br/> Energie und Geologie
     hamburg:
       title: Hamburg
       descr: Behörde für Wirtschaft,<br/> Verkehr und Innovation
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      link: Landesamt für Bergbau,<br/> Energie und Geologie
     hessen:
       title: Hessen
       descr: Min. für Umwelt, Klimaschutz, <br/>Landwirtschaft und Verbraucherschutz
@@ -299,11 +299,11 @@ rechtlicher-rahmen:
     niedersachsen:
       title: Niedersachsen
       descr: Min. für Wirtschaft, <br/>Arbeit und Verkehr
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      link: Landesamt für Bergbau,<br/> Energie und Geologie
     nordrhein-westfalen:
       title: Nordrhein-Westfalen
-      descr: Min. für Wirtschaft, Energie,<br/> Industrie, Mittelstand und Handwerk
-      link: Bezirksreg. Arnsberg<br/> Abt. 6 Bergbau und Energie
+      descr: Min. für Wirtschaft, Innovation,<br/> Digitalisierung und Energie
+      link: Bezirksreg. Arnsberg<br/> Abteilung Bergbau und Energie <br /> in NRW, Dortmund
     rheinland-pfalz:
       title: Rheinland-Pfalz
       descr: Min. für Wirtschaft, Klimaschutz, <br/> Energie und Landesplanung
@@ -371,7 +371,8 @@ rechtlicher-rahmen:
           p1: "Geregelt nach anderen Rechtsgebieten, z. B. Baurecht (Abgrabungsgesetz),"
           k1: Wasserhaushaltsgesetz
           p2: "bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz"
-  p2: "Eigene Darstellung. Angelehnt an Quelle: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008."
+  p2: "Eigene Darstellung. Angelehnt an Quelle:"
+  link: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008.
 
 genehmigung-von-bergbauprojekten:
   title: Wie funktioniert‘s? Genehmigung von Bergbauvorhaben
