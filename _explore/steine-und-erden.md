@@ -54,6 +54,7 @@ breadcrumb:
           </p>
         </section>
       </section>
+      <br/>
       <section id="industrieminerale" style="position: relative;">
       <h2>{% t steine-und-erden.industrieminerale.title %}</h2>
         <section id="verwendung-geschichte" style="position: relative;">
@@ -81,6 +82,7 @@ breadcrumb:
           </p>
         </section>
       </section>
+      <br/>
       <section id="eisenerze" style="position: relative;">
         <h2>{% t steine-und-erden.eisenerze.title %}</h2>
         <p>
