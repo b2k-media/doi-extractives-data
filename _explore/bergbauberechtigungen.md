@@ -34,7 +34,8 @@ breadcrumb:
         <h3 id="sonderfall2">{% t bergbauberechtigungen.sonderfall2.title %}</h3>
         <p>{% t bergbauberechtigungen.sonderfall2.p %}</p>
 
-        <p><strong>{% t bergbauberechtigungen.tableHead %}</strong>{% t bergbauberechtigungen.tableHead1 %}</p>
+        <div class="chart-title-style">{% t bergbauberechtigungen.tableHead %}</div>
+        <br />
         <table>
           <tbody>
             <tr>
@@ -62,14 +63,13 @@ breadcrumb:
               <td>
               {% t bergbauberechtigungen.table.row3.td4 %}<br/><br/>
               {% t bergbauberechtigungen.table.row3.text %}
-                <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">
+                <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/bergbauberechtigungen/">
                   {% t bergbauberechtigungen.table.row3.link %}
                 </a>
               </td>
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
       </section>
     </div>
 
