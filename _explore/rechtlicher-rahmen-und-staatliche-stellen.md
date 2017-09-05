@@ -22,7 +22,7 @@ breadcrumb:
       <br/>
       <br/>
       <section style="position: relative;">
-      <h2 id="zustandige-staatliche-stellen">{% t rechtlicher-rahmen.subtitle %}</h2>
+      <div class="chart-title-style" id="zustandige-staatliche-stellen">{% t rechtlicher-rahmen.subtitle %}</div>
       <a target="_blank" href="http://www.bmwi.de/">
         <img src="{{ site.baseurl_root }}/img/bundesministerium.png" alt="BMWi">
       </a>
