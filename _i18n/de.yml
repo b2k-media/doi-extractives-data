@@ -1583,9 +1583,9 @@ gesamtdeutsche_rohstoffproduktion:
     - name: title
       title: Seitenanfang
     - name: rohstoff-menge
-      title: Rohstoffgewinnung in Deutschland für 2015 (Menge)
+      title: Rohstoffgewinnung nach Menge
     - name: rohstoff-wert
-      title: Rohstoffgewinnung in Deutschland für 2015 (Wert)
+      title: Rohstoffgewinnung nach Wert
   p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
@@ -1735,6 +1735,7 @@ gesamtdeutsche_rohstoffproduktion:
       td2: "719"
     star1: "*  verwertbare Förderung"
     star2: "** einschließlich Erdölbegleitgas"
+    note: "Die Wertangaben sind nur für Kali- und Kalisalzprodukte möglich"
 
 einnahmen:
     title: Beitrag zu den Staatseinnahmen

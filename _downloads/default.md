@@ -54,11 +54,11 @@ permalink: /downloads/
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_1 %}
-        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
           {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_2 %}
-        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
           {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link2 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_3 %}
@@ -79,7 +79,7 @@ permalink: /downloads/
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_1 %}
-        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
           {% t gesamtdeutsche_rohstoffproduktion.kaolin.link %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_2 %}
@@ -112,14 +112,14 @@ permalink: /downloads/
       <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p %}</p>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_1 %}
-        <a href="https://erhebungsportal.estatistik.de/Erhebungsportal/">
+        <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal/">
           {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_2 %}
       </p>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_1 %}
-        <a href="https://www.natursteinverband.de/">
+        <a target="_blank" href="https://www.natursteinverband.de/">
           {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
         </a>
       </p>

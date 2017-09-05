@@ -28,12 +28,12 @@
 	"title_en": "Rohstoff Menge (2015) EN",
 	"data": [
 		[
-			[938762, "Erdgas**"]
+			[9387.6, "Erdgas**"]
 		]
 	],
 	"color": ["#28467a"],
 	"labels": ["Rohstoff Menge"],
-	"xAxis": [0, 300000, 600000, 900000, 1100000],
+	"xAxis": [0, 3000, 6000, 9000, 11000],
 	"unit": "Mio. m³"
 },
 {
@@ -41,7 +41,7 @@
 	"title_en": "",
 	"data": [
 		[
-			["K.A",	 "Kalisalz"],
+			["Keine Angabe",	 "Kalisalz"],
 			[52,	 "Naturwerksteine"],
 			[119,	 "Kaolin"],
 			[148,	 "Spezialton"],
