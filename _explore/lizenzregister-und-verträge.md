@@ -18,6 +18,7 @@ breadcrumb:
     <div class="container-left-9">
       <section id="lizenzregister" style="position: relative;">
         <section id="rechtliche_grundlage" style="position: relative;">
+        <h2>{% t lizenzregister_und_verträge.lizenzregister.title %}</h2>
           <h3>{% t lizenzregister_und_verträge.rechtliche_grundlage.title %}</h3>
           <p>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p1 %}
@@ -43,6 +44,7 @@ breadcrumb:
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_2 %}
           </p>
         </section>
+        <br />
         <section id="beispiel" style="position: relative;">
           <h3>{% t lizenzregister_und_verträge.beispiel.title %}</h3>
           <p>
@@ -58,12 +60,12 @@ breadcrumb:
             <li>{% t lizenzregister_und_verträge.beispiel.item3 %}</li>
             <li>{% t lizenzregister_und_verträge.beispiel.item4 %}</li>
           </ul>
+          <br/>
+          <p style="font-size: 0.75rem;">{% t lizenzregister_und_verträge.beispiel.image_source %}</p>
           <div>
             <img class="icon-tab-1" src="{{ site.baseurl_root }}/img/lizenzregister-und-verträge/Picture1.png"/>
           </div>
           <br/>
-          <p>{% t lizenzregister_und_verträge.beispiel.image_source %}</p>
-          <br/><br/>
         </section>
         <section id="handhabung" style="position: relative;">
           <h3>{% t lizenzregister_und_verträge.handhabung.title %}</h3>

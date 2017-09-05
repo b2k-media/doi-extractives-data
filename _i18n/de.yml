@@ -255,9 +255,9 @@ steine-und-erden:
     p: "In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie. In Deutschland wird in Nordrhein-Westphalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
 
 rechtlicher-rahmen:
-  title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
+  title: Wer ist zuständig? Gesetze und Zuständigkeiten staatlicher Stellen
   p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundesministerium für Wirtschaft und Energie. Die Bergbehörden der Bundesländer führen das Gesetz jedoch aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
-  subtitle: "Zuständige staatliche Stellen:"
+  subtitle: "Zuständige staatliche Stellen"
   nav_title: RECHTLICHER RAHMEN UND STAATLICHE STELLEN
   nav_items:
     - name: title
@@ -274,8 +274,8 @@ rechtlicher-rahmen:
     bayern:
       title: Bayern
       descr: Staatsmin. für Wirtschaft und Medien,<br/> Energie und Technologie
-      link1: Regierungspräs. München
-      link2: Regierungspräs. Oberfranken
+      link1: Regierung von Oberbayern, <br /> Bergamt Südbayern
+      link2: Regierung von Oberfranken, <br /> Bergamt Nordbayern
     berlin:
       title: Berlin
       descr: Senatsverw. für Wirtschaft,<br/> Technologie und Forschung
@@ -287,11 +287,11 @@ rechtlicher-rahmen:
     bremen:
       title: Bremen
       descr: Senator für Wirtschaft,<br/> Arbeit und Häfen
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      link: Landesamt für Bergbau,<br/> Energie und Geologie
     hamburg:
       title: Hamburg
       descr: Behörde für Wirtschaft,<br/> Verkehr und Innovation
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      link: Landesamt für Bergbau,<br/> Energie und Geologie
     hessen:
       title: Hessen
       descr: Min. für Umwelt, Klimaschutz, <br/>Landwirtschaft und Verbraucherschutz
@@ -303,11 +303,11 @@ rechtlicher-rahmen:
     niedersachsen:
       title: Niedersachsen
       descr: Min. für Wirtschaft, <br/>Arbeit und Verkehr
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      link: Landesamt für Bergbau,<br/> Energie und Geologie
     nordrhein-westfalen:
       title: Nordrhein-Westfalen
-      descr: Min. für Wirtschaft, Energie,<br/> Industrie, Mittelstand und Handwerk
-      link: Bezirksreg. Arnsberg<br/> Abt. 6 Bergbau und Energie
+      descr: Min. für Wirtschaft, Innovation,<br/> Digitalisierung und Energie
+      link: Bezirksreg. Arnsberg<br/> Abteilung Bergbau und Energie <br /> in NRW, Dortmund
     rheinland-pfalz:
       title: Rheinland-Pfalz
       descr: Min. für Wirtschaft, Klimaschutz, <br/> Energie und Landesplanung
@@ -375,7 +375,8 @@ rechtlicher-rahmen:
           p1: "Geregelt nach anderen Rechtsgebieten, z. B. Baurecht (Abgrabungsgesetz),"
           k1: Wasserhaushaltsgesetz
           p2: "bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz"
-  p2: "Eigene Darstellung. Angelehnt an Quelle: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008."
+  p2: "Eigene Darstellung. Angelehnt an Quelle:"
+  link: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008.
 
 genehmigung-von-bergbauprojekten:
   title: Wie werden Bergbauvorhaben genehmigt?
@@ -409,7 +410,7 @@ genehmigung-von-bergbauprojekten:
     h2: Aufsicht durch die Bergbehörden der Länder
     p2: "Der Abbau bergfreier und grundeigener Bodenschätze unterliegt der Aufsicht der zuständigen Bergbehörde (Bergaufsicht; § 69 Abs. 1 BBergG). Die Beaufsichtigung der Bergbaubetriebe stellt neben der Vergabe der Bergbauberechtigungen und der Erteilung der Betriebsplanzulassungen die dritte Kernkompetenz der Bergbehörden dar."
     p3: "Laut Bundesberggesetz dürfen die Aufsichtsbeamtinnen und Aufsichtsbeamten die Betriebe betreten, Auskünfte verlangen, Einrichtungen besichtigen und Prüfungen vornehmen sowie in Einzelfällen auch Anordnungen treffen. Für die Bergbauunternehmer/innen bestehen u. a. Verpflichtungen zur Meldung von Ereignissen und Unfällen, zur Duldung der Bergaufsicht und zur Begleitung der Aufsichtsbeamtinnen und Aufsichtsbeamten bei Fahrten durch die Betriebsstätte (Befahrungen)."
-  h2: Schritte zur Genehmigung von bergbaulichen Vorhaben für Grundeigentümer bodenschätze
+  h2: Schritte zur Genehmigung von bergbaulichen Vorhaben für Grundeigentümerbodenschätze
   h3: Grundeigentümerbodenschätze
   p2: Besitznachweis für Grundstück z. B. Pachtvertrag muss vorliegen
   h4: Aufsicht durch die Bergbehörden der Länder
@@ -466,8 +467,7 @@ bergbauberechtigungen:
     title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
     p: "Das Bergrechtssystem der DDR kannte nur die volkseigenen mineralischen Rohstoffe und die sonstigen mineralischen Rohstoffe. Die volkseigenen Rohstoffe umfassten im Wesentlichen die nach bundesdeutschem Gesetz bergfreien und grundeigenen Bodenschätze und standen im Volkseigentum. Die sonstigen mineralischen Rohstoffe umfassten im Wesentlichen die Grundeigentümerbodenschätze und waren dem Grundeigentum zugeordnet. Mit der Verleihungs-Verordnung vom 15.08.1990 wurde die Grundlage geschaffen, Bergbauberechtigungen volkseigener mineralischer Rohstoffe in bergfreie Bodenschätze umzuwandeln und diese somit im Rechtssystem im wiedervereinigten Deutschland anzuerkennen. Die übertragenen Bergbauberechtigungen gelten als Bergwerkseigentum. Sie sind wie die Bergbauberechtigungen nach altem Recht unbefristet sowie von der Feldes- und Förderabgabe befreit (s. § 149 und § 151 BBergG). Im Unterschied zu den alten Bundesländern erstrecken sich die Altrechte (s. Abschnitt zu Bergbauberechtigung nach altem Recht) in den neuen Bundesländern nicht nur bis 1980, sondern auf die bis 1990 erkundeten Lagerstätten. Sie umfassen zudem nicht nur die bergfreien, sondern auch die grundeigenen Bodenschätze. Die  Rechte zur Aufsuchung und Gewinnung von grundeigenen Bodenschätzen wurden nach DDR-Recht ebenfalls über staatlich vergebene Bergbauberechtigungen geregelt."
 
-  tableHead: "Schaubild:"
-  tableHead1: "Übersicht zu altem Bergrecht, Bergrecht in der DDR und neuem Bergrecht"
+  tableHead: "Übersicht zu altem Bergrecht, Bergrecht in der DDR und neuem Bergrecht"
 
   table:
     th1: "Berechtigungen nach altem Bergrecht (BRD)"
@@ -496,7 +496,7 @@ lizenzregister_und_verträge:
     - name: title
       title: Seitenanfang
     - name: lizenzregister
-      title: Lizenzregister
+      title: Informationen zu vergebenen Lizenzen
       subnav_items:
         - name: rechtliche_grundlage
           title: Rechtliche Grundlage
@@ -508,11 +508,11 @@ lizenzregister_und_verträge:
       title: Verträge
 
   lizenzregister:
-    title: Lizenzregister
+    title: Informationen zu vergebenen Lizenzen
   rechtliche_grundlage:
     title: Rechtliche Grundlage
-    p1: In Deutschland wird allein für bergfreie Bodenschätze (siehe Glossar) das Recht zur bergbaulichen Exploration und Gewinnung staatlich vergeben. Das Verfügungsrecht über einen bergfreien Bodenschatz wird als Bergbauberechtigung bezeichnet und kann bei den Bergbehörden der Bundesländer beantragt werden
-    link1: (Genehmigung von Bergbauvorhaben).
+    p1: In Deutschland wird allein für bergfreie Bodenschätze das Recht zur bergbaulichen Exploration und Gewinnung staatlich vergeben. Das Verfügungsrecht über einen bergfreien Bodenschatz wird als Bergbauberechtigung bezeichnet und kann bei den Bergbehörden der Bundesländer beantragt werden
+    link1: (weitere Informationen siehe auch Genehmigung von Bergbauvorhaben).
     p2: Nach § 75 BBergG führen die Bergbehörden sogenannte Berechtsamsbücher und Berechtsamskarten, in denen die nach BBergG neu erteilten oder nach § 149 BBergG aufrechterhaltenen Bergbauberechtigungen (sogenannte Alte Rechte und Verträge) einzutragen sind.
     p3: "Eine öffentliche Einsicht in die Berechtsamsbücher und –karten wurde im Rahmen der deutschen Umsetzung der D-EITI geschaffen. Seit dem 21.07.2017 können nach § 76 Abs. 3 BBergG auf Antrag bei den Bergbehörden folgende Angaben zu den erteilten und aufrechterhaltenen Bergbauberechtigungen, ohne Darlegung eines berechtigten Interesses, eingesehen werden:"
     item1: Inhaber
@@ -523,19 +523,19 @@ lizenzregister_und_verträge:
     p4: "Die zuständigen Behörden können die genannten Informationen auch direkt öffentlich zugänglich machen, was bereits seit längerem in einer Vielzahl der Bundesländer geschieht. So veröffentlichen einige Bundesländer übersichtliche Online-Lizenzkataster. Weitere Bundesländer planen den Aufbau entsprechender Systeme. "
     p5_1: "Weiterhin werden alle Bergbauberechtigungen in Deutschland im Bereich Kohlenwasserstoffe in der jährlich erscheinenden Publikation"
     linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
-    p5_2: "veröffentlicht"
+    p5_2: "veröffentlicht."
 
   beispiel:
     title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"
     p1_1: "Ein gutes Beispiel für die Veröffentlichung von Angaben zu Bergbauberechtigungen im Internet ist der vom Landesamt für Bergbau, Energie und Geologie (LBEG) in Niedersachsen geführte"
-    link1: " NIBIS-Kartenserver"
+    link1: " NIBIS-Kartenserver."
     link_data: "http://nibis.lbeg.de/cardomap3/"
     p1_2: "Auf dieser Webseite können sich Bürgerinnen und Bürger in mehr als 400 Fachkarten über die Themenbereiche Altlasten, Bergbau, Bodenkunde, Erosion, Geologie, Geothermie, Geophysik, Hydrogeologie, Ingenieurgeologie, Klima und Rohstoffe informieren. Bezogen auf die Bergbauberechtigungen sind im NIBIS-Kartenserver für die Bundesländer Niedersachsen, Bremen, Hamburg und Schleswig-Holstein regelmäßig folgende Daten öffentlich einsehbar:"
     item1: Informationen zum Lizenzinhaber
     item2: Koordinaten des Lizenzgebiets
     item3: Erteilungsdatum und Geltungsdauer der Lizenz
     item4: Art des Bodenschatzes
-    image_source: "Abbildung 1: Bergbauberechtigungen im NIBIS-Kartenserver"
+    image_source: "Bergbauberechtigungen im NIBIS-Kartenserver"
 
   handhabung:
     title: "Handhabung in anderen Bundesländern"
@@ -544,7 +544,8 @@ lizenzregister_und_verträge:
     p1_2: "Berlin und Brandenburg unter"
     link2: "www.geo.brandenburg.de/lbgr/bergbau"
     p1_3: "oder das Saarland unter"
-    link3: "www.geoportal.saarland.de"
+    link3: "www.geoportal.saarland.de."
+
 
   verträge:
     title: Verträge
@@ -970,8 +971,8 @@ verwendung-der-einnahmen:
       sonderregelungen2:
         title1: "Natur- und Grubengas: Feldesbehandlungskosten in Höhe des Abgabesatzes"
         title2: ", sowie"
-        item1: "50% auf Gas, das (1.) mit Hilfe von Verfahren zum Aufschluss von geringpermeablen Lagerstätten zusätzlich gewonnen wird, (2.) aus Teufenbereichen von mehr als 5.000 Meter oder (3.) Steinkohlenflözen über Tag gewonnen wird"
-        item2: "50% für die Dauer von 5 Jahren ab Aufnahme der Förderung bei Förderung aus Gebieten, mit deren Aufschluss in der Zeit vom 01.01.1999 bis zum 31.12.2005 begonnen worden ist"
+        item1: "50 % auf Gas, das (1.) mit Hilfe von Verfahren zum Aufschluss von geringpermeablen Lagerstätten zusätzlich gewonnen wird, (2.) aus Teufenbereichen von mehr als 5.000 Meter oder (3.) Steinkohlenflözen über Tag gewonnen wird"
+        item2: "50 % für die Dauer von 5 Jahren ab Aufnahme der Förderung bei Förderung aus Gebieten, mit deren Aufschluss in der Zeit vom 01.01.1999 bis zum 31.12.2005 begonnen worden ist"
         item3: "ganz oder teilweise auf Antrag, soweit durch die Gewinnung eine im einzelnen Falle bestehende Gefahr für die öffentliche Sicherheit oder Ordnung abgewehrt wird"
     row11:
       bundesland: "Rheinland-Pfalz"
@@ -1102,7 +1103,7 @@ umgang-mit-der-natur:
   naturschutzrechtliche_eingriffsregelungen:
     title: Naturschutzrechtliche Eingriffsregelungen
     p1: Jede Bergbautätigkeit ist mit Eingriffen in Natur und Landschaft verbunden und kann gravierende Umweltbelastungen zur Folge haben. Gleichzeitig kann auf ehemaligen, aber auch auf bestimmten Arealen betriebener Abbauflächen ein Beitrag zur Sicherung der Biodiversität geleistet werden. Kompensationsmaßnahmen wie Ausgleichs- oder Ersatzmaßnahmen sowie Ersatzzahlungen sollen Eingriffe in Natur und Landschaft kompensieren und deren Funktion wiederherstellen.
-    p2_1: Der für die mittel- bis langfristige Rohstoffsicherung erforderliche Flächenbedarf wird auf rund 1% der Fläche Deutschlands geschätzt. Die dabei tatsächlich in Abbau stehende Fläche beträgt 29 km² oder – bezogen auf die Fläche Deutschlands – 0,008%
+    p2_1: Der für die mittel- bis langfristige Rohstoffsicherung erforderliche Flächenbedarf wird auf rund 1 % der Fläche Deutschlands geschätzt. Die dabei tatsächlich in Abbau stehende Fläche beträgt 29 km² oder – bezogen auf die Fläche Deutschlands – 0,008 %
     link1: (Bundesanstalt für Geowissenschaften und Rohstoffe 2016).
     p2_2: Das entspricht einer täglichen Flächeninanspruchnahme von durchschnittlich 8 Hektar.  Die für die Rohstoffgewinnung genutzten Flächen sind regional unterschiedlich konzentriert, wodurch auch die damit verbundenen Eingriffe in Natur und Landschaft große regionale Unterschiede und Konzentrationen aufweisen.
 
@@ -1337,7 +1338,7 @@ wasser:
       text: "Quelle: Statistisches Bundesamt, Umweltökonomische Gesamtrechnung"
       link: "https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/<br/>Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html"
     p1_2: Eine Übersicht hierzu bietet Abbildung 4.
-    p2_1: Der Sektor „Bergbau und Gewinnung von Steinen und Erden“ entnahm im Jahr 2013 insgesamt 1.583 Mio. m³ Wasser aus Gewässern (i.W. Grundwasser). Davon entfiel rund drei Viertel auf den Kohlebergbau. Dies entspricht etwa 5% des gesamten  2013 in Deutschland durch Wirtschaft und Privathaushalte entnommenen Wassers.
+    p2_1: Der Sektor „Bergbau und Gewinnung von Steinen und Erden“ entnahm im Jahr 2013 insgesamt 1.583 Mio. m³ Wasser aus Gewässern (i.W. Grundwasser). Davon entfiel rund drei Viertel auf den Kohlebergbau. Dies entspricht etwa 5 % des gesamten  2013 in Deutschland durch Wirtschaft und Privathaushalte entnommenen Wassers.
     sup5:
       title: "5"
       text: "In manchen Bundesländern wird zwischen den beiden Bereichen 1. Erzbau, Steine und Erden, sonst. Bergbau und 2. Kohle, Torf, Erdöl und Gas unterschieden; z. B. Statistisches Landesamt Sachsen (2013): Wasserversorgung und Abwasserentsorgung in den Betrieben des  nichtöffentlichen Bereiches im Freistaat Sachsen,"
@@ -1450,8 +1451,8 @@ subventionen-und-steuerliche-begünstigungen:
     p2: Als Unternehmen des Produzierenden Gewerbes können rohstoffgewinnende Unternehmen insbesondere von den verschiedenen Steuerentlastungsmöglichkeiten des Energie- und Stromsteuerrechts profitieren.
     p3: "Drei Regelungen sind hierbei besonders relevant:"
     list:
-      item1: "Steuerentlastung für Unternehmen (§ 54 EnergieStG, § 9b StromStG): Unternehmen des Produzierenden Gewerbes wird auf Antrag eine Ermäßigung der Stromsteuer und der Energiesteuer in Höhe von 25% der Regelsteuersätze auf Strom und Heizstoffe sowie Kraftstoffe gewährt, die in begünstigten Produktionsanlagen eingesetzt werden."
-      item2: "Steuerentlastung in Form des sog. Spitzenausgleichs (§ 55 EnergieStG, § 10 StromStG): Für Unternehmen des Produzierenden Gewerbes soll die zusätzliche Belastung durch die „ökologische Steuerreform“ durch eine Entlastung bei der Energie- und der Stromsteuer abgemildert werden. Da die Mehreinnahmen durch die ökologische Steuerreform auch dazu dienten, den Faktor Arbeit zu vergünstigen und dazu beigetragen haben, dass die von Unternehmen zu zahlenden Arbeitgeberanteile an den Rentenversicherungsbeiträgen im Vergleich zu 1999 gesunken sind, wird für den Spitzenausgleich eine Vergleichsrechnung für das jeweilige Unternehmen angestellt. Um eine doppelte Entlastung sowohl bei den Arbeitgeberanteilen an der Rentenversicherung als auch bei der eingesetzten Energie zu vermeiden, werden die eingesparten Rentenversicherungsbeiträge bei der Berechnung der Höhe der Entlastung berücksichtigt. Die Höhe der Entlastung errechnet sich somit je nach Unternehmen individuell und ist zudem auf maximal 90% der gezahlten Stromsteuer sowie 90% des Steueranteils nach § 55 Abs. 3 EnergieStG gedeckelt. Voraussetzungen für eine Inanspruchnahme des Spitzenausgleichs sind u. a. der Nachweis eines zertifizierten Energiemanagementsystems und die jährliche Reduzierung der Energieintensivität des Produzierenden Gewerbes als Ganzes um einen gesetzlich festgelegten Wert. Vergleichswert ist der Durchschnittswert der Energieintensität des Produzierenden Gewerbes für den Zeitraum 2007-2012."
+      item1: "Steuerentlastung für Unternehmen (§ 54 EnergieStG, § 9b StromStG): Unternehmen des Produzierenden Gewerbes wird auf Antrag eine Ermäßigung der Stromsteuer und der Energiesteuer in Höhe von 25 % der Regelsteuersätze auf Strom und Heizstoffe sowie Kraftstoffe gewährt, die in begünstigten Produktionsanlagen eingesetzt werden."
+      item2: "Steuerentlastung in Form des sog. Spitzenausgleichs (§ 55 EnergieStG, § 10 StromStG): Für Unternehmen des Produzierenden Gewerbes soll die zusätzliche Belastung durch die „ökologische Steuerreform“ durch eine Entlastung bei der Energie- und der Stromsteuer abgemildert werden. Da die Mehreinnahmen durch die ökologische Steuerreform auch dazu dienten, den Faktor Arbeit zu vergünstigen und dazu beigetragen haben, dass die von Unternehmen zu zahlenden Arbeitgeberanteile an den Rentenversicherungsbeiträgen im Vergleich zu 1999 gesunken sind, wird für den Spitzenausgleich eine Vergleichsrechnung für das jeweilige Unternehmen angestellt. Um eine doppelte Entlastung sowohl bei den Arbeitgeberanteilen an der Rentenversicherung als auch bei der eingesetzten Energie zu vermeiden, werden die eingesparten Rentenversicherungsbeiträge bei der Berechnung der Höhe der Entlastung berücksichtigt. Die Höhe der Entlastung errechnet sich somit je nach Unternehmen individuell und ist zudem auf maximal 90 % der gezahlten Stromsteuer sowie 90 % des Steueranteils nach § 55 Abs. 3 EnergieStG gedeckelt. Voraussetzungen für eine Inanspruchnahme des Spitzenausgleichs sind u. a. der Nachweis eines zertifizierten Energiemanagementsystems und die jährliche Reduzierung der Energieintensivität des Produzierenden Gewerbes als Ganzes um einen gesetzlich festgelegten Wert. Vergleichswert ist der Durchschnittswert der Energieintensität des Produzierenden Gewerbes für den Zeitraum 2007-2012."
       item3: "Bestimmte Prozesse und Verfahren/Herstellerprivileg (§ 9a StromStG, § 51 EnergieStG, §§ 26, 37, 44 und 47 EnergieStG): Unternehmen des Produzierenden Gewerbes können Strom bzw. Energieerzeugnisse bei Entnahme bzw. Verwendung zu genau bestimmten, energieintensiven Zwecken (wie Elektrolyse, Metallerzeugung, Herstellung von Glaswaren etc.) vollständig von der Steuer entlasten. Zudem können Unternehmen, die Energieerzeugnisse auf dem Betriebsgelände produzieren (Raffinerien, Gasgewinnungs- und Kohlebetriebe), die selbst produzierten Energieerzeugnisse im eigenen Unternehmen zur Aufrechterhaltung des Betriebs steuerfrei nutzen oder von der Steuer entlasten."
     p4: "Die Subventionen werden im Subventionsbericht der Bundesregierung für das gesamte Produzierende Gewerbe und nicht separat für einzelne Wirtschaftszweige wie den Rohstoffsektor dargestellt. Die in der nachfolgenden Tabelle dargestellten ausgewählten Begünstigungen gelten für das gesamte Produzierende Gewerbe. Daraus lassen sich nicht notwendiger Weise Rückschlüsse auf den Anteil der Begünstigungen für den rohstoffproduzierenden Sektor ziehen."
     table:
@@ -1839,19 +1840,19 @@ einnahmen:
         td7: 1.301.816
       row7:
         td1: Anteil o.g. Steuern an Gesamteinnahmen
-        td2: 0,03%
-        td3: 0,04%
-        td4: 0,04%
-        td5: 0,04%
-        td6: 0,04%
-        td7: 0,03%
+        td2: 0,03 %
+        td3: 0,04 %
+        td4: 0,04 %
+        td5: 0,04 %
+        td6: 0,04 %
+        td7: 0,03 %
       row8: "nachrichtlich:"
       row9:
         td1: Fortschreibungsfaktor
-        td4: 7,09%
-        td5: -11,40%
-        td6: -3,48%
-        td7: -17,61%
+        td4: 7,09 %
+        td5: -11,40 %
+        td6: -3,48 %
+        td7: -17,61 %
     förder_feldesabgaben:
       title: Förder- und Feldesabgaben
       p1: Die Förderabgaben werden von den Bergämtern der Bundesländer erhoben und variieren stark, abhängig von der lokalen Bergbauaktivität und den festgelegten Abgabesätzen in den einzelnen Bundesländern. Insgesamt wurden 2016 in Deutschland 233 Mio. Euro Fördereinnahmen erhoben. Spitzenreiter war mit Abstand Niedersachsen, mit mehr als 172 Mio. Euro. Auf Rang zwei folgt Schleswig-Holstein mit rund 48 Mio. Euro, gefolgt von Rheinland-Pfalz mit rund 5 Mio. Euro. Bei einigen Bundesländern unterlag die Höhe der Einnahmen in den vergangenen Jahren signifikanten Schwankungen. Dies kann unterschiedliche Gründe haben, z. B. sinkende Weltmarktpreise für Rohstoffe oder Änderungen der Produktionsmengen.
@@ -1940,8 +1941,8 @@ einnahmen:
           td3: "1.351.851"
         row20:
           td1: Anteil
-          td2: "0,03%"
-          td3: "0,02%"
+          td2: "0,03 %"
+          td3: "0,02 %"
       p3: "Die Feldeseinnahmen der Bundesländer werden nicht systematisch bundesweit zusammengestellt oder veröffentlicht. Ihre Höhe ist deutlich geringer als die Höhe der Fördereinnahmen und sie fallen überhaupt nur in einigen Bundesländern an (siehe nachfolgende Tabelle):"
       table2:
         title: Feldesabgabe im Jahr 2015
@@ -1959,7 +1960,7 @@ einnahmen:
 
     umsatz:
       title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Milliarden Euro. Davon entfielen etwa 8,1 Milliarden Euro (rund 88%) auf Inlandsumsätze und 1,1 Milliarden Euro (12%) auf Umsätze mit dem Ausland.
+      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Milliarden Euro. Davon entfielen etwa 8,1 Milliarden Euro (rund 88 %) auf Inlandsumsätze und 1,1 Milliarden Euro (12 %) auf Umsätze mit dem Ausland.
       daten_einsehen: Daten einsehen
       star1:
         title: "*"
@@ -1984,7 +1985,7 @@ bip:
       p1_3: "von rund 3.032,82 Milliarden Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
       p1_4: "Bruttowertschöpfung"
       p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Milliarden Euro, was einem Anteil von"
-      p1_6: "0,14%"
+      p1_6: "0,14 %"
       p1_7: "am BIP entspricht."
       daten: Daten Einsehen
 
@@ -1998,7 +1999,8 @@ beschäftigung:
       - name: daten-einsehen
         title: "Daten einsehen"
     p1: "Die Beschäftigten in der rohstoffgewinnenden Industrie gehen einer Vielzahl von unterschiedlichen Berufen nach. So arbeiten beispielsweise Ingenieure im Marktscheidewesen an der Erkundung und Vermessung von Vorkommen, Rohstoffingenieure und Geotechniker am Aufbau und Betrieb der technischen Anlagen und Bergbautechnologen führen den Abbau im Tage- und Untertagebau durch. Die Branche bietet auch qualifizierte Ausbildungsberufe wie z. B. Industrie- und Verfahrensmechaniker oder Elektroniker."
-    p2: "Insgesamt waren in den Unternehmen der rohstoffgewinnenden Industrie zum Stichtag 30.06.2016 in Deutschland 71.074 Mitarbeiter/innen sozialversicherungspflichtig beschäftigt, wobei über die Hälfte aller Angestellten auf den Bereich „Gewinnung von Steinen und Erden, sonstiger Bergbau“ (Anteil: rund 53%) und gut ein Fünftel auf den Kohlenbergbau (Anteil: etwa 22%) entfiel. Diese Zahlen schließen für den gleichen Stichtag insgesamt 2.373 Auszubildende in den rohstoffgewinnenden Betrieben ein. Bezogen auf die insgesamt sozialversicherungspflichtig Beschäftigten in Deutschland entfiel damit ein Anteil von rund 0,23% auf die rohstoffgewinnende Industrie."
+    p2: "Insgesamt waren in den Unternehmen der rohstoffgewinnenden Industrie zum Stichtag 30.06.2016 in Deutschland 71.074 Mitarbeiter/innen sozialversicherungspflichtig beschäftigt, wobei über die Hälfte aller Angestellten auf den Bereich „Gewinnung von Steinen und Erden, sonstiger Bergbau“ (Anteil: rund 53 %) und gut ein Fünftel auf den Kohlenbergbau (Anteil: etwa 22 %) entfiel. Diese Zahlen schließen für den gleichen Stichtag insgesamt 2.373 Auszubildende in den rohstoffgewinnenden Betrieben ein. Bezogen auf die insgesamt sozialversicherungspflichtig Beschäftigten in Deutschland entfiel damit ein Anteil von rund 0,23
+    % auf die rohstoffgewinnende Industrie."
     p3: "Ein weiterer wichtiger Beschäftigungsfaktor sind die Sekundäreffekte des rohstoffgewinnenden Sektors, durch die zusätzliche Arbeits- und Ausbildungsplätze geschaffen werden. Hierzu gehören insbesondere die Dienstleistungen der Zulieferer und Subunternehmer, welche beispielweise mit der Übernahme von logistischen und gastronomischen Aufgaben oder dem Bau und Betrieb von Förderstätten beauftragt werden."
     table:
       title: "Beschäftigte des Sektors „Bergbau und Gewinnung von Steinen und Erden“ 2016"
@@ -2944,7 +2946,7 @@ zahlungsabgleich:
     link2: "Sektoren"
     p3: "Braunkohle, Erdgas, Erdöl, Kali, Salze (inkl. Industriesohle) sowie Steine und Erden identifiziert und eingeladen sich an D-EITI zu beteiligen."
     link3: "Zwölf Unternehmensgruppen"
-    p4: ", mit einer Abdeckung von rund 90% für die Sektoren Braunkohle, Erdgas, Erdöl und Kali, haben sich bisher beteiligt und zu folgenden Zahlungsströmen berichtet:"
+    p4: ", mit einer Abdeckung von rund 90 % für die Sektoren Braunkohle, Erdgas, Erdöl und Kali, haben sich bisher beteiligt und zu folgenden Zahlungsströmen berichtet:"
     link4: Körperschaftsteuer
     link5: Feldes- und Förderabgaben,
     link6: Gewerbesteuer,
