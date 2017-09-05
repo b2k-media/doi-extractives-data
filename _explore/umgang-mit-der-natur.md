@@ -106,7 +106,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td5 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td6 %}
-                <a target="_blank" href="http://fbinter.stadt-berlin.de/fb/index.jsp?Szenario=fbinter_jsc&loginkey=showMap&mapId=laprogak@senstadt">
+                <a target="_blank" href="http://fbinter.stadt-berlin.de/fb/index.jsp">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.link %}
                 </a>
               </td>
