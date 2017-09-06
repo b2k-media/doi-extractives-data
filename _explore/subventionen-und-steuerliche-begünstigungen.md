@@ -116,7 +116,7 @@ breadcrumb:
         </p>
         <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p4 %}</p>
 
-        <h3 id="table">
+        <div id="table" class="chart-title-style" style="padding-top: 15px; padding-bottom: 15px; line-height: 130%">
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.title1_1 %}
           <sup>
             <a href="#explanation-11">
@@ -129,7 +129,7 @@ breadcrumb:
             {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.title %}
             </a>
           </sup>
-        </h3>
+        </div>
 
         <table class="subventionen-und-steuerliche-begünstigungen_table">
           <tbody>
