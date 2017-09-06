@@ -3420,6 +3420,8 @@ downloads:
     link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
     link4: Nordrhein-Westfalen.
     link4_data: "https://www.landtag.nrw.de/web/WWW/haushalt/cd-fm-0916/daten/pdf/2017/gesamt_2017.pdf"
+    label1: "Download der Daten zu Förderabgaben"
+    label2: "Download der Daten zu Feldesabgaben"
   umsatz:
     title: Daten zu Umsatz Steine und Erden
     p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
@@ -3436,6 +3438,16 @@ downloads:
     p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den ersten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
     link2: "pdf"
     p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
+
+  daten-zum-deiti-bericht:
+    title: Daten zum 1. D-EITI Bericht"
+    p1: "Die Multi-Stakeholder-Gruppe (MSG) der deutschen Initiative für Transparenz im rohstoffgewinnenden Sektor (D-EITI) hat sich für die Umsetzung des Prinzips offener Daten im Rahmen der D-EITI festgelegt."
+    link1: "Das Open-Data-Konzept"
+    p2: "kommt ausdrücklich nur für Daten und Informationen, die öffentlich sind bzw. deren Veröffentlichung im Rahmen der D-EITI durch die MSG beschlossen wurde, und nur im Rahmen der geltenden rechtlichen Grundlagen zur Anwendung. Alle Daten sind ohne Nutzungsbeschränkungen gemeinfrei verfügbar nach der"
+    link2: "CC BY 4.0 Lizens"
+    p3: "sowie"
+    link3: "der Datenlizenz Deutschland Version 2.0."
+    p4: "Download der aggregierten Daten aus dem 1. D-EITI-Bericht"
 
 about:
     title: About D-EITI
