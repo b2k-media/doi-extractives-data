@@ -2006,7 +2006,7 @@ beschäftigung:
       - name: title
         title: Seitenanfang
       - name: tabelle-1
-        title: "Beschäftigte des Sektors „Bergbau und Gewinnung von Steinen und Erden“ 2016"
+        title: "Beschäftigung 2016"
       - name: daten-einsehen
         title: "Daten einsehen"
     p1: "Die Beschäftigten in der rohstoffgewinnenden Industrie gehen einer Vielzahl von unterschiedlichen Berufen nach. So arbeiten beispielsweise Ingenieure im Marktscheidewesen an der Erkundung und Vermessung von Vorkommen, Rohstoffingenieure und Geotechniker am Aufbau und Betrieb der technischen Anlagen und Bergbautechnologen führen den Abbau im Tage- und Untertagebau durch. Die Branche bietet auch qualifizierte Ausbildungsberufe wie z. B. Industrie- und Verfahrensmechaniker oder Elektroniker."
@@ -2014,7 +2014,7 @@ beschäftigung:
     % auf die rohstoffgewinnende Industrie."
     p3: "Ein weiterer wichtiger Beschäftigungsfaktor sind die Sekundäreffekte des rohstoffgewinnenden Sektors, durch die zusätzliche Arbeits- und Ausbildungsplätze geschaffen werden. Hierzu gehören insbesondere die Dienstleistungen der Zulieferer und Subunternehmer, welche beispielweise mit der Übernahme von logistischen und gastronomischen Aufgaben oder dem Bau und Betrieb von Förderstätten beauftragt werden."
     table:
-      title: "Beschäftigte des Sektors „Bergbau und Gewinnung von Steinen und Erden“ 2016"
+      title: "Beschäftigung 2016"
       th2: "Sozialversicherungspflichtig Beschäftigte am Stichtag 30.06.2016"
       th3: "darunter Auszubildende"
       row1:

@@ -33,7 +33,7 @@ breadcrumb:
                 <td>
                   <strong>{% t beschäftigung.table.th2 %}</strong>
                 </td>
-                <td>
+                <td class="text-align-right">
                   <strong>{% t beschäftigung.table.th3 %}</strong>
                 </td>
               </tr>
@@ -42,7 +42,7 @@ breadcrumb:
                   <strong>{% t beschäftigung.table.row1.td1 %}</strong>
                 </td>
                 <td><strong>{% t beschäftigung.table.row1.td2 %}</strong></td>
-                <td><strong>{% t beschäftigung.table.row1.td3 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschäftigung.table.row1.td3 %}</strong></td>
               </tr>
               <tr>
                 <td>
@@ -56,42 +56,45 @@ breadcrumb:
                   {% t beschäftigung.table.row3.td1 %}
                 </td>
                 <td>{% t beschäftigung.table.row3.td2 %}</td>
-                <td>{% t beschäftigung.table.row3.td3 %}</td>
+                <td class="text-align-right">{% t beschäftigung.table.row3.td3 %}</td>
               </tr>
               <tr>
                 <td>
                   {% t beschäftigung.table.row4.td1 %}
                 </td>
                 <td>{% t beschäftigung.table.row4.td2 %}</td>
-                <td>{% t beschäftigung.table.row4.td3 %}</td>
+                <td class="text-align-right">{% t beschäftigung.table.row4.td3 %}</td>
               </tr>
               <tr>
                 <td>
                   {% t beschäftigung.table.row5.td1 %}
                 </td>
                 <td>{% t beschäftigung.table.row5.td2 %}</td>
-                <td><a href="#star">{% t beschäftigung.table.row5.td3 %}</a></td>
+                <td class="text-align-right"><a href="#star">{% t beschäftigung.table.row5.td3 %}</a></td>
               </tr>
               <tr>
                 <td>
                   {% t beschäftigung.table.row6.td1 %}
                 </td>
                 <td>{% t beschäftigung.table.row6.td2 %}</td>
-                <td>{% t beschäftigung.table.row6.td3 %}</td>
+                <td class="text-align-right">{% t beschäftigung.table.row6.td3 %}</td>
               </tr>
               <tr>
                 <td>
                   {% t beschäftigung.table.row7.td1 %}
                 </td>
                 <td>{% t beschäftigung.table.row7.td2 %}</td>
-                <td>{% t beschäftigung.table.row7.td3 %}</td>
+                <td class="text-align-right">{% t beschäftigung.table.row7.td3 %}</td>
               </tr>
             </tbody>
           </table>
           <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#beschäftigten">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
-          <p id="star"><small>
-            {% t beschäftigung.table.star %}
-          </small></p>
+
+          <section id="explanation" style="position: relative;">
+            <p id="star"><small>
+              {% t beschäftigung.table.star %}
+            </small></p>
+          </section>
           <br /><br />
           <a href="{{site.baseurl}}/downloads/#beschäftigten">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
