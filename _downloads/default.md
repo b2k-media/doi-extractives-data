@@ -274,6 +274,9 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.förderabgaben.p1_1 %}
+      </p>
+      <p>
+        {% t downloads.förderabgaben.p1_2 %}
         <a target="_blank" href="{% t downloads.förderabgaben.link1_data %}">
           {% t downloads.förderabgaben.link1 %}
         </a>
