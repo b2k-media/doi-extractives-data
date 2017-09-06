@@ -14,9 +14,9 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/production.tsv">
+            <a href="{{site.baseurl_root}}/downloads/production.csv">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (tsv, 2 KB)
+              {% t downloads.download_link %} (csv, 2 KB)
             </a>
           </li>
         </ul>
