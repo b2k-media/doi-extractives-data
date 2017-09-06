@@ -42,6 +42,13 @@ breadcrumb:
         <p>{% t wasser.wasserentnahme.verwendung_des_wasser.p1 %}</p>
         <p>{% t wasser.wasserentnahme.verwendung_des_wasser.p2 %}</p>
 
+        <br/>
+        <div class="chart-title-style">{% t wasser.chart-title %}</div>
+        <div>
+          <img style="width: 100%" src="{{ site.baseurl_root }}/img/wasser/wasser_bild.png" alt="KAchel Wasser_Bild">
+        </div>
+        <br/>
+
         <h3 id="beispiel">
           {% t wasser.wasserentnahme.beispiel.title %}
         </h3>
@@ -56,10 +63,6 @@ breadcrumb:
             </div>
           </div>
         </div> -->
-        <div>
-          <img style="width: 100%" src="{{ site.baseurl_root }}/img/wasser/wasser_bild.png" alt="KAchel Wasser_Bild">
-        </div>
-        <br/>
         <h3 id="rechtlicher">
           {% t wasser.wasserentnahme.rechtlicher.title %}
         </h3>
