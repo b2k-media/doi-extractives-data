@@ -36,7 +36,7 @@ breadcrumb:
         </div>
       </div>
       <br/><br/>
-      <p style="font-size: 0.75rem">
+      <p class="source">
         {% t subventionen-und-steuerliche-begünstigungen.p1.chart1_source %}
       </p>
       <h2 id="zuschusse-fur-den-absatz-der-steinkohle" class="margin-class">{% t subventionen-und-steuerliche-begünstigungen.zuschusse.title %}</h2>
@@ -66,7 +66,7 @@ breadcrumb:
         </div>
       </div>
       <br/>
-      <p>
+      <p class="source">
         {% t subventionen-und-steuerliche-begünstigungen.zuschusse.chart2_source %}
       </p>
       </section>
@@ -96,7 +96,7 @@ breadcrumb:
             </div>
           </div>
         </div>
-        <p style="margin-top: 10px">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}</p>
+        <p style="margin-top: 10px" class="source">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}</p>
         <a target="_blank" href="{{site.baseurl}}/downloads/#anpassungsgeld">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.steuern.daten_einsehen %}
@@ -116,7 +116,7 @@ breadcrumb:
         </p>
         <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p4 %}</p>
 
-        <h3 id="table">
+        <div id="table" class="chart-title-style" style="padding-top: 15px; padding-bottom: 15px; line-height: 130%">
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.title1_1 %}
           <sup>
             <a href="#explanation-11">
@@ -129,7 +129,7 @@ breadcrumb:
             {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.title %}
             </a>
           </sup>
-        </h3>
+        </div>
 
         <table class="subventionen-und-steuerliche-begünstigungen_table">
           <tbody>
@@ -185,7 +185,7 @@ breadcrumb:
           </tbody>
         </table>
         <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#anpassungsgeld">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
-        <p>
+        <p class="source">
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}
           <sup>
             <a href="#explanation-13">

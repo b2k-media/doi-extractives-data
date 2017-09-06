@@ -26,6 +26,7 @@ $(document).ready(function(){
     xAxisNoDecimal = true;
   } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
+    xAxisNoDecimal = true;
   } else if (document.URL.search('explore/einnahmen/') > 1) {
     jsonFilePath = "../../data/graphs/einnahmen.json";
     orderSeries1 = true;

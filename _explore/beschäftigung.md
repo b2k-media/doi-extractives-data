@@ -88,7 +88,13 @@ breadcrumb:
               </tr>
             </tbody>
           </table>
-          <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#beschäftigten">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
+          <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %}
+              <a href="{{site.baseurl}}/downloads/#beschäftigten">
+                <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
+                {% t beschäftigung.daten_einsehen %}
+              </a>
+              {% t downloads.table_link.p2 %}
+          </p>
 
           <section id="explanation" style="position: relative;">
             <p id="star"><small>
@@ -96,10 +102,6 @@ breadcrumb:
             </small></p>
           </section>
           <br /><br />
-          <a href="{{site.baseurl}}/downloads/#beschäftigten">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>
-            {% t beschäftigung.daten_einsehen %}
-          </a>
 
         </section>
       </section>
