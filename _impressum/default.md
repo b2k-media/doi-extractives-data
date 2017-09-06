@@ -21,7 +21,7 @@ permalink: /impressum/
           <p class="hero-description">{% t 'impressum.secretary.fax' %}</p>
           <p class="hero-description">
             {% t 'impressum.secretary.email' %}
-            <a href="mailto:Sekretariat@D-EITI.de" class="blue_link">
+            <a target="_blank" href="mailto:Sekretariat@D-EITI.de" class="blue_link">
             <font class="">Sekretariat [at] D-EITI.de</font></a>
           </p>
           <br/>
@@ -70,7 +70,7 @@ permalink: /impressum/
           <h3>{% t 'impressum.giz.text9' %}</h3>
           <p class="hero-description">
             {% t 'impressum.giz.text9_1' %}
-            <a href="mailto:Sekretariat@D-EITI.de" class="blue_link">
+            <a target="_blank" href="mailto:Sekretariat@D-EITI.de" class="blue_link">
             <font class="">Sekretariat [at] D-EITI.de</font></a>
           </p>
         </div>

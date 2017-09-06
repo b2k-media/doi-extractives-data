@@ -54,11 +54,11 @@ permalink: /downloads/
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_1 %}
-        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
           {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_2 %}
-        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
           {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link2 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_3 %}
@@ -79,7 +79,7 @@ permalink: /downloads/
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_1 %}
-        <a href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
           {% t gesamtdeutsche_rohstoffproduktion.kaolin.link %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_2 %}
@@ -112,14 +112,14 @@ permalink: /downloads/
       <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p %}</p>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_1 %}
-        <a href="https://erhebungsportal.estatistik.de/Erhebungsportal/">
+        <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal/">
           {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_2 %}
       </p>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_1 %}
-        <a href="https://www.natursteinverband.de/">
+        <a target="_blank" href="https://www.natursteinverband.de/">
           {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
         </a>
       </p>
@@ -161,26 +161,21 @@ permalink: /downloads/
       <p>
         {% t downloads.p7.p1 %}
         <a target="_blank" href="https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201606/iiia6/beschaeftigung-sozbe-wz-heft/wz-heft-d-0-201606-xlsx.xlsx">{% t downloads.p7.link %}</a>.
-
-
+      </p>
+      <p class="downloads-download_links-intro">
+        {% t downloads.download_label %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/Beschaeftigte_Bergbau_2016.csv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (csv, 2 KB)
+            </a>
+          </li>
+        </ul>
       </p>
     </div>
 
-    <div id="exporte">
-      <h2 id="daten-zur-exporte">{% t downloads.h6 %}</h2>
-      <hr/>
-      <p>
-        {% t downloads.p8.p1 %}
-        <a target="_blank" href="https://www-genesis.destatis.de/">{% t downloads.p8.link1 %}</a>
-        {% t downloads.p8.p2 %}
-        <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">
-          {% t downloads.p8.link2 %}
-        </a>
-        {% t downloads.p8.p3 %}
-      </p>
-    </div>
-
-    <div id="daten-zur-exporte-nach-menge">
+    <div id="daten-zur-exporte">
       <h2 id="daten-zur-exporte-nach-menge">{% t downloads.exporte.h1 %}</h2>
       <hr/>
       <p>
@@ -241,6 +236,17 @@ permalink: /downloads/
         </a>
         {% t einnahmen.steuern.solidaritätszuschlag.p3_3 %}
       </p>
+      <p class="downloads-download_links-intro">
+        {% t downloads.download_label %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/Steuereinnahmen_aus_Rohstoffsektor.csv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (csv)
+            </a>
+          </li>
+        </ul>
+      </p>
     </div>
     <br/>
     <div id="förderabgaben">
@@ -263,9 +269,15 @@ permalink: /downloads/
         {% t downloads.download_label_förderabgaben %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/Förder_Feldeseinnahmen.csv">
+            <a href="{{site.baseurl_root}}/downloads/Einnahmen_aus_Feldesabgaben.csv">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv, 1 KB)
+              {% t downloads.förderabgaben.label2 %} (csv)
+            </a>
+          </li>
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/Einnahmen_aus_Foerderabgaben.csv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.förderabgaben.label1 %} (csv)
             </a>
           </li>
         </ul>
@@ -279,6 +291,17 @@ permalink: /downloads/
         <a target="_blank" href="https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Strukturdaten/Jahresbericht5422701167005.html">
           {% t downloads.umsatz.link %}
         </a>
+      </p>
+      <p class="downloads-download_links-intro">
+        {% t downloads.download_label %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}/downloads/Umsatz_Steine_Erden_2012-2016.csv">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (csv)
+            </a>
+          </li>
+        </ul>
       </p>
     </div>
 
@@ -306,7 +329,31 @@ permalink: /downloads/
         {% t downloads.zahlungsabgleich.p1_3 %}
       </p>
     </div>
+  <div id="daten-zum-deiti-bericht">
+    <h2 id="daten-zum-deiti-bericht">{% t downloads.daten-zum-deiti-bericht.title %}</h2>
+    <hr/>
+    <p>
+      {% t downloads.daten-zum-deiti-bericht.p1 %}
+      <a target="_blank" href=" https://www.d-eiti.de/wp-content/uploads/2016/12/10_TOP-6a_2016-09-21-D-EITI-Open-Data-Konzept-finale-Version.pdf">{% t downloads.daten-zum-deiti-bericht.link1 %}</a>
+      {% t downloads.daten-zum-deiti-bericht.p2 %}
+      <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/deed.de">{% t downloads.daten-zum-deiti-bericht.link2 %}</a>
+      {% t downloads.daten-zum-deiti-bericht.p3 %}
+      <a target="_blank" href=" https://www.govdata.de/dl-de/by-2-0">{% t downloads.daten-zum-deiti-bericht.link3 %}</a>
+    </p>
+    <p class="downloads-download_links-intro">
+      {% t downloads.daten-zum-deiti-bericht.p4 %}
+      <ul class="downloads-download_links">
+        <li>
+          <a href="{{site.baseurl_root}}/downloads/Daten_zum_1._D-EITI_Bericht.zip">
+            <icon class="icon-cloud icon-padded"></icon>
+            {% t downloads.download_link %} (zip)
+          </a>
+        </li>
+      </ul>
+    </p>
   </div>
+  </div>
+
   <div class="sticky sticky_nav container-right-3">
     <h3 class="state-page-nav-title container">
       <div class="nav-title">{% t downloads.title %}</div>
