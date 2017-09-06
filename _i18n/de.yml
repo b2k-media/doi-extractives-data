@@ -1434,7 +1434,7 @@ subventionen-und-steuerliche-begünstigungen:
     chart2_source: "Quelle: Subventionsbericht Bundesregierung, eigene Darstellung (siehe Endnote)"
     entwicklung:
       title: Entwicklung
-      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Millionen Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u. a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
+      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Mio. Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u. a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
     kontrolle:
       title: Kontrolle
       p: "Die Subventionierung des deutschen Steinkohlenbergbaus ist im Rahmen der EU genehmigungspflichtig und wurde von der EU-Kommission geprüft und genehmigt. Zudem werden die bereitgestellten Beihilfen hinsichtlich ihrer zweckentsprechenden Verwendung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfer/innen jährlich überprüft."
@@ -1492,7 +1492,7 @@ subventionen-und-steuerliche-begünstigungen:
         td4: 160 Mio. €
         td5: 160 Mio. €
       row2:
-        td1: Allgemeine Steuer-vergünstigung (§ 9b StromStG)
+        td1: Allgemeine Steuervergünstigung (§ 9b StromStG)
         td2: 975 Mio. €
         td3: 1.038 Mio. €
         td4: 1.000 Mio. €
