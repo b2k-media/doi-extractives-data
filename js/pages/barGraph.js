@@ -8,6 +8,7 @@ $(document).ready(function(){
   var labels = [];
   var jsonFilePath= '';
   var displayTwoDecimalPoints = false;
+  var noDotDisplayDecimal = false;
   var orderSeries1= false;
   var orderSeries2= false;
 
@@ -30,6 +31,7 @@ $(document).ready(function(){
     jsonFilePath = "../../../data/graphs/wasser.json";
   } else if (document.URL.search('explore/gesamtdeutsche_rohstoffproduktion/') > 1) {
     jsonFilePath = "../../data/graphs/gesamtdeutsche_rohstoffproduktion.json";
+    noDotDisplayDecimal = true;
   } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich.json";
     displayTwoDecimalPoints = true;
@@ -69,9 +71,14 @@ $(document).ready(function(){
 
   function plotGraph(chart, data, jsondata, chartTitle, colorsData, ticks, labels, displayTwoDecimalPoints) {
 
-    var pointLabels = displayTwoDecimalPoints ?
-      { show: true, location: 'e', edgeTolerance: -15, formatString: '%.2f' } :
-      { show: true, location: 'e', edgeTolerance: -15 }
+    var pointLabels;
+    if(displayTwoDecimalPoints) {
+      pointLabels = { show: true, location: 'e', edgeTolerance: -15, formatString: '%.2f' }
+    } else if (noDotDisplayDecimal && chart == "chart3") {
+      pointLabels = { show: true, location: 'e', edgeTolerance: -15, formatString: '%d' }
+    } else {
+      pointLabels = { show: true, location: 'e', edgeTolerance: -15 }
+    }
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
 
     plot2b = $.jqplot(chart, data, {
