@@ -1647,20 +1647,24 @@ gesamtdeutsche_rohstoffproduktion:
     p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
   quarzkies_und_sand:
     title: Quarzkies und –sand
-    p: Die Gewinnung von Quarzkiese und –sanden belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u. a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
+    p1_1: Die Gewinnung von Quarzkiese und –sanden
+    sup2:
+      title: "2"
+      text: "In [BMWi 2016] wird eine andere Klassifikation betrachtet, nämlich Quarz und Quarzsand. Davon sind Quarzsand und-kies nur eine Untermenge, die nicht eigens nach Bergrecht ausgewiesen wird. Für die Schätzung des Wertes werden deshalb hier die Daten aus [MIRO 2016] übernommen."
+    p1_2: belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u. a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
   kies_und_sand:
     title: Kies und Sand und gebrochener Naturstein
-    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet. Hier kommen sie z. B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
+    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet (BGR 2016). Hier kommen sie z. B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
     sup1:
       title: "1"
-      text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
+      text: "Alle Angaben aus [MIRO 2016]. Die geförderte Menge in [BMWi 2016] zu Kiesen und Kiessanden ist wesentlich geringer, da nur ein Bruchteil der Unternehmen unter das Bergrecht fällt."
   naturwerkstein:
     title: Naturwerkstein
     p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z. B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
   kalk_mergel:
     title: Kalk-/Mergel- und Dolomitstein
     p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u. a. im Haus- und Straßenbau sowie bei der Produktion von z. B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
-    p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
+    p2_1: "Quellenverzeichnis [DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
     p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
@@ -2013,10 +2017,10 @@ bip:
       title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
       p1_1: "Mit einem"
       p1_2: "Bruttoinlandsprodukt"
-      p1_3: "von rund 3.032,82 Milliarden Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
+      p1_3: "von rund 3.032,82 Mrd. Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
       p1_4: "Bruttowertschöpfung"
-      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Milliarden Euro, was einem Anteil von"
-      p1_6: "0,14%"
+      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Mrd. Euro, was einem Anteil von"
+      p1_6: "0,14 %"
       p1_7: "am BIP entspricht."
       daten: Daten Einsehen
 
@@ -3303,7 +3307,7 @@ downloads:
     - name: production-title-1
       title: Daten zur interaktiven Rohstoffkarte
     - name: chart-title-1
-      title: Daten zur gesammtdeutschen Rohstoffproduktion
+      title: Daten zur gesamtdeutschen Rohstoffproduktion
       subnav_items:
         - name: steinkohle
           title: Steinkohle
@@ -3358,9 +3362,12 @@ downloads:
   download_label: Download der Produktionsdaten
   download_link: Daten herunterladen
   download_label_förderabgaben: Download der Daten
-  h2: Daten zur gesammtdeutschen Rohstoffproduktion
-  p2: Die Zahlen zu den Produktionsmengen (Kapitel 2b) von Steinkohle, Braunkohle, Erdöl, Erdgas, Kalisalz, Spezialton, Steinsalz und Industriesole, basieren auf den Angaben der BMWi Publikation „Der Bergbau in der Bundesrepublik Deutschland 2015“. Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von Rohstoffen in Deutschland erhält.
-  p3: Die Daten zur Gewinnung der Bodenschätze werden über die Bergämter erhoben und umfassen alle nutzbaren Bodenschätze, die nach den Vorschriften des BBbergG unter Aufsicht der Behörde gewonnen werden sowie Erzeugnisse, die durch Be- oder Verarbeitung der vorgenannten Bodenschätze anfallen oder hergestellt werden. D. h. bei Bodenschätzen, die nur teilweise unter Bergrecht fallen, gibt die Statistik kein umfassendes Bild. Deshalb liegen die Angaben von Produktionsmengen von Quarzkies und -sand (Bundesverband Mineralische Rohstoffe (MIRO) 2016), Kies und Sand (MIRO 2016), gebrochenem Naturstein (MIRO 2016), Kalk-, Mergel und Dolomitstein (Bundesverband der Deutschen Kalkindustrie (BVK)) sowie für Naturwerkstein (Deutscher Naturwerkstein-Verband (DNV)) die Daten der Verbände zugrunde. Für Kaolin wird auf die Schätzung der BGR (BGR 2016) zurückgegriffen, da der Wert von 3,7 Mio. t  (BMWi 2016) sich nicht auf die am Markt erhältlichen Produkte bezieht.
+  h2: Daten zur gesamtdeutschen Rohstoffproduktion
+  p2_1: Die Zahlen zu den Produktionsmengen von Steinkohle, Braunkohle, Erdöl, Erdgas, Kalisalz, Spezialton, Steinsalz und Industriesole, basieren auf den Angaben der BMWi Publikation
+  link2_1: „Der Bergbau in der Bundesrepublik Deutschland 2015“.
+  p2_2: Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von Rohstoffen in Deutschland erhält.
+  p3_1: Die Daten zur Gewinnung der Bodenschätze werden über die Bergämter erhoben und umfassen alle nutzbaren Bodenschätze, die nach den Vorschriften des BBbergG unter Aufsicht der Behörde gewonnen werden sowie Erzeugnisse, die durch Be- oder Verarbeitung der vorgenannten Bodenschätze anfallen oder hergestellt werden. D. h. bei Bodenschätzen, die nur teilweise unter Bergrecht fallen, gibt die Statistik kein umfassendes Bild. Deshalb liegen die Angaben von Produktionsmengen von Quarzkies und -sand (Bundesverband Mineralische Rohstoffe (MIRO) 2016), Kies und Sand (MIRO 2016), gebrochenem Naturstein (MIRO 2016), Kalk-, Mergel und Dolomitstein (Bundesverband der Deutschen Kalkindustrie (BVK)) sowie für Naturwerkstein (Deutscher Naturwerkstein-Verband (DNV)) die Daten der Verbände zugrunde. Für Kaolin wird auf die Schätzung der BGR (BGR 2016) zurückgegriffen, da der Wert von 3,7 Mio. t
+  p3_2: sich nicht auf die am Markt erhältlichen Produkte bezieht.
   p4: Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände oder verschiedener Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2015 (BGR 2016). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach DESTATIS), Steinsalz und Industriesole (Berechnung nach DESTATIS) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind MIRO 2016 entnommen. Die Werte der Produktion der Natursteine DNV 2016 und von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen.
   h3: Daten zum Beitrag zum BIP
   p5:
@@ -3406,7 +3413,11 @@ downloads:
     link: "https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/ThemaFinanzen.html"
   förderabgaben:
     title: Daten zu Feldes- und Förderabgaben
-    p1_1: Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den
+    p1_1: "Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen
+    Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den Abrechnungen des Länderfinanzausgleichs auf der Internetseite des
+    BMF veröffentlicht."
+    p1_2: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von drei Bundesländern
+    die Einnahmen aus den Feldesabgaben vor:"
     link: Abrechnungen des Länderfinanzausgleichs
     link_data: "http://www.bundesfinanzministerium.de/Web/DE/Themen/Oeffentliche_Finanzen/Foederale_Finanzbeziehungen/Laenderfinanzausgleich/laenderfinanzausgleich.html"
     p1_2: auf der Internetseite des BMF veröffentlicht.

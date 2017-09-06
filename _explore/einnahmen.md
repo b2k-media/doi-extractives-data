@@ -28,7 +28,7 @@ breadcrumb:
       </section>
       <br/>
       <section id="steuereinnahmen" style="position: relative;">
-        <h3>{% t einnahmen.steuereinnahmen.title %}</h3>
+        <div class="chart-title-style" style="padding-bottom: 20px">{% t einnahmen.steuereinnahmen.title %}</div>
         <table class="einnahmen_table">
           <tbody>
             <tr>
@@ -144,8 +144,8 @@ breadcrumb:
           {% t einnahmen.förder_feldesabgaben.daten_einsehen %}
         </a>
         <br/><br/>
-        <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p>
-        <h4>{% t einnahmen.förder_feldesabgaben.table1.title %}</h4>
+        <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p><br/>
+        <div class="chart-title-style" style="padding-bottom: 20px">{% t einnahmen.förder_feldesabgaben.table1.title %}</div>
         <table class="einnahmen_table_1">
           <tbody>
             <tr>
@@ -308,7 +308,7 @@ breadcrumb:
       </section>
       <section id="explanation" style="position: relative; margin-top: 110px !important;">
         <p id="explanation-11">
-          <sup>{% t einnahmen.umsatz.star1.title %}</sup>
+          <sup style="font-size: 20px; font-weight: bold">{% t einnahmen.umsatz.star1.title %}</sup>
           {% t einnahmen.umsatz.star1.text %}
         </p>
         <div >
