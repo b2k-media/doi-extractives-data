@@ -1342,8 +1342,8 @@ wasser:
           title: Rechtlicher Rahmen der Wasserentnahme
         - name: ausgestaltung
           title: Ausgestaltung der Wasserentnahmeentgelte
-    - name: wasserentnahmeentgelte
-      title: Wasserentnahmeentgelte im Rohstoffsektor
+        - name: wasserentnahmeentgelte
+          title: Wasserentnahmeentgelte im Rohstoffsektor
   wasserentnahme:
     title: "Wasserentnahme zur Rohstoffförderung"
     p1_1: "Im Zuge des Abbaus und der Weiterverarbeitung von Rohstoffen kann die Entnahme von Grund- und Oberflächenwasser erforderlich sein. Wie viel Wasser für Aktivitäten des Rohstoffsektors entnommen wird, veröffentlichen die zuständigen statistischen Landesämter der einzelnen Bundesländer."
@@ -1351,7 +1351,7 @@ wasser:
       title: "4"
       text: "Quelle: Statistisches Bundesamt, Umweltökonomische Gesamtrechnung"
       link: https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html
-    p1_2: Eine Übersicht hierzu bietet Abbildung 4.
+    p1_2: Eine Übersicht hierzu bietet Abbildung siehe unten.
     p2_1: Der Sektor „Bergbau und Gewinnung von Steinen und Erden“ entnahm im Jahr 2013 insgesamt 1.583 Mio. m³ Wasser aus Gewässern (i.W. Grundwasser). Davon entfiel rund drei Viertel auf den Kohlebergbau. Dies entspricht etwa 5% des gesamten  2013 in Deutschland durch Wirtschaft und Privathaushalte entnommenen Wassers.
     sup5:
       title: "5"

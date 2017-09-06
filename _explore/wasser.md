@@ -97,7 +97,7 @@ breadcrumb:
       </section>
       <br/>
       <section id="wasserentnahmeentgelte" style="position: relative;">
-        <h2>{% t wasser.wasserentnahmeentgelte.title %}</h2>
+        <h3>{% t wasser.wasserentnahmeentgelte.title %}</h3>
         <p>
           {% t wasser.wasserentnahmeentgelte.p1_1 %}
           <sup>
