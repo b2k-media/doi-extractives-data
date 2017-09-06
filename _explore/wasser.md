@@ -19,7 +19,7 @@ breadcrumb:
         <h2>{% t wasser.wasserentnahme.title %}</h2>
         <p>
           {% t wasser.wasserentnahme.p1_1 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#sub-4">
               {% t wasser.wasserentnahme.sup4.title %}
             </a>
@@ -28,7 +28,7 @@ breadcrumb:
         </p>
         <p>
           {% t wasser.wasserentnahme.p2_1 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#sub-5">
               {% t wasser.wasserentnahme.sup5.title %}
             </a>
@@ -65,7 +65,7 @@ breadcrumb:
         </h3>
         <p>
           {% t wasser.wasserentnahme.rechtlicher.p1_1 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#sub-6">
               {% t wasser.wasserentnahme.rechtlicher.sup6.title %}
             </a>
@@ -79,7 +79,7 @@ breadcrumb:
         </h3>
         <p>
           {% t wasser.wasserentnahme.ausgestaltung.p1 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#sub-7">
               {% t wasser.wasserentnahme.ausgestaltung.sup7.title %}
             </a>
@@ -87,7 +87,7 @@ breadcrumb:
         </p>
         <p>
           {% t wasser.wasserentnahme.ausgestaltung.p2 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#sub-8">
               {% t wasser.wasserentnahme.ausgestaltung.sup8.title %}
             </a>
@@ -97,16 +97,16 @@ breadcrumb:
       </section>
       <br/>
       <section id="wasserentnahmeentgelte" style="position: relative;">
-        <h2>{% t wasser.wasserentnahmeentgelte.title %}</h2>
+        <h3>{% t wasser.wasserentnahmeentgelte.title %}</h3>
         <p>
           {% t wasser.wasserentnahmeentgelte.p1_1 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#sub-9">
               {% t wasser.wasserentnahmeentgelte.sup9.title %}
             </a>
           </sup>
           {% t wasser.wasserentnahmeentgelte.p1_2 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#sub-10">
               {% t wasser.wasserentnahmeentgelte.sup10.title %}
             </a>

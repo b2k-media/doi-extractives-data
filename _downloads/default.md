@@ -14,9 +14,9 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/production.tsv">
+            <a href="{{site.baseurl_root}}/downloads/production.csv">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (tsv, 2 KB)
+              {% t downloads.download_link %} (csv, 2 KB)
             </a>
           </li>
         </ul>
@@ -346,7 +346,7 @@ permalink: /downloads/
           {% t downloads.zahlungsabgleich.link1 %}
         </a>
         {% t downloads.zahlungsabgleich.p1_2 %}
-        <a href="{{site.baseurl_root}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger Verwalter.pdf">
+        <a href="{{site.baseurl_root}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
           {% t downloads.zahlungsabgleich.link2 %}
         </a>
         {% t downloads.zahlungsabgleich.p1_3 %}
