@@ -1,5 +1,5 @@
 ---
-title: Anfallende Zahlungen
+title: Einnahmen aus der rohstoffgewinnenden Industrie
 layout: default
 permalink: /explore/how-it-work/anfallende-zahlungen/
 breadcrumb:
@@ -18,7 +18,6 @@ breadcrumb:
     <div class="container-left-9">
       <section id="anfallende_zahlungen" style="position: relative;">
         <section id="einnahmen" style="position: relative;">
-          <h2>{% t anfallende_zahlungen.einnahmen.title %}</h2>
           <p>
             {% t anfallende_zahlungen.einnahmen.p1_1 %}
             <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">

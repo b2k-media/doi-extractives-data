@@ -605,7 +605,7 @@ wirtschaftlich_berechtigter:
     p: "Die Informationen zu wirtschaftlich Berechtigten im Transparenzregister sind bestimmten staatlichen Behörden im Rahmen ihrer gesetzlichen Aufgaben, geldwäscherechtlich Verpflichteten im Rahmen der Erfüllung ihrer geldwäscherechtlichen Sorgfaltspflichten und jedem anderen, der ein berechtigtes Interesse an der Einsichtnahme darlegt (z. B. Nichtregierungsorganisationen (NRO’s) oder Journalisten), zugänglich (§ 23 Abs. 1 GwG). Ein derartiges Interesse besteht insbesondere, wenn ein Bezug zur Verhinderung und Bekämpfung von Terrorismusfinanzierung und Geldwäsche sowie deren Vortaten wie etwa Korruption nachvollziehbar vorgebracht wird. Die Bundesregierung hat am 2. Juli 2014 beschlossen, die Kandidatur Deutschlands bei der internationalen „Initiative für Transparenz in der Rohstoffwirtschaft“ (Extractive Industries Transparency Initiative – EITI) einzuleiten. Mit der Umsetzung in Deutschland (D-EITI) stärkt die Bundesregierung die internationalen Bemühungen bei der Bekämpfung von Korruption im Zusammenhang mit Rohstoffgeschäften. Dieses erklärte Ziel begründet ein berechtigtes Interesses von D-EITI zur Einsichtnahme in das Transparenzregister. "
 
 anfallende_zahlungen:
-  title: Anfallende Zahlungen
+  title: Einnahmen aus der rohstoffgewinnenden Industrie
   nav_items:
     - name: title
       title: Seitenanfang
@@ -626,7 +626,6 @@ anfallende_zahlungen:
           title: Verbrauchsteuern
 
   einnahmen:
-    title: Einnahmen
     p1_1: Rohstoffgewinnende Unternehmen in Deutschland zahlen verschiedene Gebühren, Abgaben und Steuern auf ihre Tätigkeiten. Unternehmen, die bergfreie Rohstoffe gewinnen, zahlen eine spezifische Feldes- und Förderabgabe gemäß Bundesberggesetz an die Länder. Ausgenommen davon sind die Bodenschätze, die aufgrund sogenannter alter Rechte gewonnen werden
     link1: "(siehe auch „Genehmigung von Bergbauprojekten“)."
     p1_2: "Hier kann jedoch den Eigentümern der aufrechterhaltenen alten Förderrechte oder den früheren Bergbauberechtigten das Recht auf Zahlung eines sog. Förderzinses (z. B. bei den sog. Erdölaltverträgen bzw. Erdgasverträgen) durch die Unternehmen zustehen. Unabhängig von der Tätigkeit unterliegen alle Unternehmen des Rohstoffsektors – wie die übrigen Unternehmen auch – der Gewerbe- und Körperschaftsteuer."
