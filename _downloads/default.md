@@ -26,8 +26,20 @@ permalink: /downloads/
     <div id="production_chart">
       <h2 id="chart-title-1">{% t downloads.h2 %}</h2>
       <hr/>
-      <p>{% t downloads.p2 %}</p>
-      <p>{% t downloads.p3 %}</p>
+      <p>
+        {% t downloads.p2_1 %}
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+          {% t downloads.link2_1 %}
+        </a>
+        {% t downloads.p2_2 %}
+      </p>
+      <p>
+        {% t downloads.p3_1 %}
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+          {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
+        </a>
+        {% t downloads.p3_2 %}
+      </p>
       <p>{% t downloads.p4 %}</p>
       <h3 id="steinkohle">
         {% t gesamtdeutsche_rohstoffproduktion.steinkohle.title %}
