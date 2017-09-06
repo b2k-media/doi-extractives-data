@@ -26,7 +26,14 @@ breadcrumb:
           {% t erneuerbare_energien.p1_2 %}
         </p>
         <br/>
-        <div id="chart-1" class="explore-exploration slab-alpha">
+        <div>
+          <img
+            class="icon-tab-1"
+            src="{{ site.baseurl_root }}/img/erneuerbare_energien/chart.png"
+            style="width: 100%"
+          />
+        </div>
+        <!-- <div id="chart-1" class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
               <div class="container chart-container">
@@ -34,7 +41,7 @@ breadcrumb:
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <p>{% t erneuerbare_energien.source %}</p>
         <p>
           {% t erneuerbare_energien.p2_1 %}

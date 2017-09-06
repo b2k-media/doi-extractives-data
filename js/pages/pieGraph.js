@@ -3,8 +3,8 @@ $(document).ready(function(){
   var jsonFilePath= '';
   if (document.URL.search('/explore/employment/') > 1) {
     jsonFilePath = "../../data/graphs/employment.json";
-  } else if (document.URL.search('explore/how-it-work/erneuerbare_energien/') > 1) {
-    jsonFilePath = "../../../data/graphs/erneuerbare_energien.json";
+  // } else if (document.URL.search('explore/how-it-work/erneuerbare_energien/') > 1) {
+  //   jsonFilePath = "../../../data/graphs/erneuerbare_energien.json";
   } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich_Pie.json";
   }
