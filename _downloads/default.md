@@ -100,7 +100,15 @@ permalink: /downloads/
       <h3 id="quarzkies_und_sand">
         {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.title %}
       </h3>
-      <p>{% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p %}</p>
+      <p>
+        {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_1 %}
+        <sup>
+          <a href="#sup-2">
+            {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.title %}
+          </a>
+        </sup>
+        {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_2 %}
+      </p>
 
       <h3 id="kies_und_sand">
         {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.title %}
@@ -364,6 +372,16 @@ permalink: /downloads/
       </ul>
     </p>
   </div>
+  <section id="explanation" style="position: relative;">
+    <p id="sup-1">
+      <sup>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}</sup>
+      {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.text %}
+    </p>
+    <p id="sup-2">
+      <sup>{% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.title %}</sup>
+      {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.text %}
+    </p>
+  </section>
   </div>
 
   <div class="sticky sticky_nav container-right-3">
