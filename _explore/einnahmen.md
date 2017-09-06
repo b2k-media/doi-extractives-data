@@ -155,88 +155,88 @@ breadcrumb:
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row1.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row1.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row1.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row1.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row1.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row2.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row2.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row2.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row2.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row2.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row3.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row3.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row3.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row3.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row3.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row4.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row4.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row4.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row4.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row4.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row5.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row5.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row5.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row5.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row5.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row6.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row6.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row6.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row6.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row6.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row7.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row7.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row7.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row7.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row7.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row8.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row8.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row8.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row8.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row8.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row9.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row9.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row9.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row9.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row9.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row10.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row10.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row10.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row10.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row10.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row11.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row11.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row11.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row11.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row11.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row12.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row12.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row12.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row12.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row12.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row13.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row13.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row13.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row13.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row13.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row14.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row14.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row14.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row14.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row14.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row15.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row15.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row15.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row15.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row15.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row16.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row16.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row16.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row16.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row16.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row17.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row17.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row17.td3 %}</td>
             </tr>
 
             <tr style="height: 33px">
@@ -246,22 +246,28 @@ breadcrumb:
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row18.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row18.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row18.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row19.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row19.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row19.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row19.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row19.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row20.td1 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row20.td2 %}</td>
-              <td>{% t einnahmen.förder_feldesabgaben.table1.row20.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row20.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.förder_feldesabgaben.table1.row20.td3 %}</td>
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
+        <p style="font-size: 0.75rem">
+          {% t downloads.table_link.p1 %}
+            <a href="{{site.baseurl}}/downloads/#steuern">
+              <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
+              {% t downloads.table_link.link %}
+            </a>
+          {% t downloads.table_link.p2 %}</p>
         <p>{% t einnahmen.förder_feldesabgaben.p3 %}</p>
         <table class="einnahmen_table_2">
           <tbody>
@@ -286,7 +292,14 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
+        <p style="font-size: 0.75rem">
+          {% t downloads.table_link.p1 %}
+            <a href="{{site.baseurl}}/downloads/#steuern">
+              <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
+              {% t downloads.table_link.link %}
+            </a>
+          {% t downloads.table_link.p2 %}
+        </p>
       </section>
       <br/>
       <section id="umsatz" style="position: relative;">
