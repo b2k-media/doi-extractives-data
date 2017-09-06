@@ -582,13 +582,15 @@ wirtschaftlich_berechtigter:
   wirtschaftlich_berechtigter:
     title: Wirtschaftlich Berechtigter
     p1_1: "Die Frage, wer hinter einem Unternehmen steht und sein sogenannter wirtschaftlich Berechtigter ist, hat in den letzten Jahren im Hinblick auf die Bekämpfung von Terrorismusfinanzierung, Geldwäsche und deren Vortaten wie etwa Steuerstraftaten an Bedeutung gewonnen. Wirtschaftlich Berechtigte von Unternehmen sind solche natürlichen Personen, in deren Eigentum oder unter deren Kontrolle ein Unternehmen letztlich steht bzw. jene natürlichen Personen, auf deren Veranlassung eine Transaktion"
-    p1_2: "letztlich durchgeführt oder eine Geschäftsbeziehung letztlich begründet wird (vgl. § 3 Abs. 1 Geldwäschegesetz – GwG). Die bessere Zugänglichkeit dieser Informationen soll die Bekämpfung von Geldwäsche und Terrorismusfinanzierung erleichtern."
+    p1_2: " letztlich durchgeführt oder eine Geschäftsbeziehung letztlich begründet wird (vgl. § 3 Abs. 1 Geldwäschegesetz – GwG). Die bessere Zugänglichkeit dieser Informationen soll die Bekämpfung von Geldwäsche und Terrorismusfinanzierung erleichtern."
 
   deutsches_transparenzregister:
     title: Deutsches Transparenzregister
     p1_1: "In Deutschland ergibt sich der wirtschaftlich Berechtigte bereits zum Teil aus Angaben, die in öffentlich zugänglichen Registern wie etwa dem Handels-, Genossenschafts-, Partnerschafts-, Vereins- oder Unternehmensregister enthalten sind. Im Rahmen der Umsetzung der Vierten Geldwäscherichtlinie (EU) 2015/849"
-    p1_2: "wurde zum 26. Juni 2017 ein Transparenzregister eingerichtet, welches Daten zum wirtschaftlich Berechtigten in Form eines Internetportals vorhält. Das bedeutet konkret, dass über das Portal in erster Linie Informationen aus bereits bestehenden, öffentlich zugänglichen elektronischen Registern (s. o.) abrufbar sind. Nur soweit sich der wirtschaftlich Berechtigte daraus nicht ableiten lässt, wird eine Mitteilung des wirtschaftlich Berechtigten an das Transparenzregister verlangt. Das Transparenzregister erweitert und vervollständigt also die Informationen zu wirtschaftlich Berechtigten. Dies betrifft auch bisher nicht erfasste Trusts und diesen ähnliche Rechtsgestaltungen."
-    p2: "Das Register ist über die Webseite www.transparenzregister.de elektronisch zugänglich. Soweit eine Meldepflicht an das Transparenzregister besteht, weil sich der wirtschaftlich Berechtigte nicht bereits aus anderen Registern ergibt, sind diese Meldungen bis zum 1. Oktober 2017 vorzunehmen. Informationen zum wirtschaftlich Berechtigten – das betrifft auch Unternehmen der rohstoffgewinnenden Industrie – sollen ab dem 27. Dezember 2017 im Register einsehbar sein (zu den Details s. unten „Einsicht in das Transparenzregister“)."
+    p1_2: "  wurde zum 26. Juni 2017 ein Transparenzregister eingerichtet, welches Daten zum wirtschaftlich Berechtigten in Form eines Internetportals vorhält. Das bedeutet konkret, dass über das Portal in erster Linie Informationen aus bereits bestehenden, öffentlich zugänglichen elektronischen Registern (s. o.) abrufbar sind. Nur soweit sich der wirtschaftlich Berechtigte daraus nicht ableiten lässt, wird eine Mitteilung des wirtschaftlich Berechtigten an das Transparenzregister verlangt. Das Transparenzregister erweitert und vervollständigt also die Informationen zu wirtschaftlich Berechtigten. Dies betrifft auch bisher nicht erfasste Trusts und diesen ähnliche Rechtsgestaltungen."
+    p2: "Das Register ist über die Webseite"
+    link: www.transparenzregister.de
+    p3: "elektronisch zugänglich. Soweit eine Meldepflicht an das Transparenzregister besteht, weil sich der wirtschaftlich Berechtigte nicht bereits aus anderen Registern ergibt, sind diese Meldungen bis zum 1. Oktober 2017 vorzunehmen. Informationen zum wirtschaftlich Berechtigten – das betrifft auch Unternehmen der rohstoffgewinnenden Industrie – sollen ab dem 27. Dezember 2017 im Register einsehbar sein (zu den Details siehe unten „Einsicht in das Transparenzregister“)."
 
   angaben:
     title: "Angaben zu wirtschaftlich Berechtigten im Transparenzregister"
@@ -600,7 +602,7 @@ wirtschaftlich_berechtigter:
 
   einsicht:
     title: "Einsicht in das Transparenzregister"
-    p: "Die Informationen zu wirtschaftlich Berechtigten im Transparenzregister sind bestimmten staatlichen Behörden im Rahmen ihrer gesetzlichen Aufgaben, geldwäscherechtlich Verpflichteten im Rahmen der Erfüllung ihrer geldwäscherechtlichen Sorgfaltspflichten und jedem anderen, der ein berechtigtes Interesse an der Einsichtnahme darlegt (z. B. Nichtregierungsorganisationen (NRO’s) oder Journalis-ten), zugänglich (§ 23 Abs. 1 GwG). Ein derartiges Interesse besteht insbesondere, wenn ein Bezug zur Verhinderung und Bekämpfung von Terrorismusfinanzierung und Geldwäsche sowie deren Vortaten wie etwa Korruption nachvollziehbar vorgebracht wird. Die Bundesregierung hat am 2. Juli 2014 beschlossen, die Kandidatur Deutschlands bei der internationalen „Initiative für Transparenz in der Rohstoffwirtschaft“ (Extractive Industries Transparency Initiative – EITI) einzuleiten. Mit der Umsetzung in Deutschland (D-EITI) stärkt die Bundesregierung die internationalen Bemühungen bei der Bekämpfung von Korruption im Zusammenhang mit Rohstoffgeschäften. Dieses erklärte Ziel begründet ein berechtigtes Interesses von D-EITI zur Einsichtnahme in das Transparenzregister. "
+    p: "Die Informationen zu wirtschaftlich Berechtigten im Transparenzregister sind bestimmten staatlichen Behörden im Rahmen ihrer gesetzlichen Aufgaben, geldwäscherechtlich Verpflichteten im Rahmen der Erfüllung ihrer geldwäscherechtlichen Sorgfaltspflichten und jedem anderen, der ein berechtigtes Interesse an der Einsichtnahme darlegt (z. B. Nichtregierungsorganisationen (NRO’s) oder Journalisten), zugänglich (§ 23 Abs. 1 GwG). Ein derartiges Interesse besteht insbesondere, wenn ein Bezug zur Verhinderung und Bekämpfung von Terrorismusfinanzierung und Geldwäsche sowie deren Vortaten wie etwa Korruption nachvollziehbar vorgebracht wird. Die Bundesregierung hat am 2. Juli 2014 beschlossen, die Kandidatur Deutschlands bei der internationalen „Initiative für Transparenz in der Rohstoffwirtschaft“ (Extractive Industries Transparency Initiative – EITI) einzuleiten. Mit der Umsetzung in Deutschland (D-EITI) stärkt die Bundesregierung die internationalen Bemühungen bei der Bekämpfung von Korruption im Zusammenhang mit Rohstoffgeschäften. Dieses erklärte Ziel begründet ein berechtigtes Interesses von D-EITI zur Einsichtnahme in das Transparenzregister. "
 
 anfallende_zahlungen:
   title: Anfallende Zahlungen
@@ -1587,9 +1589,9 @@ gesamtdeutsche_rohstoffproduktion:
     - name: title
       title: Seitenanfang
     - name: rohstoff-menge
-      title: Rohstoffgewinnung in Deutschland für 2015 (Menge)
+      title: Rohstoffgewinnung nach Menge
     - name: rohstoff-wert
-      title: Rohstoffgewinnung in Deutschland für 2015 (Wert)
+      title: Rohstoffgewinnung nach Wert
   p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
@@ -1739,6 +1741,7 @@ gesamtdeutsche_rohstoffproduktion:
       td2: "719"
     star1: "*  verwertbare Förderung"
     star2: "** einschließlich Erdölbegleitgas"
+    note: "Die Wertangaben sind nur für Kali- und Kalisalzprodukte möglich"
 
 einnahmen:
     title: Beitrag zu den Staatseinnahmen
@@ -3328,6 +3331,8 @@ downloads:
       title: Daten zu Anpassungsgeld
     - name: zahlungsabgleich
       title: Daten zum Zahlungsabgleich
+    - name: daten-zum-deiti-bericht
+      title: "Daten zum 1. D-EITI-Bericht"
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
   download_label: Download der Produktionsdaten
@@ -3348,21 +3353,14 @@ downloads:
   p7:
     p1: Die Daten zu den Beschäftigten wurden der Datenbank der Bundesagentur für Arbeit entnommen
     link: (EXCEL)
-  h6: Daten zu Exporten
-  p8:
-    p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (GP09-05 bis GP09-08) des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt. Die Daten der Exporte von 2010-2014 wurden der"
-    link1: Genesis-Online-Datenbank
-    p2: von Destatis am 14.12.2016 entnommen. Die Daten für 2015 sind auf der
-    link2: Website
-    p3: des Statistischen Bundesamtes abrufbar. (EXCEL)
   exporte:
-    h1: "Daten zu Exporten nach Menge"
+    h1: "Daten zu Exporten"
     p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt und umfassen in diesen Berechnungen die Bereiche „Kohle“ (GP09-05), „Erdöl und Erdgas“ (GP09-06), „Erze“ (GP09-07) und „Steine und Erden, sonstiger Bergbau“ (GP09-08). Die Daten der Exporte von 2012-2016 wurden der "
     link1: "Genesis-Online-Datenbank"
     p2: " von Destatis am 26.05.2017 entnommen. Die Daten für 2015 sind auf der "
     link2: "Website"
     p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
-    link3: "RGB 2016"
+    link3: "BGR 2016"
     p4: ", Tabellen 5, 28 und 29) entnommen."
   table_link:
     p1: Detaillierte Quellenangaben siehe
@@ -3383,12 +3381,14 @@ downloads:
 Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den Abrechnungen des Länderfinanzausgleichs auf der Internetseite des
 BMF veröffentlicht. Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von drei Bundesländern
 die Einnahmen aus den Feldesabgaben vor:"
-    link1: "Bayern,"
+    link1: "Bayern, "
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
     link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%20f%C3%BCr%20Wirtschaft%20und%20Energie_2017-18.pdf"
     link3: Niedersachsen.
     link3_data: "http://www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
+    label1: "Download der Daten zu Förderabgaben"
+    label2: "Download der Daten zu Feldesabgaben"
   umsatz:
     title: Daten zu Umsatz Steine und Erden
     p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
@@ -3405,6 +3405,16 @@ die Einnahmen aus den Feldesabgaben vor:"
     p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den ersten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
     link2: "pdf"
     p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
+  daten-zum-deiti-bericht:
+    title: Daten zum 1. D-EITI Bericht"
+    p1: "Die Multi-Stakeholder-Gruppe (MSG) der deutschen Initiative für Transparenz im rohstoffgewinnenden Sektor (D-EITI) hat sich für die Umsetzung des Prinzips offener Daten im Rahmen der D-EITI festgelegt."
+    link1: "Das Open-Data-Konzept"
+    p2: "kommt ausdrücklich nur für Daten und Informationen, die öffentlich sind bzw. deren Veröffentlichung im Rahmen der D-EITI durch die MSG beschlossen wurde, und nur im Rahmen der geltenden rechtlichen Grundlagen zur Anwendung. Alle Daten sind ohne Nutzungsbeschränkungen gemeinfrei verfügbar nach der"
+    link2: "CC BY 4.0 Lizens"
+    p3: "sowie"
+    link3: "der Datenlizenz Deutschland Version 2.0."
+    p4: "Download der aggregierten Daten aus dem 1. D-EITI-Bericht"
+
 
 about:
     title: Herzlich Willkommen ...

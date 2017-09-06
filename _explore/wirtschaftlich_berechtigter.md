@@ -26,7 +26,7 @@ breadcrumb:
                 {% t wirtschaftlich_berechtigter.sup1.title %}
               </a>
             </sup>
-            {% t wirtschaftlich_berechtigter.wirtschaftlich_berechtigter.p1_1 %}
+            {% t wirtschaftlich_berechtigter.wirtschaftlich_berechtigter.p1_2 %}
           </p>
         </section>
         <section id="deutsches_transparenzregister" style="position: relative;">
@@ -40,7 +40,9 @@ breadcrumb:
             </sup>
             {% t wirtschaftlich_berechtigter.deutsches_transparenzregister.p1_2 %}
           </p>
-          <p>{% t wirtschaftlich_berechtigter.deutsches_transparenzregister.p2 %}</p>
+          <p>{% t wirtschaftlich_berechtigter.deutsches_transparenzregister.p2 %}
+          <a target="_blank" href="https://www.transparenzregister.de">{% t wirtschaftlich_berechtigter.deutsches_transparenzregister.link %}</a>
+            {% t wirtschaftlich_berechtigter.deutsches_transparenzregister.p3 %}</p>
         </section>
         <section id="angaben" style="position: relative;">
           <h3>{% t wirtschaftlich_berechtigter.angaben.title %}</h3>
@@ -56,11 +58,11 @@ breadcrumb:
         </section>
       </section>
       <br/>
-      <p>
+      <p style="font-size: 0.75rem" >
         <sup id="sup-1">{% t wirtschaftlich_berechtigter.sup1.title %}</sup>
         {% t wirtschaftlich_berechtigter.sup1.text %}
       </p>
-      <p>
+      <p style="font-size: 0.75rem">
         <sup id="sup-2">{% t wirtschaftlich_berechtigter.sup2.title %}</sup>
         {% t wirtschaftlich_berechtigter.sup2.text %}
       </p>
