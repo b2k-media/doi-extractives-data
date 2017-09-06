@@ -39,10 +39,18 @@ breadcrumb:
         <section id="gemeinsamkeiten" style="position: relative;">
           <h2 id="title">{% t offentliche-berichte.gemeinsamkeiten.title %}</h2>
           <p>
-            {% t offentliche-berichte.gemeinsamkeiten.p1 %}
+            {% t offentliche-berichte.gemeinsamkeiten.p1_1 %}
+            <a href="{{site.baseurl}}/explore/zahlungsabgleich/">
+            {% t offentliche-berichte.gemeinsamkeiten.link1 %}
+            </a>
+            {% t offentliche-berichte.gemeinsamkeiten.p1_2 %}
           </p>
           <p>
-            {% t offentliche-berichte.gemeinsamkeiten.p2 %}
+            {% t offentliche-berichte.gemeinsamkeiten.p2_1 %}
+            <a href="{{site.baseurl}}/explore/zahlungsabgleich/">
+            {% t offentliche-berichte.gemeinsamkeiten.link2 %}
+            </a>
+            {% t offentliche-berichte.gemeinsamkeiten.p2_2 %}
           </p>
           <p>
             {% t offentliche-berichte.gemeinsamkeiten.p3 %}
