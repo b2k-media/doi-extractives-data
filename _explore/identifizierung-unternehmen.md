@@ -24,7 +24,7 @@ breadcrumb:
           </a>
         </sup>
         {% t identifizierung-unternehmen.p2 %}
-        <a target="_blank" href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger_Verwalter.pdf">
+        <a target="_blank" href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
           {% t identifizierung-unternehmen.link1 %}
         </a>
         {% t identifizierung-unternehmen.p3 %}
@@ -32,7 +32,7 @@ breadcrumb:
 
       <p>
         {% t identifizierung-unternehmen.p4 %}
-        <a target="_blank" href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger_Verwalter.pdf">
+        <a target="_blank" href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
           {% t identifizierung-unternehmen.link2 %}
         </a>
         {% t identifizierung-unternehmen.p5 %}
@@ -52,7 +52,7 @@ breadcrumb:
            {% t identifizierung-unternehmen.link3 %}
         </a>
         {% t identifizierung-unternehmen.p8 %}
-        <a target="_blank" href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger_Verwalter.pdf">
+        <a target="_blank" href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
           {% t identifizierung-unternehmen.link4 %}
         </a>
         {% t identifizierung-unternehmen.p9 %}

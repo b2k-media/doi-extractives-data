@@ -346,7 +346,7 @@ permalink: /downloads/
           {% t downloads.zahlungsabgleich.link1 %}
         </a>
         {% t downloads.zahlungsabgleich.p1_2 %}
-        <a href="{{site.baseurl_root}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger Verwalter.pdf">
+        <a href="{{site.baseurl_root}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
           {% t downloads.zahlungsabgleich.link2 %}
         </a>
         {% t downloads.zahlungsabgleich.p1_3 %}
