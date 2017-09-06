@@ -42,12 +42,12 @@ breadcrumb:
             </tr>
             <tr>
               <td></td>
-              <td>{% t einnahmen.steuereinnahmen.th2.th21 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.th2.th22 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.th2.th23 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.th2.th24 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.th2.th25 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.th2.th26 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th21 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th22 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th23 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th24 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th25 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th26 %}</td>
             </tr>
             <tr>
               <th></th><th></th><th></th>
@@ -56,66 +56,66 @@ breadcrumb:
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row1.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row1.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row1.td3 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row1.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row1.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row1.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row1.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td7 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row2.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row2.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row2.td3 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row2.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row2.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row2.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row2.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td7 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row3.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row3.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row3.td3 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row3.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row3.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row3.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row3.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td7 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row4.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row4.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row4.td3 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row4.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row4.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row4.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row4.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td7 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row5.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row5.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row5.td3 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row5.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row5.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row5.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row5.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td7 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row6.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row6.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row6.td3 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row6.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row6.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row6.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row6.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td7 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row7.td1 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row7.td2 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row7.td3 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row7.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row7.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row7.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row7.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td2 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td3 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td7 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row8 %}</td>
@@ -124,14 +124,21 @@ breadcrumb:
               <td>{% t einnahmen.steuereinnahmen.row9.td1 %}</td>
               <td></td>
               <td></td>
-              <td>{% t einnahmen.steuereinnahmen.row9.td4 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row9.td5 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row9.td6 %}</td>
-              <td>{% t einnahmen.steuereinnahmen.row9.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td4 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td5 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td6 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td7 %}</td>
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#steuern">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
+        <p style="font-size: 0.75rem">
+          {% t downloads.table_link.p1 %}
+            <a href="{{site.baseurl}}/downloads/#steuern">
+              <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
+              {% t downloads.table_link.link %}
+            </a>
+          {% t downloads.table_link.p2 %}
+        </p>
       </section>
       <br/>
       <section id="förder_feldesabgaben" style="position: relative;">
