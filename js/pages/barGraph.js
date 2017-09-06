@@ -11,6 +11,7 @@ $(document).ready(function(){
   var noDotDisplayDecimal = false;
   var orderSeries1= false;
   var orderSeries2= false;
+  var xAxisNoDecimal = false;
 
   if (isEn === -1) {
     $.jqplot.sprintf.thousandsSeparator = '.';
@@ -22,6 +23,7 @@ $(document).ready(function(){
     displayTwoDecimalPoints = true;
     orderSeries1 = true;
     orderSeries2 = true;
+    xAxisNoDecimal = true;
   } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
   } else if (document.URL.search('explore/einnahmen/') > 1) {
@@ -79,6 +81,8 @@ $(document).ready(function(){
     } else {
       pointLabels = { show: true, location: 'e', edgeTolerance: -15 }
     }
+
+    var tickOptions = xAxisNoDecimal ? { formatString: "%d" } : { formatString: "%.1f" };
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
 
     plot2b = $.jqplot(chart, data, {
@@ -111,7 +115,8 @@ $(document).ready(function(){
             },
             xaxis: {
               ticks: ticks,
-              autoscale : false
+              autoscale : false,
+              tickOptions: tickOptions
             }
         },
         legend:{
