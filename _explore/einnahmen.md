@@ -91,13 +91,22 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td7 %}</td>
             </tr>
             <tr>
-              <td>{% t einnahmen.steuereinnahmen.row5.td1 %}</td>
+              <td><strong>{% t einnahmen.steuereinnahmen.row5.td1 %}</strong></td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td2 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td3 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td4 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td7 %}</td>
+            </tr>
+            <tr style="height: 25px">
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row6.td1 %}</td>
@@ -109,13 +118,22 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td7 %}</td>
             </tr>
             <tr>
-              <td>{% t einnahmen.steuereinnahmen.row7.td1 %}</td>
+              <td><strong>{% t einnahmen.steuereinnahmen.row7.td1 %}</strong></td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td2 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td3 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td4 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td7 %}</td>
+            </tr>
+            <tr style="height: 25px">
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row8 %}</td>
