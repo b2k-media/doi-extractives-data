@@ -18,7 +18,7 @@ breadcrumb:
       <section id="erneuerbare_energienentnahme" style="position: relative;">
         <p>
           {% t erneuerbare_energien.p1_1 %}
-          <sup>
+          <sup class="padding-right">
             <a href="#explanation-14">
               {% t erneuerbare_energien.sup14.title %}
             </a>
@@ -42,14 +42,14 @@ breadcrumb:
             </div>
           </div>
         </div> -->
-        <p>{% t erneuerbare_energien.source %}</p>
+        <p class="source">{% t erneuerbare_energien.source %}</p>
         <p>
           {% t erneuerbare_energien.p2_1 %}
           <sup>
             <a href="#explanation-15">
               {% t erneuerbare_energien.sup15.title %}
             </a>
-          </sup>
+          </sup><span class="padding-right">.</span>
           {% t erneuerbare_energien.p2_2 %}
         </p>
         <p>{% t erneuerbare_energien.p3 %}</p>
