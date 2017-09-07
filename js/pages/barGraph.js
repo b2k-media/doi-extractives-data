@@ -72,6 +72,17 @@ $(document).ready(function(){
     plotGraph('chart'+(number+1),jsonData, jsondata, chartTitle, colors, ticks, labels, displayTwoDecimalPoints);
   }
 
+  function tickFormatter(format, val) {
+
+    if (isEn === -1) {
+      var parts=val.toString().split(".");
+      return parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".") + (parts[1] ? "," + parts[1] : "");
+    } else {
+      var parts=val.toString().split(".");
+      return parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",") + (parts[1] ? "." + parts[1] : "");
+    }
+  }
+
   function plotGraph(chart, data, jsondata, chartTitle, colorsData, ticks, labels, displayTwoDecimalPoints) {
 
     var pointLabels;
@@ -83,7 +94,7 @@ $(document).ready(function(){
       pointLabels = { show: true, location: 'e', edgeTolerance: -15 }
     }
 
-    var tickOptions = xAxisNoDecimal ? { formatString: "%d" } : { formatString: "%.1f" };
+    var tickOptions = xAxisNoDecimal ? { formatString: "%d", formatter: tickFormatter } : { formatString: "%.1f", formatter: tickFormatter };
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
 
     plot2b = $.jqplot(chart, data, {
