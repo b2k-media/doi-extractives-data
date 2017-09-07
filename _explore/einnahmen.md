@@ -13,7 +13,13 @@ breadcrumb:
     {% include breadcrumb.html %}
     <h1 id="title">{% t einnahmen.title %}</h1>
     <div class="container-left-9">
-      <p>{% t einnahmen.p1 %}</p>
+      <p>
+        {% t einnahmen.p1_1 %}
+        <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/">
+          {% t einnahmen.link %}
+        </a>
+        {% t einnahmen.p1_2 %}
+      </p>
       <section id="steuern" style="position: relative;">
         <h2 id="beschäftigte">
           {% t einnahmen.steuern.title %}
@@ -160,9 +166,9 @@ breadcrumb:
       </section>
       <br/>
       <section id="förder_feldesabgaben" style="position: relative;">
-        <h3 id="beschäftigte">
+        <h2 id="beschäftigte">
           {% t einnahmen.förder_feldesabgaben.title %}
-        </h3>
+        </h2>
         <p>{% t einnahmen.förder_feldesabgaben.p1 %}</p>
         <a target="_blank" href="{{site.baseurl}}/downloads/#förderabgaben">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
