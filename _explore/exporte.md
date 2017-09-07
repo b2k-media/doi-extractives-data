@@ -30,9 +30,13 @@ breadcrumb:
         </div>
 
         <div style="margin-top: 110px !important">
-          <a target="_blank" href="{{site.baseurl}}/downloads/#exporte">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>{% t exporte.daten_einsehen %}
+          {% t bip.daten_einsehen_pre %}
+          <a href="{{site.baseurl}}/downloads/#exporte">
+            <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
+            {% t bip.daten_einsehen %}
           </a>
+          {% t bip.daten_einsehen_post %}
+
         </div>
         <br/><br/>
         <div class="explore-exploration slab-alpha">
@@ -45,9 +49,14 @@ breadcrumb:
           </div>
         </div>
         <div style="margin-top: 110px !important">
-          <a target="_blank" href="{{site.baseurl}}/downloads/#daten-zur-exporte-nach-menge">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>{% t exporte.daten_einsehen %}
-          </a>
+            {% t bip.daten_einsehen_pre %}
+            <a href="{{site.baseurl}}/downloads/#daten-zur-exporte-nach-menge">
+              <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
+              {% t bip.daten_einsehen %}
+            </a>
+            {% t bip.daten_einsehen_post %}
+
+          </div>
         </div>
     </div>
     <div class="sticky sticky_nav container-right-3">
