@@ -1432,6 +1432,9 @@ subventionen-und-steuerliche-begünstigungen:
     - name: begünstigungen
       title: Begünstigungen für Strom- und Energiesteuer
 
+  daten_einsehen_pre: Detaillierte Quellenangabe siehe
+  daten_einsehen: Daten einsehen
+  daten_einsehen_post: . Eigene Darstellung.
   p1:
     p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
     k1: Begünstigungen für Strom- und Energiesteuer
