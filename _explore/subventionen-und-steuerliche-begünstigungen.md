@@ -184,7 +184,6 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#anpassungsgeld">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
         <p class="source">
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}
           <sup>

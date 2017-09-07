@@ -1776,16 +1776,18 @@ einnahmen:
         title: Seitenanfang
       - name: steuern
         title: Steuern
-      - name: steuereinnahmen
-        title: Steuereinnahmen aus dem Rohstoffsektor
       - name: förder_feldesabgaben
         title: Förder- und Feldesabgaben
       - name: umsatz
         title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-    p1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 750 Mio. Euro im Jahr 2015. Dies entspricht einem Anteil von 0,06 Prozent an den Gesamteinnahmen des Staates. Daneben gibt es weitere Zahlungen des rohstoffgewinnenden Sektors an den Staat wie zum Beispiel Pachten, Energie- und Stromsteuern (s. Kap. 4) sowie Zahlungen in Zusammenhang mit naturschutzrechtlichen Eingriffen sowie der Wassernutzung (s. Kap. 6), die hier nicht dargestellt sind.
+    p1_1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 750 Mio. Euro im Jahr 2015. Dies entspricht einem Anteil von 0,06 % an den Gesamteinnahmen des Staates. Daneben gibt es weitere Zahlungen des rohstoffgewinnenden Sektors an den Staat wie zum Beispiel Pachten, Energie- und Stromsteuern (siehe
+    link: „Einnahmen aus der rohstoffgewinnenden Industrie“
+    p1_2: ) sowie Zahlungen in Zusammenhang mit naturschutzrechtlichen Eingriffen sowie der Wassernutzung (siehe
+    link1: „Umgang mit dem Eingriff in die Natur“
+    p1_3: ), die hier nicht dargestellt sind.
     steuern:
       title: Steuern
-      p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2015 oben genannte Steuern in Höhe von 361 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,03 Prozent. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren zurückgegangen.
+      p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2015 oben genannte Steuern in Höhe von 361 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,03 %. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren zurückgegangen.
       p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
       daten_einsehen: Daten einsehen
       p3: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei dargestellt.
@@ -1813,7 +1815,7 @@ einnahmen:
         p3_3: dargestellt.
 
     steuereinnahmen:
-      title: Steuereinnahmen aus dem Rohstoffsektor
+      title: Steuereinnahmen aus dem Rohstoffsektor (Körperschaftsteuer, Gewerbesteuer, Einkommensteuer und Solidaritätszuschlag)
       th1: Steuerart
       th2:
         title: Jahr
@@ -1893,7 +1895,7 @@ einnahmen:
       daten_einsehen: Daten einsehen
       p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
       table1:
-        title: "Einnahmen aus Förderabgaben für die Jahre 2015 und 2016"
+        title: "Einnahmen aus Feldesabgaben für das Jahr 2015"
         th1: Förderabgabe in Euro
         th2: "2015"
         th3: "2016"
@@ -1996,7 +1998,7 @@ einnahmen:
           td2: "1452"
     umsatz:
       title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Milliarden Euro. Davon entfielen etwa 8,1 Milliarden Euro (rund 88%) auf Inlandsumsätze und 1,1 Milliarden Euro (12%) auf Umsätze mit dem Ausland.
+      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88%) auf Inlandsumsätze und 1,1 Mrd. Euro (12%) auf Umsätze mit dem Ausland.
       daten_einsehen: Daten einsehen
       star1:
         title: "*"
