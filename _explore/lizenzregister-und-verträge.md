@@ -63,7 +63,7 @@ breadcrumb:
           <br/>
           <p style="font-size: 0.75rem;">{% t lizenzregister_und_verträge.beispiel.image_source %}</p>
           <div>
-            <img class="icon-tab-1" src="{{ site.baseurl_root }}/img/lizenzregister-und-verträge/Picture1.png"/>
+            <img class="icon-tab-1" src="{{ site.baseurl_root }}/img/lizenzregister-und-vertrage/Picture1.png"/>
           </div>
           <br/>
         </section>

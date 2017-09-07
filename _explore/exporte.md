@@ -34,7 +34,7 @@ breadcrumb:
             <icon class="fa fa-file-text-o u-padding-right"></icon>{% t exporte.daten_einsehen %}
           </a>
         </div>
-        <br/>
+        <br/><br/>
         <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">

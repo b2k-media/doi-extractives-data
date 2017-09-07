@@ -1,5 +1,5 @@
 ---
-title: Anfallende Zahlungen
+title: Einnahmen aus der rohstoffgewinnenden Industrie
 layout: default
 permalink: /explore/how-it-work/anfallende-zahlungen/
 breadcrumb:
@@ -18,7 +18,6 @@ breadcrumb:
     <div class="container-left-9">
       <section id="anfallende_zahlungen" style="position: relative;">
         <section id="einnahmen" style="position: relative;">
-          <h2>{% t anfallende_zahlungen.einnahmen.title %}</h2>
           <p>
             {% t anfallende_zahlungen.einnahmen.p1_1 %}
             <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">
@@ -53,7 +52,7 @@ breadcrumb:
         </h3>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.feldes-und-förderabgaben.p1 %}
-          <a target="_blank"  href="{{site.baseurl_root}}/downloads/Landesrechtliche_Regelungen_zu_Feldes-und_Förderabgaben-Auszug_D-EITI-Bericht_für_2016.pdf">
+          <a target="_blank"  href="{{site.baseurl_root}}/downloads/Landesrechtliche_Regelungen_zu_Feldes-und_Forderabgaben-Auszug_D-EITI-Bericht_fur_2016.pdf">
             {% t anfallende_zahlungen.zahlungen-industrie.feldes-und-förderabgaben.link1 %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.feldes-und-förderabgaben.p2 %}
@@ -78,7 +77,7 @@ breadcrumb:
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.p3 %}
-          <a target="_blank"  href="https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/Steuern/Realsteuer/HebesaetzeRealsteuern8148001157005.xls;jsessionid=013CDF69293C0D74E01E4C275EF6BA82.cae4?__blob=publicationFile">
+          <a target="_blank"  href="https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/Steuern/Realsteuer/HebesaetzeRealsteuern8148001167005.xls;jsessionid=F8B702F7539AC8B7D3911A0D73876569.cae3?__blob=publicationFile">
             {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.link %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.p4 %}
@@ -139,11 +138,12 @@ breadcrumb:
           </sup>
         </p>
         <br/>
-        <p>
-          <sup id="sup-3">{% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}</sup>
-          {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.text %}
-        </p>
-
+        <section id="explanation" style="position: relative;">
+          <p>
+            <sup id="sup-3">{% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}</sup>
+            {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.text %}
+          </p>
+        </section>
       </section>
     </div>
 

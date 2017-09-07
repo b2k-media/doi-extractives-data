@@ -85,3 +85,9 @@ table.jqplot-table-legend {
 .legend1 .legend2{
   background-color: #000;
 }
+
+#gesamtdeutsche_rohstoffproduktion {
+  .jqplot-point-label, .jqplot-axis {
+    font-size: 0.85em !important;
+  }
+}

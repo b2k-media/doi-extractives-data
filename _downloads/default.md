@@ -14,9 +14,9 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/production.tsv">
+            <a href="{{site.baseurl_root}}/downloads/production.csv">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (tsv, 2 KB)
+              {% t downloads.download_link %} (csv, 2 KB)
             </a>
           </li>
         </ul>
@@ -26,8 +26,20 @@ permalink: /downloads/
     <div id="production_chart">
       <h2 id="chart-title-1">{% t downloads.h2 %}</h2>
       <hr/>
-      <p>{% t downloads.p2 %}</p>
-      <p>{% t downloads.p3 %}</p>
+      <p>
+        {% t downloads.p2_1 %}
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+          {% t downloads.link2_1 %}
+        </a>
+        {% t downloads.p2_2 %}
+      </p>
+      <p>
+        {% t downloads.p3_1 %}
+        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+          {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
+        </a>
+        {% t downloads.p3_2 %}
+      </p>
       <p>{% t downloads.p4 %}</p>
       <h3 id="steinkohle">
         {% t gesamtdeutsche_rohstoffproduktion.steinkohle.title %}
@@ -88,7 +100,15 @@ permalink: /downloads/
       <h3 id="quarzkies_und_sand">
         {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.title %}
       </h3>
-      <p>{% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p %}</p>
+      <p>
+        {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_1 %}
+        <sup>
+          <a href="#sup-2">
+            {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.title %}
+          </a>
+        </sup>
+        {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_2 %}
+      </p>
 
       <h3 id="kies_und_sand">
         {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.title %}
@@ -254,6 +274,9 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.förderabgaben.p1_1 %}
+      </p>
+      <p>
+        {% t downloads.förderabgaben.p1_2 %}
         <a target="_blank" href="{% t downloads.förderabgaben.link1_data %}">
           {% t downloads.förderabgaben.link1 %}
         </a>
@@ -323,7 +346,7 @@ permalink: /downloads/
           {% t downloads.zahlungsabgleich.link1 %}
         </a>
         {% t downloads.zahlungsabgleich.p1_2 %}
-        <a href="{{site.baseurl_root}}/downloads/Zahlungsabgleich_Empehlungen_Unabhängiger Verwalter.pdf">
+        <a href="{{site.baseurl_root}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
           {% t downloads.zahlungsabgleich.link2 %}
         </a>
         {% t downloads.zahlungsabgleich.p1_3 %}
@@ -352,6 +375,16 @@ permalink: /downloads/
       </ul>
     </p>
   </div>
+  <section id="explanation" style="position: relative;">
+    <p id="sup-1">
+      <sup>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}</sup>
+      {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.text %}
+    </p>
+    <p id="sup-2">
+      <sup>{% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.title %}</sup>
+      {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.text %}
+    </p>
+  </section>
   </div>
 
   <div class="sticky sticky_nav container-right-3">

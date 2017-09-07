@@ -630,7 +630,6 @@ anfallende_zahlungen:
           title: Excises
 
   einnahmen:
-    title: Einnahmen
     p1_1: Rohstoffgewinnende Unternehmen in Deutschland zahlen verschiedene Gebühren, Abgaben und Steuern auf ihre Tätigkeiten. Unternehmen, die bergfreie Rohstoffe gewinnen, zahlen eine spezifische Feldes- und Förderabgabe gemäß Bundesberggesetz an die Länder. Ausgenommen davon sind die Bodenschätze, die aufgrund sogenannter alter Rechte gewonnen werden
     link1: "(siehe auch „Genehmigung von Bergbauprojekten“)."
     p1_2: "Hier kann jedoch den Eigentümern der aufrechterhaltenen alten Förderrechte oder den früheren Bergbauberechtigten das Recht auf Zahlung eines sog. Förderzinses (z. B. bei den sog. Erdölaltverträgen bzw. Erdgasverträgen) durch die Unternehmen zustehen. Unabhängig von der Tätigkeit unterliegen alle Unternehmen des Rohstoffsektors – wie die übrigen Unternehmen auch – der Gewerbe- und Körperschaftsteuer."
@@ -669,7 +668,7 @@ anfallende_zahlungen:
       p1: Im Rahmen der Verbrauchsteuern sind für Unternehmen des Rohstoffsektors besonders die Energie- und die Stromsteuer relevant. Energie- und Stromsteuer sind wie die anderen Verbrauchsteuern explizit aus der Berichtspflicht im Rahmen des handelsrechtlichen (Konzern-)Zahlungsberichts nach EU-Bilanzrichtlinie und deren Umsetzung in § 341r Nr. 3 b) HGB ausgenommen.
       p2: "Das Energie- und das Stromsteuergesetz beruht auf den harmonisierten Vorgaben der EU-Energiesteuerrichtlinie (RL 2003/96/EG des Rates v. 27.10.2003, ABl. EU Nr. L 283, S. 51). Im Rahmen des Gesetzes zum Einstieg in die ökologische Steuerreform wurden die Stromsteuer am 01.04.1999 in Deutschland eingeführt und die Steuersätze der Energiesteuer (damals noch: Mineralölsteuer) stufenweise erhöht. Damit wurden Anreize geschaffen, den Energieverbrauch zu reduzieren und ressourcenschonende Produkte und Produktionsverfahren zu entwickeln."
       p3: Die Rechtsgrundlagen für die Erhebung der Stromsteuer sind das Stromsteuergesetz und die Stromsteuer-Durchführungsverordnung. Das Aufkommen der Stromsteuer steht dem Bund zu und lag im Jahr 2015 bei 6,6 Mrd. Euro. Die Einnahmen aus der Stromsteuer und die im Zusammenhang mit der ökologischen Steuerreform erzielten Mehreinnahmen durch die höhere Besteuerung von Kraft- und Heizstoffen tragen dazu bei, die Sozialversicherungsbeiträge auf einem tragbaren Niveau zu halten. Die Verwaltung und Erhebung erfolgen durch die Zollverwaltung.
-      p4: Die Stromsteuer fällt beim Verbrauch an, wird aber aus Praktikabilitätsgründen in der Regel als indirekte Steuer beim Versorger erhoben und über den Strompreis auf die Verbraucher abgewälzt. Damit werden auch Unternehmen der Rohstoffindustrie grundsätzlich mit Stromsteuer belastet. Der Regelsteuersatz beträgt 20,50 Euro je Megawattstunde. Für verschiedene Zwecke wie z. B. Schienenbahnstrom kommen reduzierte Steuersätze in Betracht, während insbesondere das Produzierende Gewerbe von Steuerentlastungen Gebrauch machen kann.
+      p4: Die Stromsteuer fällt beim Verbrauch an, wird aber aus Praktikabilitätsgründen in der Regel als indirekte Steuer beim Versorger erhoben und über den Strompreis auf die Verbraucher abgewälzt. Damit werden auch Unternehmen der Rohstoffindustrie grundsätzlich mit Stromsteuer belastet. Der Regelsteuersatz beträgt 20,50 Euro je Megawattstunde. Für verschiedene Zwecke wie z. B. Schienenbahnstrom kommen reduzierte Steuersätze in Betracht, während insbesondere das Produzierende Gewerbe von Steuerentlastungen Gebrauch machen kann
       link3: "(siehe „Subventionen und steuerliche Begünstigungen)."
       p5_1: Die Energiesteuer ist eine bundesgesetzlich geregelte Verbrauchsteuer auf Energieerzeugnisse. Mit ihr wird die Verwendung von Energieerzeugnissen als Kraft- oder Heizstoffe innerhalb des deutschen Steuergebiets besteuert. Als Energieerzeugnisse definiert das Energiesteuergesetz insbesondere Benzin, Dieselkraftstoff, leichtes und schweres Heizöl, Flüssiggas, Erdgas und Kohle sowie bei einer Bestimmung als Kraft- oder Heizstoff auch Biodiesel und Pflanzenöl und Energieerzeugnisse ähnlicher Beschaffenheit. Die Höhe der Steuer ist je nach Energieerzeugnis und Verwendungszweck unterschiedlich und im
       link1: Energiesteuergesetz
@@ -709,7 +708,7 @@ offentliche-berichte:
 
   gesetzliche-berichtspflicht:
     title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
-    p1: "Mit dem Bilanzrichtlinie-Umsetzungsgesetz (BilRUG) vom 23. Juli 2015 wurden die Vorgaben aus der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 in deutsches Recht umgesetzt. Die im Handelsgesetzbuch (HGB) verankerten Vorschriften der §§ 341q ff. HGB entsprechen in weiten Teilen den Anforderungen der EITI. Von diesen handelsrechtlichen Berichtspflichten sind alle „großen“ in der mineralgewinnenden Industrie tätigen oder Holzeinschlag in Primärwäldern betreibenden Kapitalgesellschaften und haftungsbeschränkte Personengesellschaften (vgl. § 341q HGB) betroffen. Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei folgenden Kriterien überschreiten (§ 267 Abs. 3 HBG):"
+    p1: "Mit dem Bilanzrichtlinie-Umsetzungsgesetz (BilRUG) vom 23. Juli 2015 wurden die Vorgaben aus der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 in deutsches Recht umgesetzt. Die im Handelsgesetzbuch (HGB) verankerten Vorschriften der §§ 341q ff. HGB entsprechen in weiten Teilen den Anforderungen der EITI. Von diesen handelsrechtlichen Berichtspflichten sind alle „großen“ in der mineralgewinnenden Industrie tätigen oder Holzeinschlag in Primärwäldern betreibenden Kapitalgesellschaften und haftungsbeschränkte Personengesellschaften (vgl. § 341q HGB) betroffen. Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei folgenden Kriterien überschreiten (§ 267 Abs. 3 HGB):"
     l1: Bilanzsumme von 20 Mio. Euro
     l2: Nettoumsatzerlöse von 40 Mio. Euro
     l3: Im Jahresdurchschnitt 250 Beschäftigte
@@ -718,8 +717,12 @@ offentliche-berichte:
 
   gemeinsamkeiten:
     title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
-    p1: Neben den gesetzlichen Berichtspflichten nach BilRUG werden die wichtigsten Finanzströme der rohstoffgewinnenden Industrie auch über die EITI offengelegt (siehe hierzu Kapitel 9). Die handelsrechtlichen Berichtspflichten decken sich in weiten Teilen mit den Berichtspflichten nach EITI. Allerdings bestehen auch Unterschiede.
-    p2: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu Kapitel 9). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
+    p1_1: Neben den gesetzlichen Berichtspflichten nach BilRUG werden die wichtigsten Finanzströme der rohstoffgewinnenden Industrie auch über die EITI offengelegt (siehe hierzu
+    link1: Zahlungsabgleich
+    p1_2: ). Die handelsrechtlichen Berichtspflichten decken sich in weiten Teilen mit den Berichtspflichten nach EITI. Allerdings bestehen auch Unterschiede.
+    p2_1: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu
+    link2: Zahlungsabgleich
+    p2_2: ). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
     p3: Im Gegensatz zu BilRUG setzt EITI auf die beiderseitige Offenlegung der Zahlungsströme. So muss zwecks Zahlungsabgleich auch die staatliche Seite Einblick in ihre Einkünfte aus dem Rohstoffsektor gewähren. In diesem Zusammenhang ist es ein Hauptanliegen der EITI, jedem Interessierten die Zahlungsströme in Form von Open Data zugänglich zu machen und damit die öffentliche Debatte zu unterstützen.
 
 verwendung-der-einnahmen:
@@ -1339,8 +1342,9 @@ wasser:
           title: Rechtlicher Rahmen der Wasserentnahme
         - name: ausgestaltung
           title: Ausgestaltung der Wasserentnahmeentgelte
-    - name: wasserentnahmeentgelte
-      title: Wasserentnahmeentgelte im Rohstoffsektor
+        - name: wasserentnahmeentgelte
+          title: Wasserentnahmeentgelte im Rohstoffsektor
+  chart-title: "Wasserentnahme im Rohstoffsektor nach Bundesländern im Jahr 2013"
   wasserentnahme:
     title: "Wasserentnahme zur Rohstoffförderung"
     p1_1: "Im Zuge des Abbaus und der Weiterverarbeitung von Rohstoffen kann die Entnahme von Grund- und Oberflächenwasser erforderlich sein. Wie viel Wasser für Aktivitäten des Rohstoffsektors entnommen wird, veröffentlichen die zuständigen statistischen Landesämter der einzelnen Bundesländer."
@@ -1348,7 +1352,7 @@ wasser:
       title: "4"
       text: "Quelle: Statistisches Bundesamt, Umweltökonomische Gesamtrechnung"
       link: https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html
-    p1_2: Eine Übersicht hierzu bietet Abbildung 4.
+    p1_2: Eine Übersicht hierzu bietet Abbildung siehe unten.
     p2_1: Der Sektor „Bergbau und Gewinnung von Steinen und Erden“ entnahm im Jahr 2013 insgesamt 1.583 Mio. m³ Wasser aus Gewässern (i.W. Grundwasser). Davon entfiel rund drei Viertel auf den Kohlebergbau. Dies entspricht etwa 5% des gesamten  2013 in Deutschland durch Wirtschaft und Privathaushalte entnommenen Wassers.
     sup5:
       title: "5"
@@ -1410,7 +1414,7 @@ subventionen-und-steuerliche-begünstigungen:
       title: Zuschüsse für den Absatz der Steinkohle
       subnav_items:
         - name: 1-entwicklung
-          title: Etwicklung
+          title: Entwicklung
         - name: 1-kontrolle
           title: Kontrolle
         - name: 1-vorsorge
@@ -1422,10 +1426,8 @@ subventionen-und-steuerliche-begünstigungen:
           title: Beschäftigte
         - name: kontrolle
           title: Kontrolle
-        - name: begünstigungen
-          title: Begünstigungen für Strom- und Energiesteuer
-        - name: table
-          title: Ausgewählte Begünstigungen bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe
+    - name: begünstigungen
+      title: Begünstigungen für Strom- und Energiesteuer
 
   p1:
     p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
@@ -1438,7 +1440,7 @@ subventionen-und-steuerliche-begünstigungen:
     chart2_source: "Quelle: Subventionsbericht Bundesregierung, eigene Darstellung (siehe Endnote)"
     entwicklung:
       title: Entwicklung
-      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Millionen Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u. a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
+      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Mio. Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u. a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
     kontrolle:
       title: Kontrolle
       p: "Die Subventionierung des deutschen Steinkohlenbergbaus ist im Rahmen der EU genehmigungspflichtig und wurde von der EU-Kommission geprüft und genehmigt. Zudem werden die bereitgestellten Beihilfen hinsichtlich ihrer zweckentsprechenden Verwendung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfer/innen jährlich überprüft."
@@ -1496,7 +1498,7 @@ subventionen-und-steuerliche-begünstigungen:
         td4: 160 Mio. €
         td5: 160 Mio. €
       row2:
-        td1: Allgemeine Steuer-vergünstigung (§ 9b StromStG)
+        td1: Allgemeine Steuervergünstigung (§ 9b StromStG)
         td2: 975 Mio. €
         td3: 1.038 Mio. €
         td4: 1.000 Mio. €
@@ -1644,20 +1646,24 @@ gesamtdeutsche_rohstoffproduktion:
     p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
   quarzkies_und_sand:
     title: Quarzkies und –sand
-    p: Die Gewinnung von Quarzkiese und –sanden belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u. a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
+    p1_1: Die Gewinnung von Quarzkiese und –sanden
+    sup2:
+      title: "2"
+      text: "In [BMWi 2016] wird eine andere Klassifikation betrachtet, nämlich Quarz und Quarzsand. Davon sind Quarzsand und-kies nur eine Untermenge, die nicht eigens nach Bergrecht ausgewiesen wird. Für die Schätzung des Wertes werden deshalb hier die Daten aus [MIRO 2016] übernommen."
+    p1_2: belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u. a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
   kies_und_sand:
     title: Kies und Sand und gebrochener Naturstein
-    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet. Hier kommen sie z. B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
+    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet (BGR 2016). Hier kommen sie z. B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
     sup1:
       title: "1"
-      text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
+      text: "Alle Angaben aus [MIRO 2016]. Die geförderte Menge in [BMWi 2016] zu Kiesen und Kiessanden ist wesentlich geringer, da nur ein Bruchteil der Unternehmen unter das Bergrecht fällt."
   naturwerkstein:
     title: Naturwerkstein
     p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z. B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
   kalk_mergel:
     title: Kalk-/Mergel- und Dolomitstein
     p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u. a. im Haus- und Straßenbau sowie bei der Produktion von z. B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
-    p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
+    p2_1: "Quellenverzeichnis [DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
     p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
@@ -2010,10 +2016,10 @@ bip:
       title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
       p1_1: "Mit einem"
       p1_2: "Bruttoinlandsprodukt"
-      p1_3: "von rund 3.032,82 Milliarden Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
+      p1_3: "von rund 3.032,82 Mrd. Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
       p1_4: "Bruttowertschöpfung"
-      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Milliarden Euro, was einem Anteil von"
-      p1_6: "0,14%"
+      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Mrd. Euro, was einem Anteil von"
+      p1_6: "0,14 %"
       p1_7: "am BIP entspricht."
       daten: Daten Einsehen
 
@@ -2068,11 +2074,11 @@ exporte:
       - name: title
         title: Seitenanfang
       - name: chart1
-        title: Deutsche Rohstoffexporte (Wert) 2012 – 2016
+        title: Rohstoffexporte nach Wert
       - name: chart2
-        title: Deutsche Rohstoffexporte 2012 – 2016 (Menge)
+        title: Rohstoffexporte nach Menge
     p: Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2016 exportierte das Land Waren im Wert von insgesamt rund 1,2 Billionen Euro. Dabei entfielen rund 6,6 Milliarden Euro auf Waren der rohstoffgewinnenden Industrie, was einem Anteil von 0,54 % an den Gesamtexporten entspricht. Der Bereich „Erdöl und Erdgas“ machte mit knapp 5 Milliarden Euro den größten Anteil an den Exporten aus. Dabei handelt es sich allerdings überwiegend um Re-Exporte von Erdgas. Das im Inland geförderte Erdgas wird fast vollständig auch in Deutschland verbraucht. Gefolgt wird dieser Bereich vom Sektor „Steine und Erden, sonstiger Bergbau“ mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von rund 130 Mio. Euro und Kohle von ca. 125 Mio. Euro exportiert. Auch hier beinhalten die Zahlen die Re-Exporte, allerdings in weit geringerem Umfang als beim Erdgas.
-    daten_einsehen: Daten Einsehen
+    daten_einsehen: "Detaillierte Quellenangabe siehe Daten einsehen. Eigene Darstellung."
 
 auswahl-sektoren:
   title: Auswahl der Sektoren
@@ -3300,7 +3306,7 @@ downloads:
     - name: production-title-1
       title: Daten zur interaktiven Rohstoffkarte
     - name: chart-title-1
-      title: Daten zur gesammtdeutschen Rohstoffproduktion
+      title: Daten zur gesamtdeutschen Rohstoffproduktion
       subnav_items:
         - name: steinkohle
           title: Steinkohle
@@ -3355,9 +3361,12 @@ downloads:
   download_label: Download der Produktionsdaten
   download_link: Daten herunterladen
   download_label_förderabgaben: Download der Daten
-  h2: Daten zur gesammtdeutschen Rohstoffproduktion
-  p2: Die Zahlen zu den Produktionsmengen (Kapitel 2b) von Steinkohle, Braunkohle, Erdöl, Erdgas, Kalisalz, Spezialton, Steinsalz und Industriesole, basieren auf den Angaben der BMWi Publikation „Der Bergbau in der Bundesrepublik Deutschland 2015“. Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von Rohstoffen in Deutschland erhält.
-  p3: Die Daten zur Gewinnung der Bodenschätze werden über die Bergämter erhoben und umfassen alle nutzbaren Bodenschätze, die nach den Vorschriften des BBbergG unter Aufsicht der Behörde gewonnen werden sowie Erzeugnisse, die durch Be- oder Verarbeitung der vorgenannten Bodenschätze anfallen oder hergestellt werden. D. h. bei Bodenschätzen, die nur teilweise unter Bergrecht fallen, gibt die Statistik kein umfassendes Bild. Deshalb liegen die Angaben von Produktionsmengen von Quarzkies und -sand (Bundesverband Mineralische Rohstoffe (MIRO) 2016), Kies und Sand (MIRO 2016), gebrochenem Naturstein (MIRO 2016), Kalk-, Mergel und Dolomitstein (Bundesverband der Deutschen Kalkindustrie (BVK)) sowie für Naturwerkstein (Deutscher Naturwerkstein-Verband (DNV)) die Daten der Verbände zugrunde. Für Kaolin wird auf die Schätzung der BGR (BGR 2016) zurückgegriffen, da der Wert von 3,7 Mio. t  (BMWi 2016) sich nicht auf die am Markt erhältlichen Produkte bezieht.
+  h2: Daten zur gesamtdeutschen Rohstoffproduktion
+  p2_1: Die Zahlen zu den Produktionsmengen von Steinkohle, Braunkohle, Erdöl, Erdgas, Kalisalz, Spezialton, Steinsalz und Industriesole, basieren auf den Angaben der BMWi Publikation
+  link2_1: „Der Bergbau in der Bundesrepublik Deutschland 2015“.
+  p2_2: Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von Rohstoffen in Deutschland erhält.
+  p3_1: Die Daten zur Gewinnung der Bodenschätze werden über die Bergämter erhoben und umfassen alle nutzbaren Bodenschätze, die nach den Vorschriften des BBbergG unter Aufsicht der Behörde gewonnen werden sowie Erzeugnisse, die durch Be- oder Verarbeitung der vorgenannten Bodenschätze anfallen oder hergestellt werden. D. h. bei Bodenschätzen, die nur teilweise unter Bergrecht fallen, gibt die Statistik kein umfassendes Bild. Deshalb liegen die Angaben von Produktionsmengen von Quarzkies und -sand (Bundesverband Mineralische Rohstoffe (MIRO) 2016), Kies und Sand (MIRO 2016), gebrochenem Naturstein (MIRO 2016), Kalk-, Mergel und Dolomitstein (Bundesverband der Deutschen Kalkindustrie (BVK)) sowie für Naturwerkstein (Deutscher Naturwerkstein-Verband (DNV)) die Daten der Verbände zugrunde. Für Kaolin wird auf die Schätzung der BGR (BGR 2016) zurückgegriffen, da der Wert von 3,7 Mio. t
+  p3_2: sich nicht auf die am Markt erhältlichen Produkte bezieht.
   p4: Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände oder verschiedener Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2015 (BGR 2016). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach DESTATIS), Steinsalz und Industriesole (Berechnung nach DESTATIS) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind MIRO 2016 entnommen. Die Werte der Produktion der Natursteine DNV 2016 und von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen.
   h3: Daten zum Beitrag zum BIP
   p5:
@@ -3403,7 +3412,11 @@ downloads:
     link: "https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/ThemaFinanzen.html"
   förderabgaben:
     title: Daten zu Feldes- und Förderabgaben
-    p1_1: Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den
+    p1_1: "Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen
+    Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den Abrechnungen des Länderfinanzausgleichs auf der Internetseite des
+    BMF veröffentlicht."
+    p1_2: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von drei Bundesländern
+    die Einnahmen aus den Feldesabgaben vor:"
     link: Abrechnungen des Länderfinanzausgleichs
     link_data: "http://www.bundesfinanzministerium.de/Web/DE/Themen/Oeffentliche_Finanzen/Foederale_Finanzbeziehungen/Laenderfinanzausgleich/laenderfinanzausgleich.html"
     p1_2: auf der Internetseite des BMF veröffentlicht.
@@ -3416,6 +3429,8 @@ downloads:
     link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
     link4: Nordrhein-Westfalen.
     link4_data: "https://www.landtag.nrw.de/web/WWW/haushalt/cd-fm-0916/daten/pdf/2017/gesamt_2017.pdf"
+    label1: "Download der Daten zu Förderabgaben"
+    label2: "Download der Daten zu Feldesabgaben"
   umsatz:
     title: Daten zu Umsatz Steine und Erden
     p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
@@ -3432,6 +3447,16 @@ downloads:
     p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den ersten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
     link2: "pdf"
     p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
+
+  daten-zum-deiti-bericht:
+    title: Daten zum 1. D-EITI Bericht"
+    p1: "Die Multi-Stakeholder-Gruppe (MSG) der deutschen Initiative für Transparenz im rohstoffgewinnenden Sektor (D-EITI) hat sich für die Umsetzung des Prinzips offener Daten im Rahmen der D-EITI festgelegt."
+    link1: "Das Open-Data-Konzept"
+    p2: "kommt ausdrücklich nur für Daten und Informationen, die öffentlich sind bzw. deren Veröffentlichung im Rahmen der D-EITI durch die MSG beschlossen wurde, und nur im Rahmen der geltenden rechtlichen Grundlagen zur Anwendung. Alle Daten sind ohne Nutzungsbeschränkungen gemeinfrei verfügbar nach der"
+    link2: "CC BY 4.0 Lizens"
+    p3: "sowie"
+    link3: "der Datenlizenz Deutschland Version 2.0."
+    p4: "Download der aggregierten Daten aus dem 1. D-EITI-Bericht"
 
 about:
     title: About D-EITI
