@@ -1426,7 +1426,7 @@ subventionen-und-steuerliche-begünstigungen:
   daten_einsehen_pre: Detaillierte Quellenangabe siehe
   daten_einsehen: Daten einsehen
   daten_einsehen_post: . Eigene Darstellung.
-  
+
   p1:
     p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
     k1: Begünstigungen für Strom- und Energiesteuer
@@ -1977,13 +1977,6 @@ einnahmen:
           td1: Brandenburg
           td2: "29.578"
 
-    umsatz:
-      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88 %) auf Inlandsumsätze und 1,1 Mrd. Euro (12 %) auf Umsätze mit dem Ausland.
-      daten_einsehen: Daten einsehen
-      star1:
-        title: "*"
-        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07), bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten"
 
 
 
@@ -2007,6 +2000,16 @@ bip:
       p1_6: "0,14 %"
       p1_7: "am BIP entspricht."
       daten: Daten Einsehen
+    umsatz:
+      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
+      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88 %) auf Inlandsumsätze und 1,1 Mrd. Euro (12 %) auf Umsätze mit dem Ausland.
+      daten_einsehen: Daten einsehen
+      star1:
+        title: "*"
+        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07), bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten"
+    daten_einsehen_pre: Detaillierte Quellenangabe siehe
+    daten_einsehen: Daten einsehen
+    daten_einsehen_post: . Eigene Darstellung.
 
 beschäftigung:
     title: Beschäftigung

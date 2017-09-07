@@ -1999,17 +1999,6 @@ einnahmen:
         row4:
           td1: Nordrhein-Westfalen
           td2: "1452"
-    umsatz:
-      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88%) auf Inlandsumsätze und 1,1 Mrd. Euro (12%) auf Umsätze mit dem Ausland.
-      daten_einsehen: Daten einsehen
-      star1:
-        title: "*"
-        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07)"
-      star2:
-        title: "**"
-        text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
-
 bip:
     title: "BIP und Umsatz"
     nav_items:
@@ -2030,6 +2019,19 @@ bip:
       p1_6: "0,14 %"
       p1_7: "am BIP entspricht."
       daten: Daten Einsehen
+    umsatz:
+      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
+      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88%) auf Inlandsumsätze und 1,1 Mrd. Euro (12%) auf Umsätze mit dem Ausland.
+      daten_einsehen: Daten einsehen
+      star1:
+        title: "*"
+        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07)"
+      star2:
+        title: "**"
+        text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
+    daten_einsehen_pre: Detaillierte Quellenangabe siehe
+    daten_einsehen: Daten einsehen
+    daten_einsehen_post: . Eigene Darstellung.
 
 beschäftigung:
     title: Beschäftigung
