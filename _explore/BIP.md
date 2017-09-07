@@ -61,7 +61,7 @@ breadcrumb:
           <p>
             {% t bip.daten_einsehen_pre %}
             <a href="{{site.baseurl}}/downloads/#bip">
-              <icon class="fa fa-file-text-o u-padding-right"></icon>
+              <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
               {% t bip.daten_einsehen %}
             </a>
             {% t bip.daten_einsehen_post %}
