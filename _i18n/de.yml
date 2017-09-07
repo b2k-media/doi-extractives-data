@@ -1145,7 +1145,7 @@ umgang-mit-der-natur:
         td4: Ja
         td5: Nein
         td6: Onlinearchive der
-        link: Landkreise.
+        link: Landkreise
       row2:
         td1: Bayern
         td2: Ja
@@ -1153,7 +1153,7 @@ umgang-mit-der-natur:
         td4: Ja
         td5: Nein
         td6: Daten-
-        link: Download.
+        link: Download
       row3:
         td1: Berlin
         td2: Ja
@@ -1161,7 +1161,7 @@ umgang-mit-der-natur:
         td4: Nein
         td5: Nein
         td6: Browserbasierter
-        link:  Kartendienst.
+        link:  Kartendienst
       row4:
         td1: Brandenburg
         td2: Nein
@@ -1178,7 +1178,7 @@ umgang-mit-der-natur:
         td6_1: Daten
         link1: -Download;
         td6_2: Browserbasierter
-        link2: Kartendienst.
+        link2: Kartendienst
       row6:
         td1: Hamburg
         td2: Ja
@@ -1186,7 +1186,7 @@ umgang-mit-der-natur:
         td4: Nein
         td5: Nein
         td6: Browserbasierter.
-        link: Kartendienst.
+        link: Kartendienst
       row7:
         td1: Hessen
         td2: Ja
@@ -1194,7 +1194,7 @@ umgang-mit-der-natur:
         td4: Ja
         td5: Nein
         td6: Browserbasierter.
-        link: Kartendienst.
+        link: Kartendienst
       row8:
         td1: Mecklenburg-Vorpommern
         td2: Ja
@@ -1203,41 +1203,43 @@ umgang-mit-der-natur:
         td5: Nein
         link1: Download;
         td6: Browserbasierter
-        link2: Kartendienst.
+        link2: Kartendienst
       row9:
         td1: Niedersachsen
         td2: Teilweise
         td3: Nein
         td4: Teilweise (s. Bsp. Landkreis Cuxhaven)
         td5: Nein
-        td6: Browserbasierter Kartendienst am Bsp. LK .
-        link: Cuxhaven.
+        td6: Browserbasierter Kartendienst am Bsp. LK.
+        link: Cuxhaven
       row10:
         td1: Nordrhein-Westfalen
         td2: Geplant
         td3: Nein
         td4: Ja
         td5: Nein
+        td6: "-"
       row11:
         td1: Rheinland-Pfalz
         td2: Ja
         td3: Ja
         td4: Ja
         td5: Nein
-        link: Kartendienst.
+        link: Kartendienst
       row12:
         td1: Saarland
         td2: Nein
         td3: Nein
         td4: Nein
         td5: Nein
+        td6: "-"
       row13:
         td1: Sachsen
         td2: Nein
         td3: Ja
         td4: Nein
         td5: Nein
-        link: Beschreibung.
+        link: Beschreibung
       row14:
         td1: Sachsen-Anhalt
         td2: "Teilweise (Ökokonten: Ja, Kompensationsverzeichnis: Nein)"
@@ -1252,13 +1254,14 @@ umgang-mit-der-natur:
         td4: Nein
         td5: Nein
         td6: Browserbasierter
-        link: Kartendienst.
+        link: Kartendienst
       row16:
         td1: Thüringen
         td2: Nein
         td3: Ja
         td4: Ja
         td5: Nein
+        td6: "-"
     table_source: "Quelle: eigene Darstellung, Stand: Mai 2017"
 
     beispiel:
@@ -1289,10 +1292,10 @@ umgang-mit-der-natur:
     beispiel_für_festsetzung:
       title: Beispiel für die Festsetzung von Ersatzgeldzahlungen in Nordrhein-Westfalen (NRW)
       p1: Ersatzgeld kann als Ultima Ratio bei einem zugelassenen Eingriff erhoben werden, wenn Beeinträchtigungen der Natur nicht zu vermeiden oder in angemessener Frist auszugleichen oder zu ersetzen sind. Nach dem BNatSchG richtet sich die Ersatzgeldzahlung nach den durchschnittlichen Kosten der nicht durchführbaren Kompensationsmaßnahmen einschließlich der erforderlichen Kosten für deren Planung und Unterhaltung sowie die Flächenbereitstellung unter Einbeziehung der Personal- und sonstigen Verwaltungskosten. Sind diese nicht feststellbar, bemisst sich die Ersatzgeldzahlung nach Dauer und Schwere des Eingriffs unter Berücksichtigung der dem Verursacher daraus erwachsenden Vorteile (§ 15 Abs. 6 S. 1ff. BNatSchG).
-      p2: Bei der Zulassung der Aktivitäten der rohstofffördernden Industrie in NRW ist die Festsetzung von Ersatzgeldzahlungen die Ausnahme. Dennoch gibt es Fälle, bei denen z. B. der überwiegende Teil der Kompensation in der Rekultivierung erfolgt, ein kleines rechnerisches Kompensationsdefizit aber noch auf einer externen Fläche umzusetzen wäre oder die Festsetzung der Kompensation durch Wiedernutzbarmachung nicht zweckmäßig ist. Wenn diese Fläche bzw. die erforderliche Maßnahme mit verhältnismäßigem Aufwand nicht verfügbar, nicht umsetzbar bzw. nicht zweckmäßig ist, erfolgt eine entsprechende Ersatzgeldfestsetzung. In NRW wird diese Festsetzung entsprechend den Vorgaben des Landesnaturschutzgesetzes (LG) im Benehmen mit der jeweils zuständigen höheren Landschaftsbehörde vorgenommen (§ 6 Abs. 1 LG).
-      p3: Empfänger des Ersatzgeldes ist die regional zuständige untere Landschaftsbehörde, welche das Ersatzgeld zweckgebunden für Maßnahmen des Naturschutzes und der Landschaftspflege zu verwenden hat (§ 4a Abs. 1 LG). Soweit das Ersatzgeld für einen Eingriff in Waldflächen zu zahlen oder für eine Aufforstung von Flächen zu verwenden ist, wird es der Forstverwaltung zu Verfügung gestellt (§ 4a Abs. 2 LG).
-      p4: Beispiele für Ersatzgeldfestsetzungen sind die Kiestagebaue im Tagebauvorfeld der Braunkohlevorhaben. In drei Tagebauen war eine ökologisch wertvolle Wiedernutzbarmachung nicht angezeigt, weil im direkten Anschluss zur Kies- bzw. Sandgewinnung der Braunkohlentagebau die Fläche nutzt. Für diese Fälle hat die dortige untere Landschaftsbehörde ein vereinfachtes Bewertungsverfahren entwickelt, mit welchem eine angemessene Ersatzgeldzahlung ermittelt werden kann. Für die drei vorgenannten Vorhaben sind insgesamt Ersatzgeldzahlungen von 265.767,90 Euro festgesetzt worden.
-      p5: Für einen weiteren Kiestagebau wurde im Rahmen einer kleinflächigen Erweiterungsplanung ein Ersatzgeld festgesetzt, sofern die beabsichtigte Rekultivierung nicht umgesetzt werden kann. Mit dem eingenommenen Ersatzgeld von 21.900 Euro soll dann die untere Landschaftsbehörde des Kreises eine andere gleichwertige Kompensationsmaßnahme umsetzen. (Bei den vorgenannten Beispielen handelt es sich nicht um eine abschließende Aufzählung).
+      p2: Bei der Zulassung der Aktivitäten der rohstofffördernden Industrie in NRW ist die Festsetzung von Ersatzgeldzahlungen die Ausnahme. Dennoch gibt es Fälle, bei denen z. B. der überwiegende Teil der Kompensation in der Rekultivierung erfolgt, ein kleines rechnerisches Kompensationsdefizit aber noch auf einer externen Fläche umzusetzen wäre oder die Festsetzung der Kompensation durch Wiedernutzbarmachung nicht zweckmäßig ist. Wenn diese Fläche bzw. die erforderliche Maßnahme mit verhältnismäßigem Aufwand nicht verfügbar, nicht umsetzbar bzw. nicht zweckmäßig ist, erfolgt eine entsprechende Ersatzgeldfestsetzung. In NRW wird diese Festsetzung entsprechend den Vorgaben des Landesnaturschutzgesetzes (LNatSchG NRW) im Benehmen mit der jeweils zuständigen höheren Naturschutzbehörde vorgenommen (§ 33 Abs. 1 LNatSchG NRW).
+      p3: Empfänger des Ersatzgeldes ist die regional zuständige untere Naturschutzbehörde, welche das Ersatzgeld zweckgebunden für Maßnahmen des Naturschutzes und der Landschaftspflege zu verwenden hat (§ 31 Abs. 4 LNatschG NRW ). Soweit das Ersatzgeld für einen Eingriff in Waldflächen zu zahlen oder für eine Aufforstung von Flächen zu verwenden ist, wird es der Forstverwaltung zu Verfügung gestellt (§ 31 Abs. 4 LNatschG NRW).
+      p4: Beispiele für Ersatzgeldfestsetzungen sind die Kiestagebaue im Tagebauvorfeld der Braunkohlevorhaben. In drei Tagebauen war eine ökologisch wertvolle Wiedernutzbarmachung nicht angezeigt, weil im direkten Anschluss zur Kies- bzw. Sandgewinnung der Braunkohlentagebau die Fläche nutzt. Für diese Fälle hat die dortige untere Landschaftsbehörde ein vereinfachtes Bewertungsverfahren entwickelt, mit welchem eine angemessene Ersatzgeldzahlung ermittelt werden kann. Für die drei vorgenannten Vorhaben sind insgesamt Ersatzgeldzahlungen von 265.767,90 € festgesetzt worden.
+      p5: Für einen weiteren Kiestagebau wurde im Rahmen einer kleinflächigen Erweiterungsplanung ein Ersatzgeld festgesetzt, sofern die beabsichtigte Rekultivierung nicht umgesetzt werden kann. Mit dem eingenommenen Ersatzgeld von 21.900 € soll dann die untere Naturschutzbehörde des Kreises eine andere gleichwertige Kompensationsmaßnahme umsetzen. (Bei den vorgenannten Beispielen handelt es sich nicht um eine abschließende Aufzählung).
       p6: In den Jahren zwischen 2011 und 2015 hat es bei der Bergbehörde NRW Ersatzgeldfestsetzungen von insgesamt ca. 300.000 Euro gegeben. Für die Braunkohlenbergbaue in NRW hat es bisher keine Ersatzgeldzahlungen gegeben; die Eingriffskompensation erfolgt überwiegend in der Wiedernutzbarmachung. Das Verhältnis der vielen und teilweise auch sehr großflächigen Tagebauvorhaben (insbesondere im Braunkohlenbergbau) unter Bergrecht in NRW zu den wenigen vorgenannten kleinen Vorhaben zeigt, dass die Festsetzung von Ersatzgeld in den bergrechtlichen Verfahren eine untergeordnete Rolle spielt.
 
     kooperation_zwischen:

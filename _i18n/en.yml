@@ -1227,6 +1227,7 @@ umgang-mit-der-natur:
         td3: Nein
         td4: Ja
         td5: Nein
+        td6: "-"
       row11:
         td1: Rheinland-Pfalz
         td2: Ja
@@ -1240,6 +1241,7 @@ umgang-mit-der-natur:
         td3: Nein
         td4: Nein
         td5: Nein
+        td6: "-"
       row13:
         td1: Sachsen
         td2: Nein
@@ -1268,6 +1270,7 @@ umgang-mit-der-natur:
         td3: Ja
         td4: Ja
         td5: Ja
+        td6: "-"
     table_source: "Quelle: eigene Darstellung, Stand: Mai 2017"
 
     beispiel:
