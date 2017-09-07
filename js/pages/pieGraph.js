@@ -1,12 +1,14 @@
 $(document).ready(function(){
 
   var jsonFilePath= '';
+  var orderPieChart= false;
   if (document.URL.search('/explore/employment/') > 1) {
     jsonFilePath = "../../data/graphs/employment.json";
   // } else if (document.URL.search('explore/how-it-work/erneuerbare_energien/') > 1) {
   //   jsonFilePath = "../../../data/graphs/erneuerbare_energien.json";
   } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich_Pie.json";
+    orderPieChart = true;
   }
 
   var isEn = document.URL.search('/en/');
@@ -19,7 +21,10 @@ $(document).ready(function(){
     type: "GET",
     url: jsonFilePath,
     dataType: "text",
-    success: function(data) {processData(data);}
+    success: function(data) {
+      processData(data);
+      orderLegends();
+    }
   });
 
   function processData(data) {
@@ -56,5 +61,14 @@ $(document).ready(function(){
         },
         title: plotData.title
     });
+  }
+
+  function orderLegends() {
+    if (orderPieChart) {
+      var legentChart1 = $("#pieChart table.jqplot-table-legend tbody");
+      legentChart1.children().each(function(i, tr){
+        legentChart1.prepend(tr)
+      });
+    }
   }
 });
