@@ -19,6 +19,10 @@ breadcrumb:
           {% t einnahmen.link %}
         </a>
         {% t einnahmen.p1_2 %}
+        <a href="{{site.baseurl}}/explore/how-it-work/umgang-mit-der-natur/">
+          {% t einnahmen.link1 %}
+        </a>
+        {% t einnahmen.p1_3 %}
       </p>
       <section id="steuern" style="position: relative;">
         <h2 id="beschäftigte">
