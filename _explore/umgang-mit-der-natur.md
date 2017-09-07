@@ -62,9 +62,9 @@ breadcrumb:
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.dokumentation_von_kompensationsmaßnahmen.p1 %}
         </p>
 
-        <h3 id="table">
+        <div class="chart-title-style" id="table">
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.title %}
-        </h3>
+        </div>
         <table class="verwendung_der_einnahmen_table">
           <tbody>
             <tr>
@@ -193,7 +193,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row10.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row10.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row10.td5 %}</td>
-              <td></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row10.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td1 %}</td>
@@ -213,7 +213,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row12.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row12.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row12.td5 %}</td>
-              <td></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row12.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td1 %}</td>
@@ -257,11 +257,11 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row16.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row16.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row16.td5 %}</td>
-              <td></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row16.td6 %}</td>
             </tr>
           </tbody>
         </table>
-        <p>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table_source %}</p>
+        <p style="font-size: 0.75rem;">{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table_source %}</p>
 
         <h3 id="beispiel">
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.title %}

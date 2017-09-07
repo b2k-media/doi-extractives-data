@@ -30,10 +30,6 @@ breadcrumb:
         </h2>
         <p>{% t einnahmen.steuern.p1 %}</p>
         <p>{% t einnahmen.steuern.p2 %}</p>
-        <a target="_blank" href="{{site.baseurl}}/downloads/#steuern">
-          <icon class="fa fa-file-text-o u-padding-right"></icon>
-          {% t einnahmen.steuern.daten_einsehen %}
-        </a>
         <br/>
       </section>
       <br/>
@@ -42,7 +38,7 @@ breadcrumb:
         <table class="einnahmen_table">
           <tbody>
             <tr>
-              <th><strong>{% t einnahmen.steuereinnahmen.th1 %}</strong></th>
+              <td><strong>{% t einnahmen.steuereinnahmen.th1 %}</strong></td>
               <th></th>
               <th></th>
               <th></th>
@@ -181,12 +177,12 @@ breadcrumb:
         <br/><br/>
         <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p><br/>
         <div class="chart-title-style" style="padding-bottom: 20px">{% t einnahmen.förder_feldesabgaben.table1.title %}</div>
-        <table class="einnahmen_table_1">
+        <table class="einnahmen_table_1" style="width: 100%">
           <tbody>
             <tr>
-              <th><strong>{% t einnahmen.förder_feldesabgaben.table1.th1 %}</strong></th>
-              <th><strong>{% t einnahmen.förder_feldesabgaben.table1.th2 %}</strong></th>
-              <th><strong>{% t einnahmen.förder_feldesabgaben.table1.th3 %}</strong></th>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table1.th1 %}</strong></td>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table1.th2 %}</strong></td>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table1.th3 %}</strong></td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table1.row1.td1 %}</td>
@@ -337,35 +333,7 @@ breadcrumb:
         </p>
       </section>
       <br/>
-      <section id="umsatz" style="position: relative;">
-        <h3>
-          {% t einnahmen.umsatz.title %}
-        </h3>
-        <p>{% t einnahmen.umsatz.p1 %}</p>
-        <div class="explore-exploration slab-alpha">
-          <div class="regions container">
-            <div class="graph">
-              <div class="container chart-container">
-                <div id="chart1"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <br/>
-      </section>
-      <section id="explanation" style="position: relative; margin-top: 110px !important;">
-        <p id="explanation-11">
-          <sup style="font-size: 20px; font-weight: bold">{% t einnahmen.umsatz.star1.title %}</sup>
-          {% t einnahmen.umsatz.star1.text %}
-        </p>
-        <div >
-          <a target="_blank" href="{{site.baseurl}}/downloads/#umsatz">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>
-            {% t einnahmen.umsatz.daten_einsehen %}
-          </a>
-        </div>
-      </section>
+      
     </div>
 
     <div class="sticky sticky_nav container-right-3">

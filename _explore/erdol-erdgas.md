@@ -45,6 +45,7 @@ breadcrumb:
               <a href="#explanation-1">
                 {% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.sup1.title %}</a>
             </sup>
+            {% t point %}
           </p>
         </section>
         <section id="erdol-gewinnung" style="position: relative;">
@@ -86,6 +87,7 @@ breadcrumb:
               <a href="#explanation-2">
                 {% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.sup2.title %}</a>
             </sup>
+              {% t point %}
           </p>
         </section>
         <section id="erdgas-gewinnung" style="position: relative;">

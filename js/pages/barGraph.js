@@ -27,8 +27,9 @@ $(document).ready(function(){
   } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
     xAxisNoDecimal = true;
-  } else if (document.URL.search('explore/einnahmen/') > 1) {
-    jsonFilePath = "../../data/graphs/einnahmen.json";
+  } else if (document.URL.search('explore/BIP/') > 1) {
+    jsonFilePath = "../../data/graphs/BIP.json";
+    xAxisNoDecimal = true;
     orderSeries1 = true;
   } else if (document.URL.search('explore/how-it-work/wasser/') > 1) {
     jsonFilePath = "../../../data/graphs/wasser.json";
@@ -37,7 +38,7 @@ $(document).ready(function(){
     noDotDisplayDecimal = true;
   } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich.json";
-    displayTwoDecimalPoints = true;
+    xAxisNoDecimal = true;
     orderSeries1 = true;
     orderSeries2 = true;
   }
