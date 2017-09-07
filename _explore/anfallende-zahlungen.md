@@ -60,7 +60,7 @@ breadcrumb:
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.feldes-und-förderabgaben.p3 %}
-          <a target="_blank"  href="{{site.baseurl_root}}/downloads/Landesrechtliche_Regelungen_zu_Feldes-und_Förderabgaben-Auszug_D-EITI-Bericht_für_2016.pdf">
+          <a target="_blank"  href="{{site.baseurl_root}}/downloads/Landesrechtliche_Regelungen_zu_Feldes-und_Forderabgaben-Auszug_D-EITI-Bericht_fur_2016.pdf">
             {% t anfallende_zahlungen.zahlungen-industrie.feldes-und-förderabgaben.link2 %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.feldes-und-förderabgaben.p4 %}
