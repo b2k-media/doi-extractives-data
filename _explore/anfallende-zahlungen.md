@@ -136,6 +136,7 @@ breadcrumb:
               {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.sup.title %}
             </a>
           </sup>
+          {% t point %}
         </p>
         <br/>
         <section id="explanation" style="position: relative;">

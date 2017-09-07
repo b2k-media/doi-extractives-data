@@ -37,7 +37,12 @@ breadcrumb:
       </div>
       <br/><br/>
       <p class="source">
-        {% t subventionen-und-steuerliche-begünstigungen.p1.chart1_source %}
+        {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_pre %}
+        <a href="{{site.baseurl}}/downloads/#steuern">
+          <icon class="fa fa-file-text-o u-padding-right"></icon>
+          {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen %}
+        </a>
+        {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_post %}
       </p>
       <h2 id="zuschusse-fur-den-absatz-der-steinkohle" class="margin-class">{% t subventionen-und-steuerliche-begünstigungen.zuschusse.title %}</h2>
       <p>
@@ -67,8 +72,14 @@ breadcrumb:
       </div>
       <br/>
       <p class="source">
-        {% t subventionen-und-steuerliche-begünstigungen.zuschusse.chart2_source %}
+        {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_pre %}
+        <a href="{{site.baseurl}}/downloads/#steuern">
+          <icon class="fa fa-file-text-o u-padding-right"></icon>
+          {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen %}
+        </a>
+        {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_post %}
       </p>
+
       </section>
       <section id="anpassungsgeldentnahme" style="position: relative;">
       <br/>
@@ -96,7 +107,15 @@ breadcrumb:
             </div>
           </div>
         </div>
-        <p style="margin-top: 10px" class="source">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}</p>
+        <p style="margin-top: 10px" class="source">
+          {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_pre %}
+          <a href="{{site.baseurl}}/downloads/#steuern">
+            <icon class="fa fa-file-text-o u-padding-right"></icon>
+            {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen %}
+          </a>
+          {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_post %}
+        </p>
+
         <a target="_blank" href="{{site.baseurl}}/downloads/#anpassungsgeld">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t einnahmen.steuern.daten_einsehen %}
