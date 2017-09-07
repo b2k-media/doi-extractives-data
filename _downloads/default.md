@@ -130,6 +130,7 @@ permalink: /downloads/
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p %}</p>
+      <h3>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2 %}</h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_1 %}
         <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal/">
@@ -150,9 +151,9 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/production.tsv">
+            <a href="{{site.baseurl_root}}/downloads/production.csv">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (tsv, 2 KB)
+              {% t downloads.download_link %} (csv, 2 KB)
             </a>
           </li>
         </ul>
