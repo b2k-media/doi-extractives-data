@@ -123,6 +123,20 @@ breadcrumb:
       <nav>
         {% assign nav_items = site.translations[site.lang]['erdol-erdgas'].nav_items %}
         {% include case-studies/_nav-list.html nav_items=nav_items %}
+        <div><a target="_blank" class="twitter-button"
+        href="http://www.twitter.com/share?url={{ site.baseurl_root }}&text=Thi‌​s is awesome!">
+          <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
+          <span class="footer-social">Twitter</span>
+        </a></div>
+        <div class="fb-share-button"
+          data-href="{{ site.baseurl_root }}"
+          data-layout="button_count"
+          data-size="large"
+          data-mobile-iframe="true"
+          style="margin-top: 10px"
+        >
+            <a class="fb-xfbml-parse-ignore" target="_blank" href="{{ site.baseurl_root }}">Share</a>
+        </div>
       </nav>
     </div>
   </section>
