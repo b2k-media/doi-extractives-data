@@ -68,6 +68,7 @@ nav_items:
       </h3>
       <nav>
         {% include case-studies/_nav-list.html %}
+        {% include layout/share-buttons.html %}
       </nav>
     </div>
   </section>
