@@ -1,10 +1,10 @@
 ---
 title: Subventionen und steuerliche Begünstigungen
 layout: default
-permalink: /explore/subventionen-und-steuerliche-begunstigungen/
+permalink: /rohstoffgewinnung/subventionen-und-steuerliche-begunstigungen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
-    permalink: /explore/how-it-work/
+    permalink: /rohstoffgewinnung/
 ---
 
 <main class="container-page-wrapper layout-state-pages">

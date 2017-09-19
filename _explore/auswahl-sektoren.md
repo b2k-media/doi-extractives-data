@@ -1,10 +1,10 @@
 ---
 title: auswahl-sektoren
 layout: default
-permalink: /explore/auswahl-sektoren/
+permalink: /daten/zahlungsabgleich/auswahl-sektoren/
 breadcrumb:
-  - title: Daten
-    permalink: /explore/
+  - title: Daten/Zahlungsabgleich
+    permalink: /daten/zahlungsabgleich/
 ---
 
 <main class="container-page-wrapper layout-state-pages">
@@ -24,11 +24,11 @@ breadcrumb:
 
         <p>
           {% t auswahl-sektoren.p2 %}
-          <a href="{{site.baseurl}}/explore/kohle/">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/kohle/">
             {% t auswahl-sektoren.link1 %}
           </a>
           {% t auswahl-sektoren.p3 %}
-          <a  href="{{site.baseurl}}/explore/subventionen-und-steuerliche-begunstigungen/">
+          <a  href="{{site.baseurl}}/rohstoffgewinnung/subventionen-und-steuerliche-begunstigungen/">
             {% t auswahl-sektoren.link2 %}
           </a>
         {% t auswahl-sektoren.p4 %}

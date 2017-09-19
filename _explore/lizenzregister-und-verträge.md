@@ -1,10 +1,10 @@
 ---
 title: Lizenzregister und Verträge
 layout: default
-permalink: /lizenzregister-und-vertraege/
+permalink: /rohstoffgewinnung/lizenzregister-und-vertraege/
 breadcrumb:
-  - title: Lizenzregister und Verträge
-    permalink: /explore/
+  - title: Deutscher Rohstoffsektor
+    permalink: /rohstoffgewinnung/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
@@ -22,7 +22,7 @@ breadcrumb:
           <h3>{% t lizenzregister_und_verträge.rechtliche_grundlage.title %}</h3>
           <p>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p1 %}
-            <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">
+            <a href="{{site.baseurl}}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/">
               {% t lizenzregister_und_verträge.rechtliche_grundlage.link1 %}
             </a>
           </p>

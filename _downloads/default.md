@@ -248,11 +248,11 @@ permalink: /downloads/
       <p>{% t einnahmen.steuern.solidaritätszuschlag.p2 %}</p>
       <p>
         {% t einnahmen.steuern.solidaritätszuschlag.p3_1 %}
-        <a href="{{ site.baseurl }}/explore/how-it-work/anfallende-zahlungen">
+        <a href="{{ site.baseurl }}/rohstoffgewinnung/anfallende-zahlungen">
         {% t einnahmen.steuern.solidaritätszuschlag.link1 %}
         </a>
         {% t einnahmen.steuern.solidaritätszuschlag.p3_2 %}
-        <a href="{{ site.baseurl }}/explore/how-it-work/umgang-mit-der-natur">
+        <a href="{{ site.baseurl }}/rohstoffgewinnung/umgang-mit-der-natur">
         {% t einnahmen.steuern.solidaritätszuschlag.link2 %}
         </a>
         {% t einnahmen.steuern.solidaritätszuschlag.p3_3 %}

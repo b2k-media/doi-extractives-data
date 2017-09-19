@@ -1,10 +1,10 @@
 ---
 title: Auswahl der Zahlungsströme und Wesentlichkeit von Zahlungen
 layout: default
-permalink: /explore/zahlungsstroeme/
+permalink: /daten/zahlungsabgleich/zahlungsstroeme/
 breadcrumb:
-  - title: Auswahl der Zahlungsströme und Wesentlichkeit von Zahlungen
-    permalink: /explore/
+  - title: Daten/Zahlungsabgleich
+    permalink: /daten/Zahlungsabgleich
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
@@ -18,7 +18,7 @@ breadcrumb:
     <div class="container-left-9">
       <section id="zahlungsströme" style="position: relative;">
         <p>{% t zahlungsströme.p1 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">
             {% t zahlungsströme.link %}
           </a>
         </p>
@@ -27,7 +27,7 @@ breadcrumb:
           <h3 id="körperschaftsteuer">{% t zahlungsströme.körperschaftsteuer.title %}</h3>
           <p>
             {% t zahlungsströme.körperschaftsteuer.p1_1 %}
-            <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#körperschaftsteuer/">
+            <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/#körperschaftsteuer/">
               {% t zahlungsströme.körperschaftsteuer.link %}
             </a>
             {% t zahlungsströme.körperschaftsteuer.p1_2 %}
@@ -40,7 +40,7 @@ breadcrumb:
           <h3>{% t zahlungsströme.gewerbesteuer.title %}</h3>
           <p>
             {% t zahlungsströme.gewerbesteuer.p1_1 %}
-            <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#gewerbesteuer/">
+            <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/#gewerbesteuer/">
               {% t zahlungsströme.gewerbesteuer.link %}
             </a>
             {% t zahlungsströme.gewerbesteuer.p1_2 %}
@@ -75,7 +75,7 @@ breadcrumb:
           </ul>
           <p>
             {% t zahlungsströme.organschaftsverhältnissen.p3 %}
-            <a href="{{site.baseurl}}/explore/zahlungsabgleich/">
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/">
               {% t zahlungsströme.organschaftsverhältnissen.link1 %}
             </a>
           </p>
@@ -87,7 +87,7 @@ breadcrumb:
         <h2>{% t zahlungsströme.feldes.title %}</h2>
         <p>
           {% t zahlungsströme.feldes.p1_1 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#feldes-und-förderabgaben">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/#feldes-und-förderabgaben">
             {% t zahlungsströme.feldes.link1 %}
           </a>
           {% t zahlungsströme.feldes.p1_2 %}
@@ -100,7 +100,7 @@ breadcrumb:
         <p>{% t zahlungsströme.pachtzahlungen.p1 %}</p>
         <p>
           {% t zahlungsströme.pachtzahlungen.p2_1 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/#zahlungen-industrie">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/#zahlungen-industrie">
             {% t zahlungsströme.pachtzahlungen.link %}
           </a>
           {% t zahlungsströme.pachtzahlungen.p2_2 %}

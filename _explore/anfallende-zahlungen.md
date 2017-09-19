@@ -1,10 +1,10 @@
 ---
 title: Einnahmen aus der rohstoffgewinnenden Industrie
 layout: default
-permalink: /explore/how-it-work/anfallende-zahlungen/
+permalink: /rohstoffgewinnung/anfallende-zahlungen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
-    permalink: /explore/how-it-work/
+    permalink: /rohstoffgewinnung/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
@@ -20,7 +20,7 @@ breadcrumb:
         <section id="einnahmen" style="position: relative;">
           <p>
             {% t anfallende_zahlungen.einnahmen.p1_1 %}
-            <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/">
+            <a href="{{site.baseurl}}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/">
               {% t anfallende_zahlungen.einnahmen.link1 %}
             </a>
             {% t anfallende_zahlungen.einnahmen.p1_2 %}
@@ -110,7 +110,7 @@ breadcrumb:
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p4 %}
-          <a href="{{site.baseurl}}/explore/subventionen-und-steuerliche-begunstigungen/">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/subventionen-und-steuerliche-begunstigungen/">
             {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link3 %}
           </a>
         </p>
@@ -120,14 +120,14 @@ breadcrumb:
             {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link1 %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5_2 %}
-          <a href="{{site.baseurl}}/explore/subventionen-und-steuerliche-begunstigungen/">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/subventionen-und-steuerliche-begunstigungen/">
             {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link4 %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p5_3 %}
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p6_1 %}
-          <a href="{{site.baseurl}}/explore/subventionen-und-steuerliche-begunstigungen/">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/subventionen-und-steuerliche-begunstigungen/">
             {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.link2 %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.verbrauchsteuern.p6_2 %}

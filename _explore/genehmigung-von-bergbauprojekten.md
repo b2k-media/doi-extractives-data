@@ -1,10 +1,10 @@
 ---
 title: Rechtlicher Rahmen und staatliche Stellen
 layout: default
-permalink: /genehmigung-von-bergbauprojekten/
+permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
-    permalink: /explore/how-it-work/
+    permalink: /rohstoffgewinnung/
 ---
 
 <main class="container-page-wrapper layout-state-pages">
@@ -32,7 +32,7 @@ breadcrumb:
           <div class="tab-content">
             <div id="tab1" class="tab active">
               <div class="tab-top">
-                <a href="{{ site.lang | url_lang_prefix  }}/genehmigung-von-bergbauprojekten/bergbauberechtigungen/" >
+                <a href="{{ site.lang | url_lang_prefix  }}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/bergbauberechtigungen/" >
                   {% t genehmigung-von-bergbauprojekten.tab1.title %}
                 </a>
                 <br/>
@@ -43,7 +43,7 @@ breadcrumb:
               <div class="tab-bottom">
                 <div class="tab-bottom-top">
                   <p>
-                    <a href="{{ site.lang | url_lang_prefix  }}/genehmigung-von-bergbauprojekten/zulassung/">
+                    <a href="{{ site.lang | url_lang_prefix  }}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/zulassung/">
                       {% t genehmigung-von-bergbauprojekten.tab1.h1_link %}
                     </a>
                     <br/>{% t genehmigung-von-bergbauprojekten.tab1.h1 %}</p>
@@ -77,7 +77,7 @@ breadcrumb:
               <div class="tab-bottom">
                 <div class="tab-bottom-top">
                   <p>
-                    <a href="{{ site.lang | url_lang_prefix  }}/genehmigung-von-bergbauprojekten/zulassung/">
+                    <a href="{{ site.lang | url_lang_prefix  }}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/zulassung/">
                       {% t genehmigung-von-bergbauprojekten.tab2.h1_link %}
                     </a>
                     <br/>{% t genehmigung-von-bergbauprojekten.tab2.h1 %}</p>

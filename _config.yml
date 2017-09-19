@@ -40,7 +40,7 @@ collections:
     permalink: /case-studies/:case-study/
   explore:
     output: true
-    permalink: /explore/:explore/
+    permalink: /daten/:explore/
   how-it-works:
     output: true
     permalink: /how-it-works/:subpage/
@@ -49,7 +49,7 @@ collections:
     permalink: /downloads/:subpage/
   federal-revenue-by-company:
     output: true
-    permalink: /explore/federal-revenue-by-company/:path/
+    permalink: /daten/federal-revenue-by-company/:path/
   impressum:
     output: true
     permalink: /impressum/impressum/

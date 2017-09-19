@@ -1,10 +1,10 @@
 ---
 title: Identifizierung der Unternehmen
 layout: default
-permalink: /explore/identifizierung-unternehmen/
+permalink: /daten/zahlungsabgleich/identifizierung-unternehmen/
 breadcrumb:
-  - title: Daten
-    permalink: /explore/
+  - title: Daten/Zahlungsabgleich
+    permalink: /daten/zahlungsabgleich/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
@@ -48,7 +48,7 @@ breadcrumb:
 
       <p>
         {% t identifizierung-unternehmen.p7 %}
-        <a href="{{site.baseurl}}/explore/unternehmen-und-zahlungsstroeme/">
+        <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
            {% t identifizierung-unternehmen.link3 %}
         </a>
         {% t identifizierung-unternehmen.p8 %}

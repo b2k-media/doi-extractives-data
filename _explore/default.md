@@ -1,7 +1,7 @@
 ---
 title: Daten entdecken
 layout: default
-permalink: /explore/
+permalink: /daten/
 ---
 
 <section class="slab-delta">
@@ -33,18 +33,18 @@ permalink: /explore/
         {% t 'explore-data.production.heading-1' %}
       </h2>
     </a>
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/federal-production" class="tile tile-interaktiv">
+    <a href="{{ site.lang | url_lang_prefix  }}/daten/federal-production" class="tile tile-interaktiv">
       <span>
         {% t 'explore-data.production.sub-heading-1' %}
       </span>
     </a>
     <!-- Production chart -->
-    <!-- <a href="{{ site.lang | url_lang_prefix  }}/explore/production-charts" class="tile tile-ges-rohstoffprod">
+    <!-- <a href="{{ site.lang | url_lang_prefix  }}/daten/production-charts" class="tile tile-ges-rohstoffprod">
       <span>
         {% t 'explore-data.production.sub-heading-2' %}
       </span>
     </a> -->
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/gesamtdeutsche_rohstoffproduktion" class="tile tile-ges-rohstoffprod">
+    <a href="{{ site.lang | url_lang_prefix  }}/daten/gesamtdeutsche_rohstoffproduktion" class="tile tile-ges-rohstoffprod">
       <span>
         {% t 'explore-data.production.sub-heading-2' %}
       </span>
@@ -57,19 +57,19 @@ permalink: /explore/
       </h2>
     </a>
 
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/BIP" class="tile tile-bip">
+    <a href="{{ site.lang | url_lang_prefix  }}/daten/BIP" class="tile tile-bip">
       <span>{% t 'explore-data.economic-impact.item1' %}</span>
     </a>
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/einnahmen" class="tile tile-einnahmen-rohstoff">
+    <a href="{{ site.lang | url_lang_prefix  }}/daten/einnahmen" class="tile tile-einnahmen-rohstoff">
       <span>{% t 'explore-data.economic-impact.item2' %}</span>
     </a>
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/employment" class="tile tile-beschaeftigung">
+    <a href="{{ site.lang | url_lang_prefix  }}/daten/employment" class="tile tile-beschaeftigung">
       <span>{% t 'explore-data.economic-impact.item3' %}</span>
     </a>
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/exporte" class="tile tile-export">
+    <a href="{{ site.lang | url_lang_prefix  }}/daten/exporte" class="tile tile-export">
       <span>{% t 'explore-data.economic-impact.item4' %}</span>
     </a>
-    <a href="{{ site.lang | url_lang_prefix  }}/explore/zahlungsabgleich" class="tile tile-lupe">
+    <a href="{{ site.lang | url_lang_prefix  }}/daten/zahlungsabgleich" class="tile tile-lupe">
       <span>{% t 'explore-data.economic-impact.item5' %}</span>
     </a>
   </section>
