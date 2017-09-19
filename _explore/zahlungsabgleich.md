@@ -8,6 +8,26 @@ breadcrumb:
 ---
 
 <main class="container-page-wrapper layout-state-pages">
+  <style>
+      .img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch{
+        content:url("/img/icons/zahlungsabgleich/icon-staat.png");
+        width: 40px;
+      }
+      .img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch:hover{
+        content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png");
+        width: 40px;
+      }
+      
+      .img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch{
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
+        width: 40px;
+      }
+      .img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch:hover{
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
+        width: 40px;
+      }
+
+  </style>
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
@@ -83,13 +103,13 @@ breadcrumb:
             <div class="regions container">
               <div class="graph">
                 <div class="container chart-container">
-                  <div id="chart1"></div>
+                  <div class="img-chart" id="chart1"></div>
                 </div>
               </div>
             </div>
           </div>
           <br/>
-          <p style="position: relative; margin-top: 50px !important;">
+          <p style="position: relative; margin-top: 100px !important;">
             {% t zahlungsabgleich.förderabgaben.p2 %}
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.förderabgaben.link %}
