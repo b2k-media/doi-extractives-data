@@ -81,3 +81,20 @@ input[type='submit'] {
   height: 35px;
   width: 150px;
 }
+
+.twitter-button {
+  position: relative;
+  height: 15px;
+  box-sizing: border-box;
+  padding: 5px 7px;
+  background-color: #1b95e0;
+  color: #fff;
+  border-radius: 3px;
+  font-weight: 500;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.fb-share-button {
+  margin-top: 10px;
+}

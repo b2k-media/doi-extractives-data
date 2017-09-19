@@ -333,7 +333,7 @@ breadcrumb:
         </p>
       </section>
       <br/>
-      
+
     </div>
 
     <div class="sticky sticky_nav container-right-3">
@@ -343,6 +343,7 @@ breadcrumb:
       <nav>
         {% assign nav_items = site.translations[site.lang]['einnahmen'].nav_items %}
         {% include case-studies/_nav-list.html nav_items=nav_items %}
+        {% include layout/share-buttons.html %}
       </nav>
     </div>
   </section>
