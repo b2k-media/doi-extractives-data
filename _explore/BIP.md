@@ -1,10 +1,10 @@
 ---
 title: BIP und Umsatz
 layout: default
-permalink: /explore/BIP/
+permalink: /daten/BIP/
 breadcrumb:
   - title: Daten
-    permalink: /explore/
+    permalink: /daten/
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>

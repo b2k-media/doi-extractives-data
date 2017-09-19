@@ -1,10 +1,10 @@
 ---
 title: Salze
 layout: default
-permalink: /explore/salze/
+permalink: /rohstoffgewinnung/salze/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
-    permalink: /explore/how-it-work/
+    permalink: /rohstoffgewinnung/
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>

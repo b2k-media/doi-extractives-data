@@ -1,10 +1,10 @@
 ---
 title: Bergbauberechtigungen
 layout: default
-permalink: /genehmigung-von-bergbauprojekten/bergbauberechtigungen/
+permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/bergbauberechtigungen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor/Bergbauberechtigungen
-    permalink: /genehmigung-von-bergbauprojekten/
+    permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
@@ -63,7 +63,7 @@ breadcrumb:
               <td>
               {% t bergbauberechtigungen.table.row3.td4 %}<br/><br/>
               {% t bergbauberechtigungen.table.row3.text %}
-                <a href="{{site.baseurl}}/genehmigung-von-bergbauprojekten/bergbauberechtigungen/">
+                <a href="{{site.baseurl}}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/bergbauberechtigungen/">
                   {% t bergbauberechtigungen.table.row3.link %}
                 </a>
               </td>

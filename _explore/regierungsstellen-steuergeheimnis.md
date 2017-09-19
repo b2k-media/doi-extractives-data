@@ -1,10 +1,10 @@
 ---
 title: regierungsstellen-steuergeheimnis
 layout: default
-permalink: /explore/regierungsstellen-steuergeheimnis/
+permalink: /daten/zahlungsabgleich/regierungsstellen-steuergeheimnis/
 breadcrumb:
-  - title: Daten
-    permalink: /explore/
+  - title: Daten/Zahlungsabgleich
+    permalink: /daten/zahlungsabgleich/
 ---
 
 <main class="container-page-wrapper layout-state-pages">
@@ -27,7 +27,7 @@ breadcrumb:
         <h2>{% t regierungsstellen-steuergeheimnis.steuergeheimnis.h %}</h2>
         <p>
           {% t regierungsstellen-steuergeheimnis.steuergeheimnis.p1 %}
-          <a href="{{site.baseurl}}/explore/how-it-work/steuergeheimnis/">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/steuergeheimnis/">
             {% t regierungsstellen-steuergeheimnis.steuergeheimnis.link1 %}
           </a>
           {% t regierungsstellen-steuergeheimnis.steuergeheimnis.p1 %}

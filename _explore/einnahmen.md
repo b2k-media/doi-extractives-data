@@ -1,10 +1,10 @@
 ---
 title: einnahmen
 layout: default
-permalink: /explore/einnahmen/
+permalink: /daten/einnahmen/
 breadcrumb:
   - title: Daten
-    permalink: /explore/
+    permalink: /daten/
 ---
 
 <main class="container-page-wrapper layout-state-pages">
@@ -15,11 +15,11 @@ breadcrumb:
     <div class="container-left-9">
       <p>
         {% t einnahmen.p1_1 %}
-        <a href="{{site.baseurl}}/explore/how-it-work/anfallende-zahlungen/">
+        <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">
           {% t einnahmen.link %}
         </a>
         {% t einnahmen.p1_2 %}
-        <a href="{{site.baseurl}}/explore/how-it-work/umgang-mit-der-natur/">
+        <a href="{{site.baseurl}}/rohstoffgewinnung/umgang-mit-der-natur/">
           {% t einnahmen.link1 %}
         </a>
         {% t einnahmen.p1_3 %}

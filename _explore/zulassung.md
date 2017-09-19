@@ -1,10 +1,10 @@
 ---
 title: Zulassung eines Betriebsplans
 layout: default
-permalink: /genehmigung-von-bergbauprojekten/zulassung/
+permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/zulassung/
 breadcrumb:
   - title: Deutscher Rohstoffsektor/Zulassung
-    permalink: /genehmigung-von-bergbauprojekten/
+    permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/
 nav_items:
   - name: title
     title: Seitenanfang
@@ -24,7 +24,7 @@ nav_items:
     <div class="container-left-9">
       <section>
         <p>
-          Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur Aufbereitung dürfen nur auf Grund von Plänen (Betriebsplänen) errichtet, geführt und eingestellt werden, welche vom Unternehmer aufgestellt und von der zuständigen Behörde zugelassen worden sind. Die Zulassung solcher Betriebspläne ist an Voraussetzungen gebunden (Zulassungsvoraussetzungen). Diese betreffen u. a. die Betriebssicherheit und den Arbeitsschutz, den Schutz der Oberfläche sowie die Vermeidung gemeinschädlicher Einwirkungen, den Schutz der Lagerstätte und die Vorsorgemaßnahmen für die ordnungsgemäße Wiedernutzbarmachung der von der Rohstoffgewinnung in Anspruch genommenen Flächen. Weitere Informationen siehe auch <a href="{{site.baseurl}}/explore/how-it-work/umgang-mit-der-natur/">„Umgang mit dem Eingriff in die Natur“.</a>
+          Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur Aufbereitung dürfen nur auf Grund von Plänen (Betriebsplänen) errichtet, geführt und eingestellt werden, welche vom Unternehmer aufgestellt und von der zuständigen Behörde zugelassen worden sind. Die Zulassung solcher Betriebspläne ist an Voraussetzungen gebunden (Zulassungsvoraussetzungen). Diese betreffen u. a. die Betriebssicherheit und den Arbeitsschutz, den Schutz der Oberfläche sowie die Vermeidung gemeinschädlicher Einwirkungen, den Schutz der Lagerstätte und die Vorsorgemaßnahmen für die ordnungsgemäße Wiedernutzbarmachung der von der Rohstoffgewinnung in Anspruch genommenen Flächen. Weitere Informationen siehe auch <a href="{{site.baseurl}}/rohstoffgewinnung/umgang-mit-der-natur/">„Umgang mit dem Eingriff in die Natur“.</a>
         </p>
 
         <p>Grundsätzlich umfassen Hauptbetriebspläne:</p>

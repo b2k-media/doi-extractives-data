@@ -18,25 +18,25 @@ $(document).ready(function(){
     $.jqplot.sprintf.decimalMark = ',';
   }
 
-  if (document.URL.search('/explore/exporte/') > 1) {
+  if (document.URL.search('/daten/exporte/') > 1) {
     jsonFilePath = "../../data/graphs/exporte.json";
     displayTwoDecimalPoints = true;
     orderSeries1 = true;
     orderSeries2 = true;
     xAxisNoDecimal = true;
-  } else if (document.URL.search('/explore/subventionen-und-steuerliche-begunstigungen/') > 1) {
+  } else if (document.URL.search('/rohstoffgewinnung/subventionen-und-steuerliche-begunstigungen/') > 1) {
     jsonFilePath = "../../data/graphs/subventionen1.json";
     xAxisNoDecimal = true;
-  } else if (document.URL.search('explore/BIP/') > 1) {
+  } else if (document.URL.search('daten/BIP/') > 1) {
     jsonFilePath = "../../data/graphs/BIP.json";
     xAxisNoDecimal = true;
     orderSeries1 = true;
-  } else if (document.URL.search('explore/how-it-work/wasser/') > 1) {
+  } else if (document.URL.search('rohstoffgewinnung/wasser/') > 1) {
     jsonFilePath = "../../../data/graphs/wasser.json";
-  } else if (document.URL.search('explore/gesamtdeutsche_rohstoffproduktion/') > 1) {
+  } else if (document.URL.search('daten/gesamtdeutsche_rohstoffproduktion/') > 1) {
     jsonFilePath = "../../data/graphs/gesamtdeutsche_rohstoffproduktion.json";
     noDotDisplayDecimal = true;
-  } else if (document.URL.search('explore/zahlungsabgleich/') > 1) {
+  } else if (document.URL.search('daten/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich.json";
     xAxisNoDecimal = true;
     orderSeries1 = true;

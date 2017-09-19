@@ -1,10 +1,10 @@
 ---
 title: Öffentliche Berichte
 layout: default
-permalink: /explore/how-it-work/offentliche-berichte/
+permalink: /rohstoffgewinnung/offentliche-berichte/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
-    permalink: /explore/how-it-work/
+    permalink: /rohstoffgewinnung/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
@@ -40,14 +40,14 @@ breadcrumb:
           <h2 id="title">{% t offentliche-berichte.gemeinsamkeiten.title %}</h2>
           <p>
             {% t offentliche-berichte.gemeinsamkeiten.p1_1 %}
-            <a href="{{site.baseurl}}/explore/zahlungsabgleich/">
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/">
             {% t offentliche-berichte.gemeinsamkeiten.link1 %}
             </a>
             {% t offentliche-berichte.gemeinsamkeiten.p1_2 %}
           </p>
           <p>
             {% t offentliche-berichte.gemeinsamkeiten.p2_1 %}
-            <a href="{{site.baseurl}}/explore/zahlungsabgleich/">
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/">
             {% t offentliche-berichte.gemeinsamkeiten.link2 %}
             </a>
             {% t offentliche-berichte.gemeinsamkeiten.p2_2 %}

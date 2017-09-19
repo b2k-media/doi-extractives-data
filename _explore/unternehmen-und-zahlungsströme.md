@@ -1,10 +1,10 @@
 ---
 title: Unternehmen und Zahlungsströme
 layout: default
-permalink: /explore/unternehmen-und-zahlungsstroeme/
+permalink: /daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/
 breadcrumb:
-  - title: Unternehmen und Zahlungsströme
-    permalink: /explore/
+  - title: Daten/Zahlungsabgleich
+    permalink: /daten/zahlungsabgleich
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>

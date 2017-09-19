@@ -1,10 +1,10 @@
 ---
 title: Rechtlicher Rahmen und staatliche Stellen
 layout: default
-permalink: /rechtlicher-rahmen-und-staatliche-stellen/
+permalink: /rohstoffgewinnung/rechtlicher-rahmen-und-staatliche-stellen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
-    permalink: /explore/how-it-work/
+    permalink: /rohstoffgewinnung/
 ---
 
 <main class="container-page-wrapper layout-state-pages">

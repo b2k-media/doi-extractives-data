@@ -1,10 +1,10 @@
 ---
 title: "Besch&auml;ftigung"
 layout: default
-permalink: /explore/employment/
+permalink: /daten/employment/
 breadcrumb:
   - title: Daten
-    permalink: /explore/
+    permalink: /daten/
 ---
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>

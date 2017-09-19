@@ -1,10 +1,10 @@
 ---
 title: Steuergeheimnis
 layout: default
-permalink: /explore/how-it-work/steuergeheimnis/
+permalink: /rohstoffgewinnung/steuergeheimnis/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
-    permalink: /explore/how-it-work/
+    permalink: /rohstoffgewinnung/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>

@@ -1,10 +1,10 @@
 ---
 title: gesamtdeutsche_rohstoffproduktion
 layout: default
-permalink: /explore/gesamtdeutsche_rohstoffproduktion/
+permalink: /daten/gesamtdeutsche_rohstoffproduktion/
 breadcrumb:
   - title: Daten
-    permalink: /explore/
+    permalink: /daten/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
