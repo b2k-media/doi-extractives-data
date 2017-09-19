@@ -1027,6 +1027,7 @@ breadcrumb:
       <nav>
         {% assign nav_items = site.translations[site.lang]['unternehmen-und-zahlungsströme'].nav_items %}
         {% include case-studies/_nav-list.html nav_items=nav_items %}
+        {% include layout/share-buttons.html %}
       </nav>
     </div>
   </section>
