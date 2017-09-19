@@ -8,6 +8,33 @@ breadcrumb:
 ---
 
 <main class="container-page-wrapper layout-state-pages">
+  <style>
+      .img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch{
+        content:url("/img/icons/zahlungsabgleich/icon-staat.png");
+        width: 40px;
+      }
+      .img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch:hover{
+        content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png");
+        width: 40px;
+      }
+      .img-chart-1{
+        content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png") !important;
+        width: 40px;
+      }
+      .img-chart-2{
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png") !important;
+        width: 40px;
+      }
+
+      .img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch{
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
+        width: 40px;
+      }
+      .img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch:hover{
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
+        width: 40px;
+      }
+  </style>
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
@@ -83,13 +110,13 @@ breadcrumb:
             <div class="regions container">
               <div class="graph">
                 <div class="container chart-container">
-                  <div id="chart1"></div>
+                  <div class="img-chart" id="chart1"></div>
                 </div>
               </div>
             </div>
           </div>
           <br/>
-          <p style="position: relative; margin-top: 50px !important;">
+          <p style="position: relative; margin-top: 100px !important;">
             {% t zahlungsabgleich.förderabgaben.p2 %}
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.förderabgaben.link %}
@@ -644,3 +671,21 @@ breadcrumb:
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/pieGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/barGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/lib/explore.min.js" charset="utf-8"></script>
+
+<script>
+$('#chart1').bind('jqplotDataHighlight',
+       function (ev, seriesIndex, pointIndex, data) {
+
+         if(seriesIndex == 1)
+            $(".img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch").addClass('img-chart-1');
+        if(seriesIndex == 0)
+          $(".img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch").addClass('img-chart-2');
+       }
+   );
+$('#chart1').bind('jqplotDataUnhighlight',
+          function (ev, seriesIndex, pointIndex, data) {
+               $(".jqplot-table-legend-swatch").removeClass('img-chart-1');
+               $(".jqplot-table-legend-swatch").removeClass('img-chart-2');
+          }
+);
+</script>
