@@ -17,7 +17,15 @@ breadcrumb:
         content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png");
         width: 40px;
       }
-      
+      .img-chart-1{
+        content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png") !important;
+        width: 40px;
+      }
+      .img-chart-2{
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png") !important;
+        width: 40px;
+      }
+
       .img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch{
         content:url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
         width: 40px;
@@ -26,7 +34,6 @@ breadcrumb:
         content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
         width: 40px;
       }
-
   </style>
   <section class="container" style="position: relative;">
 
@@ -664,3 +671,21 @@ breadcrumb:
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/pieGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/barGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/lib/explore.min.js" charset="utf-8"></script>
+
+<script>
+$('#chart1').bind('jqplotDataHighlight',
+       function (ev, seriesIndex, pointIndex, data) {
+
+         if(seriesIndex == 1)
+            $(".img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch").addClass('img-chart-1');
+        if(seriesIndex == 0)
+          $(".img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch").addClass('img-chart-2');
+       }
+   );
+$('#chart1').bind('jqplotDataUnhighlight',
+          function (ev, seriesIndex, pointIndex, data) {
+               $(".jqplot-table-legend-swatch").removeClass('img-chart-1');
+               $(".jqplot-table-legend-swatch").removeClass('img-chart-2');
+          }
+);
+</script>
