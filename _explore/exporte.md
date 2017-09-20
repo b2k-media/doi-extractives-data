@@ -57,7 +57,7 @@ breadcrumb:
             {% t bip.daten_einsehen_post %}
 
           </div>
-        </div>
+
     </div>
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
