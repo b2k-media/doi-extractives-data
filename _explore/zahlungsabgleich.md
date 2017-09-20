@@ -10,12 +10,12 @@ breadcrumb:
 <main class="container-page-wrapper layout-state-pages">
   <style>
       .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1){
-        content:url("/img/icons/zahlungsabgleich/icon-staat.png");
+        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-staat.png");
         width: 40px;
       }
 
       .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(3){
-        content:url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
+        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-unternehmen.png");
         width: 40px;
       }
       /*.img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1):hover{
@@ -27,11 +27,11 @@ breadcrumb:
         width: 40px;
       }*/
       .img-chart-1{
-        content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png") !important;
+        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-staat-hover.png") !important;
         width: 40px;
       }
       .img-chart-2{
-        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png") !important;
+        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-unternehmen-hover.png") !important;
         width: 40px;
       }
   </style>
