@@ -185,7 +185,7 @@ $(document).ready(function(){
             renderer: $.jqplot.EnhancedLegendRenderer,
             rendererOptions: {
               numberRows: 1,
-              seriesToggle: false,
+              seriesToggle: false
             }
           },
           title: chartTitle
