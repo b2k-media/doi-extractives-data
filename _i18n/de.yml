@@ -1988,8 +1988,8 @@ bip:
         title: Seitenanfang
       - name: bip
         title: "BIP: Wie groß ist der deutsche Rohstoffsektor?"
-      - name: daten
-        title: Daten einsehen
+      - name: umsatz
+        title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
 
     bip:
       title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
