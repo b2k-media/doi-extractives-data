@@ -12,6 +12,7 @@ $(document).ready(function(){
   var orderSeries1= false;
   var orderSeries2= false;
   var xAxisNoDecimal = false;
+  var oneLine = false;
 
   if (isEn === -1) {
     $.jqplot.sprintf.thousandsSeparator = '.';
@@ -41,6 +42,7 @@ $(document).ready(function(){
     xAxisNoDecimal = true;
     orderSeries1 = true;
     orderSeries2 = true;
+    oneLine = true;
   }
 
   $.ajax({
@@ -98,7 +100,7 @@ $(document).ready(function(){
     var tickOptions = xAxisNoDecimal ? { formatString: "%d", formatter: tickFormatter } : { formatString: "%.1f", formatter: tickFormatter };
     $('#'+chart).height(((jsondata.data.length < 2) ? 2:jsondata.data.length) * ((jsondata.data[0].length < 2) ? 2:jsondata.data[0].length) * 40);
 
-    plot2b = $.jqplot(chart, data, {
+    plot_options = {
         animate: !$.jqplot.use_excanvas,
         seriesDefaults: {
             renderer:$.jqplot.BarRenderer,
@@ -139,7 +141,58 @@ $(document).ready(function(){
           labels: labels
         },
         title: chartTitle
-    });
+    }
+    if(oneLine && "chart1" == chart){
+      plot_options = {
+          animate: !$.jqplot.use_excanvas,
+          seriesDefaults: {
+              renderer:$.jqplot.BarRenderer,
+              pointLabels: pointLabels,
+              shadowAngle: 135,
+              rendererOptions: {
+                  barDirection: 'horizontal',
+                  barMargin: 2,
+                  barWidth: 15
+              }
+          },
+          seriesColors: colorsData,
+          grid: {
+              borderColor: 'white',
+              shadow: false,
+              drawBorder: true,
+              background: '#d2dce6',
+            },
+          axes: {
+              yaxis: {
+                  renderer: $.jqplot.CategoryAxisRenderer,
+                  autoscale: false,
+                  tickOptions:{
+                  showGridline: false,
+                  formatString: '%.2f'
+                },
+              },
+              xaxis: {
+                ticks: ticks,
+                autoscale : false,
+                tickOptions: tickOptions
+              }
+          },
+          legend:{
+            show: true,
+            location:'s',
+            placement: 'outside',
+            labels: labels,
+            renderer: $.jqplot.EnhancedLegendRenderer,
+            rendererOptions: {
+              numberRows: 1
+            }
+          },
+          title: chartTitle
+      }
+    }
+
+
+    plot2b = $.jqplot(chart, data, plot_options);
     if(jsonUnit != null)
       $(".jqplot-xaxis-tick").last().text(jsonUnit);
     else if (chartTitle == "Abdeckung der Sektoren*" || chartTitle == "Abdeckung der Sektoren* EN")

@@ -9,29 +9,29 @@ breadcrumb:
 
 <main class="container-page-wrapper layout-state-pages">
   <style>
-      .img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch{
+      .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1){
         content:url("/img/icons/zahlungsabgleich/icon-staat.png");
         width: 40px;
       }
-      .img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch:hover{
+
+      .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(3){
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
+        width: 40px;
+      }
+      /*.img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1):hover{
         content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png");
         width: 40px;
       }
+      .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(3):hover{
+        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
+        width: 40px;
+      }*/
       .img-chart-1{
         content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png") !important;
         width: 40px;
       }
       .img-chart-2{
         content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png") !important;
-        width: 40px;
-      }
-
-      .img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch{
-        content:url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
-        width: 40px;
-      }
-      .img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch:hover{
-        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
         width: 40px;
       }
   </style>
@@ -116,7 +116,7 @@ breadcrumb:
             </div>
           </div>
           <br/>
-          <p style="position: relative; margin-top: 100px !important;">
+          <p style="position: relative; margin-top: 50px !important;">
             {% t zahlungsabgleich.förderabgaben.p2 %}
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.förderabgaben.link %}
@@ -667,6 +667,10 @@ breadcrumb:
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.pieRenderer.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.categoryAxisRenderer.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/plugins/jqplot.pointLabels.min.js"></script>
+<script type="text/javascript" src="/js/jqplot.enhancedLegendRenderer.js"></script>
+
+
+
 
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/pieGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/barGraph.js" charset="utf-8"></script>
@@ -677,9 +681,9 @@ $('#chart1').bind('jqplotDataHighlight',
        function (ev, seriesIndex, pointIndex, data) {
 
          if(seriesIndex == 1)
-            $(".img-chart .jqplot-table-legend tr:nth-child(1) .jqplot-table-legend-swatch").addClass('img-chart-1');
+            $(".img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1)").addClass('img-chart-1');
         if(seriesIndex == 0)
-          $(".img-chart .jqplot-table-legend tr:nth-child(2) .jqplot-table-legend-swatch").addClass('img-chart-2');
+          $(".img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(3)").addClass('img-chart-2');
        }
    );
 $('#chart1').bind('jqplotDataUnhighlight',
