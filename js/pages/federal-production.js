@@ -245,6 +245,7 @@
       var total = product
         ? d3.sum(data, getter(fields.value))
         : unique(data, 'Product').length;
+      if(total>=2) total-=2;
       header
         .datum({
           value: total,
@@ -387,7 +388,7 @@
     var sort = state.get('product')
       ? function(a, b) { return cmpValue(a, b) || cmpName(a, b); }
       : cmpName;
-    items.sort(sort);
+    /*items.sort(sort);*/
 
     items.select('.color-swatch')
       .style('background-color', function(d) {
