@@ -92,44 +92,47 @@ breadcrumb:
           <div id="chart"></div>
           <script>
           var chart = c3.generate({
-    data: {
-        x : 'x',
-        labels: true,
-        columns: [
-            ['x', 'Körperschaftsteuer ', 'Feldes- und Förderabgaben', 'Zahlungsabgleich'],
-            ['data1', 70993102, 231384156, 302377258],
-            ['data2', 70993102, 231384156, 302377258]
-        ],
-        names: {
-              data1: 'Zahlungen Unternehmen',
-              data2: 'Einnahmen staatliche Stellen'
+            data: {
+              x : 'x',
+              labels: true,
+              columns: [
+                ['x', 'Körperschaftsteuer ', 'Feldes- und Förderabgaben', 'Zahlungsabgleich'],
+                ['data1', 70993102, 231384156, 302377258],
+                ['data2', 70993102, 231384156, 302377258]
+                ],     
+              names: {
+                data1: 'Zahlungen Unternehmen',
+                data2: 'Einnahmen staatliche Stellen'
+              },
+              colors: {
+                data1: '#4682be',
+                data2: '#28467a'
+              },
+              type: 'bar'
             },
-        colors: {
-            data1: '#4682be',
-            data2: '#28467a'
-        },
-        type: 'bar'
-    },
-    tooltip: {
-        grouped: false, // Default true
-        show: false
-    },
-    axis: {
-        x: {
-            type: 'category,' // this needed to load string x value
-        },
-        rotated: true
-    },
-     grid: {
-        y: {
-            lines: [
-                {value: 100000000},
-                {value: 200000000},
-                {value: 300000000}
+            tooltip: {
+              grouped: false, // Default true
+              show: false
+            },
+            axis: {
+              x: {
+                type: 'category,' // this needed to load string x value
+              },
+              rotated: true
+            },
+            grid: {
+              y: {
+                lines: [
+                  {value: 100000000},
+                  {value: 200000000},
+                  {value: 300000000}
+                ]
+              }
+            },
+            regions: [
+              {axis: 'x', class: 'regionX'},
             ]
-        }
-    }
-});
+          });
           </script>
 
 
