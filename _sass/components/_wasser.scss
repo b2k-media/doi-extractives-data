@@ -35,3 +35,57 @@ sup {
 .text-align-right {
   text-align: right;
 }
+
+.img-chart .jqplot-table-legend {
+  display: none;
+}
+
+#graph-legend-table {
+  border: none;
+  display: flex;
+  justify-content: center;
+  .first-image {
+    background: url("/img/icons/zahlungsabgleich/icon-staat.png");
+    position: relative;
+    top: 7px;
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+    display: inline-block;
+
+    &.img-chart-1 {
+      background: url("/img/icons/zahlungsabgleich/icon-staat-hover.png");
+      width: 30px;
+      height: 30px;
+      background-size: contain;
+      display: inline-block;
+    }
+  }
+  .second-image {
+    background: url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+    display: inline-block;
+    position: relative;
+    top: 7px;
+    margin-left: 10px;
+
+    &.img-chart-2 {
+      background: url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
+      width: 30px;
+      height: 30px;
+      background-size: contain;
+      display: inline-block;
+    }
+  }
+
+  .text {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  td, tr {
+    border: none;
+  }
+}
