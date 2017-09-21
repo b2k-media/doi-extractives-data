@@ -8,6 +8,10 @@ breadcrumb:
 ---
 
 <main class="container-page-wrapper layout-state-pages">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.18/c3.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.18/c3.min.js"></script>
+
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
@@ -79,6 +83,60 @@ breadcrumb:
             {% t zahlungsabgleich.förderabgaben.p1 %}
           </p>
           <br/>
+
+
+
+
+
+          <!-- TEST -->
+          <div id="chart"></div>
+          <script>
+          var chart = c3.generate({
+    data: {
+        x : 'x',
+        labels: true,
+        columns: [
+            ['x', 'Körperschaftsteuer ', 'Feldes- und Förderabgaben', 'Zahlungsabgleich'],
+            ['data1', 70993102, 231384156, 302377258],
+            ['data2', 70993102, 231384156, 302377258]
+        ],
+        names: {
+              data1: 'Zahlungen Unternehmen',
+              data2: 'Einnahmen staatliche Stellen'
+            },
+        colors: {
+            data1: '#4682be',
+            data2: '#28467a'
+        },
+        type: 'bar'
+    },
+    tooltip: {
+        grouped: false, // Default true
+        show: false
+    },
+    axis: {
+        x: {
+            type: 'category,' // this needed to load string x value
+        },
+        rotated: true
+    },
+     grid: {
+        y: {
+            lines: [
+                {value: 100000000},
+                {value: 200000000},
+                {value: 300000000}
+            ]
+        }
+    }
+});
+          </script>
+
+
+
+
+
+          <!-- END TEST -->
           <div class="explore-exploration slab-alpha">
             <div class="regions container">
               <div class="graph">
