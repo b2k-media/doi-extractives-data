@@ -8,33 +8,6 @@ breadcrumb:
 ---
 
 <main class="container-page-wrapper layout-state-pages">
-  <style>
-      .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1){
-        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-staat.png");
-        width: 40px;
-      }
-
-      .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(3){
-        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-unternehmen.png");
-        width: 40px;
-      }
-      /*.img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1):hover{
-        content:url("/img/icons/zahlungsabgleich/icon-staat-hover.png");
-        width: 40px;
-      }
-      .img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(3):hover{
-        content:url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
-        width: 40px;
-      }*/
-      .img-chart-1{
-        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-staat-hover.png") !important;
-        width: 40px;
-      }
-      .img-chart-2{
-        content:url("{{ site.baseurl_root }}/img/icons/zahlungsabgleich/Icon-unternehmen-hover.png") !important;
-        width: 40px;
-      }
-  </style>
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
@@ -113,6 +86,16 @@ breadcrumb:
                   <div class="img-chart" id="chart1"></div>
                 </div>
               </div>
+              <table id="graph-legend-table">
+                <tbody>
+                  <tr>
+                    <td class="first-image"></td>
+                    <td class="text">Zahlungen Unternehmen</td>
+                    <td class="second-image"></td>
+                    <td class="text">Einnahmen staatliche Stellen</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
           <br/>
@@ -678,18 +661,17 @@ breadcrumb:
 
 <script>
 $('#chart1').bind('jqplotDataHighlight',
-       function (ev, seriesIndex, pointIndex, data) {
-
-         if(seriesIndex == 1)
-            $(".img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(1)").addClass('img-chart-1');
-        if(seriesIndex == 0)
-          $(".img-chart .jqplot-table-legend .jqplot-table-legend-swatch:nth-of-type(3)").addClass('img-chart-2');
-       }
-   );
+   function (ev, seriesIndex, pointIndex, data) {
+     if(seriesIndex == 1)
+        $("#graph-legend-table tr td:nth-child(1)").addClass('img-chart-1');
+     if(seriesIndex == 0)
+        $("#graph-legend-table tr td:nth-child(3)").addClass('img-chart-2');
+   }
+ );
 $('#chart1').bind('jqplotDataUnhighlight',
-          function (ev, seriesIndex, pointIndex, data) {
-               $(".jqplot-table-legend-swatch").removeClass('img-chart-1');
-               $(".jqplot-table-legend-swatch").removeClass('img-chart-2');
-          }
+  function (ev, seriesIndex, pointIndex, data) {
+     $("#graph-legend-table tr td:nth-child(1)").removeClass('img-chart-1');
+     $("#graph-legend-table tr td:nth-child(3)").removeClass('img-chart-2');
+  }
 );
 </script>
