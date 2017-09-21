@@ -373,11 +373,15 @@
 
     var items = list.selectAll('tr.subregion')
       .data(features, getter('id'));
-
     items.exit().remove();
     var enter = items.enter()
       .append('tr')
         .call(createRegionRow);
+
+    // extra row for einnahmen 
+    var appentRow = langEn ? "<tr><td class='einnahmen-heading'>Einnahmen aus Förderabgaben aus dem Jahr [EN](€)</td><td></td><td></td></tr>" :
+      "<tr><td class='einnahmen-heading'>Einnahmen aus Förderabgaben aus dem Jahr (€)</td><td></td><td></td></tr>";
+    $('.subregions > tbody > tr').eq(items[0].length - 3).after($(appentRow));
 
     var cmpName = function(a, b) {
       return d3.ascending(a.properties.name, b.properties.name);
