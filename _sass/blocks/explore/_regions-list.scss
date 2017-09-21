@@ -95,6 +95,15 @@
     }
   }
 
+  .einnahmen-heading {
+    font-size: 1.125rem;
+    font-weight: $weight-bold;
+    line-height: 1.6875rem;
+    margin-bottom: 0.75rem;
+    min-width: 150px;
+    padding: $base-padding * 0.6;
+  }
+
   tr > *:last-child {
 
   }
