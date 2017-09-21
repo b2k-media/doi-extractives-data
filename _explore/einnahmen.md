@@ -175,8 +175,8 @@ breadcrumb:
           {% t einnahmen.förder_feldesabgaben.daten_einsehen %}
         </a>
         <br/><br/>
-        <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p><br/>
-        <div class="chart-title-style" style="padding-bottom: 20px">{% t einnahmen.förder_feldesabgaben.table1.title %}</div>
+        <p>{% t einnahmen.förder_feldesabgaben.p2 %}</p>
+        <!--<div class="chart-title-style" style="padding-bottom: 20px">{% t einnahmen.förder_feldesabgaben.table1.title %}</div>-->
         <table class="einnahmen_table_1" style="width: 100%">
           <tbody>
             <tr>
