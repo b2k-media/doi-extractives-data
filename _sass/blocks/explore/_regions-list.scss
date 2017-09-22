@@ -95,15 +95,6 @@
     }
   }
 
-  .einnahmen-heading {
-    font-size: 1.125rem;
-    font-weight: $weight-bold;
-    line-height: 1.6875rem;
-    margin-bottom: 0.75rem;
-    min-width: 150px;
-    padding: $base-padding * 0.6;
-  }
-
   tr > *:last-child {
 
   }
@@ -273,4 +264,17 @@
 
 .region-title_compact {
   margin-bottom: 0;
+}
+
+#extra-data {
+  position: relative;
+  reght: 400px;
+  color: #435159;
+  font-family: Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
+  font-size: 1rem !important;
+  font-size: 1.125rem;
+  font-weight: 200;
+  line-height: 1.6875rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
 }

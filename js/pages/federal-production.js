@@ -7,6 +7,7 @@
   var colorscheme = colorbrewer.GnBu;
   var lightestGreen = '#e6f2e1';
   colorscheme[3][0] = colorscheme[5][0] = colorscheme[7][0] = lightestGreen;
+  var oldState = 'DE';
 
   // our state is immutable!
   var state = new Immutable.Map();
@@ -83,7 +84,7 @@
         }
 
         console.log(newState.toJS());
-
+        $("#extra-data").empty();
         return newState;
       });
     });
@@ -216,6 +217,24 @@
 
     selected.call(renderRegion, state);
     // console.timeEnd('render');
+    if(region != "DE") {
+      $.ajax({
+        type: "GET",
+        url: "../../data/regional/production_extra_data.json",
+        dataType: "text",
+        success: function(data) {processProductData(data);}
+      });
+
+      function processProductData(data) {
+        var jsonresponce = JSON.parse(data);
+        if(!$('#extra-data .einnahmen-heading').length) {
+          $('#extra-data').append('<tr><td class="einnahmen-heading">'+jsonresponce.title+'</td></tr>');
+          $('#extra-data').append('<tr><td class="subregion-name">'+jsonresponce[region][0][0][0]+'</td><td>'+jsonresponce[region][0][0][1]+'</td></tr>');
+          $('#extra-data').append('<tr><td class="value">'+jsonresponce[region][0][1][0]+'</td><td>'+jsonresponce[region][0][1][1]+'</td></tr>');
+        }
+      }
+      console.log('OK');
+    }
     rendered = true;
   }
 
@@ -377,14 +396,6 @@
     var enter = items.enter()
       .append('tr')
         .call(createRegionRow);
-
-    // extra row for einnahmen
-
-    // if (!$(".subregions tr .einnahmen-heading").length > 0) {
-    //   var appentRow = langEn ? "<tr><td class='einnahmen-heading'>Einnahmen aus Förderabgaben aus dem Jahr [EN](€)</td><td></td><td></td></tr>" :
-    //     "<tr><td class='einnahmen-heading'>Einnahmen aus Förderabgaben aus dem Jahr (€)</td><td></td><td></td></tr>";
-    //   $('.subregions > tbody > tr').eq(items[0].length - 3).after($(appentRow));
-    // }
 
     var cmpName = function(a, b) {
       return d3.ascending(a.properties.name, b.properties.name);
