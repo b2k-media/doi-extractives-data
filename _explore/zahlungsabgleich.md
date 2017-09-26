@@ -88,7 +88,7 @@ breadcrumb:
 
 
 
-          <!-- TEST -->
+          <!-- New Table 
           <div id="chart"></div>
           <script>
           var chart = c3.generate({
@@ -139,7 +139,7 @@ breadcrumb:
 
 
 
-          <!-- END TEST -->
+           END TEST -->
           <div class="explore-exploration slab-alpha">
             <div class="regions container">
               <div class="graph">
