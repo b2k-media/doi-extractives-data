@@ -1,3 +1,43 @@
+.foerderabgaben {
+  margin-top: -3.125em;
+  width: 100%;
+  border: 0;
+  font-size: 1rem;
+  font-weight: 400;
+
+  td {
+    border: 0;
+    border-bottom: 1px solid #d3dfe6 !important;
+  }
+
+  .einnahmen-heading {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 14px 0 14px 20px;
+  }
+
+  .subregion-name {
+    padding: 14px 0 14px 20px;
+  }
+
+  .value {
+    font-size: 14.4px;
+    font-weight: 200;
+    text-align: right;
+    padding: 14px 22px 14px 0;
+  }
+
+  .color-swatch {
+    display: inline-block;
+    height: 0.7em;
+    margin-right: 0.41667em;
+    width: 0.7em;
+    background-color: rgb(67, 162, 202);
+  }
+}
+
+
 .region-header {
   border-bottom: 1px solid $mid-gray;
   border-top: none;
@@ -93,15 +133,6 @@
       padding-right: $base-padding;
 
     }
-  }
-
-  .einnahmen-heading {
-    font-size: 1.125rem;
-    font-weight: $weight-bold;
-    line-height: 1.6875rem;
-    margin-bottom: 0.75rem;
-    min-width: 150px;
-    padding: $base-padding * 0.6;
   }
 
   tr > *:last-child {
@@ -273,4 +304,16 @@
 
 .region-title_compact {
   margin-bottom: 0;
+}
+
+#extra-data {
+  position: relative;
+  color: #435159;
+  font-family: Lato, "Helvetica Neue", Helvetica, arial, sans-serif;
+  font-size: 1rem !important;
+  font-size: 1.125rem;
+  font-weight: 200;
+  line-height: 1.6875rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
 }
