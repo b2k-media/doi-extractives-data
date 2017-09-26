@@ -1,4 +1,41 @@
+.foerderabgaben {
+  margin-top: -3.125em;
+  width: 100%;
+  border: 0;
+  font-size: 1rem;
+  font-weight: 400;
 
+  td {
+    border: 0;
+    border-bottom: 1px solid #d3dfe6 !important;
+  }
+
+  .einnahmen-heading {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 14px 0 14px 20px;
+  }
+
+  .subregion-name {
+    padding: 14px 0 14px 20px;
+  }
+
+  .value {
+    font-size: 14.4px;
+    font-weight: 200;
+    text-align: right;
+    padding: 14px 22px 14px 0;
+  }
+
+  .color-swatch {
+    display: inline-block;
+    height: 0.7em;
+    margin-right: 0.41667em;
+    width: 0.7em;
+    background-color: rgb(67, 162, 202);
+  }
+}
 
 
 .region-header {
