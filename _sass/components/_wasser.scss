@@ -45,7 +45,7 @@ sup {
   display: flex;
   justify-content: center;
   .first-image {
-    background: url("/img/icons/zahlungsabgleich/icon-staat.png");
+    background: url("/img/icons/zahlungsabgleich/Icon-staat.png");
     position: relative;
     top: 7px;
     width: 30px;
@@ -54,7 +54,7 @@ sup {
     display: inline-block;
 
     &.img-chart-1 {
-      background: url("/img/icons/zahlungsabgleich/icon-staat-hover.png");
+      background: url("/img/icons/zahlungsabgleich/Icon-staat-hover.png");
       width: 30px;
       height: 30px;
       background-size: contain;
@@ -62,7 +62,7 @@ sup {
     }
   }
   .second-image {
-    background: url("/img/icons/zahlungsabgleich/icon-unternehmen.png");
+    background: url("/img/icons/zahlungsabgleich/Icon-unternehmen.png");
     width: 30px;
     height: 30px;
     background-size: contain;
@@ -72,7 +72,7 @@ sup {
     margin-left: 10px;
 
     &.img-chart-2 {
-      background: url("/img/icons/zahlungsabgleich/icon-unternehmen-hover.png");
+      background: url("/img/icons/zahlungsabgleich/Icon-unternehmen-hover.png");
       width: 30px;
       height: 30px;
       background-size: contain;

@@ -7,6 +7,7 @@
   var colorscheme = colorbrewer.GnBu;
   var lightestGreen = '#e6f2e1';
   colorscheme[3][0] = colorscheme[5][0] = colorscheme[7][0] = lightestGreen;
+  var oldState = 'DE';
 
   // our state is immutable!
   var state = new Immutable.Map();
@@ -83,7 +84,7 @@
         }
 
         console.log(newState.toJS());
-
+        $("#extra-data").empty();
         return newState;
       });
     });
@@ -216,6 +217,43 @@
 
     selected.call(renderRegion, state);
     // console.timeEnd('render');
+    if(region != "DE") {
+      $.ajax({
+        type: "GET",
+        url: "../../data/regional/production_extra_data.json",
+        dataType: "text",
+        success: function(data) {processProductData(data);}
+      });
+
+      function processProductData(data) {
+        var jsonresponce = JSON.parse(data);
+        if(!$('#extra-data .einnahmen-heading').length) {
+
+
+          var strData0 = jsonresponce[region][0][0][1];
+          var strData1 = jsonresponce[region][0][1][1];
+          var formatNumberPrev = formatNumber;
+
+          formatNumber = eiti.format(',.2f');
+
+          // Changes format to 123,456.789
+          strData0 = formatNumber(strData0);
+          strData1 = formatNumber(strData1);
+          if(!langEn){
+            // Changes format to 123.456,789 if language isn't english
+            strData0 = strData0.replace(/,/g,";").replace(/\./g,",").replace(/;/g, ".");
+            strData1 = strData1.replace(/,/g,";").replace(/\./g,",").replace(/;/g, ".");
+          }
+          formatNumber = formatNumberPrev;
+
+
+          $('#extra-data').append('<tr><td class="einnahmen-heading">'+jsonresponce.title+'</td><td></td></tr>');
+          $('#extra-data').append('<tr><td class="subregion-name"><span class="color-swatch"></span>'+jsonresponce[region][0][0][0]+'</td><td class="value">'+strData0+'</td></tr>');
+          $('#extra-data').append('<tr><td class="subregion-name"><span class="color-swatch"></span>'+jsonresponce[region][0][1][0]+'</td><td class="value">'+strData1+'</td></tr>');
+        }
+      }
+      console.log('OK');
+    }
     rendered = true;
   }
 
@@ -245,7 +283,6 @@
       var total = product
         ? d3.sum(data, getter(fields.value))
         : unique(data, 'Product').length;
-      if(total>=2) total-=2;
       header
         .datum({
           value: total,
@@ -377,14 +414,6 @@
     var enter = items.enter()
       .append('tr')
         .call(createRegionRow);
-
-    // extra row for einnahmen
-
-    // if (!$(".subregions tr .einnahmen-heading").length > 0) {
-    //   var appentRow = langEn ? "<tr><td class='einnahmen-heading'>Einnahmen aus Förderabgaben aus dem Jahr [EN](€)</td><td></td><td></td></tr>" :
-    //     "<tr><td class='einnahmen-heading'>Einnahmen aus Förderabgaben aus dem Jahr (€)</td><td></td><td></td></tr>";
-    //   $('.subregions > tbody > tr').eq(items[0].length - 3).after($(appentRow));
-    // }
 
     var cmpName = function(a, b) {
       return d3.ascending(a.properties.name, b.properties.name);
