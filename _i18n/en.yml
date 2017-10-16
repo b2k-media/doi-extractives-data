@@ -3588,8 +3588,16 @@ data_translation:
   entire_germany: Entire Germany
 
 footer:
-  impressum: Impressum
-  data-protection: Data Protection
+  impressum: Imprint
+  data-protection: Disclaimer
+  help: "Help us to improve rohstofftransparenz.de! We are grateful for your feedback."
+  teilen_msg: "Share feedback"
+  fragen: "Questions?"
+  contact_us: "Contact us under"
+  description-1: "This website is based on open data. The source-code can be used freely here on"
+  description-2: "GitHub"
+  take_part_msg: "We appreciate your contribution"
+  follow_us: "Follow Us"
 
 states:
   Baden-Württemberg: Baden-Württemberg

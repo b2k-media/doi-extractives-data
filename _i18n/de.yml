@@ -3556,7 +3556,15 @@ data_translation:
 
 footer:
   impressum: Impressum
-  data-protection: Datenschutzerklärung
+  data-protection: Datenschutzerklärungen
+  help: "Helfen Sie uns, rohstofftransparenz.de weiter zu verbessern!"
+  teilen_msg: "Teilen Sie uns Ihr Feedback mit"
+  fragen: "Fragen?"
+  contact_us: "Kontaktieren Sie uns unter"
+  description-1: "Diese Seite basiert auf dem Prinzip des Offenen-Daten-Formats. Der Source-Code kann frei verwendet werden"
+  description-2: "GitHub"
+  take_part_msg: "Wir freuen uns über Ihre aktive Teilnahme!"
+  follow_us: "Folgen Sie uns"
 
 states:
   Baden-Württemberg: Baden-Württemberg

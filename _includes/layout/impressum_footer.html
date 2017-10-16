@@ -4,28 +4,28 @@
       <div class="footer-col_left">
         <a href="{{ site.baseurl }}/"><img class="footer-image" src="/img/D-Eiti-Rohstofftransparenz.png" alt="RT-D-EITI logo"></a>
 
-        <p class="para-md footer-para">Helfen Sie uns, rohstofftransparenz.de weiter zu verbessern!</p>
+        <p class="para-md footer-para">{% t footer.help %}</p>
 
-        <a class="button-big button-primary footer-button" href="mailto:Sekretariat@D-EITI.de">Teilen Sie uns Ihr Feedback mit</a>
+        <a class="button-big button-primary footer-button" href="mailto:Sekretariat@D-EITI.de">{% t footer.teilen_msg %}</a>
 
       </div>
 
       <div class="footer-col_right">
 
         <div class="footer-bottom-left">
-          <p class="footer-para_callout">Fragen?</p>
-  	      <p class="footer-para">Kontaktieren Sie uns unter <a class="link-active-beta" href="mailto:sekretariat@d-eiti.de">sekretariat@d-eiti.de</a>.</p>
+          <p class="footer-para_callout">{% t footer.fragen %}</p>
+  	      <p class="footer-para">{% t footer.contact_us %} <a class="link-active-beta" href="mailto:sekretariat@d-eiti.de">sekretariat@d-eiti.de</a>.</p>
 
-  	      <p class="footer-para">Diese Seite basiert auf dem Prinzip des Offenen-Daten-Formats. Der Source-Code kann frei verwendet werden
-            <a target="_blank" class="link-active-beta" href="https://github.com/pfeffermind/doi-extractives-data">GitHub</a>.</p>
+  	      <p class="footer-para">{% t footer.description-1 %}
+            <a target="_blank" class="link-active-beta" href="https://github.com/pfeffermind/doi-extractives-data">{% t footer.description-2 %}</a>.</p>
           <p class="footer-para">
-            Wir freuen uns über Ihre aktive Teilnahme!
+            {% t footer.take_part_msg %}
           </p>
           <a class="footer-link_social" href="{{ site.baseurl }}/impressum/">
-            <p class="footer-social">Impressum</p>
+            <p class="footer-social">{% t footer.impressum %}</p>
           </a>
           <a class="footer-link_social" href="{{ site.baseurl }}/datenschutz/">
-            <p class="footer-social">Datenschutzerklärungen</p>
+            <p class="footer-social">{% t footer.data-protection %}</p>
           </a>
 
         </div>
@@ -37,7 +37,7 @@
         </div>
 
         <div class="footer-bottom footer-bottom-right">
-          <p class="footer-para_callout footer-social_callout">Folgen Sie uns</p>
+          <p class="footer-para_callout footer-social_callout">{% t footer.follow_us %}</p>
 
           <a target="_blank" class="footer-link_social" href="https://twitter.com/EITIDeutschland">
             <span class="fa-stack">
