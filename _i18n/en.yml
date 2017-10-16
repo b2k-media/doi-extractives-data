@@ -2093,26 +2093,26 @@ exporte:
     daten_einsehen: "Detaillierte Quellenangabe siehe Daten einsehen. Eigene Darstellung."
 
 auswahl-sektoren:
-  title: Auswahl der Sektoren
+  title: Selection of sectors
   nav_items:
     - name: title
-      title: Seitenanfang
-  p1: "Der EITI-Standard verlangt eine Berücksichtigung aller wesentlichen Zahlungsströme des extraktiven Sektors eines Landes. Die MSG hat in verschiedenen Sitzungen darüber beraten, welche Sektoren der Rohstoffgewinnung in den ersten deutschen EITI-Bericht aufgenommen werden sollen. Im Einzelnen wurde die Berücksichtigung folgender Sektoren beschlossen:"
-  li1: "Braunkohle"
-  li2: "Erdöl und Erdgas"
-  li3: "Kali und Salze"
-  li4: "Steine und Erden"
-  p2: "Der Abbau von Steinkohle läuft Ende 2018 in Deutschland aus, der Sektor wird daher nicht im Rahmen des Zahlungsabgleichs berücksichtigt (Lesen Sie hierzu auch die"
-  link1: "allgemeinen Erläuterungen "
-  p3: "zum Abbau von Steinkohle in Deutschland und zu"
-  link2: "staatlichen Finanzhilfen "
-  p4: "für den Steinkohlesektor)."
+      title: Top of page
+  p1: "The EITI standard requires that all the important cash flows of a country’s extractive sector are considered. During various meetings, the MSG discussed which sectors of the natural resources extraction industry should be included in the first D-EITI report. The following individual sectors were addressed:"
+  li1: "Lignite"
+  li2: "Crude oil and natural gas"
+  li3: "Potash and potash salt products"
+  li4: "Quarried natural resources"
+  p2: "The mining of hard coal in Germany will be phased out at the end of 2018, so this sector is not considered in the framework of the payment reconciliation (see the general remarks on the mining of"
+  link1: "hard coal"
+  p3: "in Germany and on"
+  link2: "subsidies and tax aids"
+  p4: "or the hard coal sector)."
 
 identifizierung-unternehmen:
   title: Identification of companies
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
   p1: "The first step was to identify the companies that were relevant for the first D-EITI report. Here the Independent Administrator used a database analysis"
   sup1:
     title: "1"
