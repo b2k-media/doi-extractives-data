@@ -3472,16 +3472,12 @@ downloads:
 
 about:
     title: About D-EITI
-    description-1: |
-        The Extractive Industries Transparency Initiative (EITI) is an international standard for the promotion of
-        transparent and responsible management of natural resources. The federal government in July 2014
-        decided the initiative to join and is since February 23, 2016 officially-implement EITI country.
-        In the next 18 months, the German EITI (D-EITI) draw up a report and publish,both comprehensive.
-    description-1-link-1: Context Information
-    description-1-1: the German commodity sector as well as important
-    description-1-link-2: Data
-    description-1-2: together carries through the raw-material producing sector.
-    description-2: Visit this portal like regularly to stay on the latest results of German EITI initiative to date.
+    description-1: Welcome to rohstofftransparenz.de, the data portal of the German Extractive Industry Transparency Initiative (D-EITI). The German multi-stakeholder-group aims to increase transparency in the extractive industries as well as to promote a comprehensive presentation of the relevant topics. On this portal you have access to detailed
+    description-1-link-1: data
+    description-1-1:   and
+    description-1-link-2: information
+    description-1-2: about the extractive industries in Germany.
+    description-2: Come back soon to stay up to date on transparency in the extractive industries in Germany.
 
 federal-production:
     heading-1: Interactive Resource Card
