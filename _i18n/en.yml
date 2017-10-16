@@ -2135,32 +2135,31 @@ identifizierung-unternehmen:
   p9: "and are therefore not identified by the selection criteria screen adopted by the MSG. As a result of the high number of non-identified small and medium-sized enterprises in the quarried natural resources sector, the coverage of this sector clearly lags behind that of the other sectors."
 
 regierungsstellen-steuergeheimnis:
-  title: "Identifizierung der Regierungsstellen & Steuergeheimnis"
+  title: "Identification of government agencies and tax secrecy"
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: regierungsstellen
-      title: Regierungsstellen
+      title: Identification of government agencies
     - name: steuergeheimnis
-      title: Steuergeheimnis
+      title: Managing tax secrecy
   regierungsstellen:
-    h: "Identifizierung der Regierungsstellen"
-    p1: "Die Gesamtheit der Regierungseinheiten, die Einnahmen aus der Rohstoffindustrie in Deutschland generieren, ergibt sich unmittelbar aus den Zahlungsströmen, die für den vorliegenden ersten D-EITI Bericht festgelegt wurden. Aufgrund des föderalen Aufbaus der Verwaltung in Deutschland ist keine zentrale Erfassung der relevanten Zahlungsströme möglich. Es handelt sich im Einzelnen grundsätzlich um folgende staatliche Stellen:"
+    h: "Identification of government agencies"
+    p1: "The total number of government bodies that generate revenues from the extractive industry in Germany stem directly from the cash flows that were defined for this first D-EITI report. No central recording of the relevant cash flows is possible, however, due to the federal structure of the administration in Germany. The following individual government agencies are responsible for:"
     list1:
-      li1: "Körperschaftsteuer: die zuständigen Finanzämter am jeweiligen Sitz der Unternehmen"
-      li2: "Feldes- und Förderabgabe: die jeweils zuständigen Bergbehörden der Bundesländer, in denen das Erlaubnis-/Bewilligungsfeld liegt"
-      li3: "Gewerbesteuer: die Gemeinden, in deren Gebiet sich die steuerlich relevanten
-Betriebsstätten befinden (ohne Zahlungsabgleich)"
-      li4: "Pachtzahlungen: die staatlichen Stellen, die aufgrund einzelvertraglicher Regelungen Einnahmen im Zusammenhang mit dem Rohstoffabbau erzielen (ohne Zahlungsabgleich)"
+      li1: "Corporation tax: the responsible tax offices at the respective headquarters of the companies"
+      li2: "Mining and extraction royalties: the responsible mining authorities of the Federal States in which the approved/licenced site is located"
+      li3: "Trade tax: the municipalities in the territory of which the taxable operating facilities are located (no payment reconciliation)"
+      li4: "Lease payments: The government agencies which generate revenues from extractive companies on the basis of individual contractual arrangements (no payment reconciliation)"
   steuergeheimnis:
-    h: "Umgang mit dem Steuergeheimnis"
-    p1: "Sowohl die EITI-Berichterstattung als auch der Zahlungsabgleich umfassen Steuerdaten, namentlich Zahlungsströme betreffend Körperschaftsteuer und Gewerbesteuer, die dem "
-    link1: "Steuergeheimnis"
-    p2: "gemäß §§ 30 ff. AO unterliegen. Im Zusammenhang mit dem Steuergeheimnis sind nachfolgende Aspekte von Bedeutung:"
+    h: "Managing tax secrecy"
+    p1: "Both the EITI reporting and the payment reconciliation processes encompass tax data, viz. cash flows relating to corporation tax and trade tax, which are subject to tax secrecy pursuant to §§ 30 et seq. of the AO (German Tax Code, read more"
+    link1: "here"
+    p2: "The following aspects are particularly significant in the context of tax secrecy:"
     list1:
-      li1: "Im Zuge der Erstellung des EITI-Berichts werden die von den Unternehmen gemeldeten Zahlungsströme an staatliche Stellen aufbereitet und offengelegt. Davon betroffen sind auch Steuerzahlungen, also Daten, die unter das Steuergeheimnis fallen. Diese Form der Nutzung steuerrelevanter Daten ist nur dann zulässig, wenn der Steuerpflichtige, also das jeweilige Unternehmen, ausdrücklich zustimmt (§ 30 Abs. 4 Nr. 3 AO). Über die Vorlagen zur Datenerhebung ist sichergestellt, dass diese Zustimmung zum Zwecke der Veröffentlichung der Daten im Rahmen der EITI-Berichterstattung von jedem einzelnen Unternehmen eingeholt wird."
-      li2: "Im Rahmen des vorzunehmenden Zahlungsabgleichs müssen die vom Unternehmen gemeldeten Steuerzahlungen abgeglichen werden mit den Daten, die die Finanzverwaltung als Empfänger der Zahlungen meldet. Aufgrund des Steuergeheimnisses darf die Finanzbehörde diese Daten grundsätzlich nicht für Zwecke des Zahlungsabgleichs zur Verfügung stellen. Dazu bedarf es vielmehr einer ausdrücklichen Bevollmächtigung durch den Steuerpflichtigen zugunsten des Unabhängigen Verwalters."
-    p3: "Form und Inhalt dieser Vollmacht sind durch die zuständigen Fachabteilungen des Bundesfinanzministeriums und der Länder geprüft und auch im Rahmen eines gemeinsamen Bund-Länder-Ausschusses abgestimmt worden. Die abgestimmte Vollmacht zur Vorlage bei den jeweiligen Finanzämtern wurde nach Abstimmung mit der MSG und den Bergbehörden auch als Muster für die entsprechende Vollmacht zur Vorlage bei den zuständigen Bergbehörden zum Zwecke des Abgleichs der Feldes- und Förderabgaben verwendet."
+      li1: "In the course of the preparation of the EITI report, the cash flows reported by the companies and received by government agencies are prepared and disclosed. This also affects tax payments, i.e. data that is subject to tax secrecy. This usage of tax-relevant data is only permissible if the taxpayer, i.e. the respective company, expressly agrees (§ 30(4), No. 3 of the AO). The data collection templates ensure that this consent is obtained from each company for the purpose of publishing the data in the context of EITI reporting."
+      li2: "As part of the payment reconciliation to be carried out, the tax payments reported by a company must be reconciled with the data reported by the tax authorities, which are the recipients of the payments. Due to tax secrecy, the respective financial authority may not make this data available for the purposes of payment reconciliation; this requires the taxpayer’s express authorisation for the Independent Administrator to act. "
+    p3: "The form and the content of this power of attorney were examined by the competent departments of the Federal Ministry of Finance and the Federal States and were also approved by a joint Federal-State committee. When the approval of the MSG and the mining authorities had been given, the approved power of attorney for submission to the respective tax authorities was also used as a model for a corresponding power of attorney for submission to the responsible mining authorities for the purpose of reconciling mining and extraction royalties."
 
 zahlungsströme:
   title: "Selection of cash flows"
