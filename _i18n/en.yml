@@ -1,7 +1,8 @@
+glossary: Glossary
 menu:
     back: "D-EITI.de"
-    about: "About D-EITI"
-    how-it-work: "How it Work's?"
+    about: "Home"
+    how-it-work: "Resource extraction"
     explore-data: "Explore Data"
 
 nav-items:
@@ -2108,30 +2109,30 @@ auswahl-sektoren:
   p4: "für den Steinkohlesektor)."
 
 identifizierung-unternehmen:
-  title: Identifizierung der Unternehmen
+  title: Identification of companies
   nav_items:
     - name: title
       title: Seitenanfang
-  p1: "Hinsichtlich der Auswahl der Unternehmen hat die MSG beschlossen, sich an den Vorgaben der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 zu orientieren. Für die Identifizierung der für den ersten D-EITI Bericht relevanten Unternehmen hat der Unabhängige Verwalter im ersten Schritt anhand einer Datenbankanalyse"
+  p1: "The first step was to identify the companies that were relevant for the first D-EITI report. Here the Independent Administrator used a database analysis"
   sup1:
     title: "1"
     text1: "Orbis Europe Datenbank des Anbieters Bureau van Dijk "
     link: "(www.bvdinfo.com),"
-    text2: "abgerufen am 02.02.17, 03.02.17 und 28.02.17."
-  p2: "sämtliche Unternehmen selektiert, die in der Haupttätigkeit der rohstoffgewinnenden Industrie in den Bereichen Braunkohle, Erdöl/Erdgas sowie Steine und Erden (inklusive Kali/Salze) zugeordnet sind. Das Ordnungskriterium stellte hierbei die Zuordnung der Unternehmen zu den Abteilungen 05 bis 08 entsprechend der Verordnung 1893/2006/EG vom 20.12.2006 dar (Lesen Sie "
-  link1: hier
-  p3: "mehr zur Auswahl der Unternehmen). Im zweiten Schritt erfolgte eine Filterung dieser Unternehmen nach den Größenkriterien, die durch das HGB für „große“ Gesellschaften vorgegeben sind. "
-  p4: "Der Kreis dieser vorläufig identifizierten Unternehmen wurde durch den Unabhängigen Verwalter manuell erweitert um Unternehmensgruppen, bei denen eine sogenannte Konzerninfizierung über „tätige“ Tochterunternehmen in Frage kommen könnte (Lesen Sie "
-  link2: hier
-  p5: "mehr zur Auswahl der Unternehmen). Im Anschluss wurde das Ergebnis einer Analyse durch die Mitglieder der MSG unterzogen. Es ergaben sich insbesondere folgende Erkenntnisse bzw. Ergebnisse:"
-  li1: "Unternehmen, deren Tätigkeit schwerpunktmäßig der Speicherung (z. B. Errichtung und Betrieb von Kavernenspeichern zur Speicherung von Erdgas) von Rohstoffen unter Tage zuzuordnen ist, werden trotz Zuordnung zu den Abteilungen 05 bis 08 nicht berücksichtigt, da hier nicht die Gewinnung von Rohstoffen im Vordergrund steht;"
-  li2: "Sämtliche zunächst erfasste Gesellschaften der Abteilung 07 (Erzbergbau) betreiben keinen aktiven Rohstoffabbau in Deutschland und werden damit nicht berücksichtigt."
-  p6: "Auf Grundlage des beschriebenen Auswahlprozesses wurden insgesamt 48 Unternehmen bzw. Unternehmensgruppen für eine mögliche Mitwirkung am deutschen EITI-Prozess identifiziert und um Teilnahme gebeten. Aufgrund der schwierigen Datenlage kann diese Zahlenangabe weder als eindeutig noch als abschließend bezeichnet werden."
-  p7: "Es zeigt sich, dass durch die von der MSG festgelegten Auswahlkriterien eine hohe Abdeckung für die Sektoren Braunkohle, Erdöl- bzw. Erdgas, Kali und Salze/Industriesole erreicht wird (vgl. die Darstellung in der "
-  link3: Tabelle
-  p8: "zu teilnehmenden Unternehmen). Bei diesen Rohstoffen handelt es sich ausschließlich um bergfreie Bodenschätze. Diese Sektoren enthalten vergleichsweise wenige, aber verhältnismäßig große Unternehmenseinheiten. Dagegen werden die Rohstoffe des Sektors Steine und Erden von einer sehr hohen Anzahl an Unternehmenseinheiten mit einer Vielzahl von Werken bzw. Abbaustätten gewonnen. Die hohe Frachtkostenintensität ist ein wesentlicher Grund für die regionale Gewinnung und Vermarktung dieser Rohstoffe. Nach Schätzungen des Bundesverbandes Baustoffe – Steine und Erden (bbs) würden aufgrund der Kleinteiligkeit des Sektors die 25 größten Steine-Erden-Anbieter lediglich einen Anteil von etwa 1,6 % an der Gesamtzahl der Unternehmen der Branche und ca. 22 % an der Gesamtzahl der Gewinnungsstätten der Branche ausmachen. Hierbei ist zudem davon auszugehen, dass sich bereits unter den 25 größten Anbietern dieser Branche eine Reihe von Unternehmen bzw. Unternehmensgruppen befinden, die nicht die "
-  link4: hier
-  p9: "erläuterten Größenkriterien erfüllen und damit nicht von den durch die MSG beschlossenen Auswahlkriterien erfasst werden. Die Abdeckung des Sektors Steine und Erden bleibt damit bedingt durch die hohe Anzahl nicht erfasster kleiner und mittlerer Unternehmen deutlich hinter der Abdeckung der übrigen Sektoren zurück."
+    text2: "downloaded 02.02.17, 03.02.17 and 28.02.17."
+  p2: "to select all the companies which are mainly active in the extractive industry and which are allocated to the lignite, crude oil/natural gas and quarried natural resources (including potash & salts) sectors. The classification criterion was the allocation of the companies to sub-sections 05 to 08 pursuant to Regulation 1893/2006/EC of December 20, 2006 (also read the "
+  link1: recommendations
+  p3: "of the Independent Administrator). In the second step, these companies were filtered according to the size criteria stipulated by the HGB for ‘large’ companies. "
+  p4: "The Independent Administrator manually expanded the group of these provisionally-identified companies by including groups of companies in which a potential ‘consolidated tax group infection’ caused by ‘active’ subsidiaries existed (for details also read the"
+  link2: recommendations
+  p5: "of the Independent Administrator). The results were subsequently subjected to an analysis by the MSG members. The following knowledge and/or results were obtained:"
+  li1: "Companies the main activities of which are allocated to the storage (e.g. construction and operationof cavern storage facilities for the storage of natural gas) of natural resources underground are not considered, since the extraction of natural resources is not their primary activity, despite their being allocated to sub-sections 05 to 08."
+  li2: "All the companies identified and allocated to sub-section 07 (ore mining) do not actively engage in extractive mining in Germany and are therefore not considered."
+  p6: "On the basis of the above-described selection process, a total of 48 companies and/or groups of companies were identified for possible participation in the D-EITI process and were requested to take part. Due to the difficult data situation, however, this number (48) cannot be described as being clear or conclusive."
+  p7: "It is evident that the selection criteria specified by the MSG ensure a prominent level of coverage for the lignite, crude oil and/or natural gas, potash and salts/industrial brine sectors"
+  link3: (See table on participating companies).
+  p8: "These are solely free-to-mine natural resources and these particular sectors contain comparatively few, but relatively large business units. On the other hand, quarried natural resources are extracted by a very high number of business operations with many extraction facilities and/or mines. One key reason for the purely regional production and marketing of these natural resources is the prohibitive cost of their transport. According to estimates by the German Building Materials Association – Quarried Natural Resources (BBS), the 25 largest quarried natural resources suppliers would account for only about 1.6% of the total number of companies in the industry and around 22% of the total number of the industry’s extraction sites. It must also be assumed that a number of companies and/or consolidated companies (which are already among the 25 largest providers in this sector) do not fulfil"
+  link4: the size criteria
+  p9: "and are therefore not identified by the selection criteria screen adopted by the MSG. As a result of the high number of non-identified small and medium-sized enterprises in the quarried natural resources sector, the coverage of this sector clearly lags behind that of the other sectors."
 
 regierungsstellen-steuergeheimnis:
   title: "Identifizierung der Regierungsstellen & Steuergeheimnis"
@@ -3471,16 +3472,12 @@ downloads:
 
 about:
     title: About D-EITI
-    description-1: |
-        The Extractive Industries Transparency Initiative (EITI) is an international standard for the promotion of
-        transparent and responsible management of natural resources. The federal government in July 2014
-        decided the initiative to join and is since February 23, 2016 officially-implement EITI country.
-        In the next 18 months, the German EITI (D-EITI) draw up a report and publish,both comprehensive.
-    description-1-link-1: Context Information
-    description-1-1: the German commodity sector as well as important
-    description-1-link-2: Data
-    description-1-2: together carries through the raw-material producing sector.
-    description-2: Visit this portal like regularly to stay on the latest results of German EITI initiative to date.
+    description-1: Welcome to rohstofftransparenz.de, the data portal of the German Extractive Industry Transparency Initiative (D-EITI). The German multi-stakeholder-group aims to increase transparency in the extractive industries as well as to promote a comprehensive presentation of the relevant topics. On this portal you have access to detailed
+    description-1-link-1: data
+    description-1-1:   and
+    description-1-link-2: information
+    description-1-2: about the extractive industries in Germany.
+    description-2: Come back soon to stay up to date on transparency in the extractive industries in Germany.
 
 federal-production:
     heading-1: Interactive Resource Card
@@ -3591,8 +3588,16 @@ data_translation:
   entire_germany: Entire Germany
 
 footer:
-  impressum: Impressum
-  data-protection: Data Protection
+  impressum: Imprint
+  data-protection: Disclaimer
+  help: "Help us to improve rohstofftransparenz.de! We are grateful for your feedback."
+  teilen_msg: "Share feedback"
+  fragen: "Questions?"
+  contact_us: "Contact us under"
+  description-1: "This website is based on open data. The source-code can be used freely here on"
+  description-2: "GitHub"
+  take_part_msg: "We appreciate your contribution"
+  follow_us: "Follow Us"
 
 states:
   Baden-Württemberg: Baden-Württemberg
