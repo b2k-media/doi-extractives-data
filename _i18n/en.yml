@@ -9,81 +9,82 @@ nav-items:
     top: Seitenanfang
 
 erdol-erdgas:
-  title: "Erdöl und Erdgas"
+  title: "Crude Oil and Gas"
   erdöl:
-    title: Erdöl
-    subtitle: Wissenswertes über Erdöl
+    title: Crude Oi
+    subtitle: Interesting facts about crude oil
     slides:
-       - Deutschland deckt rund 2 % seines Erdölbedarfs aus heimischer Produktion.
-       - Das im Wattenmeer gelegene Ölfeld Mittelplate/Dieksand beherbergt mit ca. 25 Mio. t rund ein Drittel der förderbaren deutschen Erdölvorkommen.
-       - Erdöl und Erdgas entstehen aus Ablagerungen großer Mengen von Kleinstlebewesen vor allem Algen.
-       - Durchschnittlich lagern Erdölfelder in rund 1.500 m Teufe. Durch den technischen Fortschritt ist es aber möglich, auch Erdölfelder in 5.000 m Teufe und darunter zu erschließen.
-       - Seit Beginn der Erdöl- und Erdgasförderung in Deutschland wurden 22.000 Bohrungen durchgeführt
+       - Germany covers about 2% of its crude oil demand with domestic production.
+       - The Mittelplate/Dieksand oilfield in the Wadden Sea contains some 25 million tons, which amounts to roughly one third of the extractable German crude oil deposits.
+       - Crude oil and natural gas are created by deposits of large amounts of micro-organisms, mainly algae.
+       - On average, crude oil deposits are found at a depth of around 1.5 km. Technical progress, however, has made it possible to open up oilfields at a depth of 5000 meters (m) and more.
+       - More than 22,000 drilling operations have been carried out since crude oil and natural gas production began in Germany.
     geschichte:
-      title: Geschichte
-      p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2014 betrug rund 2,4 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden auf rund 34 Mio. t geschätzt.
+      title: History
+      p: Crude oil has been industrially extracted in Germany for more than 150 years. The successful oil well in Wietze near Celle in 1858/59 is generally recognised as being one of the first in the world. Crude oil production in Germany peaked in 1968 with an annual production of around 8 million tons. Annual production in 2015 amounted to 2.4 million tons. Proven and potential crude oil reserves in Germany are estimated to be around 34 million tons as of 01.01.2016.
     wirtschaftliche-bedeutung:
-      title: Wirtschaftliche Bedeutung
-      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2 % des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 860 Mio. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt."
+      title: Economic importance
+      p: "Current oil production in Germany amounts to about 2 % of the German annual consumption. The value of the extracted petroleum is about €860 million for 2015; in terms of economic importance, this is the third most important source of fossil fuels in Germany, behind natural gas and brown coal. In a 2015 international comparison of crude oil-producing countries, Germany was in 58th place (26th in 1970).  In 2015, 3,950 employees were employed in oil and natural gas extraction in Germany."
       sup1:
         title: "1"
-        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
+        text: "This data contains only employment figures for companies subject to mining law."
     gewinnung:
-      title: Gewinnung
-      p1: 2014 gibt es in Deutschland 50 Ölfelder, auf denen aktiv durch rund 1000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert wird. Die Ölfelder Schleswig-Holsteins und Niedersachsens produzierten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer, das seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen wird. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
-      p2: Erdöl ist ein fossiler Energieträger und dient v.a. als Treibstoff für Verkehrs- und Transportmittel und zur Beheizung von Gebäuden. Zudem wird Erdöl in der chemischen Industrie z. B. zur Herstellung von Kunststoffen verwendet.
+      title: Extraction
+      p1: There were 50 crude oil fields in Germany in 2015. These fields extract oil by means of some 1,000 production wells in drilling installations (onshore) and production platforms (offshore). In 2015, the oilfields of Schleswig-Holstein and Lower Saxony yielded almost 90% of the total German production. The remaining 10% was mainly produced in the Rhineland-Palatinate, together with very low production levels in Bavaria, Hamburg, Brandenburg and Mecklenburg-Western Pomerania. The largest German crude oil field is the Mittelplate/Dieksand in the Schleswig-Holstein Wadden Sea (Wattenmeer) National Park. It has been developed since 1987 by a drilling and production island and by oil well facilities on the mainland. This oilfield accounted for more than half of Germany’s total crude oil production in 2015.
+      p2: Crude oil is a fossil energy source. It is primarily used as a fuel for vehicular transportation and to heat buildings. Crude oil is also used in the chemical industry for e.g. the manufacture of plastics.
   erdgas:
-    title: Erdgas
-    subtitle: Wissenswertes über Erdgas
+    title: Natural gas
+    subtitle: Interesting facts about natural gas
     slides:
-      - Erdgas wird im Vergleich zu Kohle und Erdöl erst seit relativ kurzer Zeit als Energieträger genutzt.
-      - Auf einem ein Hektar großen Betriebsplatz wird Erdgas für die Versorgung von rund 15.000 Haushalten gefördert.
-      - Bereits seit 60 Jahren wird Erdgas aus deutschen Lagerstätten gewonnen.
-      - 11 % des Erdgasbedarfs in Deutschland wird durch die heimische Produktion gedeckt.
-      - "95 % des geförderten Erdgases stammt aus Niedersachsen."
+      - In contrast to coal and oil, natural gas has only been used as an energy source relatively recently.
+      - Germany has an active offshore gas field in the German Bight.
+      - Natural gas is extracted on this one-hectare operating facility and supplied to some 15,000 households.
+      - Natural gas has been extracted from gas fields in Germany for the past 100 years.
+      - 8% of the demand for natural gas in Germany is covered by domestic production.
+      - 95% of the natural gas is extracted in Lower Saxony.
 
     geschichte:
-      title: Geschichte
-      p: "Bei einer Bohrung nach Wasser wurde 1910 in Neuengamme, heute ein Stadtteil von Hamburg, Erdgas gefunden. Die Förderung im industriellen Maßstab begann 1913. Bis zum Ende der 1960er Jahre blieb die Erdgasproduktion in Deutschland allerdings gering – mit einem Anteil von nur rund 1% am primären Energieverbrauch in Deutschland (West). Die Ölkrisen in den 70er Jahren lenkten den Blick verstärkt auf den Verbrauch von Energie und die Notwendigkeit der Erschließung von Energiequellen. Mit der Entdeckung großer Gasvorkommen an der deutsch-niederländischen Grenze und der zunehmenden Umstellung von Stadt- und Kokereigas auf Erdgas stieg die heimische Förderung. Damit einher ging ein stetiger Ausbau der Gasinfrastruktur (von 12 auf 20 Mrd. m3(Vn) Rohgas zwischen 1970 und 2005). 2005 deckte die heimische Erdgasförderung bis zu 25% des heimischen Gasverbrauchs. Seitdem ist die Förderung rückläufig. 2014 lag sie bei rund 10,1 Mrd. m3(Vn) Rohgas, dies entspricht etwa 7% des heimischen Gasverbrauchs. Die sicheren und wahrscheinlichen Reserven an Erdgas sind zudem rückläufig. Diese beliefen sich 2014 auf 88,5 Mrd. m3. Damit beträgt die statische Reichweite der deutschen Erdgasreserven 8 Jahre. Entsprechend sind auch die Aktivitäten zur Suche und Erschließung neuer Erdgasfelder reduziert."
+      title: History
+      p: "In 1910, natural gas was found in Neuengamme (which is a district of Hamburg today) when drilling for water. The industrial production of natural gas started in 1913. However, natural gas production in Germany remained minimal until the end of the 1960s, with only a 1% share of the primary energy consumption in Germany (West). The oil crises of the 1970s focused increased attention on the consumption of energy and the need for the development of energy sources. Domestic production grew with the discovery of large gas deposits on the German-Dutch border and the increasing conversion of town and coke-oven gas to natural gas. This was accompanied by a steady expansion of the gas infrastructure (from 12 to 20 billion m³(Vn) of raw gas between 1970 and 2005). In 2005, domestic natural gas production covered up to 25 % of domestic gas consumption, but production has been declining since then: in 2016, it stood at around 8 billion m³(Vn), some 6 % of domestic gas consumption. The proven and probable reserves of natural gas are also in decline, with a total of 74 billion m³ as of January 1st, 2016. This means that the static range of the German natural gas reserves amounts to 8 years. The decline in natural gas reserves and production is mainly due to the increasing depletion of the large deposits and the resulting natural decline in extraction. A legislative process lasting several years was also responsible for the decline in reserves; during this process, the topics discussed included future requirements for the use of fracking technology, which led to new legislation in 2016. There have been no significant new discoveries in recent years."
     wirtschaftliche-bedeutung:
-      title: Wirtschaftliche Bedeutung
-      p: "Im Vergleich aller Erdgasförderländer liegt Deutschland auf Platz 43. Der Anteil an der weltweiten Gasfördermenge betrug 2015 0,3%. In Relation zu anderen in Deutschland geförderten Rohstoffen, wie Braunkohle, kommt Erdgas eine relativ große wirtschaftliche Bedeutung zu. Der Wert des geförderten Erdgases betrug 2015 2 Mrd. Euro. Ein Fünftel des Gesamtwertes der in Deutschland geförderten Rohstoffe entfällt auf den Rohstoff Erdgas. 2015 waren im Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt."
+      title: Economic importance
+      p: "Germany ranks number 43 in the table of all natural gas-producing countries. The country’s share of global gas production amounted to 0.3 % in 2015. Natural gas is of relatively significant economic importance in relation to other extracted natural resources such as lignite. The value of the natural gas extracted in 2015 amounted to €2 billion. Natural gas accounts for one-fifth of the total value of the natural resources extracted in Germany. 3.950 persons were employed in the oil and gas sectors in 2015."
       sup2:
         title: "2"
-        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen"
+        text: " This data contains only employment figures for companies subject to mining law."
     gewinnung:
-      title: Gewinnung
-      p: "95 % des deutschen Erdgases wurden 2015 in Niedersachsen gefördert. Andere Bundesländer (Sachsen-Anhalt, Schleswig-Holstein, Thüringen und Bayern) tragen nur marginal zur Gesamtfördermenge bei. Gefördert wird das Erdgas auf 77 Gasfeldern mittels 476 Fördersonden. Das Gasfeld A6/B4 im sogenannten Entenschnabel, einer Wirtschaftszone in der deutschen Bucht (Nordsee), ist dabei das einzige Offshore Gasfeld. Wie Erdöl tritt Erdgas in unterirdischen Lagerstätten auf. Vergleichbar zum Erdöl findet die Exploration von Erdgas durch seismische Untersuchungen und Erkundungsbohrungen statt. Die Förderung erfolgt über ein mit Zement und Stahl stabilisiertes Bohrloch, in das ein Steigrohr eingebracht wird (Sonde)."
+      title: Extraction
+      p: "95% of German natural gas was extracted in Lower Saxony in 2015. Other Federal States (Saxony-Anhalt, Schleswig-Holstein, Thuringia and Bavaria) contribute only marginally to the total production. 476 production wells extract the natural gas on 77 gas fields. The A6/B4 gas field in the ‘Entenschnabel’ (duckbill) – an economic zone in the German Bight (North Sea) – is the only offshore gas field. Like crude oil, natural gas occurs in underground deposits. Seismic surveys and exploration drilling are also used for both crude oil and natural gas exploration. Gas extraction takes place through a borehole stabilised with cement and steel and a riser pipe is then inserted through the hole."
     verwendung:
-      title: Verwendung
-      p: "Als fossiler Energieträger wird Erdgas hauptsächlich für die Beheizung von Wohn- und Gewerberäumen, als Wärmelieferant für thermische Prozesse in Gewerbe und Industrie (z. B. in Großbäckereien, Ziegeleien, Zementwerken, Gießereien und Metallhütten), zur elektrischen Stromerzeugung sowie als Treibstoff für Schiffe und Kraftfahrzeuge verwendet. Hinzu treten mengenmäßig bedeutsame Anwendungen als Reaktionspartner in chemischen Prozessen, wie beispielsweise der Ammoniaksynthese im Haber-Bosch-Verfahren (Stickstoffdüngemittel), der Eisenerzreduktion im Hochofenprozess oder der Herstellung von Wasserstoff."
+      title: Uses
+      p: "As a fossil energy source, natural gas is mainly used to heat residential and commercial premises, to supply heat for thermal processes in trade and industry (e.g. in large bakeries, brick factories, cement factories, foundries and smelters) and to generate electrical power; it is used as fuel for ships and motor vehicles. Natural gas also has many other significant uses – as a reactant in chemical processes (e.g. for ammonia synthesis in the Haber-Bosch process (nitrogen fertiliser)), for iron ore reduction in the blast furnace process and in the production of hydrogen."
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: erdol
-      title: Erdöl
+      title: Crude Oil
       subnav_items:
         - name: fakten_zu_oil
-          title: Wissenswertes über Erdöl
+          title: Interesting facts about crude oil
         - name: erdol-geschichte
-          title: Geschichte
+          title: History
         - name: erdol-wirtschaftliche-bedeutung
-          title: Wirtschaftliche Bedeutung
+          title: Economic importance
         - name: erdol-gewinnung
-          title: Gewinnung
+          title: Extraction
     - name: erdgas
-      title: Erdgas
+      title: Natural gas
       subnav_items:
         - name: fakten_zu_gas
-          title: Wissenswertes über Erdgas
+          title: Interesting facts about natural gas
         - name: erdgas-geschichte
-          title: Geschichte
+          title: History
         - name: erdgas-wirtschaftliche-bedeutung
-          title: Wirtschaftliche Bedeutung
+          title: Economic importance
         - name: erdgas-gewinnung
-          title: Gewinnung
+          title: Extraction
         - name: erdgas-verwendung
-          title: Verwendung
+          title: Uses
 
 kohle:
   title: Kohle
@@ -3284,11 +3285,11 @@ how-it-work:
     title: Rohstoffgewinnung
     description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
     section1:
-      title: Welche Rohstoffe werden in Deutschland abgebaut?
-      item1: Erdöl und Erdgas
-      item2: Kohle
-      item3: Salze
-      item4: Steine und Erden
+      title: Which natural resources are extracted in Germany?
+      item1: Crude Oil and Gas
+      item2: Coal
+      item3: Salts
+      item4: Quarried natural resources
     section3:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
