@@ -87,71 +87,71 @@ erdol-erdgas:
           title: Uses
 
 kohle:
-  title: Kohle
+  title: Coal
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: steinkohle
-      title: Steinkohle
+      title: Hard coal
       subnav_items:
         - name: fakten_zu_steinkohle
-          title: Wissenswertes über Steinkohle
+          title: Interesting facts about hard coal
         - name: steinkohle-geschichte
-          title: Geschichte
+          title: History
         - name: steinkohle-ausblick
-          title: Ausblick
+          title: Outlook
         - name: steinkohle-wirtschaftliche-bedeutung
-          title: Wirtschaftliche Bedeutung
+          title: Economic importance
     - name: braunkohle
-      title: Braunkohle
+      title: Lignite
       subnav_items:
         - name: fakten_zu_braunkohle
-          title: Wissenswertes über Braunkohle
+          title: Interesting facts about Lignite
         - name: braunkohle-geschichte
-          title: Geschichte
+          title: History
         - name: braunkohle-gewinnung
-          title: Gewinnung
+          title: Extraction
         - name: braunkohle-verwendung
-          title: Verwendung
+          title: Uses
   steinkohle:
-    title: Steinkohle
-    subtitle: Wissenswertes über Steinkohle
+    title: Hard coal
+    subtitle: Interesting facts about hard coal
     slides:
-      - Mit der Schließung der letzten verbliebenen Bergwerke in Bottrop und Ibbenbüren wird die subventionierte Steinkohleförderung in Deutschland zum 31.12.2018 beendet.
-      - Die Beendigung erfolgt auf gesetzlicher Grundlage und sozialverträglich.
-      - Mit einer Förderung von rund 6 Mio. t (2015) trägt deutsche Steinkohle zu ca. 10 % zur Deckung des deutschen Steinkohlebedarfs bei.
-      - Ca. 90 % der benötigten Steinkohle werden importiert, hauptsächlich aus Russland, Kolumbien, den USA und Australien.
-      - Im internationalen Vergleich ist der deutsche Steinkohlenbergbau durch schwierige geologische Bedingungen (große Abbauteufen, geringmächtige Flöze, hoher Gebirgsdruck) und eine ausgedehnte, untertägige Infrastruktur gekennzeichnet.
+      - The subsidized coal mining industry in Germany will end by December 31, 2018, with the closure of the last remaining mines in Bottrop and Ibbenbüren.
+      - The termination will be carried out in a socially acceptable manner and on a legal basis.
+      - With approx. 6 million tons extracted in 2015, German hard coal covers around 10% of the German requirements.
+      - Around 90% of the hard coal is imported, mainly from Russia, Colombia, the USA and Australia.
+      - In an international comparison, German hard coal mining is characterised by difficult geological conditions (extreme mining depths, thin seams, overburden pressure) and an extensive, subterranean infrastructure.
     geschichte:
-      title: Geschichte
-      p1: "Wirtschaftliche Bedeutung erlangte der Steinkohlenbergbau in Deutschland im Zuge der Industrialisierung im 19. und 20. Jahrhundert. Die Förderung stieg stetig und erreichte mit dem Beginn des Zweiten Weltkrieges zunächst ihren Höhepunkt mit über 200 Mio. t Jahresförderung. Nach dem Zweiten Weltkrieg wurde einheimische Steinkohle in der Elektrizitätswirtschaft, der Stahlindustrie und bei der Wärmeversorgung eingesetzt. Mitte der 1950er Jahre wurden in rund 170 Bergwerken jährlich 150 Mio. t Steinkohle durch über 600.000 Arbeitnehmer gewonnen. Ende der 50er Jahre wandelte sich die Situation. Die einheimische Steinkohle war wegen ihrer hohen Förderkosten – die Gewinnung erfolgt ausschließlich im Tiefbau und erfordert bis heute eine Subventionierung durch die öffentliche Hand – auf dem Weltmarkt nicht mehr konkurrenzfähig. Importkohle und vor allem das billige Erdöl substituierten die einheimische Steinkohle."
-      p2: "Die heutige Situation des deutschen Steinkohlenbergbaus ist das Ergebnis eines kontinuierlichen Anpassungsprozesses. Seinen Anfang nahm er mit der Gründung der Ruhrkohle AG – einer Zusammenführung von 51 Bergwerken des Ruhrgebiets – im Jahre 1969."
+      title: History
+      p1: "The hard coal industry in Germany gained in economic importance during the industrial revolution of the 19th and 20th centuries. Production increased steadily, reaching an annual peak of more than 200 million t at the beginning of the Second World War. After WW2, German hard coal was used in the electricity, steel and heat supply industries. In the mid-1950s, 600,000 employees in 170 mines extracted 150 million tons of hard coal every year. In the late 1950s, however, this situation changed – German hard coal could no longer compete efficiently in the world market since its extraction is carried out exclusively through underground mining. Even today it still needs subsidies from public authorities. Imported coal and – above all – cheaper crude oil replaced the German hard coal."
+      p2: "The current situation in which the German hard coal mining industry finds itself is the result of a continuous adaptation process, one which started with the founding of the Ruhrkohle AG (RAG) – a merger of 51 Ruhr area mines – in 1969."
     ausblick:
-      title: Ausblick
-      p1: Am 7. Februar 2007 haben sich der Bund, das Land Nordrhein-Westfalen und das Saarland sowie die RAG AG und die Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) darauf verständigt, die subventionierte Förderung der Steinkohle in Deutschland zum Ende des Jahres 2018 sozialverträglich zu beenden. Der Auslaufprozess wird durch eine am 14. August 2007 abgeschlossene Rahmenvereinbarung „Sozialverträgliche Beendigung des subventionierten Steinkohlenbergbaus in Deutschland“ und durch das im Dezember 2007 in Kraft getretene Steinkohlefinanzierungsgesetz geregelt. Lesen Sie hierzu auch
-      k1: Subventionen
-      p2: und steuerliche Begünstigungen.
+      title: Outlook
+      p1: On February 7, 2007, the German Federal Government, the states of North Rhine-Westphalia and Saarland, the RAG AG and the Mining, Chemical and Energy Industrial Union (IG BCE) agreed to end the subsidised production of hard coal in Germany at the end of 2018 in a socially-acceptable manner. The phase-out process is governed by the ‘socially acceptable phasing-out of subsidised hard coal mining in Germany’ framework agreement of August 14, 2007 and by the German Hard Coal Financing Act, which came into force in December 2007. Read more subsidies and tax aids
+      k1: here
+      p2: .
     wirtschaftliche-bedeutung:
-      title: Wirtschaftliche Bedeutung
-      p1: Steinkohle deckt in Deutschland 12,7 % (2015) des Primärenergieverbrauches ab und trägt zu 18,1 % (2015) zur deutschen Stromerzeugung bei. Im Jahre 2015 entfielen auf die Kraftwerke 78 % des Gesamtverbrauchs an Steinkohle, auf die Stahlindustrie 20 % sowie auf das sonstige produzierende Gewerbe und auf den Hausbrand und Kleinverbraucher etwa 2 %. Die einheimische Steinkohlenförderung belief sich im Jahr 2015 auf 6,2 Mio. t. Dies entspricht einem Wert von rund 557 Millionen Euro. Aktuell werden in Deutschland noch zwei Bergwerke (ein Bergwerk im Ruhrgebiet, ein Bergwerk in Ibbenbüren) mit 8.500 Beschäftigten betrieben. Angesichts dieser Entwicklung werden heute rund  90 % des Bedarfs an Steinkohle und Steinkohleprodukten (57,5 Mio. t in 2015) durch Importe gedeckt.
+      title: Economic importance
+      p1: In 2015, hard coal accounted for 12.7% of primary energy consumption in Germany and contributed 18.1% to German electricity production. In the same year, power stations accounted for 78% of the total consumption of hard coal, the steel industry and other producing industries accounted for 20% and the domestic heating sector and small consumers accounted for some 2%. 6.2 million tons of German hard coal were extracted in 2015. This is equivalent to a value of some €557 million. 8,500 hard coal industry personnel are currently employed in Germany’s only two remaining hard coal mines, one in Bottrop and the other in Ibbenbüren. In view of this development, imports today cover around 90% of the demand for hard coal and hard coal products (57.5 million tons in 2015).
   braunkohle:
-    title: Braunkohle
-    slides_title: Wissenswertes über Braunkohle
+    title: Lignite
+    slides_title: Interesting facts about Lignite
     slides:
-      - Mit einer Fördermenge von rund 178 Mio. t (2015) ist die Braunkohle zu knapp 12 %  am Primärenergieverbrauch in Deutschland beteiligt.
-      - Der Anteil der Braunkohle an der Bruttostromerzeugung liegt bei rund 24 %.
-      - In Deutschland wird aktuell in drei Braunkohlerevieren in zehn aktiven Tagebauen Braunkohle gefördert. Das Rheinische Revier ist das größte Braunkohlerevier Europas und Deutschland der weltweit größte Produzent von Braunkohle.
-      - Deutschland deckt seinen Braunkohlebedarf zu 100% aus heimischen Lagerstätten.
-      - Rekultivierung und der Ausgleich für die Landinanspruchnahme durch den Bergbau sind wichtige Themen des deutschen Braunkohlebergbaus.
+      - With production at around 178 million tons in 2015, lignite accounts for almost 12% of primary energy production in Germany.
+      - Lignite accounts for around 24% of gross electricity generation.
+      - Lignite is currently mined in 10 active open-cast mining sites on 3 lignite coalfields. The Rhineland is the largest brown coal region in Europe and Germany is the world’s largest producer of lignite.
+      - Germany covers 100% of its lignite requirements from its domestic reserves.
+      - Recultivation and compensation for land required for mining are important issues for the German lignite mining industry.
     geschichte:
-      title: Geschichte
-      p: Bereits im 17. Jahrhundert wurde in Deutschland Braunkohle als Ersatz für den knapper werdenden Brennstoff Holz gefördert. Mit der zunehmenden Industrialisierung und der Erschließung neuer Lagerstätten stieg die Braunkohleförderung im 19. Jahrhundert von 170.000 t (1840) auf 40 Mio. t (1900). Im 20. Jahrhundert setzte sich dieser Trend unverändert fort, bis 1985 der Höhepunkt der Förderung mit 433 Mio. t/Jahr erreicht wurde. Ein Großteil des Anstieges der gesamtdeutschen Fördermenge entfiel auf die ostdeutschen Braunkohlereviere. Im Zuge der Wiedervereinigung ging die Braunkohleförderung der ostdeutschen Braunkohlereviere von 1989 bis 1994 um 67% zurück, hervorgerufen insbesondere durch eine Änderung im Energieträgermix. Die Gesamtdeutsche Fördermenge sank in diesem Zeitraum von 410 Mio. t auf 207 Mio. t.
+      title: History
+      p: As early as the 17th century in Germany, lignite was being produced as a replacement fuel for wood, which was becoming increasingly scarce. With increasing industrialisation and the development of new deposits, the 19th century saw an increase in lignite production from 170,000 tons in 1840 to 40 million tons in 1900. This trend continued unabated in the 20th century until production reached an all-time peak in 1985 with 433 million tons produced that year. Much of this increase in overall German lignite production was attributable to the East German lignite coalfields. After the East/West German reunification, lignite production in East German lignite coalfields declined by 67% between 1989 and 1994, caused mainly by a change in the fuel mix. Total German production fell from 410 million tons to 207 million tons during this period.
     gewinnung:
-      title: Gewinnung
-      p: Braunkohle wird hauptsächlich in drei Revieren – dem Rheinischen, Lausitzer und Mitteldeutschen Revier – ausschließlich in Tagebauen, also oberflächennah, gefördert. Die Jahresförderung betrug 2015 rund 178,1 Millionen Tonnen und war in den letzten Jahren weitgehend konstant. Der Wert der 2015 in Deutschland geförderten Braunkohle betrug 2,4 Mrd. Euro. Damit ist die Braunkohle – nach dem Wert der Produktion – der wichtigste in Deutschland geförderte Rohstoff. Mit dem Rückgang der Braunkohleförderung im Zuge der deutschen Wiedervereinigung ist die Zahl der direkt im Braunkohlebergau Beschäftigten von 130.000 (1990) auf 15.600 (2015) gesunken.
+      title: Extraction
+      p: Lignite is mainly extracted in three areas – the Rhenish, Lausitz and Central German regions, where mining is only carried out in opencast mines close to the surface. Annual production in 2015 amounted to approximately 178.1 million tons and has largely remained constant in recent years. The value of the brown coal lignite subsidised in Germany in 2015 amounted to €2.4 billion. This means that brown coal is the most important natural resource in Germany, in terms of the value of production. With the decline in lignite production in the wake of German reunification, the number of persons directly employed in lignite mining fell from 130,000 in 1990 to 15,600 in 2015.
     verwendung:
-      title: Verwendung
-      p: Braunkohle wird zu rund 90 % zur Strom- und Fernwärmeerzeugung eingesetzt. Die wirtschaftliche Nutzung erfolgt dabei lagerstättennah im Verbund von Tagebau und Kraftwerk. Rund zehn Prozent der Braunkohlenförderung werden zu festen oder staubförmigen Brennstoffen (Braunkohlenbriketts, Braunkohlenstaub und Wirbelschichtbraunkohle, Braunkohlenkoks) veredelt – für eine gewerbliche Nutzung sowie für die privaten Haushalte. Braunkohle deckt in Deutschland 11,8 % (2015) des Primärenergieverbrauches und trägt zu 23,8 % (2015) zur Stromerzeugung in Deutschland bei. Dabei deckt die heimische Förderung der Braunkohle den jährlichen Verbrauch.
+      title: Uses
+      p: Around 90% of the lignite Germany produces is used to generate electricity and district heating. The economic advantages in using lignite result from the combination of the opencast mine and power plant being near the location of the lignite deposits. Around 10% of the lignite produced is refined into solid or pulverised fuels for commercial use and private households (e.g. brown coal briquettes, pulverised lignite, fluidised bed lignite and lignite coke). In 2015, lignite accounted for 11.8% of the primary energy consumption and contributed to 23.8% of electricity generation. The domestic production of lignite covers the country’s annual consumption.
 
 salze:
   title: Salze
