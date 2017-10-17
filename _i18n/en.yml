@@ -3492,10 +3492,10 @@ federal-production:
 
       filters:
         heading: Filter Resource Card
-        description: Select a commodity or a State to view corresponding information.
+        description: Select a natural resource or federal state to view data.
 
       product-filter:
-        lable: Raw Material
+        lable: Natural resource
         select: Please select
         value: All raw materials
 
@@ -3504,12 +3504,12 @@ federal-production:
         select: Please select
         value: All Germany
 
-      raw-materials: All raw materials </span> promoted in
+      raw-materials: All raw materials </span> extracted in
       entire-germany: all Germany
       set-filter: "Set filter:"
 
       map:
-        heading-units: Promotion by State
+        heading-units: Extraction by federal state
         heading-state: Promotion in
         heading-production: Production by offshore area
 
@@ -3578,14 +3578,14 @@ chart:
 data_translation:
   no_data: No Data
   no_production: no production
-  one_or_more_products: 1 or more products
+  one_or_more_products: 1 or more Natural resources
   no_product: no product
   total: Total
-  zero_products: 0 Product
-  product: Product
+  zero_products: 0 Natural resource
+  product: Natural resources
   no_production_on_federal_land: no production on federal land
   all_raw_materials: All raw materials
-  entire_germany: Entire Germany
+  entire_germany: Germany
 
 footer:
   impressum: Imprint
