@@ -154,46 +154,46 @@ kohle:
       p: Around 90% of the lignite Germany produces is used to generate electricity and district heating. The economic advantages in using lignite result from the combination of the opencast mine and power plant being near the location of the lignite deposits. Around 10% of the lignite produced is refined into solid or pulverised fuels for commercial use and private households (e.g. brown coal briquettes, pulverised lignite, fluidised bed lignite and lignite coke). In 2015, lignite accounted for 11.8% of the primary energy consumption and contributed to 23.8% of electricity generation. The domestic production of lignite covers the country’s annual consumption.
 
 salze:
-  title: Salze
+  title: Salts
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: fakten_zu_salze
-      title: Wissenswertes über Salze
+      title: Interesting facts about salts
     - name: geschichte
-      title: Geschichte
+      title: History
     - name: wirtschaftliche-bedeutung
-      title: Wirtschaftliche Bedeutung
+      title: Economic importance
     - name: gewinnung
-      title: Gewinnung
+      title: Extraction
     - name: verwendung
-      title: Verwendung
-  h2: Salze
-  slides_title: Wissenswertes über Salze
+      title: Uses
+  h2: Salts
+  slides_title: Interesting facts about salts
   slides:
-    - Salz wird seit über 5.000 Jahren aktiv durch den Menschen gewonnen.
-    - Die Bedeutung des Salzes für viele Städte spiegelt sich oft in deren Namen wieder. 
-    - Wurden in einer Stadt salzhaltige Quellen entdeckt, so fügte man dem Stadtnamen die Silbe „Bad“ hinzu. Es ist die Geburt der heutigen Kurorte.
-    - Mitte des 19. Jahrhunderts entdeckte Justus von Liebig die Bedeutung von Kalium als essentiellen Pflanzennährstoff.
-    - Nachdem Bergleute im Jahr 1856 bei Staßfurt auf der Suche nach Steinsalz zufällig auf die weltweit erste bekannte Kalilagerstätte stießen, entstanden um 1860 die ersten Kalibergwerke und Kalifabriken in Deutschland.
-    - Die bereits im Hochmittelalter verlegte Soleleitung vom Bergwerk Reichenhall nach Traunstein gilt als eine der ersten Rohstoffpipelines der Welt.
-    - Das Kalibergwerk Werra ist der flächenmäßig größte in Betrieb befindliche Untertagebau Deutschlands.
+    - Salt has been actively extracted by humans for over 5,000 years.
+    - The importance of salt for many cities is often reflected in their names. 
+    - If saline sources were discovered in a town, the syllable ‘Bad’ (spa) was added to the town’s name – this ushered in the birth of today’s spas.
+    - In the mid-19th century, Justus von Liebig discovered the importance of potassium as an essential plant nutrient.
+    - When miners coincidentally discovered the world’s first known potash deposit while searching for rock salt near Staßfurt in 1856, the first potash mines and works were subsequently established in Germany around 1860.
+    - In the high-medieval period, the brine pipeline from the Reichenhall mine to Traunstein was one of the first pipelines for natural resources in the world.
+    - The Werra potash mine is the largest underground mining area in Germany.
   geschichte:
-    title: Geschichte
-    p1: In Deutschland gibt es große Salzlagerstätten, die besonders im norddeutschen Raum konzentriert sind. Über Jahrmillionen hinweg führten Ablagerungen von Salzen zu mehreren 100 m mächtigen Salzschichten. Ähnlich alt ist das Salz, das seit Jahrtausenden in den bayeri- schen und österreichischen Alpen gewonnen wird.
-    p2: Die Inbetriebnahme der ersten Kalifabrik der Welt in Staßfurt im Jahr 1861 begründete die fast 150-jährige Tradition des deutschen Kalibergbaus. Die Salzgewinnung aus salzhaltigen Quellen sowie im bergmännischen Abbau von Salzlagerstätten hat eine lange Geschichte. Bereits im 12. Jahrhundert wurde im Raum Berchtesgaden nach Salz gegraben. Im 16. Jahrhundert wurde dort ein noch heute aktives Salzbergwerk errichtet.
+    title: History
+    p1: Germany has large salt deposits, which are mainly concentrated in northern Germany. Over millions of years, deposits of salts resulted in several 100 m thick salt layers. Bavarian and Austrian Alps salt is of a similar age and has been extracted for thousands of years.
+    p2: The commissioning of the first potash plant in the world in Staßfurt in 1861 founded the almost 150-year tradition of German potash mining. Salt extraction from saline springs and through the mining of salt deposits has a long history. People were digging for salt in the Berchtesgaden area as early as the 12th century and an active salt mine that was established in the 16th century still exists there.
   wirtschaftliche-bedeutung:
-    title: Wirtschaftliche Bedeutung
-    p1_1: 2014 betrug die Fördermenge in Deutschland ca. 12,7 Mio. t Steinsalz (einschließlich Industriesole) und rund 36,6 Mio. t Kalirohsalz mit einem Wertstoffgehalt
+    title: Economic importance
+    p1_1: In 2014, the amount produced in Germany was approximately 12.7 million tons of rock salt (including industrial brine) and some 36.6 million tons of crude potassium salt with a material content of
     sub: "2"
-    p1_2: von 3,8 Mio. t. Mit einer Gesamtfördermenge von 5,3 % ist Deutschland weltweit der fünftgrößte Produzent von Salz nach China, den USA, Indien und Kanada (2014) und zugleich der fünftgrößte Kaliproduzent mit rund 9% der weltweiten Gesamtfördermenge. Im Kalibergbau in Deutschland sind rund 8.200 Mitarbeiter direkt beschäftigt, im Salzbergbau 2.500 (2014).
+    p1_2: from 3.8 million tons. With a total production of 5.3%, Germany was the fifth largest producer of salt in the world after China, the USA, India and Canada in 2014 – and the fifth largest potash producer with around 9% of the world’s total production. In the same year, roughly 8,200 people were employed in potash mining and 2,500 in salt mining in Germany.
   gewinnung:
-    title: Gewinnung
-    p: Der Abbau erfolgt in Deutschland in sechs Kalibergwerken (in Hessen, Niedersachsen, Sachsen-Anhalt und Thüringen), sieben Salzbergwerken (in Baden-Württemberg, Bayern, Niedersachsen, Nordrhein-Westfalen, Sachsen-Anhalt und Thüringen) und sieben Salinen (in Baden-Württemberg, Bayern, Mecklenburg-Vorpommern, Niedersachsen und Nordrhein-Westfalen). Der Salzabbau erfolgt in Bergwerken durch bergmännischen Abbau mittels Bohr- , Spreng- oder Schneidtechnik oder durch Aussolung von unterirdischen Lagerstätten. Beim Verfahren der Aussolung wird über Bohrlochsonden Süßwasser oder Halbsole in die Lagerstätte eingebracht, wo sich die Salze lösen. Die so entstehende Sole wird über eine Sonde abgepumpt und über Tage in Salinen zu Salz und weiteren Produkten verarbeitet.
+    title: Extraction
+    p: Extraction takes place in Germany in six potash mines (in Hesse, Lower Saxony, Saxony-Anhalt and Thuringia), seven salt mines (in Baden-Wuerttemberg, Bavaria, Lower Saxony, North Rhine-Westphalia, Saxony-Anhalt and Thuringia) and seven salt works (in Baden- Wuerttemberg, Bavaria, Mecklenburg-Western-Pomerania, Lower Saxony and North Rhine-Westphalia). Salt mining is carried out in the mines by means of drilling, blasting or cutting techniques or by bringing out underground deposits. Brining out is done by introducing freshwater or half-brine into the salt deposits through borehole probes, after which the salts dissolve. The brine is then pumped through a probe and processed above ground in salt works, where it eventually becomes salt (and other by-products).
   verwendung:
-    title: Verwendung
-    p1: Stein- und Siedesalz wird als Industrie- und Gewerbesalz sowie als Speise- und Auftausalz verwendet. Salz ist ein unverzichtbarer Rohstoff für die chemische Industrie – z. B. bei der Erzeugung von Soda, Chlor und Natronlauge. Ohne Salz könnten weder Glas noch Kunststoff oder Aluminium hergestellt werden. Es findet Verwendung als Regeneriersalz in Wasserenthärtungsanlagen, in der Futtermittelindustrie, im Straßen- und Winterdienst sowie in der Lebensmittelindustrie. Besonders hohe Reinheitsanforderungen erfüllt Natriumchlorid als Pharmawirkstoff.
-    p2: Die bergmännisch gewonnenen Kalirohsalze kommen vor allem in der Landwirtschaft als Düngemittel zur Anwendung. Sie werden aber auch als Industriesalz in der Elektrolyse und anderen industriellen Prozessen eingesetzt und in hochreiner Form von der Nahrungs- und Futtermittelindustrie sowie für pharmazeutische Zwecke nachgefragt.
+    title: Uses
+    p1: Rock salt and evaporated salt is used as commercial and industrial salt – we also use it on our food and for de-icing purposes. Salt is an indispensable natural resource for the chemical industry, e.g. in the production of soda, chlorine and caustic soda. Glass, plastic and aluminium could not be produced without salt. It is used as regenerating salt in water softening plants, in the feed industry, in road services, for snow clearing and in the food industry. Sodium chloride meets particularly high purity requirements as an active pharmaceutical ingredient.
+    p2: Quarried natural resources comprise a great number of mineral deposits, in particular gravel and sands, broken natural stone, lime, marl and dolomite stones and gypsum and anhydrite stones, as well as clays and loams. Quarried natural resources are bulk raw materials; due to geological conditions, they are site-bound and not distributed evenly across the country.
 
 steine-und-erden:
   title: Steine und Erden
