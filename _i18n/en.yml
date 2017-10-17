@@ -431,71 +431,71 @@ genehmigung-von-bergbauprojekten:
     p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
 
 bergbauberechtigungen:
-  title: Bergbauberechtigungen
+  title: Mining rights
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: erlaubnis
-      title: Erlaubnis
+      title: Permit
     - name: bewilligung
-      title: Bewilligung
+      title: Licence
     - name: bergwerkseigentum
-      title: Bergwerkseigentum
+      title: Proprietary mining rights
     - name: sonderfall1
-      title: "Sonderfall: Alte Rechte"
+      title: "Special case: Mining rights under the old laws"
     - name: sonderfall2
-      title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
+      title: "Special case: Unique features in the ‘new’ German Federal States"
 
-  p1: "Bergbauberechtigungen stellen die Grundlage für das Aufsuchen und die Gewinnung von bergfreien Bodenschätzen dar. Sie werden in Form einer Erlaubnis, einer Bewilligung oder eines Bergwerkseigentums beantragt."
-  p2: "Es werden drei Arten von Bergbauberechtigungen unterschieden:"
+  p1: "Mining rights constitute the basis for the exploration and extraction of free-to-mine natural resources. Applications are made in the form of a permit, a license or proprietary mining rights."
+  p2: "There are three different types of mining rights:"
 
   erlaubnis:
-    title: "Erlaubnis"
-    p1: "Die Erlaubnis ist eine Bergbauberechtigung, die das Recht zur Aufsuchung von bergfreien Bodenschätzen in einem bestimmten Erlaubnisfeld erteilt. Die Erlaubnis ist auf höchstens 5 Jahre befristet und kann um jeweils drei Jahre verlängert werden (s. § 16 Abs. 4 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Erlaubnis, soweit keine Versagungsgründe vorliegen."
-    p2: "Die Erlaubnis kann verweigert werden, wenn beispielsweise kein Arbeitsprogramm vorliegt oder der festgesetzte Zeitraum in der Planung nicht berücksichtigt wird. Die Versagungsgründe sind abschließend in § 11 BBergG aufgeführt. Wenn die Aufsuchung aus Gründen, die der Erlaubnisinhaber zu vertreten hat, nicht innerhalb eines Jahres aufgenommen worden ist, ist die Erlaubnis zu widerrufen (§ 18 BBergG)."
+    title: "Permit"
+    p1: "The permit is a mining right which grants the right to carry out explorations for free-to-mine natural resources on a specific, permitted minesite. The permit is time-limited to a maximum of 5 years and may be extended for a further three years (see § 16(4) BBergG). A legal entitlement to the granting of a permit exists, unless there are grounds for refusal."
+    p2: "The permit may be refused if, for example, no work programme exists or the fixed time period is not taken into account in the planning. The grounds for refusal are fully itemised in § 11 BBergG. If explorations have not started within one year, for reasons for which the permit holder is responsible, the permit will be revoked (§ 18 BBergG)."
 
   bewilligung:
-    title: "Bewilligung"
-    p1: "Die Bewilligung ist eine Bergbauberechtigung, die das Recht zur Aufsuchung und Gewinnung von bergfreien Bodenschätzen in einem bestimmten Bewilligungsfeld erteilt. Die Bewilligung wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich  (s. § 16, Abs. 5 BBergG). Es besteht ein Rechtsanspruch auf die Erteilung einer Bewilligung, sollten keine Versagungsgründe vorliegen."
-    p2: "Die Bewilligung kann verweigert werden, wenn beispielsweise nicht nachgewiesen werden kann, dass die Bodenschätze nach ihrer Lage und Beschaffenheit gewonnen werden können (s. § 12 BBergG). Wenn die Gewinnung der Rohstoffe nicht innerhalb von drei Jahren aufgenommen worden ist, ist die Bewilligung grundsätzlich zu wiederrufen (s. § 18 BBergG). Die Versagungsgründe sind in § 12 BBergG abschließend aufgeführt."
+    title: "Licence"
+    p1: "The licence is a mining right which grants the right to carry out exploration operations for free-to-mine natural resources on a specific, licensed minesite. The licence defines ‘a reasonable period of time for the implementation of extraction in individual cases’. ‘Fifty years may only be exceeded if this is necessary in view of the investment normally required for the extraction’. A time extension is possible (see § 16(5) BBergG). A legal entitlement to the granting of a license exists, unless there are grounds for refusal."
+    p2: "The licence may be refused if, for example, it cannot be proven that the resources can be extracted, due to their location and nature (see § 12 BBergG). If extraction work has not started within three years, as a rule, the licence must be revoked (§ 18 BBergG). The grounds for refusal are fully itemised in § 12 BBergG."
 
   bergwerkseigentum:
-    title: "Bergwerkseigentum"
-    p1: "Das Bergwerkseigentum ist eine Bergbauberechtigung. Es umfasst die Bewilligung mit der Möglichkeit der Beleihbarkeit mit entsprechenden Grunddienstbarkeiten und Hypotheken. Mit Entstehen eines Bergwerkseigentums erlischt die Bewilligung. Das Bergwerkseigentum wird unter Angaben des Namens und der Adresse des/r Antragsteller/in und Angaben zum Feld ins Grundbuch eingetragen. Das Bergwerkseigentum wird auf „eine der Durchführung der Gewinnung im Einzelfalle angemessene Frist“ festgelegt. „Dabei dürfen fünfzig Jahre nur überschritten werden, soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise erforderlichen Investitionen notwendig ist.“ Eine Verlängerung ist möglich (s. § 16, Abs. 5 BBergG).  Wenn die regelmäßige Gewinnung der Rohstoffe länger als zehn Jahre unterbrochen wird, ist das Bergwerkseigentum grundsätzlich zu widerrufen (s. § 18 BBergG). Um das Bergwerkseigentum zu beantragen muss der/die Antragsteller/in bereits im Besitz einer Bewilligung für das angegebene Feld sein. Zudem kann das Bergwerkseigentum verweigert werden, wenn beispielsweise nicht glaubhaft gemacht werden kann, dass mit einer wirtschaftlichen Gewinnung der Rohstoffe zu rechnen ist (s. § 13 BBergG)."
-    p2: "Für die Dokumentation der Bergbauberechtigungen werden nach § 75 ff. BBergG sogenannte Berechtsamsbücher und Berechtsamskarten angelegt. Dort sind die Informationen zu Erlaubnissen, Bewilligungen und Bergwerkseigentum sowie Angaben zu den betreffenden Feldern einzusehen."
+    title: "Proprietary mining rights"
+    p1: "Mining may be carried out under these rights. They include the licence with the possibility of eligibility as collateral with the relevant easements and mortgages. The licence expires when proprietary mining rights become valid. The proprietary mining rights details are entered in the Land Register, viz., the name and address of the applicant and details of the minesite. Proprietary mining rights define ‘a reasonable period of time for the implementation of extraction in individual cases’. ‘Fifty years may only be exceeded if this is necessary in view of the investment normally required for the extraction’. A time extension is possible (see § 16(5) BBergG). If regular extraction of the natural resources is interrupted for more than 10 years, as a rule, the proprietary mining rights must be revoked (see § 18 BBergG). To apply for proprietary mining rights, the applicant must already be in possession of a licence for the minesite in question. Proprietary mining rights may also be refused if, for example, evidence cannot be furnished that an economic extraction of the natural resources is to be expected (see § 13 BBergG)."
+    p2: "In compliance with §75 of the BBergG, mining authorisations and mining maps are created to document the mining rights. Information about licences, permits, proprietary mining rights and on the minesites in question is available in these documents."
 
   sonderfall1:
-    title: "Sonderfall: Alte Rechte"
-    p: "Zu den Berechtigungsformen gehören neben den oben genannten Berechtigungen (Erlaubnis, Bewilligung bzw. Bergwerkseigentum) auch aus altem Recht übergeleitete Berechtigungen, die als alte Rechte bezeichnet werden. Hierbei handelt es sich um Bergbauberechtigungen, die vor dem Inkrafttreten des aktuellen Bundesberggesetzes von 1982 zugeteilt worden sind. Dazu gehören beispielsweise die Braunkohletagebaue im Rheinischen Revier. Sie erhalten nach heutigem Recht weiterhin ihre Gültigkeit  (s. § 149 Abs. 1 Satz 1 BBergG), wenn sie innerhalb einer Übergangsfrist von drei Jahren nach Inkrafttreten des BBergG 1982 bei den Bergbehörden angezeigt und durch die Bergaufsicht bestätigt worden sind. Berechtigungen nach altem Recht sind im Gegensatz zu Berechtigungen nach dem neuen BBergG weder befristet, noch müssen Förder- oder Feldesabgaben bezahlt werden. In der Praxis betreffen diese Altrechte insbesondere die Stein- und die Braunkohle. Für die Förderung der Bodenschätze in dieser Kategorie ist ebenfalls die Zulassung eines Betriebsplans notwendig."
+    title: "Special case: Mining rights under the old laws"
+    p: "The various forms of mining rights described above (permit, licence and proprietary mining rights) are also supplemented by older legal mining rights, which are described as old rights. These are mining rights that were granted before the current Federal Mining Act of 1982 came into force, e.g. for the lignite opencast mines in the Rhenish mining region. Under current law, these rights are still valid (see § 149(1), sentence 1 BBergG) if they were shown to the relevant mining authority during a phase-out period of three years after the Mining Law of 1982 came into force and if they were confirmed by mining inspection authorities. In contrast to mining rights under the new BBergG, rights under the old laws are not time-limited and neither extraction nor minesite royalties have to be paid. In practice, these old rights mainly apply to hard coal and lignite. An operating plan must be approved before these natural resources can be extracted."
 
   sonderfall2:
-    title: "Sonderfall: Besonderheiten in den neuen Bundesländern"
-    p: "Das Bergrechtssystem der DDR kannte nur die volkseigenen mineralischen Rohstoffe und die sonstigen mineralischen Rohstoffe. Die volkseigenen Rohstoffe umfassten im Wesentlichen die nach bundesdeutschem Gesetz bergfreien und grundeigenen Bodenschätze und standen im Volkseigentum. Die sonstigen mineralischen Rohstoffe umfassten im Wesentlichen die Grundeigentümerbodenschätze und waren dem Grundeigentum zugeordnet. Mit der Verleihungs-Verordnung vom 15.08.1990 wurde die Grundlage geschaffen, Bergbauberechtigungen volkseigener mineralischer Rohstoffe in bergfreie Bodenschätze umzuwandeln und diese somit im Rechtssystem im wiedervereinigten Deutschland anzuerkennen. Die übertragenen Bergbauberechtigungen gelten als Bergwerkseigentum. Sie sind wie die Bergbauberechtigungen nach altem Recht unbefristet sowie von der Feldes- und Förderabgabe befreit (s. § 149 und § 151 BBergG). Im Unterschied zu den alten Bundesländern erstrecken sich die Altrechte (s. Abschnitt zu Bergbauberechtigung nach altem Recht) in den neuen Bundesländern nicht nur bis 1980, sondern auf die bis 1990 erkundeten Lagerstätten. Sie umfassen zudem nicht nur die bergfreien, sondern auch die grundeigenen Bodenschätze. Die  Rechte zur Aufsuchung und Gewinnung von grundeigenen Bodenschätzen wurden nach DDR-Recht ebenfalls über staatlich vergebene Bergbauberechtigungen geregelt."
+    title: "Special case: Unique features in the ‘new’ German Federal States"
+    p: "The mining rights system of the GDR only applied to the (communist) state-owned and other mineral resources. The state-owned natural resources mainly comprised free-to-mine and privately-owned resources and were the property of the communist state. Other natural resources primarily comprised landowners’ natural resources and were allocated to the land ownership category. The Bestowal Regulation of 15.08.1990 created the foundation for the conversion of mining rights for state-owned natural resources into free-to-mine resources, which were subsequently recognised by the legal system of the reunited Germany. The transferred mining rights are deemed to be proprietary mining rights. Like the mining rights under old law, the transferred rights are not time-restricted and are also exempt from minesite and extraction royalties (see § 149 and § 151 BBergG). In contrast to the Federal States of the former West Germany, the validity of the old rights (see section on mining rights under the old laws) in the ‘new’ Federal States does not only extend until 1980, but also applies to deposits explored up to and including 1990. These rights also apply to both free-to-mine and privately-owned natural resources. Exploration and extraction rights for privately-owned natural resources were also governed by GDR laws on state-awarded mining rights."
 
-  tableHead: "Schaubild:"
-  tableHead1: "Übersicht zu altem Bergrecht, Bergrecht in der DDR und neuem Bergrecht"
+  tableHead: "Overview of old mining laws, mining laws in the GDR and modern mining laws"
+  tableHead1: "Overview of old mining laws, mining laws in the GDR and modern mining laws"
 
   table:
-    th1: "Berechtigungen nach altem Bergrecht (BRD)"
-    th2: "Berechtigungen nach Bergrecht in der DDR"
-    th3: "Berechtigungen nach neuem Bergrecht"
+    th1: "Rights under the old mining laws (West Germany)"
+    th2: "Rights under GDR mining laws"
+    th3: "Rights under the modern mining laws"
     row1:
-      td1: "Rohstoffbezeichnung"
-      td2: "Bergfreie Rohstoffe"
-      td3: "Volkseigene Rohstoffe"
-      td4: "Bergfreie Rohstoffe"
+      td1: "Description of natural resource"
+      td2: "Free-to-mine natural resources"
+      td3: "State-owned natural resources"
+      td4: "Free-to-mine natural resources"
     row2:
-      td1: "Zahlung von Feldes- und Förderabgaben"
-      td2: "Nein"
-      td3: "Nein"
-      td4: "Entscheidung auf Ebene des Bundeslandes"
+      td1: "Description of natural resource"
+      td2: "No"
+      td3: "No"
+      td4: "Decisions made at Federal state level"
     row3:
-      td1: "Befristung"
-      td2: "Nein"
-      td3: "Nein"
-      td4: "Ja"
-      text : "(siehe Erläuterungen unter)"
-      link: "Bergbauberechtigungen"
+      td1: "Time-limited"
+      td2: "No"
+      td3: "No"
+      td4: "Yes"
+      text : "(see notes on mining rights above)"
+      link: "Mining rights"
 
 lizenzregister_und_verträge:
   title: Where can information about granted licences be found?
@@ -3492,25 +3492,25 @@ federal-production:
 
       filters:
         heading: Filter Resource Card
-        description: Select a commodity or a State to view corresponding information.
+        description: Select a natural resource or federal state to view data.
 
       product-filter:
-        lable: Raw Material
+        lable: Natural resource
         select: Please select
-        value: All raw materials
+        value: Natural resource
 
       region-selector:
         lable: Federal state
         select: Please select
         value: All Germany
 
-      raw-materials: All raw materials </span> promoted in
+      raw-materials: Natural resource </span> extracted in
       entire-germany: all Germany
       set-filter: "Set filter:"
 
       map:
-        heading-units: Promotion by State
-        heading-state: Promotion in
+        heading-units: Extraction by federal state
+        heading-state: Extraction in
         heading-production: Production by offshore area
 
     year: Year
@@ -3522,8 +3522,8 @@ charts-production:
     description-2: You can get an insight into the evolution of raw material extraction in Germany over the filter.
     description-3: "For more information about the data sources as well as a link to the original data can be viewed here:"
     icon: Show Data
-    open-filter: Filter&nbsp;Open
-    close-filter: Filter&nbsp;Close
+    open-filter: Open&nbsp;Filter
+    close-filter: Close&nbsp;Filter
     reset-filter: (Reset Filter)
     select-year: Select Year
     year: Year
@@ -3578,14 +3578,14 @@ chart:
 data_translation:
   no_data: No Data
   no_production: no production
-  one_or_more_products: 1 or more products
+  one_or_more_products: 1 or more Natural resources
   no_product: no product
   total: Total
-  zero_products: 0 Product
-  product: Product
+  zero_products: 0 Natural resource
+  product: Natural resources
   no_production_on_federal_land: no production on federal land
-  all_raw_materials: All raw materials
-  entire_germany: Entire Germany
+  all_raw_materials: Natural resource
+  entire_germany: Germany
 
 footer:
   impressum: Imprint

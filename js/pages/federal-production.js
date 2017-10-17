@@ -245,9 +245,9 @@
             strData1 = strData1.replace(/,/g,";").replace(/\./g,",").replace(/;/g, ".");
           }
           formatNumber = formatNumberPrev;
+          const title = langEn ? jsonresponce.title_EN : jsonresponce.title;
 
-
-          $('#extra-data').append('<tr><td class="einnahmen-heading">'+jsonresponce.title+'</td><td></td></tr>');
+          $('#extra-data').append('<tr><td class="einnahmen-heading">'+title+'</td><td></td></tr>');
           $('#extra-data').append('<tr><td class="subregion-name"><span class="color-swatch"></span>'+jsonresponce[region][0][0][0]+'</td><td class="value">'+strData0+'</td></tr>');
           $('#extra-data').append('<tr><td class="subregion-name"><span class="color-swatch"></span>'+jsonresponce[region][0][1][0]+'</td><td class="value">'+strData1+'</td></tr>');
         }
