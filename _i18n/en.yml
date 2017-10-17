@@ -192,69 +192,69 @@ salze:
     p: Extraction takes place in Germany in six potash mines (in Hesse, Lower Saxony, Saxony-Anhalt and Thuringia), seven salt mines (in Baden-Wuerttemberg, Bavaria, Lower Saxony, North Rhine-Westphalia, Saxony-Anhalt and Thuringia) and seven salt works (in Baden- Wuerttemberg, Bavaria, Mecklenburg-Western-Pomerania, Lower Saxony and North Rhine-Westphalia). Salt mining is carried out in the mines by means of drilling, blasting or cutting techniques or by bringing out underground deposits. Brining out is done by introducing freshwater or half-brine into the salt deposits through borehole probes, after which the salts dissolve. The brine is then pumped through a probe and processed above ground in salt works, where it eventually becomes salt (and other by-products).
   verwendung:
     title: Uses
-    p1: Rock salt and evaporated salt is used as commercial and industrial salt – we also use it on our food and for de-icing purposes. Salt is an indispensable natural resource for the chemical industry, e.g. in the production of soda, chlorine and caustic soda. Glass, plastic and aluminium could not be produced without salt. It is used as regenerating salt in water softening plants, in the feed industry, in road services, for snow clearing and in the food industry. Sodium chloride meets particularly high purity requirements as an active pharmaceutical ingredient.
-    p2: Quarried natural resources comprise a great number of mineral deposits, in particular gravel and sands, broken natural stone, lime, marl and dolomite stones and gypsum and anhydrite stones, as well as clays and loams. Quarried natural resources are bulk raw materials; due to geological conditions, they are site-bound and not distributed evenly across the country.
+    p1: Rock salt and evaporated salt is used as commercial and industrial salt – we also use it on our food and for de-icing purposes. Salt is an indispensable natural resource for the chemical industry, e.g. in the production of soda, chlorine and caustic soda. Glass, plastic and aluminium could not be produced without salt.
+    p2: It is used as regenerating salt in water softening plants, in the feed industry, in road services, for snow clearing and in the food industry. Sodium chloride meets particularly high purity requirements as an active pharmaceutical ingredient.
 
 steine-und-erden:
-  title: Steine und Erden
+  title: Quarried natural resources
   nav_items:
     - name: steine-und-erden
-      title: Steine und Erden
+      title: Quarried natural resources
       subnav_items:
         - name: fakten_zu_industriemineralen
-          title: Wissenswertes über Steine und Erden
+          title: Interesting facts about quarried natural resources
         - name: geschichte
-          title: Geschichte
+          title: History
         - name: gewinnung
-          title: Gewinnung
+          title: Extraction
         - name: verwendung
-          title: Verwendung
+          title: Uses
     - name: industrieminerale
-      title: Industrieminerale
+      title: Industrial minerals
       subnav_items:
         - name: verwendung-geschichte
-          title: Geschichte
+          title: History
         - name: verwendung-gewinnung
-          title: Gewinngung
+          title: Extraction
         - name: verwendung-eisenerze
-          title: Verwendung
+          title: Uses
     - name: eisenerze
-      title: Eisenerze
+      title: Iron ore
 
-  h2: Steine und Erden
-  p1: Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen, insbesondere Kiese und Sande, gebrochene Natursteine, Kalk-, Mergel- und Dolomitsteine, Gips- und Anhydritsteine sowie Tone und Lehme. Steine und Erden sind Massenrohstoffe; sie sind aufgrund geologischer Verhältnisse standortgebunden und nicht gleichmäßig über das Land verteilt.
-  slides_title: Wissenswertes über Industrieminerale
+  h2: Quarried natural resources
+  p1: Quarried natural resources comprise a great number of mineral deposits, in particular gravel and sands, broken natural stone, lime, marl and dolomite stones and gypsum and anhydrite stones, as well as clays and loams. Quarried natural resources are bulk raw materials; due to geological conditions, they are site-bound and not distributed evenly across the country.
+  slides_title: Interesting facts about quarried natural resources
   slides:
-    - Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Darüber hinaus kommen bei der Herstellung von Baustoffen jährlich fast 100 Mio. t Sekundärrohstoffe zur Schonung der Ressourcen zum Einsatz.
-    - Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen; der mengenmäßig größte Anteil an der Gewinnung entfällt auf die Rohstoffe Kies, Sand und Naturstein.
-    - Rund 80% der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20% finden Einsatz in der Chemie-, Stahl- oder Glasindustrie.
-    - Steine und Erden werden zur Herstellung vieler Produkte unseres Alltags benötigt. So ist Steinmehl die Grundsubstanz von Zahnpasta.
-    - Statistisch gesehen braucht jeder von uns stündlich über 1 kg Gips, Steinmehl, Sand, Kies oder Natursteine.
+    - Every year, the building materials and quarrying industry extracts roughly 550 million tons of primary raw materials or uses these materials in production. In addition, almost 100 million tons of secondary raw materials are used every year in the production of building materials to conserve resources.
+    - Quarried natural resources include a variety of mineral deposits; gravel, sand and natural stone account for the largest proportion of the extracted materials in terms of volume.
+    - Around 80% of the quarried natural resources is supplied to the building industry and around 20% is used in the chemical, steel or glass industries.
+    - Quarried natural resources are needed for the manufacture of many products that we use in our daily lives. Stone powder, for example, is the basic ingredient of toothpaste.
+    - Statistically, each one of us needs 1 kg of plaster, stone dust, sand, gravel or natural stones per hour.
   geschichte:
-    title: Geschichte
-    p: Der Abbau von Steinen und Erden ist seit Beginn der Menschheitsgeschichte überliefert. Bei den ältesten bekannten „Steinen aus Menschenhand“ handelt es sich nach den Erkenntnissen der Wissenschaft um aus dem 9. bis 8. Jahrtausend vor Christus stammende Bodenbefestigungen im Nahen Osten. Auch in Deutschland hat die Gewinnung von Steinen und Erden eine sehr lange Tradition. Während die Rohstoffe früher hauptsächlich manuell gewonnen wurden, nutzen Betriebe heute den Einsatz moderner Technik. Geophysik, GPS, intelligente Maschinen- und Anlagensteuerungen sowie weitgehend automatisierte Prozesse bestimmen die Rohstoffförderung.
+    title: History
+    p: Quarrying has been handed down since the beginning of human history. According to scientific findings, the oldest known ‘stones from human hands’, found in ground fortifications in the Near East date back to between the 9th and 8th centuries B.C. Germany also has a very long quarrying tradition. In the past, these raw materials were mainly extracted by hand, but companies today use modern technology. Geophysics, GPS, intelligent machine and plant control and largely automated processes control the extraction of these natural resources.
   gewinnung:
-    title: Gewinnung
-    p: Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Mengenmäßig zählen Kiese und Sande mit rund 240 Mio. t und gebrochene Natursteine mit etwa 210 Mio. t zu den wichtigsten Rohstoffen der deutschen Rohstoffgewinnung. Die Branche der Kies-, Sand- und Natursteingewinnung besteht in Deutschland aus etwa 1.600 Unternehmen, die rund 3.100 Gewinnungsstätten betreiben.
+    title: Extraction
+    p: Every year, the building materials and quarrying industry extracts roughly 550 million tons of primary raw materials or uses these materials in production. Gravel and sands, with around 240 million tons, and broken natural stone with some 210 million tons are among the most important raw materials in the extraction natural sources in Germany.  The building materials and quarrying industry (earth and stone) in Germany comprises some 1,600 companies operating approximately 3,100 extraction facilities.
   verwendung:
-    title: Verwendung
-    p: Rund 80% der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20% finden Einsatz in der Chemie-, Stahl- oder Glasindustrie. Neben den primär gewonnenen Steinen und Erden werden in der Baustoffindustrie jährlich fast 100 Mio. t Sekundärrohstoffe (mineralische Bauabfälle, Nebenprodukte aus industriellen Prozessen) eingesetzt. Diese entstehen zum Beispiel beim Abbruch von Gebäuden, der Produktion von Roheisen (Hochofenschlacken) oder bei der Stromerzeugung in konventionellen Kraftwerken (REA-Gips, Flugasche). Der Einsatz von Sekundärrohstoffen trägt zur Substitution primärer Rohstoffe bei. Die Substitutionsquote beträgt etwa 15%.
+    title: Uses
+    p: Around 80% of the earth and stone is supplied to the building industry and around 20% is used in the chemical, steel or glass industries. In addition to the extracted primary earth and stone, almost 100 million tons of secondary raw materials (mineral construction waste and by-products from industrial processes) are used in the building industry every year. These result from e.g. the demolition of buildings, the production of pig iron (blast furnace slag) or from electricity generation in conventional power stations (FGD gypsum, fly ash). The use of secondary raw materials contributes to the substitution of primary natural sources. The substitution rate is around 15%.
   industrieminerale:
-    title: Industrieminerale
+    title: Industrial minerals
     geschichte:
-      title: Geschichte
-      p1: Als Industrieminerale werden mineralische Gesteine bezeichnet, die aufgrund ihrer besonderen chemischen und physikalischen Eigenschaften sofort, d. h. ohne Stoffumwandlung, eine industrielle Verwendung finden. Zu dieser Gruppe gehören Kaolin (auch Porzellanerde genannt), Quarzsand, Quarzit, Feldspat, Klebsand, Bentonit, Spezialton, Kieselerde, Flussspat, Schwerspat und Kali.
-      p2: Industrieminerale werden in Deutschland seit mehreren Hundert Jahren in sehr unterschiedlichem Umfang gefördert. Die beiden in Deutschland mengenmäßig am meisten geförderten Industrieminerale sind Quarz und Quarzsande sowie Spezialtone mit einer Fördermenge von rund 30,9 Millionen und 6,4 Millionen t.
+      title: History
+      p1: Industrial minerals are mineral rocks that can be immediately used in industry due to their special chemical and physical properties, i.e. without any substance conversion. This group includes kaolin (also called porcelain earth), quartz sand, quartzite, feldspar, sticky sand, bentonite, special clay, silicas, fluorite, barite and potash.
+      p2: Industrial minerals have been extracted in Germany for hundreds of years in very diverse quantities. Volume-wise, the industrial minerals extracted most in Germany are quartz/quartz sands and special clays with 30.9 million tons and 6.4 million tons produced respectively.
     gewinnung:
-      title: Gewinnung
-      p1: Aufgrund natürlicher Gegebenheiten weist der Abbau von Industriemineralen in Deutschland eine hohe Regionalität auf. Während z. B. Kaolin und Kieselerde insbesondere in Bayern gefördert werden, konzentriert sich die Gewinnung von Spezialton vorwiegend auf Rheinland-Pfalz und Hessen.
-      p2: Industrieminerale werden hauptsächlich von kleinen und mittelständischen Betrieben zumeist über Tage gefördert. Einige wenige Industrieminerale, wie zum Beispiel Fluss- und Schwerspat, werden jedoch auch unter Tage abgebaut. 2014 gab es insgesamt 627 aktive Förderstätten in Deutschland, von denen rund die Hälfte allein auf die Gewinnung von Quarz und Quarzsande spezialisiert waren.
+      title: Extraction
+      p1: The extraction of industrial minerals in Germany is extremely regional in structure, due to natural conditions. While, for example, kaolin and silica are mainly extracted in Bavaria, the extraction of special clay is mainly concentrated in Rhineland-Palatinate and Hesse.
+      p2: Industrial minerals are usually extracted in open pit mines by small and medium-sized companied, but a few industrial minerals such as fluorite und barite are mined underground.
     verwendung:
-      title: Verwendung
-      p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
+      title: Uses
+      p: Due to their chemical and physical properties, industrial minerals are used primarily in the paper, chemical, glass, ceramics, refractory, and foundry and steel industries; but the pharmaceutical industry, environmental management (waste gas purification, wastewater treatment plants, solar panels and wind power plants) and the automotive industry also exploit the properties of industrial minerals.
   eisenerze:
-    title: Eisenerze
-    p: "In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie. In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
+    title: Iron ore
+    p: "In Germany, iron ore is mined in North Rhine-Westphalia and Saxony. The iron ore extracted here is not smelted into iron, however, it is used mostly in the form of crushed stone, chippings and brittle sands as a coloured and iron-rich aggregate for the concrete or cement industry."
 
 rechtlicher-rahmen:
   title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
