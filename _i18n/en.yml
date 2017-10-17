@@ -9,251 +9,252 @@ nav-items:
     top: Seitenanfang
 
 erdol-erdgas:
-  title: "Erdöl und Erdgas"
+  title: "Crude Oil and Gas"
   erdöl:
-    title: Erdöl
-    subtitle: Wissenswertes über Erdöl
+    title: Crude Oi
+    subtitle: Interesting facts about crude oil
     slides:
-       - Deutschland deckt rund 2 % seines Erdölbedarfs aus heimischer Produktion.
-       - Das im Wattenmeer gelegene Ölfeld Mittelplate/Dieksand beherbergt mit ca. 25 Mio. t rund ein Drittel der förderbaren deutschen Erdölvorkommen.
-       - Erdöl und Erdgas entstehen aus Ablagerungen großer Mengen von Kleinstlebewesen vor allem Algen.
-       - Durchschnittlich lagern Erdölfelder in rund 1.500 m Teufe. Durch den technischen Fortschritt ist es aber möglich, auch Erdölfelder in 5.000 m Teufe und darunter zu erschließen.
-       - Seit Beginn der Erdöl- und Erdgasförderung in Deutschland wurden 22.000 Bohrungen durchgeführt
+       - Germany covers about 2% of its crude oil demand with domestic production.
+       - The Mittelplate/Dieksand oilfield in the Wadden Sea contains some 25 million tons, which amounts to roughly one third of the extractable German crude oil deposits.
+       - Crude oil and natural gas are created by deposits of large amounts of micro-organisms, mainly algae.
+       - On average, crude oil deposits are found at a depth of around 1.5 km. Technical progress, however, has made it possible to open up oilfields at a depth of 5000 meters (m) and more.
+       - More than 22,000 drilling operations have been carried out since crude oil and natural gas production began in Germany.
     geschichte:
-      title: Geschichte
-      p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2014 betrug rund 2,4 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden auf rund 34 Mio. t geschätzt.
+      title: History
+      p: Crude oil has been industrially extracted in Germany for more than 150 years. The successful oil well in Wietze near Celle in 1858/59 is generally recognised as being one of the first in the world. Crude oil production in Germany peaked in 1968 with an annual production of around 8 million tons. Annual production in 2015 amounted to 2.4 million tons. Proven and potential crude oil reserves in Germany are estimated to be around 34 million tons as of 01.01.2016.
     wirtschaftliche-bedeutung:
-      title: Wirtschaftliche Bedeutung
-      p: "Die aktuelle Förderung von Erdöl in Deutschland beträgt rund 2 % des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls liegt für 2015 bei etwa 860 Mio. Euro und damit bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder lag Deutschland 2015 auf dem 58. Platz (1970: 26. Platz). 2015 waren in der Gewinnung im deutschen Erdöl- und Erdgasbereich 3950 Mitarbeiter/innen beschäftigt."
+      title: Economic importance
+      p: "Current oil production in Germany amounts to about 2 % of the German annual consumption. The value of the extracted petroleum is about €860 million for 2015; in terms of economic importance, this is the third most important source of fossil fuels in Germany, behind natural gas and brown coal. In a 2015 international comparison of crude oil-producing countries, Germany was in 58th place (26th in 1970).  In 2015, 3,950 employees were employed in oil and natural gas extraction in Germany."
       sup1:
         title: "1"
-        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
+        text: "This data contains only employment figures for companies subject to mining law."
     gewinnung:
-      title: Gewinnung
-      p1: 2014 gibt es in Deutschland 50 Ölfelder, auf denen aktiv durch rund 1000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert wird. Die Ölfelder Schleswig-Holsteins und Niedersachsens produzierten 2015 zusammen fast 90 Prozent der deutschen Gesamtproduktion. Die restliche Produktion verteilt sich auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Ölfeld ist Mittelplate/Dieksand im Nationalpark Schleswig-Holsteinisches Wattenmeer, das seit 1987 über eine Bohr- und Förderinsel sowie Bohrungen vom Festland aus erschlossen wird. Auf dieses Ölfeld entfiel 2015 mehr als die Hälfte der deutschen Erdölgesamtfördermenge.
-      p2: Erdöl ist ein fossiler Energieträger und dient v.a. als Treibstoff für Verkehrs- und Transportmittel und zur Beheizung von Gebäuden. Zudem wird Erdöl in der chemischen Industrie z. B. zur Herstellung von Kunststoffen verwendet.
+      title: Extraction
+      p1: There were 50 crude oil fields in Germany in 2015. These fields extract oil by means of some 1,000 production wells in drilling installations (onshore) and production platforms (offshore). In 2015, the oilfields of Schleswig-Holstein and Lower Saxony yielded almost 90% of the total German production. The remaining 10% was mainly produced in the Rhineland-Palatinate, together with very low production levels in Bavaria, Hamburg, Brandenburg and Mecklenburg-Western Pomerania. The largest German crude oil field is the Mittelplate/Dieksand in the Schleswig-Holstein Wadden Sea (Wattenmeer) National Park. It has been developed since 1987 by a drilling and production island and by oil well facilities on the mainland. This oilfield accounted for more than half of Germany’s total crude oil production in 2015.
+      p2: Crude oil is a fossil energy source. It is primarily used as a fuel for vehicular transportation and to heat buildings. Crude oil is also used in the chemical industry for e.g. the manufacture of plastics.
   erdgas:
-    title: Erdgas
-    subtitle: Wissenswertes über Erdgas
+    title: Natural gas
+    subtitle: Interesting facts about natural gas
     slides:
-      - Erdgas wird im Vergleich zu Kohle und Erdöl erst seit relativ kurzer Zeit als Energieträger genutzt.
-      - Auf einem ein Hektar großen Betriebsplatz wird Erdgas für die Versorgung von rund 15.000 Haushalten gefördert.
-      - Bereits seit 60 Jahren wird Erdgas aus deutschen Lagerstätten gewonnen.
-      - 11 % des Erdgasbedarfs in Deutschland wird durch die heimische Produktion gedeckt.
-      - "95 % des geförderten Erdgases stammt aus Niedersachsen."
+      - In contrast to coal and oil, natural gas has only been used as an energy source relatively recently.
+      - Germany has an active offshore gas field in the German Bight.
+      - Natural gas is extracted on this one-hectare operating facility and supplied to some 15,000 households.
+      - Natural gas has been extracted from gas fields in Germany for the past 100 years.
+      - 8% of the demand for natural gas in Germany is covered by domestic production.
+      - 95% of the natural gas is extracted in Lower Saxony.
 
     geschichte:
-      title: Geschichte
-      p: "Bei einer Bohrung nach Wasser wurde 1910 in Neuengamme, heute ein Stadtteil von Hamburg, Erdgas gefunden. Die Förderung im industriellen Maßstab begann 1913. Bis zum Ende der 1960er Jahre blieb die Erdgasproduktion in Deutschland allerdings gering – mit einem Anteil von nur rund 1% am primären Energieverbrauch in Deutschland (West). Die Ölkrisen in den 70er Jahren lenkten den Blick verstärkt auf den Verbrauch von Energie und die Notwendigkeit der Erschließung von Energiequellen. Mit der Entdeckung großer Gasvorkommen an der deutsch-niederländischen Grenze und der zunehmenden Umstellung von Stadt- und Kokereigas auf Erdgas stieg die heimische Förderung. Damit einher ging ein stetiger Ausbau der Gasinfrastruktur (von 12 auf 20 Mrd. m3(Vn) Rohgas zwischen 1970 und 2005). 2005 deckte die heimische Erdgasförderung bis zu 25% des heimischen Gasverbrauchs. Seitdem ist die Förderung rückläufig. 2014 lag sie bei rund 10,1 Mrd. m3(Vn) Rohgas, dies entspricht etwa 7% des heimischen Gasverbrauchs. Die sicheren und wahrscheinlichen Reserven an Erdgas sind zudem rückläufig. Diese beliefen sich 2014 auf 88,5 Mrd. m3. Damit beträgt die statische Reichweite der deutschen Erdgasreserven 8 Jahre. Entsprechend sind auch die Aktivitäten zur Suche und Erschließung neuer Erdgasfelder reduziert."
+      title: History
+      p: "In 1910, natural gas was found in Neuengamme (which is a district of Hamburg today) when drilling for water. The industrial production of natural gas started in 1913. However, natural gas production in Germany remained minimal until the end of the 1960s, with only a 1% share of the primary energy consumption in Germany (West). The oil crises of the 1970s focused increased attention on the consumption of energy and the need for the development of energy sources. Domestic production grew with the discovery of large gas deposits on the German-Dutch border and the increasing conversion of town and coke-oven gas to natural gas. This was accompanied by a steady expansion of the gas infrastructure (from 12 to 20 billion m³(Vn) of raw gas between 1970 and 2005). In 2005, domestic natural gas production covered up to 25 % of domestic gas consumption, but production has been declining since then: in 2016, it stood at around 8 billion m³(Vn), some 6 % of domestic gas consumption. The proven and probable reserves of natural gas are also in decline, with a total of 74 billion m³ as of January 1st, 2016. This means that the static range of the German natural gas reserves amounts to 8 years. The decline in natural gas reserves and production is mainly due to the increasing depletion of the large deposits and the resulting natural decline in extraction. A legislative process lasting several years was also responsible for the decline in reserves; during this process, the topics discussed included future requirements for the use of fracking technology, which led to new legislation in 2016. There have been no significant new discoveries in recent years."
     wirtschaftliche-bedeutung:
-      title: Wirtschaftliche Bedeutung
-      p: "Im Vergleich aller Erdgasförderländer liegt Deutschland auf Platz 43. Der Anteil an der weltweiten Gasfördermenge betrug 2015 0,3%. In Relation zu anderen in Deutschland geförderten Rohstoffen, wie Braunkohle, kommt Erdgas eine relativ große wirtschaftliche Bedeutung zu. Der Wert des geförderten Erdgases betrug 2015 2 Mrd. Euro. Ein Fünftel des Gesamtwertes der in Deutschland geförderten Rohstoffe entfällt auf den Rohstoff Erdgas. 2015 waren im Erdöl- und Erdgasbereich 3.950 Mitarbeiter/innen beschäftigt."
+      title: Economic importance
+      p: "Germany ranks number 43 in the table of all natural gas-producing countries. The country’s share of global gas production amounted to 0.3 % in 2015. Natural gas is of relatively significant economic importance in relation to other extracted natural resources such as lignite. The value of the natural gas extracted in 2015 amounted to €2 billion. Natural gas accounts for one-fifth of the total value of the natural resources extracted in Germany. 3.950 persons were employed in the oil and gas sectors in 2015."
       sup2:
         title: "2"
-        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen"
+        text: " This data contains only employment figures for companies subject to mining law."
     gewinnung:
-      title: Gewinnung
-      p: "95 % des deutschen Erdgases wurden 2015 in Niedersachsen gefördert. Andere Bundesländer (Sachsen-Anhalt, Schleswig-Holstein, Thüringen und Bayern) tragen nur marginal zur Gesamtfördermenge bei. Gefördert wird das Erdgas auf 77 Gasfeldern mittels 476 Fördersonden. Das Gasfeld A6/B4 im sogenannten Entenschnabel, einer Wirtschaftszone in der deutschen Bucht (Nordsee), ist dabei das einzige Offshore Gasfeld. Wie Erdöl tritt Erdgas in unterirdischen Lagerstätten auf. Vergleichbar zum Erdöl findet die Exploration von Erdgas durch seismische Untersuchungen und Erkundungsbohrungen statt. Die Förderung erfolgt über ein mit Zement und Stahl stabilisiertes Bohrloch, in das ein Steigrohr eingebracht wird (Sonde)."
+      title: Extraction
+      p: "95% of German natural gas was extracted in Lower Saxony in 2015. Other Federal States (Saxony-Anhalt, Schleswig-Holstein, Thuringia and Bavaria) contribute only marginally to the total production. 476 production wells extract the natural gas on 77 gas fields. The A6/B4 gas field in the ‘Entenschnabel’ (duckbill) – an economic zone in the German Bight (North Sea) – is the only offshore gas field. Like crude oil, natural gas occurs in underground deposits. Seismic surveys and exploration drilling are also used for both crude oil and natural gas exploration. Gas extraction takes place through a borehole stabilised with cement and steel and a riser pipe is then inserted through the hole."
     verwendung:
-      title: Verwendung
-      p: "Als fossiler Energieträger wird Erdgas hauptsächlich für die Beheizung von Wohn- und Gewerberäumen, als Wärmelieferant für thermische Prozesse in Gewerbe und Industrie (z. B. in Großbäckereien, Ziegeleien, Zementwerken, Gießereien und Metallhütten), zur elektrischen Stromerzeugung sowie als Treibstoff für Schiffe und Kraftfahrzeuge verwendet. Hinzu treten mengenmäßig bedeutsame Anwendungen als Reaktionspartner in chemischen Prozessen, wie beispielsweise der Ammoniaksynthese im Haber-Bosch-Verfahren (Stickstoffdüngemittel), der Eisenerzreduktion im Hochofenprozess oder der Herstellung von Wasserstoff."
+      title: Uses
+      p: "As a fossil energy source, natural gas is mainly used to heat residential and commercial premises, to supply heat for thermal processes in trade and industry (e.g. in large bakeries, brick factories, cement factories, foundries and smelters) and to generate electrical power; it is used as fuel for ships and motor vehicles. Natural gas also has many other significant uses – as a reactant in chemical processes (e.g. for ammonia synthesis in the Haber-Bosch process (nitrogen fertiliser)), for iron ore reduction in the blast furnace process and in the production of hydrogen."
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: erdol
-      title: Erdöl
+      title: Crude Oil
       subnav_items:
         - name: fakten_zu_oil
-          title: Wissenswertes über Erdöl
+          title: Interesting facts about crude oil
         - name: erdol-geschichte
-          title: Geschichte
+          title: History
         - name: erdol-wirtschaftliche-bedeutung
-          title: Wirtschaftliche Bedeutung
+          title: Economic importance
         - name: erdol-gewinnung
-          title: Gewinnung
+          title: Extraction
     - name: erdgas
-      title: Erdgas
+      title: Natural gas
       subnav_items:
         - name: fakten_zu_gas
-          title: Wissenswertes über Erdgas
+          title: Interesting facts about natural gas
         - name: erdgas-geschichte
-          title: Geschichte
+          title: History
         - name: erdgas-wirtschaftliche-bedeutung
-          title: Wirtschaftliche Bedeutung
+          title: Economic importance
         - name: erdgas-gewinnung
-          title: Gewinnung
+          title: Extraction
         - name: erdgas-verwendung
-          title: Verwendung
+          title: Uses
 
 kohle:
-  title: Kohle
+  title: Coal
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: steinkohle
-      title: Steinkohle
+      title: Hard coal
       subnav_items:
         - name: fakten_zu_steinkohle
-          title: Wissenswertes über Steinkohle
+          title: Interesting facts about hard coal
         - name: steinkohle-geschichte
-          title: Geschichte
+          title: History
         - name: steinkohle-ausblick
-          title: Ausblick
+          title: Outlook
         - name: steinkohle-wirtschaftliche-bedeutung
-          title: Wirtschaftliche Bedeutung
+          title: Economic importance
     - name: braunkohle
-      title: Braunkohle
+      title: Lignite
       subnav_items:
         - name: fakten_zu_braunkohle
-          title: Wissenswertes über Braunkohle
+          title: Interesting facts about Lignite
         - name: braunkohle-geschichte
-          title: Geschichte
+          title: History
         - name: braunkohle-gewinnung
-          title: Gewinnung
+          title: Extraction
         - name: braunkohle-verwendung
-          title: Verwendung
+          title: Uses
   steinkohle:
-    title: Steinkohle
-    subtitle: Wissenswertes über Steinkohle
+    title: Hard coal
+    subtitle: Interesting facts about hard coal
     slides:
-      - Mit der Schließung der letzten verbliebenen Bergwerke in Bottrop und Ibbenbüren wird die subventionierte Steinkohleförderung in Deutschland zum 31.12.2018 beendet.
-      - Die Beendigung erfolgt auf gesetzlicher Grundlage und sozialverträglich.
-      - Mit einer Förderung von rund 6 Mio. t (2015) trägt deutsche Steinkohle zu ca. 10 % zur Deckung des deutschen Steinkohlebedarfs bei.
-      - Ca. 90 % der benötigten Steinkohle werden importiert, hauptsächlich aus Russland, Kolumbien, den USA und Australien.
-      - Im internationalen Vergleich ist der deutsche Steinkohlenbergbau durch schwierige geologische Bedingungen (große Abbauteufen, geringmächtige Flöze, hoher Gebirgsdruck) und eine ausgedehnte, untertägige Infrastruktur gekennzeichnet.
+      - The subsidized coal mining industry in Germany will end by December 31, 2018, with the closure of the last remaining mines in Bottrop and Ibbenbüren.
+      - The termination will be carried out in a socially acceptable manner and on a legal basis.
+      - With approx. 6 million tons extracted in 2015, German hard coal covers around 10% of the German requirements.
+      - Around 90% of the hard coal is imported, mainly from Russia, Colombia, the USA and Australia.
+      - In an international comparison, German hard coal mining is characterised by difficult geological conditions (extreme mining depths, thin seams, overburden pressure) and an extensive, subterranean infrastructure.
     geschichte:
-      title: Geschichte
-      p1: "Wirtschaftliche Bedeutung erlangte der Steinkohlenbergbau in Deutschland im Zuge der Industrialisierung im 19. und 20. Jahrhundert. Die Förderung stieg stetig und erreichte mit dem Beginn des Zweiten Weltkrieges zunächst ihren Höhepunkt mit über 200 Mio. t Jahresförderung. Nach dem Zweiten Weltkrieg wurde einheimische Steinkohle in der Elektrizitätswirtschaft, der Stahlindustrie und bei der Wärmeversorgung eingesetzt. Mitte der 1950er Jahre wurden in rund 170 Bergwerken jährlich 150 Mio. t Steinkohle durch über 600.000 Arbeitnehmer gewonnen. Ende der 50er Jahre wandelte sich die Situation. Die einheimische Steinkohle war wegen ihrer hohen Förderkosten – die Gewinnung erfolgt ausschließlich im Tiefbau und erfordert bis heute eine Subventionierung durch die öffentliche Hand – auf dem Weltmarkt nicht mehr konkurrenzfähig. Importkohle und vor allem das billige Erdöl substituierten die einheimische Steinkohle."
-      p2: "Die heutige Situation des deutschen Steinkohlenbergbaus ist das Ergebnis eines kontinuierlichen Anpassungsprozesses. Seinen Anfang nahm er mit der Gründung der Ruhrkohle AG – einer Zusammenführung von 51 Bergwerken des Ruhrgebiets – im Jahre 1969."
+      title: History
+      p1: "The hard coal industry in Germany gained in economic importance during the industrial revolution of the 19th and 20th centuries. Production increased steadily, reaching an annual peak of more than 200 million t at the beginning of the Second World War. After WW2, German hard coal was used in the electricity, steel and heat supply industries. In the mid-1950s, 600,000 employees in 170 mines extracted 150 million tons of hard coal every year. In the late 1950s, however, this situation changed – German hard coal could no longer compete efficiently in the world market since its extraction is carried out exclusively through underground mining. Even today it still needs subsidies from public authorities. Imported coal and – above all – cheaper crude oil replaced the German hard coal."
+      p2: "The current situation in which the German hard coal mining industry finds itself is the result of a continuous adaptation process, one which started with the founding of the Ruhrkohle AG (RAG) – a merger of 51 Ruhr area mines – in 1969."
     ausblick:
-      title: Ausblick
-      p1: Am 7. Februar 2007 haben sich der Bund, das Land Nordrhein-Westfalen und das Saarland sowie die RAG AG und die Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) darauf verständigt, die subventionierte Förderung der Steinkohle in Deutschland zum Ende des Jahres 2018 sozialverträglich zu beenden. Der Auslaufprozess wird durch eine am 14. August 2007 abgeschlossene Rahmenvereinbarung „Sozialverträgliche Beendigung des subventionierten Steinkohlenbergbaus in Deutschland“ und durch das im Dezember 2007 in Kraft getretene Steinkohlefinanzierungsgesetz geregelt. Lesen Sie hierzu auch
-      k1: Subventionen
-      p2: und steuerliche Begünstigungen.
+      title: Outlook
+      p1: On February 7, 2007, the German Federal Government, the states of North Rhine-Westphalia and Saarland, the RAG AG and the Mining, Chemical and Energy Industrial Union (IG BCE) agreed to end the subsidised production of hard coal in Germany at the end of 2018 in a socially-acceptable manner. The phase-out process is governed by the ‘socially acceptable phasing-out of subsidised hard coal mining in Germany’ framework agreement of August 14, 2007 and by the German Hard Coal Financing Act, which came into force in December 2007. Read more subsidies and tax aids
+      k1: here
+      p2: .
     wirtschaftliche-bedeutung:
-      title: Wirtschaftliche Bedeutung
-      p1: Steinkohle deckt in Deutschland 12,7 % (2015) des Primärenergieverbrauches ab und trägt zu 18,1 % (2015) zur deutschen Stromerzeugung bei. Im Jahre 2015 entfielen auf die Kraftwerke 78 % des Gesamtverbrauchs an Steinkohle, auf die Stahlindustrie 20 % sowie auf das sonstige produzierende Gewerbe und auf den Hausbrand und Kleinverbraucher etwa 2 %. Die einheimische Steinkohlenförderung belief sich im Jahr 2015 auf 6,2 Mio. t. Dies entspricht einem Wert von rund 557 Millionen Euro. Aktuell werden in Deutschland noch zwei Bergwerke (ein Bergwerk im Ruhrgebiet, ein Bergwerk in Ibbenbüren) mit 8.500 Beschäftigten betrieben. Angesichts dieser Entwicklung werden heute rund  90 % des Bedarfs an Steinkohle und Steinkohleprodukten (57,5 Mio. t in 2015) durch Importe gedeckt.
+      title: Economic importance
+      p1: In 2015, hard coal accounted for 12.7% of primary energy consumption in Germany and contributed 18.1% to German electricity production. In the same year, power stations accounted for 78% of the total consumption of hard coal, the steel industry and other producing industries accounted for 20% and the domestic heating sector and small consumers accounted for some 2%. 6.2 million tons of German hard coal were extracted in 2015. This is equivalent to a value of some €557 million. 8,500 hard coal industry personnel are currently employed in Germany’s only two remaining hard coal mines, one in Bottrop and the other in Ibbenbüren. In view of this development, imports today cover around 90% of the demand for hard coal and hard coal products (57.5 million tons in 2015).
   braunkohle:
-    title: Braunkohle
-    slides_title: Wissenswertes über Braunkohle
+    title: Lignite
+    slides_title: Interesting facts about Lignite
     slides:
-      - Mit einer Fördermenge von rund 178 Mio. t (2015) ist die Braunkohle zu knapp 12 %  am Primärenergieverbrauch in Deutschland beteiligt.
-      - Der Anteil der Braunkohle an der Bruttostromerzeugung liegt bei rund 24 %.
-      - In Deutschland wird aktuell in drei Braunkohlerevieren in zehn aktiven Tagebauen Braunkohle gefördert. Das Rheinische Revier ist das größte Braunkohlerevier Europas und Deutschland der weltweit größte Produzent von Braunkohle.
-      - Deutschland deckt seinen Braunkohlebedarf zu 100% aus heimischen Lagerstätten.
-      - Rekultivierung und der Ausgleich für die Landinanspruchnahme durch den Bergbau sind wichtige Themen des deutschen Braunkohlebergbaus.
+      - With production at around 178 million tons in 2015, lignite accounts for almost 12% of primary energy production in Germany.
+      - Lignite accounts for around 24% of gross electricity generation.
+      - Lignite is currently mined in 10 active open-cast mining sites on 3 lignite coalfields. The Rhineland is the largest brown coal region in Europe and Germany is the world’s largest producer of lignite.
+      - Germany covers 100% of its lignite requirements from its domestic reserves.
+      - Recultivation and compensation for land required for mining are important issues for the German lignite mining industry.
     geschichte:
-      title: Geschichte
-      p: Bereits im 17. Jahrhundert wurde in Deutschland Braunkohle als Ersatz für den knapper werdenden Brennstoff Holz gefördert. Mit der zunehmenden Industrialisierung und der Erschließung neuer Lagerstätten stieg die Braunkohleförderung im 19. Jahrhundert von 170.000 t (1840) auf 40 Mio. t (1900). Im 20. Jahrhundert setzte sich dieser Trend unverändert fort, bis 1985 der Höhepunkt der Förderung mit 433 Mio. t/Jahr erreicht wurde. Ein Großteil des Anstieges der gesamtdeutschen Fördermenge entfiel auf die ostdeutschen Braunkohlereviere. Im Zuge der Wiedervereinigung ging die Braunkohleförderung der ostdeutschen Braunkohlereviere von 1989 bis 1994 um 67% zurück, hervorgerufen insbesondere durch eine Änderung im Energieträgermix. Die Gesamtdeutsche Fördermenge sank in diesem Zeitraum von 410 Mio. t auf 207 Mio. t.
+      title: History
+      p: As early as the 17th century in Germany, lignite was being produced as a replacement fuel for wood, which was becoming increasingly scarce. With increasing industrialisation and the development of new deposits, the 19th century saw an increase in lignite production from 170,000 tons in 1840 to 40 million tons in 1900. This trend continued unabated in the 20th century until production reached an all-time peak in 1985 with 433 million tons produced that year. Much of this increase in overall German lignite production was attributable to the East German lignite coalfields. After the East/West German reunification, lignite production in East German lignite coalfields declined by 67% between 1989 and 1994, caused mainly by a change in the fuel mix. Total German production fell from 410 million tons to 207 million tons during this period.
     gewinnung:
-      title: Gewinnung
-      p: Braunkohle wird hauptsächlich in drei Revieren – dem Rheinischen, Lausitzer und Mitteldeutschen Revier – ausschließlich in Tagebauen, also oberflächennah, gefördert. Die Jahresförderung betrug 2015 rund 178,1 Millionen Tonnen und war in den letzten Jahren weitgehend konstant. Der Wert der 2015 in Deutschland geförderten Braunkohle betrug 2,4 Mrd. Euro. Damit ist die Braunkohle – nach dem Wert der Produktion – der wichtigste in Deutschland geförderte Rohstoff. Mit dem Rückgang der Braunkohleförderung im Zuge der deutschen Wiedervereinigung ist die Zahl der direkt im Braunkohlebergau Beschäftigten von 130.000 (1990) auf 15.600 (2015) gesunken.
+      title: Extraction
+      p: Lignite is mainly extracted in three areas – the Rhenish, Lausitz and Central German regions, where mining is only carried out in opencast mines close to the surface. Annual production in 2015 amounted to approximately 178.1 million tons and has largely remained constant in recent years. The value of the brown coal lignite subsidised in Germany in 2015 amounted to €2.4 billion. This means that brown coal is the most important natural resource in Germany, in terms of the value of production. With the decline in lignite production in the wake of German reunification, the number of persons directly employed in lignite mining fell from 130,000 in 1990 to 15,600 in 2015.
     verwendung:
-      title: Verwendung
-      p: Braunkohle wird zu rund 90 % zur Strom- und Fernwärmeerzeugung eingesetzt. Die wirtschaftliche Nutzung erfolgt dabei lagerstättennah im Verbund von Tagebau und Kraftwerk. Rund zehn Prozent der Braunkohlenförderung werden zu festen oder staubförmigen Brennstoffen (Braunkohlenbriketts, Braunkohlenstaub und Wirbelschichtbraunkohle, Braunkohlenkoks) veredelt – für eine gewerbliche Nutzung sowie für die privaten Haushalte. Braunkohle deckt in Deutschland 11,8 % (2015) des Primärenergieverbrauches und trägt zu 23,8 % (2015) zur Stromerzeugung in Deutschland bei. Dabei deckt die heimische Förderung der Braunkohle den jährlichen Verbrauch.
+      title: Uses
+      p: Around 90% of the lignite Germany produces is used to generate electricity and district heating. The economic advantages in using lignite result from the combination of the opencast mine and power plant being near the location of the lignite deposits. Around 10% of the lignite produced is refined into solid or pulverised fuels for commercial use and private households (e.g. brown coal briquettes, pulverised lignite, fluidised bed lignite and lignite coke). In 2015, lignite accounted for 11.8% of the primary energy consumption and contributed to 23.8% of electricity generation. The domestic production of lignite covers the country’s annual consumption.
 
 salze:
-  title: Salze
+  title: Salts
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: fakten_zu_salze
-      title: Wissenswertes über Salze
+      title: Interesting facts about salts
     - name: geschichte
-      title: Geschichte
+      title: History
     - name: wirtschaftliche-bedeutung
-      title: Wirtschaftliche Bedeutung
+      title: Economic importance
     - name: gewinnung
-      title: Gewinnung
+      title: Extraction
     - name: verwendung
-      title: Verwendung
-  h2: Salze
-  slides_title: Wissenswertes über Salze
+      title: Uses
+  h2: Salts
+  slides_title: Interesting facts about salts
   slides:
-    - Salz wird seit über 5.000 Jahren aktiv durch den Menschen gewonnen.
-    - Die Bedeutung des Salzes für viele Städte spiegelt sich oft in deren Namen wieder. 
-    - Wurden in einer Stadt salzhaltige Quellen entdeckt, so fügte man dem Stadtnamen die Silbe „Bad“ hinzu. Es ist die Geburt der heutigen Kurorte.
-    - Mitte des 19. Jahrhunderts entdeckte Justus von Liebig die Bedeutung von Kalium als essentiellen Pflanzennährstoff.
-    - Nachdem Bergleute im Jahr 1856 bei Staßfurt auf der Suche nach Steinsalz zufällig auf die weltweit erste bekannte Kalilagerstätte stießen, entstanden um 1860 die ersten Kalibergwerke und Kalifabriken in Deutschland.
-    - Die bereits im Hochmittelalter verlegte Soleleitung vom Bergwerk Reichenhall nach Traunstein gilt als eine der ersten Rohstoffpipelines der Welt.
-    - Das Kalibergwerk Werra ist der flächenmäßig größte in Betrieb befindliche Untertagebau Deutschlands.
+    - Salt has been actively extracted by humans for over 5,000 years.
+    - The importance of salt for many cities is often reflected in their names. 
+    - If saline sources were discovered in a town, the syllable ‘Bad’ (spa) was added to the town’s name – this ushered in the birth of today’s spas.
+    - In the mid-19th century, Justus von Liebig discovered the importance of potassium as an essential plant nutrient.
+    - When miners coincidentally discovered the world’s first known potash deposit while searching for rock salt near Staßfurt in 1856, the first potash mines and works were subsequently established in Germany around 1860.
+    - In the high-medieval period, the brine pipeline from the Reichenhall mine to Traunstein was one of the first pipelines for natural resources in the world.
+    - The Werra potash mine is the largest underground mining area in Germany.
   geschichte:
-    title: Geschichte
-    p1: In Deutschland gibt es große Salzlagerstätten, die besonders im norddeutschen Raum konzentriert sind. Über Jahrmillionen hinweg führten Ablagerungen von Salzen zu mehreren 100 m mächtigen Salzschichten. Ähnlich alt ist das Salz, das seit Jahrtausenden in den bayeri- schen und österreichischen Alpen gewonnen wird.
-    p2: Die Inbetriebnahme der ersten Kalifabrik der Welt in Staßfurt im Jahr 1861 begründete die fast 150-jährige Tradition des deutschen Kalibergbaus. Die Salzgewinnung aus salzhaltigen Quellen sowie im bergmännischen Abbau von Salzlagerstätten hat eine lange Geschichte. Bereits im 12. Jahrhundert wurde im Raum Berchtesgaden nach Salz gegraben. Im 16. Jahrhundert wurde dort ein noch heute aktives Salzbergwerk errichtet.
+    title: History
+    p1: Germany has large salt deposits, which are mainly concentrated in northern Germany. Over millions of years, deposits of salts resulted in several 100 m thick salt layers. Bavarian and Austrian Alps salt is of a similar age and has been extracted for thousands of years.
+    p2: The commissioning of the first potash plant in the world in Staßfurt in 1861 founded the almost 150-year tradition of German potash mining. Salt extraction from saline springs and through the mining of salt deposits has a long history. People were digging for salt in the Berchtesgaden area as early as the 12th century and an active salt mine that was established in the 16th century still exists there.
   wirtschaftliche-bedeutung:
-    title: Wirtschaftliche Bedeutung
-    p1_1: 2014 betrug die Fördermenge in Deutschland ca. 12,7 Mio. t Steinsalz (einschließlich Industriesole) und rund 36,6 Mio. t Kalirohsalz mit einem Wertstoffgehalt
+    title: Economic importance
+    p1_1: In 2014, the amount produced in Germany was approximately 12.7 million tons of rock salt (including industrial brine) and some 36.6 million tons of crude potassium salt with a material content of
     sub: "2"
-    p1_2: von 3,8 Mio. t. Mit einer Gesamtfördermenge von 5,3 % ist Deutschland weltweit der fünftgrößte Produzent von Salz nach China, den USA, Indien und Kanada (2014) und zugleich der fünftgrößte Kaliproduzent mit rund 9% der weltweiten Gesamtfördermenge. Im Kalibergbau in Deutschland sind rund 8.200 Mitarbeiter direkt beschäftigt, im Salzbergbau 2.500 (2014).
+    p1_2: from 3.8 million tons. With a total production of 5.3%, Germany was the fifth largest producer of salt in the world after China, the USA, India and Canada in 2014 – and the fifth largest potash producer with around 9% of the world’s total production. In the same year, roughly 8,200 people were employed in potash mining and 2,500 in salt mining in Germany.
   gewinnung:
-    title: Gewinnung
-    p: Der Abbau erfolgt in Deutschland in sechs Kalibergwerken (in Hessen, Niedersachsen, Sachsen-Anhalt und Thüringen), sieben Salzbergwerken (in Baden-Württemberg, Bayern, Niedersachsen, Nordrhein-Westfalen, Sachsen-Anhalt und Thüringen) und sieben Salinen (in Baden-Württemberg, Bayern, Mecklenburg-Vorpommern, Niedersachsen und Nordrhein-Westfalen). Der Salzabbau erfolgt in Bergwerken durch bergmännischen Abbau mittels Bohr- , Spreng- oder Schneidtechnik oder durch Aussolung von unterirdischen Lagerstätten. Beim Verfahren der Aussolung wird über Bohrlochsonden Süßwasser oder Halbsole in die Lagerstätte eingebracht, wo sich die Salze lösen. Die so entstehende Sole wird über eine Sonde abgepumpt und über Tage in Salinen zu Salz und weiteren Produkten verarbeitet.
+    title: Extraction
+    p: Extraction takes place in Germany in six potash mines (in Hesse, Lower Saxony, Saxony-Anhalt and Thuringia), seven salt mines (in Baden-Wuerttemberg, Bavaria, Lower Saxony, North Rhine-Westphalia, Saxony-Anhalt and Thuringia) and seven salt works (in Baden- Wuerttemberg, Bavaria, Mecklenburg-Western-Pomerania, Lower Saxony and North Rhine-Westphalia). Salt mining is carried out in the mines by means of drilling, blasting or cutting techniques or by bringing out underground deposits. Brining out is done by introducing freshwater or half-brine into the salt deposits through borehole probes, after which the salts dissolve. The brine is then pumped through a probe and processed above ground in salt works, where it eventually becomes salt (and other by-products).
   verwendung:
-    title: Verwendung
-    p1: Stein- und Siedesalz wird als Industrie- und Gewerbesalz sowie als Speise- und Auftausalz verwendet. Salz ist ein unverzichtbarer Rohstoff für die chemische Industrie – z. B. bei der Erzeugung von Soda, Chlor und Natronlauge. Ohne Salz könnten weder Glas noch Kunststoff oder Aluminium hergestellt werden. Es findet Verwendung als Regeneriersalz in Wasserenthärtungsanlagen, in der Futtermittelindustrie, im Straßen- und Winterdienst sowie in der Lebensmittelindustrie. Besonders hohe Reinheitsanforderungen erfüllt Natriumchlorid als Pharmawirkstoff.
-    p2: Die bergmännisch gewonnenen Kalirohsalze kommen vor allem in der Landwirtschaft als Düngemittel zur Anwendung. Sie werden aber auch als Industriesalz in der Elektrolyse und anderen industriellen Prozessen eingesetzt und in hochreiner Form von der Nahrungs- und Futtermittelindustrie sowie für pharmazeutische Zwecke nachgefragt.
+    title: Uses
+    p1: Rock salt and evaporated salt is used as commercial and industrial salt – we also use it on our food and for de-icing purposes. Salt is an indispensable natural resource for the chemical industry, e.g. in the production of soda, chlorine and caustic soda. Glass, plastic and aluminium could not be produced without salt.
+    p2: It is used as regenerating salt in water softening plants, in the feed industry, in road services, for snow clearing and in the food industry. Sodium chloride meets particularly high purity requirements as an active pharmaceutical ingredient.
 
 steine-und-erden:
-  title: Steine und Erden
+  title: Quarried natural resources
   nav_items:
     - name: steine-und-erden
-      title: Steine und Erden
+      title: Quarried natural resources
       subnav_items:
         - name: fakten_zu_industriemineralen
-          title: Wissenswertes über Steine und Erden
+          title: Interesting facts about quarried natural resources
         - name: geschichte
-          title: Geschichte
+          title: History
         - name: gewinnung
-          title: Gewinnung
+          title: Extraction
         - name: verwendung
-          title: Verwendung
+          title: Uses
     - name: industrieminerale
-      title: Industrieminerale
+      title: Industrial minerals
       subnav_items:
         - name: verwendung-geschichte
-          title: Geschichte
+          title: History
         - name: verwendung-gewinnung
-          title: Gewinngung
+          title: Extraction
         - name: verwendung-eisenerze
-          title: Verwendung
+          title: Uses
     - name: eisenerze
-      title: Eisenerze
+      title: Iron ore
 
-  h2: Steine und Erden
-  p1: Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen, insbesondere Kiese und Sande, gebrochene Natursteine, Kalk-, Mergel- und Dolomitsteine, Gips- und Anhydritsteine sowie Tone und Lehme. Steine und Erden sind Massenrohstoffe; sie sind aufgrund geologischer Verhältnisse standortgebunden und nicht gleichmäßig über das Land verteilt.
-  slides_title: Wissenswertes über Industrieminerale
+  h2: Quarried natural resources
+  p1: Quarried natural resources comprise a great number of mineral deposits, in particular gravel and sands, broken natural stone, lime, marl and dolomite stones and gypsum and anhydrite stones, as well as clays and loams. Quarried natural resources are bulk raw materials; due to geological conditions, they are site-bound and not distributed evenly across the country.
+  slides_title: Interesting facts about quarried natural resources
   slides:
-    - Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Darüber hinaus kommen bei der Herstellung von Baustoffen jährlich fast 100 Mio. t Sekundärrohstoffe zur Schonung der Ressourcen zum Einsatz.
-    - Steine-Erden-Rohstoffe umfassen eine Vielzahl von Bodenschätzen; der mengenmäßig größte Anteil an der Gewinnung entfällt auf die Rohstoffe Kies, Sand und Naturstein.
-    - Rund 80% der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20% finden Einsatz in der Chemie-, Stahl- oder Glasindustrie.
-    - Steine und Erden werden zur Herstellung vieler Produkte unseres Alltags benötigt. So ist Steinmehl die Grundsubstanz von Zahnpasta.
-    - Statistisch gesehen braucht jeder von uns stündlich über 1 kg Gips, Steinmehl, Sand, Kies oder Natursteine.
+    - Every year, the building materials and quarrying industry extracts roughly 550 million tons of primary raw materials or uses these materials in production. In addition, almost 100 million tons of secondary raw materials are used every year in the production of building materials to conserve resources.
+    - Quarried natural resources include a variety of mineral deposits; gravel, sand and natural stone account for the largest proportion of the extracted materials in terms of volume.
+    - Around 80% of the quarried natural resources is supplied to the building industry and around 20% is used in the chemical, steel or glass industries.
+    - Quarried natural resources are needed for the manufacture of many products that we use in our daily lives. Stone powder, for example, is the basic ingredient of toothpaste.
+    - Statistically, each one of us needs 1 kg of plaster, stone dust, sand, gravel or natural stones per hour.
   geschichte:
-    title: Geschichte
-    p: Der Abbau von Steinen und Erden ist seit Beginn der Menschheitsgeschichte überliefert. Bei den ältesten bekannten „Steinen aus Menschenhand“ handelt es sich nach den Erkenntnissen der Wissenschaft um aus dem 9. bis 8. Jahrtausend vor Christus stammende Bodenbefestigungen im Nahen Osten. Auch in Deutschland hat die Gewinnung von Steinen und Erden eine sehr lange Tradition. Während die Rohstoffe früher hauptsächlich manuell gewonnen wurden, nutzen Betriebe heute den Einsatz moderner Technik. Geophysik, GPS, intelligente Maschinen- und Anlagensteuerungen sowie weitgehend automatisierte Prozesse bestimmen die Rohstoffförderung.
+    title: History
+    p: Quarrying has been handed down since the beginning of human history. According to scientific findings, the oldest known ‘stones from human hands’, found in ground fortifications in the Near East date back to between the 9th and 8th centuries B.C. Germany also has a very long quarrying tradition. In the past, these raw materials were mainly extracted by hand, but companies today use modern technology. Geophysics, GPS, intelligent machine and plant control and largely automated processes control the extraction of these natural resources.
   gewinnung:
-    title: Gewinnung
-    p: Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Mengenmäßig zählen Kiese und Sande mit rund 240 Mio. t und gebrochene Natursteine mit etwa 210 Mio. t zu den wichtigsten Rohstoffen der deutschen Rohstoffgewinnung. Die Branche der Kies-, Sand- und Natursteingewinnung besteht in Deutschland aus etwa 1.600 Unternehmen, die rund 3.100 Gewinnungsstätten betreiben.
+    title: Extraction
+    p: Every year, the building materials and quarrying industry extracts roughly 550 million tons of primary raw materials or uses these materials in production. Gravel and sands, with around 240 million tons, and broken natural stone with some 210 million tons are among the most important raw materials in the extraction natural sources in Germany.  The building materials and quarrying industry (earth and stone) in Germany comprises some 1,600 companies operating approximately 3,100 extraction facilities.
   verwendung:
-    title: Verwendung
-    p: Rund 80% der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20% finden Einsatz in der Chemie-, Stahl- oder Glasindustrie. Neben den primär gewonnenen Steinen und Erden werden in der Baustoffindustrie jährlich fast 100 Mio. t Sekundärrohstoffe (mineralische Bauabfälle, Nebenprodukte aus industriellen Prozessen) eingesetzt. Diese entstehen zum Beispiel beim Abbruch von Gebäuden, der Produktion von Roheisen (Hochofenschlacken) oder bei der Stromerzeugung in konventionellen Kraftwerken (REA-Gips, Flugasche). Der Einsatz von Sekundärrohstoffen trägt zur Substitution primärer Rohstoffe bei. Die Substitutionsquote beträgt etwa 15%.
+    title: Uses
+    p: Around 80% of the earth and stone is supplied to the building industry and around 20% is used in the chemical, steel or glass industries. In addition to the extracted primary earth and stone, almost 100 million tons of secondary raw materials (mineral construction waste and by-products from industrial processes) are used in the building industry every year. These result from e.g. the demolition of buildings, the production of pig iron (blast furnace slag) or from electricity generation in conventional power stations (FGD gypsum, fly ash). The use of secondary raw materials contributes to the substitution of primary natural sources. The substitution rate is around 15%.
   industrieminerale:
-    title: Industrieminerale
+    title: Industrial minerals
     geschichte:
-      title: Geschichte
-      p1: Als Industrieminerale werden mineralische Gesteine bezeichnet, die aufgrund ihrer besonderen chemischen und physikalischen Eigenschaften sofort, d. h. ohne Stoffumwandlung, eine industrielle Verwendung finden. Zu dieser Gruppe gehören Kaolin (auch Porzellanerde genannt), Quarzsand, Quarzit, Feldspat, Klebsand, Bentonit, Spezialton, Kieselerde, Flussspat, Schwerspat und Kali.
-      p2: Industrieminerale werden in Deutschland seit mehreren Hundert Jahren in sehr unterschiedlichem Umfang gefördert. Die beiden in Deutschland mengenmäßig am meisten geförderten Industrieminerale sind Quarz und Quarzsande sowie Spezialtone mit einer Fördermenge von rund 30,9 Millionen und 6,4 Millionen t.
+      title: History
+      p1: Industrial minerals are mineral rocks that can be immediately used in industry due to their special chemical and physical properties, i.e. without any substance conversion. This group includes kaolin (also called porcelain earth), quartz sand, quartzite, feldspar, sticky sand, bentonite, special clay, silicas, fluorite, barite and potash.
+      p2: Industrial minerals have been extracted in Germany for hundreds of years in very diverse quantities. Volume-wise, the industrial minerals extracted most in Germany are quartz/quartz sands and special clays with 30.9 million tons and 6.4 million tons produced respectively.
     gewinnung:
-      title: Gewinnung
-      p1: Aufgrund natürlicher Gegebenheiten weist der Abbau von Industriemineralen in Deutschland eine hohe Regionalität auf. Während z. B. Kaolin und Kieselerde insbesondere in Bayern gefördert werden, konzentriert sich die Gewinnung von Spezialton vorwiegend auf Rheinland-Pfalz und Hessen.
-      p2: Industrieminerale werden hauptsächlich von kleinen und mittelständischen Betrieben zumeist über Tage gefördert. Einige wenige Industrieminerale, wie zum Beispiel Fluss- und Schwerspat, werden jedoch auch unter Tage abgebaut. 2014 gab es insgesamt 627 aktive Förderstätten in Deutschland, von denen rund die Hälfte allein auf die Gewinnung von Quarz und Quarzsande spezialisiert waren.
+      title: Extraction
+      p1: The extraction of industrial minerals in Germany is extremely regional in structure, due to natural conditions. While, for example, kaolin and silica are mainly extracted in Bavaria, the extraction of special clay is mainly concentrated in Rhineland-Palatinate and Hesse.
+      p2: Industrial minerals are usually extracted in open pit mines by small and medium-sized companied, but a few industrial minerals such as fluorite und barite are mined underground.
     verwendung:
-      title: Verwendung
-      p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
+      title: Uses
+      p: Due to their chemical and physical properties, industrial minerals are used primarily in the paper, chemical, glass, ceramics, refractory, and foundry and steel industries; but the pharmaceutical industry, environmental management (waste gas purification, wastewater treatment plants, solar panels and wind power plants) and the automotive industry also exploit the properties of industrial minerals.
   eisenerze:
-    title: Eisenerze
-    p: "In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie. In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
+    title: Iron ore
+    p: "In Germany, iron ore is mined in North Rhine-Westphalia and Saxony. The iron ore extracted here is not smelted into iron, however, it is used mostly in the form of crushed stone, chippings and brittle sands as a coloured and iron-rich aggregate for the concrete or cement industry."
 
 rechtlicher-rahmen:
   title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
@@ -3284,11 +3285,11 @@ how-it-work:
     title: Rohstoffgewinnung
     description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
     section1:
-      title: Welche Rohstoffe werden in Deutschland abgebaut?
-      item1: Erdöl und Erdgas
-      item2: Kohle
-      item3: Salze
-      item4: Steine und Erden
+      title: Which natural resources are extracted in Germany?
+      item1: Crude Oil and Gas
+      item2: Coal
+      item3: Salts
+      item4: Quarried natural resources
     section3:
       title: Wie sind die gesetzlichen Rahmenbedingungen?
       item1: Rechtlicher Rahmen
