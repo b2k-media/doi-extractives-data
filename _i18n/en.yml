@@ -257,20 +257,20 @@ steine-und-erden:
     p: "In Germany, iron ore is mined in North Rhine-Westphalia and Saxony. The iron ore extracted here is not smelted into iron, however, it is used mostly in the form of crushed stone, chippings and brittle sands as a coloured and iron-rich aggregate for the concrete or cement industry."
 
 rechtlicher-rahmen:
-  title: Wer ist zuständig? Rechtlicher Rahmen und staatliche Stellen
-  p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundeswirtschaftsministerium. Die Bergbehörden der Bundesländer führen das Gesetz jedoch aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
-  subtitle: "Zuständige staatliche Stellen:"
-  nav_title: RECHTLICHER RAHMEN UND STAATLICHE STELLEN
+  title: Who is responsible? Laws and the responsibilities of public authorities
+  p: "The extraction of raw materials is regulated in Germany by the BBergG (German Federal Mining Act, hereinafter BBergG). In 1982, it replaced the old mining laws of the Federal States and the numerous ancillary mining laws of the Federal and state governments. The overall control of the mining law within the Federal Government is the responsibility of the Federal Ministry for Economic Affairs and Energy. The mining authorities of the Federal States implement the BBergG and also bear the responsibility for the authorisation and supervision of mining activities (depending on the natural resources in question). The Federal States have passed some of their own mining regulations in order to meet the specific requirements and characteristics of their own regions."
+  subtitle: "Responsible public authorities"
+  nav_title: LEGAL FRAMEWORK AND REGULATION
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: zustandige-staatliche-stellen
-      title: Zuständige staatliche Stellen
+      title: Responsible public authorities
     - name: rechtliche-regelung
-      title: Rechtliche Regelung
+      title: Legal regulation
       subnav_items:
         - name: tabelle-1
-          title: Rechtliche Unterteilung der Bodenschätze in Deutschland
+          title: Legal division of natural resources in Germany
   grid:
     baden-wurttemberg:
       title: Baden-Württemberg
@@ -338,25 +338,25 @@ rechtlicher-rahmen:
       descr: Min. für Landwirtschaft, Forsten, <br/>Umwelt und Naturschutz
       link: Landesbergamt
   rechtliche-regelung:
-    title: Rechtliche Regelung
-    p1: "Hinsichtlich ihrer rechtlichen Regelung werden in Deutschland drei Gruppen von Rohstoffen unterschieden:"
+    title: Legal regulation
+    p1: "Germany differentiates between three groups of natural resources in terms of their legal regulation:"
     ul:
       li1:
-        title: "Bergfreie Bodenschätze"
-        p: "stehen nicht im Eigentum des Grundeigentümers. Das Aufsuchen und Gewinnen dieser Bodenschätze unterliegt dem BBergG und muss durch die Bergbehörden der Bundesländer genehmigt werden."
+        title: "Free-to-mine natural resources"
+        p: "are not the property of the landowner. The exploration and extraction of these natural resources are subject to the BBergG (German Federal Mining Act) and must be approved by the mining authorities of the Federal States in a two-stage procedure: firstly, the granting of a mining license (public-law concession) and secondly, the site-specific approval of the operating plan procedure."
       li2:
-        title: "Grundeigene Bodenschätze"
-        p: "stehen im Eigentum des Grundeigentümers, wodurch es für das Aufsuchen und die Gewinnung dieser Bodenschätze keine Genehmigung bedarf. Bestimmte grundeigene Bodenschätze fallen jedoch unter das Bergrecht und die Zuständigkeit der Bergaufsicht."
+        title: "Privately-owned natural resources"
+        p: " are the property of the landowner and are subject to mining law (see § 2(1), No. 1 BBergG). The prospecting and extraction of these mineral resources does not require any mining authorisation, but is subject to approval by the mining authorities of the Federal States."
       li3:
-        title: "Grundeigentümerbodenschätze"
-        p1: "sind alle Bodenschätze, die nicht bergfrei oder grundeigen sind und stehen ebenfalls im Eigentum des Grundeigentümers, fallen jedoch nicht unter das Bergrecht und die Bergaufsicht des Bergamtes. Die Genehmigungsverfahren der Grundeigentümerbodenschätze erfolgen vielmehr nach den Vorschriften des"
-        k1: "Bundesimmissionsschutzgesetzes"
-        p2: "oder nach landesrechtlichen Bestimmungen (z. B. den"
-        k2: "Abgrabungsgesetzen"
-        p3: ", dem Wasser- oder Baurecht)."
-    p2: "Für die letztgenannte Gruppe der Grundeigentümerbodenschätze sind je nach Bundesland, Rohstoff und Art des Abbaus staatliche Stellen der mittleren und unteren Verwaltungsebene zuständig."
+        title: "Landowners’ natural resources"
+        p1: "are natural resources that are neither free-to-mine nor privately owned. They are the property of the landowner, but are not subject to mining law and the supervision of the mining authorities. The approval procedure for landowners’ natural resources is carried out in accordance with the regulations of the"
+        k1: "Federal Immission Control Act"
+        p2: "or in accordance with legal state regulations (e.g."
+        k2: "excavation"
+        p3: ", water and construction laws). "
+    p2: "Depending on the Federal state, the natural resource and the type of extraction involved, middle and lower-management levels of governmental bodies are responsible for the landowners’ natural resources category."
   rechtliche-unterteilung:
-    title: Rechtliche Unterteilung der Bodenschätze in Deutschland
+    title: Legal division of natural resources in Germany
     bodenschatze: Bodenschätze
     table:
       tr1:
@@ -380,8 +380,8 @@ rechtlicher-rahmen:
           p1: "Geregelt nach anderen Rechtsgebieten, z. B. Baurecht (Abgrabungsgesetz),"
           k1: Wasserhaushaltsgesetz
           p2: "bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz"
-  p2: "(Quelle: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008)"
-  link: Staatliche Geologische Dienste der Bundesrepublik Deutschland, Rohstoffsicherung 2008.
+  p2: "Own presentation. Partial source: State Geological Service of the Federal Republic of Germany,"
+  link: Securing of Raw Materials 2008
 
 genehmigung-von-bergbauprojekten:
   title: Wie werden Bergbauvorhaben genehmigt?
