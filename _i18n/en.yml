@@ -568,7 +568,7 @@ wirtschaftlich_berechtigter:
     - name: "title"
       title: "Top of page"
     - name: wirtschaftlich_berechtigter
-      title: Beneficial owner
+      title: Beneficial Ownership
       subnav_items:
         - name: deutsches_transparenzregister
           title: German Transparency Register
@@ -580,20 +580,20 @@ wirtschaftlich_berechtigter:
           title: Obtaining information from the Transparency Register
   sup1:
     title: "1"
-    text: "In this case, a transaction refers to all acts which have the purpose or effect of a monetary movement or other asset movement."
+    text: "The term transaction here means all acts which have the purpose or the effect of a monetary movement or other asset movement."
   sup2:
     title: "2"
-    text: "Directive (EU) No 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council and repealing Directive 2005/60 / EC of the European Parliament and of the Council and Commission Directive 2006/70 / EC (OJ L 141, 5.6.2015, p."
+    text: "Directive (EU) 2015/849 of the European Parliament and of the Council of May 20, 2015 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing, amending Regulation No. 648/2012 of the European Parliament and of the Council and repealing Directive 2005/60/EC of the European Parliament and of the Council and Directive 2006/70/EC of the Commission (OJ L 141 of June 5, 2015, P.73)."
 
   wirtschaftlich_berechtigter:
-    title: Beneficial owner
+    title: Beneficial Ownership
     p1_1: "The question of who is behind a company and who is the ‘beneficial owner’ has become increasingly important in recent years for combating terrorist financing and eradicating money laundering together with their predicate offenses, such as tax law violations. The beneficial owners of companies are natural persons who ultimately own a company or control it, and/or natural persons on whose initiative a transaction"
     p1_2: "is ultimately carried out or a business relationship is ultimately founded (cf. § 3(11) of the GwG (Money Laundering Act)). Improved accessibility to this information is intended to facilitate the fight against money laundering and terrorist financing."
 
   deutsches_transparenzregister:
     title: German Transparency Register
-    p1_1: "In Germany, the beneficial owner can be found in the information contained in publicly-accessible registers, such as the trade, cooperative, partnership, association or enterprise registers. A Transparency Register was established on"
-    p1_2: "June 26, 2017 within the framework of the implementation of the Fourth Money Laundering Directive (EU) 2015/8494. This contains beneficial owner data in the form of an Internet portal. In concrete terms, this means that the portal primarily contains information from already-existing, publicly-accessible electronic registers (see above.) Obligatory notification from a beneficial owner to the Transparency Register is demanded only if the identity of the beneficial owner cannot be revealed after perusal. The Transparency Register thus expands and completes the information on beneficial owners. This also applies to trusts and similar legal forms which have hitherto remained unidentified. "
+    p1_1: "In Germany, the beneficial owner can be found in the information contained in publicly-accessible registers, such as the trade, cooperative, partnership, association or enterprise registers. A Transparency Register was established on June 26, 2017 within the framework of the implementation of the Fourth Money Laundering Directive (EU) 2015/849."
+    p1_2: "This contains beneficial owner data in the form of an Internet portal. In concrete terms, this means that the portal primarily contains information from already-existing, publicly-accessible electronic registers (see above.) Obligatory notification from a beneficial owner to the Transparency Register is demanded only if the identity of the beneficial owner cannot be revealed after perusal. The Transparency Register thus expands and completes the information on beneficial owners. This also applies to trusts and similar legal forms which have hitherto remained unidentified."
     p2: "The register is electronically accessible on the website at"
     link: www.transparenzregister.de
     p3: "Where the obligation to notify the Transparency Register exists because the beneficial owner does not already exist in other registers, such notification must be carried out by October 1, 2017. Information about beneficial owners – and this also concerns companies in the extractive industry – should be available for viewing in the register from December 27, 2017 (for details, see ‘Obtaining information from the Transparency Register’ below)."
@@ -608,7 +608,7 @@ wirtschaftlich_berechtigter:
 
   einsicht:
     title: "Obtaining information from the Transparency Register"
-    p: "Access to the information about beneficial owners in the Transparency Register is provided to certain governmental authorities within the scope of their statutory tasks, to persons and bodies legally obliged to combat money laundering in the performance of their due diligence obligations, and any other person or body with a legitimate interest in viewing the Register (e.g. NGOs or journalists) (§ 23(1) of the GwG). Such interest particularly exists when a connection can be established (in a comprehensible manner) to the prevention and combating of terrorist financing and money laundering, as well as their associated predicate offenses such as corruption. On July 2, 2014, the Federal Government decided to initiate the candidacy of Germany with the international ‘Initiative for Transparency in the Extractive Industries Transparency Initiative’ (EITI). With the implementation of the EITI in Germany (D-EITI), the Federal Government is strengthening international efforts to combat corruption in the context of natural resources business transactions. This stated objective establishes the D-EITI’s legitimate interest in gaining access to the Transparency Register. "
+    p: "Access to the information about beneficial owners in the Transparency Register is provided to certain governmental authorities within the scope of their statutory tasks, to persons and bodies legally obliged to combat money laundering in the performance of their due diligence obligations, and any other person or body with a legitimate interest in viewing the Register (e.g. NGOs or journalists) (§ 23(1) of the GwG). Such interest particularly exists when a connection can be established (in a comprehensible manner) to the prevention and combating of terrorist financing and money laundering, as well as their associated predicate offenses such as corruption. On July 2, 2014, the Federal Government decided to initiate the candidacy of Germany with the international ‘Initiative for Transparency in the Extractive Industries Transparency Initiative’ (EITI). With the implementation of the EITI in Germany (D-EITI), the Federal Government is strengthening international efforts to combat corruption in the context of natural resources business transactions.  This stated objective establishes the D-EITI’s legitimate interest in gaining access to the Transparency Register."
 
 anfallende_zahlungen:
   title: Payments made
@@ -3291,11 +3291,11 @@ how-it-work:
       item3: Salts
       item4: Quarried natural resources
     section3:
-      title: Wie sind die gesetzlichen Rahmenbedingungen?
-      item1: Rechtlicher Rahmen
-      item2: Genehmigung von Bergbauprojekten
-      item3: Lizenzregister und Verträge
-      item4: Wirtschaftlich Berechtigter
+      title: What are the legal frameworks?
+      item1: Legal framework
+      item2: Approval of mining projects
+      item3: Register of licences and contracts
+      item4: Beneficial Ownership
     section4:
       title: Welche Einnahmen erzielt der Staat?
       item1: Anfallende Zahlungen
