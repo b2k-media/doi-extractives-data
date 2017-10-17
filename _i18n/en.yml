@@ -3311,75 +3311,78 @@ how-it-work:
       item5: Erneuerbare Energien
 
 downloads:
-  title: Daten & Dokumentation Herunterladen
+  title: Download Data and Documents
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top to page
     - name: production-title-1
-      title: Daten zur interaktiven Rohstoffkarte
+      title: Data used at the interactive map on natural resources
     - name: chart-title-1
-      title: Daten zur gesamtdeutschen Rohstoffproduktion
+      title: Data on natural resource extraction in Germany
       subnav_items:
         - name: steinkohle
-          title: Steinkohle
+          title: Hard coal
         - name: braunkohle
-          title: Braunkohle
+          title: Lignite
         - name: erdöl
-          title: Erdöl
+          title: Crude oil
         - name: erdgas
-          title: Erdgas
+          title: Natural gas
         - name: kalisalz
-          title: Kalisalz
+          title: Potash salt
         - name: spezialton
-          title: Spezialton
+          title: Special clay
         - name: steinsalz
-          title: Steinsalz und Industriesole
+          title: Rock salt and industrial brine
         - name: kaolin
-          title: Kaolin
+          title: China clay
         - name: quarzkies_und_sand
-          title: Quarzkies und –sand
+          title: Quartz gravel and sand
         - name: kies_und_sand
-          title: Kies und Sand und gebrochener Naturstein
+          title: Gravel, sand and broken natural stone
         - name: naturwerkstein
-          title: Naturwerkstein
+          title: Ashlar
         - name: kalk_mergel
-          title: Kalk-/Mergel- und Dolomitstein
+          title: Limestone, marlstone and dolomite
     - name: daten-zur-beitrag-zum-bip
-      title: Daten zur Beitrag zum BIP
+      title: Data on contribution to the GDP
     - name: daten-zur-beschaftigten
-      title: Daten zur Beschäftigten
+      title: Data on employment
     - name: daten-zur-exporte
-      title: Daten zur Exporte
+      title: Data on exports
     - name: steuern
-      title: Steuern Daten zu Staatseinnahmen durch Steuern
+      title: Data on government revenues through taxes
       subnav_items:
         - name: körperschaftsteuer
-          title: Körperschaftsteuer
+          title: Corporation tax
         - name: gewerbesteuer
-          title: Gewerbesteuer
+          title: Trade tax
         - name: einkommensteuer
-          title: Einkommensteuer
+          title: Income tax
         - name: solidaritätszuschlag
-          title: Solidaritätszuschlag
+          title: Solidarity surcharge
     - name: förderabgaben
-      title: Daten zu Feldes- und Förderabgaben
+      title: Data on extraction and minesite royalties
     - name: umsatz
-      title: Daten zu Umsatz Steine und Erden
+      title: Data on turnover of quarried natural resources
     - name: anpassungsgeld
-      title: Daten zu Anpassungsgeld
-
-  h1: Daten zur interaktiven Rohstoffkarte
-  p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
-  download_label: Download der Produktionsdaten
-  download_link: Daten herunterladen
+      title: Data on rehabilitation aid
+    - name: zahlungsabgleich
+      title: Data on the reconciliation report
+    - name: daten-zum-deiti-bericht
+      title: "Aggregated data D-EITI report 2016"
+  h1: Data used at the interactive map on natural resources
+  p1: 'The production data presented here is mainly based on the publication of the Federal Ministry of Economics and Technology (BMWi) "Mining in Germany"'
+  download_label: Download production data
+  download_link: Download data
   download_label_förderabgaben: Download der Daten
-  h2: Daten zur gesamtdeutschen Rohstoffproduktion
-  p2_1: Die Zahlen zu den Produktionsmengen von Steinkohle, Braunkohle, Erdöl, Erdgas, Kalisalz, Spezialton, Steinsalz und Industriesole, basieren auf den Angaben der BMWi Publikation
-  link2_1: „Der Bergbau in der Bundesrepublik Deutschland 2015“.
-  p2_2: Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von Rohstoffen in Deutschland erhält.
-  p3_1: Die Daten zur Gewinnung der Bodenschätze werden über die Bergämter erhoben und umfassen alle nutzbaren Bodenschätze, die nach den Vorschriften des BBbergG unter Aufsicht der Behörde gewonnen werden sowie Erzeugnisse, die durch Be- oder Verarbeitung der vorgenannten Bodenschätze anfallen oder hergestellt werden. D. h. bei Bodenschätzen, die nur teilweise unter Bergrecht fallen, gibt die Statistik kein umfassendes Bild. Deshalb liegen die Angaben von Produktionsmengen von Quarzkies und -sand (Bundesverband Mineralische Rohstoffe (MIRO) 2016), Kies und Sand (MIRO 2016), gebrochenem Naturstein (MIRO 2016), Kalk-, Mergel und Dolomitstein (Bundesverband der Deutschen Kalkindustrie (BVK)) sowie für Naturwerkstein (Deutscher Naturwerkstein-Verband (DNV)) die Daten der Verbände zugrunde. Für Kaolin wird auf die Schätzung der BGR (BGR 2016) zurückgegriffen, da der Wert von 3,7 Mio. t
-  p3_2: sich nicht auf die am Markt erhältlichen Produkte bezieht.
-  p4: Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände oder verschiedener Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2015 (BGR 2016). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach DESTATIS), Steinsalz und Industriesole (Berechnung nach DESTATIS) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind MIRO 2016 entnommen. Die Werte der Produktion der Natursteine DNV 2016 und von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen.
+  h2: Data on natural resource extraction in Germany
+  p2_1: "The production quantities of hard coal, lignite, crude oil, natural gas, potash salt, special clay, rock salt and industrial brine are based on the information in"
+  link2_1: "Der Bergbau in der Bundesrepublik Deutschland 2015."
+  p2_2: "(Mining in the Federal Republic of Germany in 2015)' published by the BMWi (German Federal Ministry for Economic Affairs and Energy). It is an annual publication, which includes information about the extraction of natural resources in Germany."
+  p3_1: "The data on the extraction of the natural resources stems from mining authorities and includes all usable natural resources extracted under the supervision of the responsible mining authority in accordance with the regulations of the BBergG (German Federal Mining Act) and products created or manufactured by processing the above natural resources. This means that the statistics do not provide a comprehensive picture in the case of natural resources that are only partially covered by mining law. The data on the production quantities of quartz gravel and quartz sand [Federal Association of Mineral Resources – MIRO 2016], gravel and sand [MIRO 2016], broken natural stone [MIRO 2016], limestone, marl and dolomite stone [Federal Association of the German Lime Industry – BVK] and on ashlar [German Natural Stone Association – DNV] was therefore obtained from the respective industry associations. The data on china clay is based on the estimation of the Federal Institute for Geosciences and Natural Resources [BGR 2016], since the value of 3.7 million tons"
+  p3_2: "does not refer to the products available on the market. "
+  p4: "Furthermore, the data on the value of the associated production volumes is not included in the official statistics. Data is therefore taken from other sources, such as the associations’ annual reports or from various publications of the Federal Office of Statistics. In detail, the production values of hard coal, lignite, crude oil and natural gas are based on estimates from the 2015 average cross-border prices [BGR 2016]. The values for potash and potash salt products, special clays (values according to Destatis), rock salt and industrial brine (values according to Destatis) and china clay (values according to IM 2016 (Industrial Materials) are also taken from the same publication. The values for the production of quartz sand and gravel, gravel and sand and broken natural stone are taken from MIRO 2016. The values for the production of natural stone [DNV 2016] and of limestone, marl and dolomite stone are taken from the data provided by the Federal Office of Statistics. The data was not subjected to any specific verification procedure."
   h3: Daten zum Beitrag zum BIP
   p5:
     p1: Die Daten werden der aktuellen Volkswirtschaftlichen Gesamtrechnung des statistischen Bundesamtes entnommen (
