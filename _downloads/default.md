@@ -293,13 +293,13 @@ permalink: /downloads/
         {% t downloads.download_label_förderabgaben %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/Einnahmen_aus_Feldesabgaben.csv">
+            <a href="{{site.baseurl_root}}{% t downloads.einnahmen_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
               {% t downloads.förderabgaben.label2 %} (csv)
             </a>
           </li>
           <li>
-            <a href="{{site.baseurl_root}}/downloads/Einnahmen_aus_Foerderabgaben.csv">
+            <a href="{{site.baseurl_root}}{% t downloads.einnahmen_2_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
               {% t downloads.förderabgaben.label1 %} (csv)
             </a>
@@ -320,7 +320,7 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/Umsatz_Steine_Erden_2012-2016.csv">
+            <a href="{{site.baseurl_root}}{% t downloads.umsatz_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
               {% t downloads.download_link %} (csv)
             </a>
@@ -343,7 +343,7 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.zahlungsabgleich.p1_1 %}
-        <a href="{{site.baseurl_root}}/downloads/D-EITI_Zahlungsabgleich_2016.xlsx">
+        <a href="{{site.baseurl_root}}{% t downloads.D-EITI_xlsx %}">
           {% t downloads.zahlungsabgleich.link1 %}
         </a>
         {% t downloads.zahlungsabgleich.p1_2 %}
@@ -368,7 +368,7 @@ permalink: /downloads/
       {% t downloads.daten-zum-deiti-bericht.p4 %}
       <ul class="downloads-download_links">
         <li>
-          <a href="{{site.baseurl_root}}/downloads/Daten_zum_1._D-EITI_Bericht.zip">
+          <a href="{{site.baseurl_root}}{% t downloads.zipfile %}">
             <icon class="icon-cloud icon-padded"></icon>
             {% t downloads.download_link %} (zip)
           </a>

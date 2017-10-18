@@ -3350,8 +3350,14 @@ downloads:
       title: Daten zum Zahlungsabgleich
     - name: daten-zum-deiti-bericht
       title: "Daten zum 1. D-EITI-Bericht"
-  beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_DE_2016.csv"
+  beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_2016.csv"
   steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor.csv"
+  einnahmen_CSV: "/downloads/Einnahmen_aus_Feldesabgaben.csv"
+  einnahmen_2_CSV: "/downloads/Einnahmen_aus_Foerderabgaben.csv"
+  umsatz_CSV: "/downloads/Umsatz_Steine_Erden_2012-2016.csv"
+  D-EITI_xlsx: "/downloads/D-EITI_Zahlungsabgleich_2016.xlsx"
+  zipfile: "/downloads/Daten_zum_1._D-EITI_Bericht.zip"
+
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
   download_label: Download der Produktionsdaten
