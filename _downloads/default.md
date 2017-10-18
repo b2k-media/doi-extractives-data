@@ -261,7 +261,7 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/Steuereinnahmen_aus_Rohstoffsektor.csv">
+            <a href="{{site.baseurl_root}}{% t downloads.steuereinnahmen_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
               {% t downloads.download_link %} (csv)
             </a>
