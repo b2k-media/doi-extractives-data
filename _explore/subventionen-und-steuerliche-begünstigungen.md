@@ -17,7 +17,7 @@ breadcrumb:
       <section id="intro" style="position: relative;">
         <p>
           {% t subventionen-und-steuerliche-begünstigungen.p1.p1 %}
-          <span class="term term_end" data-term="subventionen" title="Click to define" tabindex="0">
+          <span class="term term_end" data-term="{% t glossary_data-term.subventionen %}" title="Click to define" tabindex="0">
             {% t subventionen-und-steuerliche-begünstigungen.p1.k1 %}
             <icon class="icon-book"></icon>
           </span>{% t subventionen-und-steuerliche-begünstigungen.p1.p2 %}

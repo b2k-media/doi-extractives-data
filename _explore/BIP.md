@@ -21,12 +21,12 @@ breadcrumb:
         <h3>{% t bip.bip.title %}</h3>
         <p>
           {% t bip.bip.p1_1 %}
-          <span class="term term_end" data-term="Bruttoinlandsprodukt" title="Click to define" tabindex="0">
+          <span class="term term_end" data-term="{% t glossary_data-term.bruttoinlandsprodukt %}" title="Click to define" tabindex="0">
             {% t bip.bip.p1_2 %}
             <icon class="icon-book"></icon>
           </span>
             {% t bip.bip.p1_3 %}
-           <span class="term term_end" data-term="Bruttowertschöpfung" title="Click to define" tabindex="0">
+           <span class="term term_end" data-term="{% t glossary_data-term.bruttowertschöpfung %}" title="Click to define" tabindex="0">
               {% t bip.bip.p1_4 %}
              <icon class="icon-book"></icon>
            </span>
