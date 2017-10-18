@@ -1572,6 +1572,7 @@ erneuerbare_energien:
     - name: title
       title: Seitenanfang
 
+  chart_src: "/img/erneuerbare_energien/chart.png"
   p1_1: Erneuerbare Energien
   sup14:
     title: "18"

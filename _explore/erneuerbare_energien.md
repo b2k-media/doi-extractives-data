@@ -29,7 +29,7 @@ breadcrumb:
         <div>
           <img
             class="icon-tab-1"
-            src="{{ site.baseurl_root }}/img/erneuerbare_energien/chart.png"
+            src="{{ site.baseurl_root }}{% t erneuerbare_energien.chart_src %}"
             style="width: 100%"
           />
         </div>
