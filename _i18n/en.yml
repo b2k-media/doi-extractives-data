@@ -743,33 +743,33 @@ steuergeheimnis:
     p3: This is why the disclosure of data for voluntary reporting initiatives – like the Extractive Industries Transparency Initiative – requires the explicit consent of the companies concerned. Similarly, the implementation of reconciliation regarding tax payments within the framework of the EITI process requires the permission of the taxpayer in the form of a power of attorney for the Independent Administrator to query the relevant tax data.
 
 offentliche-berichte:
-  title: Öffentliche Berichte
+  title: Public reports
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: gesetzliche-berichtspflicht
-      title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+      title: Statutory reporting obligation for extractive sector companies (BilRUG)
     - name: gemeinsamkeiten
-      title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+      title: Similarities and differences in the reporting obligation as per EITI
 
   gesetzliche-berichtspflicht:
-    title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
-    p1: "Mit dem Bilanzrichtlinie-Umsetzungsgesetz (BilRUG) vom 23. Juli 2015 wurden die Vorgaben aus der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 in deutsches Recht umgesetzt. Die im Handelsgesetzbuch (HGB) verankerten Vorschriften der §§ 341q ff. HGB entsprechen in weiten Teilen den Anforderungen der EITI. Von diesen handelsrechtlichen Berichtspflichten sind alle „großen“ in der mineralgewinnenden Industrie tätigen oder Holzeinschlag in Primärwäldern betreibenden Kapitalgesellschaften und haftungsbeschränkte Personengesellschaften (vgl. § 341q HGB) betroffen. Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei folgenden Kriterien überschreiten (§ 267 Abs. 3 HGB):"
-    l1: Bilanzsumme von 20 Mio. Euro
-    l2: Nettoumsatzerlöse von 40 Mio. Euro
-    l3: Im Jahresdurchschnitt 250 Beschäftigte
-    p2: Unabhängig von ihrer Größe werden zudem auch kapitalmarktorientierte Kapitalgesellschaften i.S.v. § 264d HGB sowie Kreditinstitute und Versicherungsunternehmen in der Rechtsform der Kapitalgesellschaft (einschließlich haftungsbeschränkter Personenhandelsgesellschaften) von der Berichtspflicht erfasst. Darüber hinaus werden in Konzernstrukturen auch (Tochter-)Gesellschaften in die Berichterstattung einbezogen, die in Kombination mit ihrer Muttergesellschaft die Größenkriterien und das Kriterium der Tätigkeit erfüllen. Auf die Größe und den Sitz der jeweiligen Tochtergesellschaft kommt es hierbei nicht an.
-    p3: Die den gesetzlichen Vorschriften unterliegenden Unternehmen sind dazu verpflichtet, sämtliche in § 341r Nr. 3 HGB aufgeführten Zahlungen an staatliche Stellen ab einer „Wesentlichkeitsschwelle“ von 100.000 Euro je staatlicher Stelle offen zu legen, soweit diese Zahlungen unter einen der in § 341r Nr. 3 aufgeführten Zahlungsgründe fallen. Hierzu gehören neben Steuerzahlungen beispielsweise auch Lizenzen, Konzessionen und andere mit der Förderung von Rohstoffen in Verbindung stehende Vertragsverhältnisse. Die Angaben sind auf Projekte aufzuteilen, soweit im Berichtsjahr mehr als ein Projekt betrieben wurde.
+    title: Statutory reporting obligation for extractive sector companies (BilRUG)
+    p1: "The Accounting Directive Implementation Law (BilRUG) of July 23, 2015, implemented the requirements of the EU Accounting Directive 2013/34/EU of June 26, 2013 into German legislation. Many provisions of Sections 341q et seq. in the HGB correspond to the requirements of the EITI. All the ‘large’ limited companies and limited liability partnerships involved in the extractive sector or in the logging sector in primary forests are subject to these reporting requirements under commercial law (cf. § 341q, HGB). The term ‘large’ in the legal sense refers to companies that exceed at least two of the following three criteria on two successive reporting dates ((§ 267(3), HBG):"
+    l1: Balance sheet total of €20 million.
+    l2: Net turnover of €40 million.
+    l3: An annual average of 250 employees.
+    p2: Within the meaning of § 264d of the HGB, capital market-oriented limited companies, as well as credit institutions and insurance companies in the legal form of limited companies (including limited liability commercial partnerships) are also subject to the reporting obligation, irrespective of their size. Subsidiaries (in corporate group structures) that meet the size criteria and the criterion of activity in combination with their parent companies are also subject to reporting obligations. The size and location of the pertinent subsidiary is not relevant in this case.
+    p3: The companies subject to the legal provisions are required to disclose all payments (specified in § 341r, No. 3 of the HGB) made to government agencies above a ‘materiality threshold’ of €100,000 per government agency, if these payments fall under one of the reasons for payment specified in § 341r, No. 3. In addition to tax payments, this includes e.g. licenses, concessions and other contractual relationships related to the extraction of natural resources. The data must be allocated to individual projects if more than one project was carried out in the year under review.
 
   gemeinsamkeiten:
-    title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
-    p1_1: Neben den gesetzlichen Berichtspflichten nach BilRUG werden die wichtigsten Finanzströme der rohstoffgewinnenden Industrie auch über die EITI offengelegt (siehe hierzu
-    link1: Zahlungsabgleich
-    p1_2: ). Die handelsrechtlichen Berichtspflichten decken sich in weiten Teilen mit den Berichtspflichten nach EITI. Allerdings bestehen auch Unterschiede.
-    p2_1: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu
-    link2: Zahlungsabgleich
-    p2_2: ). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
-    p3: Im Gegensatz zu BilRUG setzt EITI auf die beiderseitige Offenlegung der Zahlungsströme. So muss zwecks Zahlungsabgleich auch die staatliche Seite Einblick in ihre Einkünfte aus dem Rohstoffsektor gewähren. In diesem Zusammenhang ist es ein Hauptanliegen der EITI, jedem Interessierten die Zahlungsströme in Form von Open Data zugänglich zu machen und damit die öffentliche Debatte zu unterstützen.
+    title: Similarities and differences in the reporting obligation as per EITI
+    p1_1: In addition to the statutory reporting requirements pursuant to BilRUG, the most important financial flows of the extractive industry are also disclosed via the EITI (read more on
+    link1:  payment reconciliation
+    p1_2: ). The reporting requirements under commercial law largely correspond to those of the EITI. However, there are also differences.
+    p2_1: One fundamental difference between the BilRUG and the EITI lies in the extent of the reporting. EITI stipulates that the participating companies from the natural resources extractive sector publish all significant payments they make to government agencies. In contrast to BilRUG, the material payments are not exhaustively listed by EITI and must be clarified in the course of the EITI process ((read more on
+    link2: payment reconciliation
+    p2_2: ). The EITI standard does not provide for a distinction between payments above or below the limit of at least €100,000 annually. The German D-EITI stakeholders have agreed to adopt the materiality threshold of the BilRUG.
+    p3: In contrast to BilRUG, EITI relies on the mutual disclosure of the payment flows. The state must also therefore grant an insight into its income from the extractive industry, for the purposes of payment reconciliation. In this context, one of EITI’s main concerns is to make the payment flows available in the form of open data, thereby supporting the public debate.
 
 verwendung-der-einnahmen:
   title: Verwendung der Einnahmen
