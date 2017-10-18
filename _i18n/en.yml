@@ -1392,7 +1392,8 @@ wasser:
           title: Ausgestaltung der Wasserentnahmeentgelte
         - name: wasserentnahmeentgelte
           title: Wasserentnahmeentgelte im Rohstoffsektor
-  chart-title: "Wasserentnahme im Rohstoffsektor nach Bundesländern im Jahr 2013"
+  chart-title: "Water abstraction in the natural resources sector by state in 2013 (in 1,000s of m³)"
+  chart-src: "/img/wasser/wasser_bild_en.png"
   wasserentnahme:
     title: "Wasserentnahme zur Rohstoffförderung"
     p1_1: "Im Zuge des Abbaus und der Weiterverarbeitung von Rohstoffen kann die Entnahme von Grund- und Oberflächenwasser erforderlich sein. Wie viel Wasser für Aktivitäten des Rohstoffsektors entnommen wird, veröffentlichen die zuständigen statistischen Landesämter der einzelnen Bundesländer."

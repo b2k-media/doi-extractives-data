@@ -45,7 +45,7 @@ breadcrumb:
         <br/>
         <div class="chart-title-style">{% t wasser.chart-title %}</div>
         <div>
-          <img style="width: 100%" src="{{ site.baseurl_root }}/img/wasser/wasser_bild.png" alt="KAchel Wasser_Bild">
+          <img style="width: 100%" src="{{ site.baseurl_root }}{% t wasser.chart-src %}" alt="KAchel Wasser_Bild">
         </div>
         <br/>
 
