@@ -426,6 +426,37 @@ genehmigung-von-bergbauprojekten:
     k4: Wasserhaushaltsgesetz
     p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
 
+genehmigung-zulassung:
+    title: Zulassung eines Betriebsplans
+    nav_items:
+      - name: title
+        title: Seitenanfang
+      - name: umweltverträglichkeitsprüfung
+        title: Umweltverträglichkeitsprüfung
+    betriebsplans:
+      p1: "Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur Aufbereitung dürfen nur auf Grund von Plänen (Betriebsplänen) errichtet, geführt und eingestellt werden, welche vom Unternehmer aufgestellt und von der zuständigen Behörde zugelassen worden sind. Die Zulassung solcher Betriebspläne ist an Voraussetzungen gebunden (Zulassungsvoraussetzungen). Diese betreffen u. a. die Betriebssicherheit und den Arbeitsschutz, den Schutz der Oberfläche sowie die Vermeidung gemeinschädlicher Einwirkungen, den Schutz der Lagerstätte und die Vorsorgemaßnahmen für die ordnungsgemäße Wiedernutzbarmachung der von der Rohstoffgewinnung in Anspruch genommenen Flächen. Weitere Informationen siehe auch"
+      link1: " „Umgang mit dem Eingriff in die Natur“."
+      p2: "Grundsätzlich umfassen Hauptbetriebspläne:"
+      item1: "die Darstellung des Umfanges des Vorhabens"
+      item2: "die Darstellung der technischen Durchführung des Vorhabens"
+      item3: "die Dauer des Vorhabens"
+      item4: "den Nachweis, dass die Zulassungsvoraussetzungen erfüllt sind."
+      p3: "Der Betrieb eines Bergwerks ist aufgrund der fortdauernden Anpassung an die Lagerstätte dynamischer Natur. Mit dieser Betriebsweise sind auch spezifische Risiken für Beschäftigte und Dritte verbunden. Aufgrund dieser Besonderheit bedarf es einer fortlaufenden, nach Zeitabschnitten gestuften Kontrolle des Betriebes. So soll der Hauptbetriebsplan in der Regel einen Zeitraum von zwei Jahren nicht überschreiten und von der Bergaufsicht zugelassen werden. Die ständige Abstimmung zwischen Unternehmer und Bergaufsicht soll eine intensive staatliche Kontrolle der Bergbaubetriebe bei gleichzeitiger Flexibilität der Planung gewährleisten."
+
+    umweltverträglichkeitsprüfung:
+      title: "Umweltverträglichkeitsprüfung"
+      p1_1: "Unter den Voraussetzungen der Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben"
+      link1: "(UVP-V Bergbau)"
+      p1_2: "ist eine Umweltverträglichkeitsprüfung"
+      link2: "(UVP)"
+      p1_3: "bzw. eine Vorprüfung des Einzelfalls im bergrechtlichen Verfahren notwendig. Die UVP-Pflichtigkeit von Bergbauvorhaben richtet sich dabei in der Regel nach der Größe des Vorhabens, gemessen am Fördervolumen bzw. an der benötigten Abbaufläche. Abbauvorhaben unter Bergrecht in Deutschland unterliegen keiner UVP-Pflicht, sofern sie die Kriterien der"
+      link3: "UVP-V Bergbau"
+      p1_4: "in Verbindung mit dem Gesetz über die Umweltverträglichkeitsprüfung"
+      link4: "(UVP-G)"
+      p1_5: "nicht erfüllen."
+      p2_1: "Ist eine UVP notwendig, so ist nach dem Bergrecht ein"
+      link1: "Planfeststellungsverfahrens"
+      p2_2: "durchzuführen. Dieses Verfahren schließt die betroffene Bevölkerung ein, indem die Pläne zum Abbau von Bodenschätzen der betroffenen Bevölkerung zugänglich gemacht und Einwände entgegengenommen werden. Es folgt eine Anhörung der betroffenen Behörden zu den Einwänden und eine Erörterung unter Beteiligung aller Stellen und Personen, die Einwände geäußert haben. Eine Entscheidung zu den Einwänden wird von der zuständigen Behörde (hier den Bergämtern) getroffen und als Verwaltungsakt festgesetzt. Auch bei der bergrechtlichen Planfeststellung handelt es sich um eine gebundene Entscheidung, die nicht durch planerische Abwägungs- und Ermessenspielräume gekennzeichnet ist. Zudem bindet sie nicht nur Entscheidungen anderer Behörden auf horizontaler Ebene, sondern gilt nach § 57a Abs. 5 BBergG auch für die nachfolgenden Betriebspläne (vertikale Konzentration)."
 bergbauberechtigungen:
   title: Bergbauberechtigungen
   nav_items:

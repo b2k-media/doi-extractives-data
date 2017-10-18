@@ -430,6 +430,38 @@ genehmigung-von-bergbauprojekten:
     k4: Wasserhaushaltsgesetz
     p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
 
+genehmigung-zulassung:
+    title: Approval of an operating plan
+    nav_items:
+      - name: title
+        title: Top of page
+      - name: umweltverträglichkeitsprüfung
+        title: Environmental impact assessment
+    betriebsplans:
+      p1: "Exploration, extraction and beneficiation operations may only be set up, managed and discontinued if they are based on an operating plan. These plans are drawn up by the prospective mine operator and approved by the responsible authority. However, the approval of such operating plans is tied to conditions that address operational and work safety, the protection of the surface area, the prevention of harmful impacts, the protection of the deposits and the preventive measures regarding the proper restoration of the areas affected by the extraction of the natural resources. For further information see"
+      link1: "Managing human intervention in nature."
+      p2: "Operating plans basically include the following:"
+      item1: "A presentation of the scope of the project"
+      item2: "A presentation of the technical implementation of the project"
+      item3: "The duration of the project"
+      item4: "Evidence that the conditions of approval have been met."
+      p3: "The operation of a mine is dynamic in nature due to the mine’s continuous adaptation to the deposit’s characteristics. This mode of operation also entails specific risks for employees and third parties. Due to these conditions, continuous monitoring of the operation is necessary, at specified intervals. The main operating plan should generally not exceed a period of two years and should be approved by the mining authority. Constant coordination between the entrepreneur and the mining inspection authorities is required to ensure both intensive state control of the mining operations and planning flexibility."
+
+    umweltverträglichkeitsprüfung:
+      title: "Environmental impact assessment"
+      p1_1: "Under the conditions laid down in the Ordinance on the Environmental Impact Assessment of Mining Projects"
+      link1: "(UVP-V Bergbau)"
+      p1_2: ", an environmental impact assessment "
+      link2: "(UVP)"
+      p1_3: "or a preliminary examination of the individual mining law case is necessary. As a rule, the UVP obligation for mining projects depends on the size of the project, measured by extracted volumes or the required excavation area. Mining projects under mining law in Germany are not subject to any UVP obligation if they fulfil the criteria of the"
+      link3: "UVP-V Bergbau"
+      p1_4: "in conjunction with the Law on Environmental Impact Assessmen"
+      link4: "(UVP-G)"
+      p1_5: "."
+      p2_1: "If an UVP is necessary, a"
+      link1: "planning approval procedure"
+      p2_2: "must be carried out in accordance with mining law. This procedure includes the affected population by making the plans for the extraction of mineral resources accessible to the affected population so that objections can be submitted. The authorities concerned then address the objections and a public hearing is held, with the participation of all official bodies and persons who have expressed objections. A decision on the objections is made by the competent authority (in this case the mining authorities), and adopted as an administrative act. The planning approval procedure under mining law is also a bound decision, one which is not characterised by planning considerations and discretion. In addition, it not only binds the decisions of other authorities at the horizontal level, it also applies to the following operating plans (vertical concentration) as per § 57a(5) BBergG)."
+
 bergbauberechtigungen:
   title: Mining rights
   nav_items:
