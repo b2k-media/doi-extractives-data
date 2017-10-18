@@ -1,4 +1,14 @@
 glossary: Glossary
+glossary_data-term:
+  bundesimmissionsschutzgesetz: "bundesimmissionsschutzgesetz"
+  subventionen: "subventionen"
+  wasserhaushaltsgesetz: "wasserhaushaltsgesetz"
+  bruttowertschöpfung: "bruttowertschöpfung"
+  bruttoinlandsprodukt: "bruttoinlandsprodukt"
+  planfeststellungsverfahren: "Planning approval procedure under mining law"
+  bauordnung: "bauordnung"
+  abgrabungsgesetze: "abgrabungsgesetze"
+
 menu:
     back: "D-EITI.de"
     about: "Home"
@@ -1365,83 +1375,82 @@ umgang-mit-der-natur:
     p6: Die Höhe der festzusetzenden Sicherheitsleistung richtet sich nach den geschätzten Kosten einer möglicherweise notwendigen Ersatzvornahme. Soll ein Vorhaben in Abschnitten durchgeführt werden, wird die Sicherheitsleistung orientiert am tatsächlichen Eingriff etappenweise festgesetzt und nach erfolgreicher Teilwiedernutzbarmachung anteilig freigegeben.
 
 wasser:
-  title: Wasser
+  title: Water
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: wasserentnahme
-      title: Wasserentnahme zur Rohstoffförderung
+      title: Abstraction of water for the extraction of natural resources
       subnav_items:
         - name: verwendung_des_wasser
-          title: Verwendung des Wassers
+          title: Use of water
         - name: beispiel
-          title: "Beispiel: Wassernutzung im Kali- und Steinsalzbergbau"
+          title: "Example: Use of water in potash and rock salt mining"
         - name: rechtlicher
-          title: Rechtlicher Rahmen der Wasserentnahme
+          title: Legal framework for water abstraction
         - name: ausgestaltung
-          title: Ausgestaltung der Wasserentnahmeentgelte
+          title: Structuring of water abstraction fees
         - name: wasserentnahmeentgelte
-          title: Wasserentnahmeentgelte im Rohstoffsektor
-  chart-title: "Wasserentnahme im Rohstoffsektor nach Bundesländern im Jahr 2013"
+          title: Water abstraction fees in the natural resources sector
+  chart-title: "Water abstraction in the natural resources sector by state in 2013 (in 1,000s of m³)"
+  chart-src: "/img/wasser/wasser_bild_en.png"
   wasserentnahme:
-    title: "Wasserentnahme zur Rohstoffförderung"
-    p1_1: "Im Zuge des Abbaus und der Weiterverarbeitung von Rohstoffen kann die Entnahme von Grund- und Oberflächenwasser erforderlich sein. Wie viel Wasser für Aktivitäten des Rohstoffsektors entnommen wird, veröffentlichen die zuständigen statistischen Landesämter der einzelnen Bundesländer."
+    title: "Abstraction of water for the extraction of natural resources"
+    p1_1: "The abstraction of ground and surface water may be necessary during the course of the extraction and further processing of natural resources. The volumes of water abstracted for the activities of the natural resources extractive sector are published by the relevant statistical authorities of the individual Federal States."
     sup4:
       title: "4"
-      text: "Quelle: Statistisches Bundesamt, Umweltökonomische Gesamtrechnung"
-      link: https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html
-    p1_2: Eine Übersicht hierzu bietet Abbildung siehe unten.
-    p2_1: Der Sektor „Bergbau und Gewinnung von Steinen und Erden“ entnahm im Jahr 2013 insgesamt 1.583 Mio. m³ Wasser aus Gewässern (i.W. Grundwasser). Davon entfiel rund drei Viertel auf den Kohlebergbau. Dies entspricht etwa 5% des gesamten  2013 in Deutschland durch Wirtschaft und Privathaushalte entnommenen Wassers.
+      text: "Source: Federal Office of Statistics, National Environmental Accounting "
+      link: https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/<br/>MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html
+    p1_2: An overview is shown in Figure 4.
+    p2_1: The ‘Mining and Quarrying’ sector abstracted a total of 1,583 million m³ of water in 2013 (mainly groundwater). Coal mining accounted for around 75% of this volume. This corresponds to around 5 % of the total water abstracted in Germany by industry and private households in 2013.
     sup5:
       title: "5"
-      text: "In manchen Bundesländern wird zwischen den beiden Bereichen 1. Erzbau, Steine und Erden, sonst. Bergbau und 2. Kohle, Torf, Erdöl und Gas unterschieden; z. B. Statistisches Landesamt Sachsen (2013): Wasserversorgung und Abwasserentsorgung in den Betrieben des  nichtöffentlichen Bereiches im Freistaat Sachsen,"
+      text: "In some Federal States, a distinction is made between the following two sectors: 1. Ores, quarried natural resources, other mining products and 2. Coal, peat, oil and natural gas; e.g. Saxony State Office of Statistics (2013): Water supply and waste water disposal in the operations of the non-public sector in the Free State of Saxony,"
       link: "https://www.statistik.sachsen.de/download/100_Berichte-Q/Q_I_2_3j_13_SN.pdf"
-    p2_2: Je nach regionaler  Bedeutung des Rohstoffsektors -insbesondere des Kohlebergbaus - liegt der Anteil in manchen Bundesländern höher (in Einzelfällen bis zu 30 %).
+    p2_2: Depending on the regional importance of the natural resources sector – particularly coal mining – this proportion is higher in some states than in others (up to 30 % in individual cases).
 
     verwendung_des_wasser:
-      title: Verwendung des Wassers
-      p1: Bereits bei der Erschließung einer Rohstofflagerstätte kann das Abpumpen von Grundwasser zu einer Absenkung des Grundwasserspiegels führen. Zudem können Wasserentnahmen während des Abbaus notwendig werden, beispielsweise um Schächte oder Abbaugruben trocken zu halten. Dieses sogenannte Sümpfungs- und Grubenwasser wird, wenn nötig, aufbereitet, gereinigt und im Anschluss als Kühlwasser genutzt, der Allgemeinheit als Trink- und Brauchwasser zur Verfügung gestellt, als Wasser zum Schutz und zum Erhalt von Feuchtbiotopen eingesetzt oder ohne weitere Verwendung in das Oberflächengewässer eingeleitet.
-      p2: Die Wassernutzung durch den Bergbau ist mit Folgen für den Wasserhaushalt verbunden. Umweltauswirkungen können sich unter anderem aus der Veränderung des Grundwasserspiegels, der Fließgeschwindigkeit von Gewässern sowie durch das Einleiten von Sümpfungs- und Grubenwasser in Oberflächengewässer ergeben.
+      title: Use of water
+      p1: During the initial development of a deposit of raw materials, the pumping out of ground water can lead to a lowering of the groundwater level. Water abstractions during extraction of the natural resources may also be necessary e.g. to keep shafts or excavation pits dry. This so-called drainage and mine water is treated, purified and then used as cooling water, provided to the public as drinking and industrial water, used as water for the protection and maintenance of moist biotopes, or introduced into surface water without being used further.
+      p2: The use of water by the mining industry is associated with consequences for the water balance. Environmental impacts can result from, among other causes, the change in the groundwater level, the flow rate of water bodies and the introduction of drainage and mine water into surface waters.
     beispiel:
-      title: "Beispiel: Wassernutzung im Kali- und Steinsalzbergbau"
-      p1: "Im Kali- und Steinsalzbergbau wird in vielen Prozessen Wasser unterschiedlicher Herkunft und Qualität genutzt und eingesetzt, darunter Flusswasser, Grundwasser und Trinkwasser.
-      So wird bei der bergmännischen Gewinnung von Kali- und Steinsalz unter Tage das Rohsalz in der Regel mittels Bohren und Sprengen abgebaut. Salz kann jedoch auch in einem Solbetrieb gewonnen werden. Hierbei wird durch ein Bohrloch Frischwasser in lösefähiges (Salz-)Gestein eingebracht, wodurch mit Salzwasser gefüllte Kammern entstehen. Anschließend wird das mit Salz gesättigte Wasser (die sogenannte Sole) über eine weitere Rohrleitung an die Erdoberfläche gefördert. Hier wird schließlich das Salz durch das Verdampfen der Sole gewonnen."
+      title: "Example: Use of water in potash and rock salt mining"
+      p1: "In potash and rock salt mining, water from different origins and of different quality levels including river water, groundwater and drinking water is used in many processes. Raw salt is generally mined by means of drilling and blasting in the underground mining of potash and rock salt. However, salt can also be obtained in a sol operation during which fresh water is introduced into soluble (salt) rock by means of a borehole, resulting in the creation of chambers filled with salt water. The salt-saturated water (so-called brine) is then conveyed to the surface via another pipeline. The salt is ultimately extracted when the brine evaporates."
     rechtlicher:
-      title: Rechtlicher Rahmen der Wasserentnahme
-      p1_1: "Mit der Wasserrahmenrichtlinie (WRRL) ist im Jahr 2000 ein EU-weiter Ordnungsrahmen für den Schutz der Gewässer und des Grundwassers geschaffen worden. Die WRRL gibt unter anderem vor, dass Kosten für Wasserdienstleistungen (zu denen bestimmte Wasserentnahmen zählen können) einschließlich umwelt- und ressourcenbezogener Kosten entsprechend dem Verursacherprinzip zu decken sind."
+      title: Legal framework for water abstraction
+      p1_1: "The Water Framework Directive (WRRL) created an EU-wide legal framework for the protection of water and groundwater in 2000. The WRRL stipulates (inter alia) that the costs of water services (including certain water abstractions) and environmental and resource-related costs are covered by the polluter-pays principle"
       sup6:
         title: "6"
-        text: "Der Europäische Gerichtshof (EuGH) hat in seinem Urteil vom 11. September 2014 (Aktenzeichen C-525/12) bestätigt, dass Deutschland mit diesen bundes- und landesrechtlichen Regelungen das Prinzip der Kostendeckung aus der EU-Wasserrahmenrichtlinie hinreichend umgesetzt hat. Der EuGH weist zudem ausdrücklich darauf hin, dass die EU-Mitgliedstaaten gemäß Artikel 9 Abs. 4 dieser Richtlinie ohnehin befugt sind, unter Berücksichtigung der Zwecke und Ziele dieser Richtlinie das Kostendeckungsprinzip auf bestimmte Wassernutzungen nicht anzuwenden."
-      p1_2: Wasserentnahmen sind zudem auf die allgemeinen Umweltziele der WRRL hin zu überprüfen. Überschreitet die Menge des entnommenen Grund- oder Oberflächenwassers bestimmte Schwellenwerte, müssen für die betreffenden Vorhaben Umweltverträglichkeitsprüfungen durchgeführt werden.
-      p2: Die Umsetzung der WRRL in nationales Recht erfolgte in Deutschland durch das Wasserhaushaltsgesetz, das auf nationaler Ebene den Schutz und die Nutzung des Oberflächen- und des Grundwassers regelt. Wasserentnahmen stehen hier unter dem Erlaubnisvorbehalt der Wasserbehörden. Die Landeswassergesetze der Bundesländer ergänzen und konkretisieren die wasserrechtlichen Vorschriften des Bundes. Sie bestimmen insbesondere die Höhe der Wasserentnahmeentgelte.
+        text: " 	In its ruling of September 11, 2014 (file ref. C-525/12), the European Court of Justice (ECJ) confirmed that with these federal and state regulations, Germany had sufficiently implemented the principle of cost recovery from the EU Water Framework Directive. The ECJ also expressly points out that in accordance with the provisions of Article 9(4) of this directive, the EU Member States are in any case empowered not to apply the cost-covering principle to certain water uses, while addressing the purposes and objectives of the directive."
+      p1_2: Water abstractions must also be checked for compliance with the general environment targets of the WRRL. If the volume of ground or surface water abstracted exceeds certain thresholds, environmental impact assessments must be carried out for the projects concerned.
+      p2: The implementation of the WRRL into national law took place in Germany through the Water Resources Act, which regulates the protection and use of surface and groundwater at national level. Water abstraction procedures are subject to the reservation on the granting of permission by the water authorities. The water laws of the Federal States supplement and concretise the federal water laws. They particularly determine the amount of water abstraction fees.
     ausgestaltung:
-      title: Ausgestaltung der Wasserentnahmeentgelte
-      p1: "Die Ausgestaltung der Abgaben auf Wasserentnahmen erfolgt durch die Bundesländer, denen auch die Entgelte zufließen. Deshalb gestalten sich die in Deutschland mit Ausnahme von Hessen, Bayern und Thüringen in 13 der 16 Bundesländer erhobenen Wasserentnahmeentgelte sehr unterschiedlich. Für 2016 ist das Gesamtaufkommen in den Haushaltsplänen der Bundesländer 2016 mit etwa 425 Mio. Euro veranschlagt. Die Einnahmen werden zum Teil für wasserwirtschaftliche Aufgaben verwendet oder fließen in den allgemeinen Landeshaushalt."
+      title: Structuring of water abstraction fees
+      p1: "The structuring of fees for water abstraction is carried out by the states that receive these fees. This is why water abstraction fees levied in Germany differ widely in 13 of the 16 states, the three exceptions being Hesse, Bavaria and Thuringia. The total revenue in the 2016 budgetary plans of the states was estimated at around €425 million. These revenues are partly used for water management tasks, or they flow into the general budget of the respective Federal State."
       sup7:
         title: "7"
-        text: "IHK Pfalz (2013): Die Wasserentnahmeentgelte der Länder. Ein Vergleich."
-        link: "https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf"
-      p2: "Die meisten Bundesländer erheben für die Entnahme von Grund- und Oberflächenwasser Entgelte. Die Entgelte sollen je nach Ausgestaltung auch den „Wert der öffentlichen Leistung“ für die Inanspruchnahme von Ressourcen wiederspiegeln und können somit zugleich Lenkungsabgaben für eine nachhaltige Gewässerbewirtschaftung sowie zur Anlastung von Umwelt- und Ressourcenkosten sein (§ 1 und §6a Wasserhaushaltsgesetz)."
+        text: "IHK Pfalz 2013 Chamber of Industry and Commerce, Palatinate: The water abstraction fees of the German states. A comparison."
+        link: "https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/<br/>WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf"
+      p2: "Most Federal States levy consumption-related fees for the abstraction of ground and surface water. Depending on the individual structure, these fees are also intended to reflect the ‘value of the public services’ for the utilisation of resources and can therefore act as incentive taxes for a sustainable water management programme and for the allocation of environmental and resource costs (§ 1 and § 6a of the Water Resources Act)."
       sup8:
         title: "8"
-        text: "Gawel/Bretschneider (2016): Das Wasserentnahmeentgelt in Baden-Württemberg – Bestandsaufnahme und Evaluierung."
-        link: https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_nat%C3%BCrlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf
-      p3: Bei der Höhe der Abgabesätze wird in den meisten Bundesländern nach Art der Entnahme, Zweck, Menge oder Herkunft des Wassers (Oberflächenwasser oder Grundwasser) differenziert. Zudem existieren verschiedene länderspezifische Abweichungen von den Regelsätzen durch Befreiung oder Ermäßigung, die auch für den Rohstoffsektor gelten können.
-
+        text: "Gawel/Bretschneider (2016): Water abstraction fees in Baden-Württemberg – Inventory and Evaluation."
+        link: https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/<br/>Schutz_nat%C3%BCrlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf
+      p3: In most German states, levy rates differ according to the type of abstraction, volume, origin of the water (surface water or ground water) and the purpose for which the water is to be used. There are also various state-specific deviations from the relevant rules through exemptions or discounts, which may also apply to the natural resources sector.
   wasserentnahmeentgelte:
-    title: Wasserentnahmeentgelte im Rohstoffsektor
-    p1_1: "Für die Wasserentnahme im Rohstoffsektor werden bundesweit sehr unterschiedliche Entgeltsätze erhoben. So werden in einigen Bundesländern für bestimmte Abbauarten Gebührensätze für Oberflächenwasser zwischen 0,3 und 5 Ct/l angewendet (z. B. in Baden-Württemberg, Niedersachsen, Mecklenburg-Vorpommern), während in manchen Bundesländern auch die Gebührensätze für die Grundwasserentnahme zwischen 5 und 31 Ct/l greifen können."
+    title: Water abstraction fees in the natural resources sector
+    p1_1: "Very different rates are levied nationwide for the abstraction of water in the natural resources sector. For example, fees of between 0.3 and 5 €cents/litre for surface water are applied in some Federal States for certain types of mining operations (e.g. in Baden-Wuerttemberg, Lower Saxony, Mecklenburg-Western Pomerania), while in other states, the fees for groundwater abstraction apply ranging between 5 and 31 €cents/litre."
     sup9:
       title: "9"
-      text: "Umweltbundesamt (2017): Tabelle Wasserentnahmeentgelte im Rohstoffsektor in den deutschen Bundesländern."
-      link: "https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx"
-    p1_2: In Rheinland-Pfalz und Schleswig-Holstein wiederum ist die Grundwasserfreilegung vom Wasserentnahmeentgelt befreit. In einigen Bundesländern gibt es explizite Regelungen für die bergbaubedingte Wasserhaltung bzw. für Wasser, das ohne Nutzung wieder in Oberflächengewässer eingeleitet wird. Die verschiedenen Entgeltsätze, Ausnahmetatbestände und Ermäßigungsregelungen sind in den jeweiligen Landeswassergesetzen veröffentlicht. Eine Übersicht über die relevanten Entgeltsätze im Rohstoffsektor bietet das Umweltbundesamt.
+      text: "German Federal Environment Agency (2017): Table of water abstraction fees in the natural resources sector in German states."
+      link: "https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/<br/>tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx"
+    p1_2:  In Rhineland-Palatinate and Schleswig-Holstein, however, groundwater exposure is exempt from water abstraction fees. In some Federal States, there are explicit regulations for dewatering operations in mines, or for water that is reintroduced into surface waters without being subsequently used. The various fee levy rates, exemptions and discount rules are published in the individual state water laws. The German Federal Environment Agency provides an overview of the relevant fee levy   rates in the natural resources sector.
     sup10:
       title: "10"
-      text: Siehe
+      text: See
       link: https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1
-    p1_3: Eine öffentlich zugängliche Informationsquelle über die Höhe der Einnahmen aus den Wasserentgelten bezogen auf den Rohstoffsektor existiert hingegen nicht.
-    p2: Die Wasserentnahmeentgelte stellen einen Zahlungsstrom zwischen rohstofffördernden Unternehmen und dem Staat dar. Unter anderem aufgrund der unterschiedlichen Entgeltsätze in den Bundesländern liegen die Zahlungen vermutlich unter der Wesentlichkeitsschwelle, weshalb sie im ersten D-EITI-Bericht nicht in den Zahlungsabgleich aufgenommen werden.
+    p1_3: However, a publicly-accessible source of information on the amount of revenue from water abstraction fees paid by the natural resources sector does not exist.
+    p2: Water abstraction fees represent a flow of cash between companies that extract natural resources and the German State. Due to the different levy rates (inter alia) in individual Federal States, the payments probably lie below the materiality threshold, which is why they are not included for payment reconciliation purposes in the first D-EITI report.
 
 subventionen-und-steuerliche-begünstigungen:
   title: Subventionen und steuerliche Begünstigungen
@@ -3336,12 +3345,12 @@ how-it-work:
       item3: Öffentliche Berichte
       item4: Verwendung der Einnahmen
     section5:
-      title: Sonderthemen
-      item1: Umgang mit der Natur
-      item2: Wasser
-      item3: Subventionen und stl. Begünstigungen
+      title: Special Topics
+      item1: Dealing with nature
+      item2: Water
+      item3: State subsidies and tax concessions
       item4: Anpassungsgeld
-      item5: Erneuerbare Energien
+      item5: Renewable energies
 
 downloads:
   title: Download Data and Documents

@@ -1,4 +1,14 @@
 glossary: Glossar
+glossary_data-term:
+  bundesimmissionsschutzgesetz: "Bundesimmissionsschutzgesetz"
+  subventionen: "subventionen"
+  wasserhaushaltsgesetz: "Wasserhaushaltsgesetz"
+  bruttowertschöpfung: "Bruttowertschöpfung"
+  bruttoinlandsprodukt: "Bruttoinlandsprodukt"
+  planfeststellungsverfahren: "Planfeststellungsverfahren"
+  bauordnung: "Bauordnung"
+  abgrabungsgesetze: "Abgrabungsgesetze"
+
 menu:
     back: "D-EITI Initiative"
     about: "Start"
@@ -1371,6 +1381,7 @@ wasser:
         - name: wasserentnahmeentgelte
           title: Wasserentnahmeentgelte im Rohstoffsektor
   chart-title: "Wasserentnahme im Rohstoffsektor nach Bundesländern im Jahr 2013"
+  chart-src: "/img/wasser/wasser_bild.png"
   wasserentnahme:
     title: "Wasserentnahme zur Rohstoffförderung"
     p1_1: "Im Zuge des Abbaus und der Weiterverarbeitung von Rohstoffen kann die Entnahme von Grund- und Oberflächenwasser erforderlich sein. Wie viel Wasser für Aktivitäten des Rohstoffsektors entnommen wird, veröffentlichen die zuständigen statistischen Landesämter der einzelnen Bundesländer"

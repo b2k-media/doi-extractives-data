@@ -65,7 +65,7 @@ breadcrumb:
         </p>
         <p>
           {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.p2_1 %}
-          <span class="term term_end" data-term="Planfeststellungsverfahren" title="Click to define" tabindex="0">
+          <span class="term term_end" data-term="{% t glossary_data-term.planfeststellungsverfahren %}" title="Click to define" tabindex="0">
             {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.link1 %}
             <icon class="icon-book"></icon>
           </span>
