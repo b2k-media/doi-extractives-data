@@ -728,18 +728,19 @@ anfallende_zahlungen:
         text: In the MSG, there was no consensus on the extent to which energy and electricity tax payments were among the most important payment flows, therefore they are not included in the payment reconciliation.
 
 steuergeheimnis:
-  title: Steuergeheimnis
+  title: Tax secrecy
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: bedeutung
-      title: Bedeutung
+      title: How important is tax secrecy in Germany?
+
 
   bedeutung:
-    title: Bedeutung
-    p1: Das Steuergeheimnis besitzt einen hohen Stellenwert in Deutschland. Da die Steuerpflichtigen im Rahmen ihrer Mitwirkungspflichten der Finanzbehörde ihre Steuerverhältnisse vollständig zu offenbaren haben, muss die Geheimhaltung ihrer Angaben gewährleistet sein. Dies wird durch das Steuergeheimnis (§§30 ff. der Abgabenordnung (AO)) sichergestellt. Die Vorschriften regeln, wer das Steuergeheimnis zu wahren hat und unter welchen Voraussetzungen eine Offenbarung oder Verwertung von Daten, die dem Steuergeheimnis unterliegen, zulässig ist. Das Steuergeheimnis dient also dem Schutz des Steuerpflichtigen.
-    p2: Eine Durchbrechung des Steuergeheimnisses ist nur unter sehr strengen Voraussetzungen möglich. So ist eine Offenbarung von Informationen, die dem Steuergeheimnis unterliegen, in der Regel nur zulässig, wenn sie ausdrücklich gesetzlich zugelassen ist, der Betroffene der Offenbarung zustimmt oder an den betreffenden Steuerdaten ein zwingendes öffentliches Interesse besteht.
-    p3: Deshalb ist für die Offenbarung von Daten für freiwillige Berichtsinitiativen – wie die Initiative für Transparenz im rohstoffgewinnenden Sektor – die Zustimmung der betroffenen Unternehmen zwingend erforderlich. Ebenso erfordert die Durchführung des Zahlungsabgleichs betreffend Steuerzahlungen im Rahmen des EITI-Prozesses eine Freigabe des Steuerpflichtigen in Form einer Bevollmächtigung des unabhängigen Verwalters zur Abfrage der relevanten Steuerdaten.
+    title: How important is tax secrecy in Germany?
+    p1: Tax secrecy has a high priority in Germany. Since taxpayers must fully disclose their tax details to the financial authorities within the framework of their cooperation obligations, the privacy of their information must be ensured. This is ensured by the Tax Secrecy provisions (§§30 et seq.) of the German Tax Code (AO). The provisions of the Code regulate who must protect tax secrecy and under what conditions the disclosure or utilisation of data (which is subject to tax secrecy) is permitted. Tax secrecy thus serves to protect the taxpayer.
+    p2: A breach of tax secrecy can only be permitted under very strict conditions. Any disclosure of information which is subject to tax secrecy is normally only permitted if expressly authorised by law, if the person concerned agrees to the disclosure, or if there is a compelling public interest in the tax data in question.
+    p3: This is why the disclosure of data for voluntary reporting initiatives – like the Extractive Industries Transparency Initiative – requires the explicit consent of the companies concerned. Similarly, the implementation of reconciliation regarding tax payments within the framework of the EITI process requires the permission of the taxpayer in the form of a power of attorney for the Independent Administrator to query the relevant tax data.
 
 offentliche-berichte:
   title: Öffentliche Berichte
