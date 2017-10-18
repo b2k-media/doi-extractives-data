@@ -1454,127 +1454,127 @@ wasser:
     p2: Water abstraction fees represent a flow of cash between companies that extract natural resources and the German State. Due to the different levy rates (inter alia) in individual Federal States, the payments probably lie below the materiality threshold, which is why they are not included for payment reconciliation purposes in the first D-EITI report.
 
 subventionen-und-steuerliche-begünstigungen:
-  title: Subventionen und steuerliche Begünstigungen
+  title: State subsidies and tax concessions
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: zuschusse-fur-den-absatz-der-steinkohle
-      title: Zuschüsse für den Absatz der Steinkohle
+      title: Subsidies for the sales of hard coal
       subnav_items:
         - name: 1-entwicklung
-          title: Entwicklung
+          title: Development
         - name: 1-kontrolle
-          title: Kontrolle
+          title: Control measures
         - name: 1-vorsorge
-          title: Vorsorge
+          title: Prevention
     - name: anpassungsgeld
-      title: Anpassungsgeld
+      title: Adaption payment
       subnav_items:
         - name: beschäftigte
-          title: Beschäftigte
+          title: Employees
         - name: kontrolle
-          title: Kontrolle
+          title: Control measures
     - name: begünstigungen
-      title: Begünstigungen für Strom- und Energiesteuer
+      title: Concessions for electricity and energy taxes
 
-  daten_einsehen_pre: Detaillierte Quellenangabe siehe
-  daten_einsehen: Daten einsehen
-  daten_einsehen_post: . Eigene Darstellung.
+  daten_einsehen_pre: See detailed sources here, Own representation
+  daten_einsehen: View Data
+  daten_einsehen_post: .
   p1:
-    p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlebergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
-    k1: Begünstigungen für Strom- und Energiesteuer
-    p2: "). Grundsätzlich gibt es sowohl auf internationaler als auch auf nationaler Ebene unterschiedliche Definitionen und methodische Ansätze zu der Frage, was eine Subvention ist und wie sie berechnet wird. Die hier verwendete Begriffe von Subventionen für rohstoffabbauende Unternehmen beruht auf der Definition des Subventionsberichts der Bundesregierung. Demnach werden nur direkt budgetrelevante Subventionen des Bundes für private Unternehmen und Wirtschaftszweige erfasst. Subventionen der föderalen Ebene können über die Subventionsberichte der Bundesländer eingesehen werden (siehe hierzu Anlage 5 des Subventionsberichts der Bundesregierung)."
-    chart1_source: "Quelle: Subventionsbericht der Bundesregierung, eigene Darstellung (siehe Endnote)"
+    p1: "In addition to the payments which extractive companies make to public authorities, the state also financially supports the sector with subsidies and tax concession programmes. Financial help is provided for the hard coal mining industry, for instance: there are subsidies for the sales of hard coal and compensation for bottlenecks resulting from capacity adjustments, and there are adaption payments for socially-acceptable personnel reductions in the sector. The State also grants concessions for "
+    k1: energy and electricity taxes
+    p2: " for production industry companies. There are different definitions of the term subsidies at both national and international levels, and several methodological approaches are used to tackle the topic. The below diagram of subsidies for extractive companies is based on the definition of the subsidy report of the Federal Government. According to this report, only directly budget-relevant subsidies of the Federal Government are considered for private companies and economic sectors. Subsidies at Federal state level are available in the subsidy reports of the Federal States (see Annex 5 of the Subsidy Report of the Federal Government)."
+    chart1_source: "Source: Subsidies in the German hard coal industry in 2016"
   zuschusse:
-    title: Zuschüsse für den Absatz der Steinkohle
-    p1: "Der deutsche Steinkohlenbergbau ist – insbesondere aufgrund der geologisch bedingten hohen Förderkosten – nicht wettbewerbsfähig. Daher wurde 2007 zwischen dem Bund, den steinkohleproduzierenden Bundesländern Nordrhein-Westfalen und Saarland, der RAG AG und der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) eine Einigung darüber erzielt, dass der subventionierte Steinkohlenbergbau bis zum Jahre 2018 sozialverträglich beendet wird. Grundlage hierfür sind das Steinkohlefinanzierungsgesetz vom 20.12.2007 sowie eine Rahmenvereinbarung zwischen Bund, Revierländern, dem Bergbauunternehmen RAG AG und der IG BCE. Die öffentliche Hand gewährt zeitlich begrenzte Hilfen zur Förderung des Absatzes (Ausgleich der Differenz zwischen heimischen Förderkosten und Weltmarktpreis) und zur Bewältigung der notwendigen Stilllegungsmaßnahmen. Auch mit Blick auf Klimaschutz und Ressourcenschonung werden die Subventionen zurückgeführt und im Endergebnis vollständig abgebaut."
-    chart2_source: "Quelle: Subventionsbericht Bundesregierung, eigene Darstellung (siehe Endnote)"
+    title: Subsidies for the sales of hard coal
+    p1: "The German hard coal industry is not competitive, mainly because of geologically-related high production costs. An agreement was therefore reached in 2007 between the Federal Government, the hard coal-producing states of North Rhine-Westphalia and Saarland, the RAG AG (the largest German coal mining corporation based in the Ruhr region) and the Mining, Chemical and Energy Industrial Trade Union (IG BCE) that the subsidised hard coal industry would be terminated in socially-responsible manner by the year 2018. The agreement was based on the Hard Coal Mining Financing Law of December 12, 2007 and on a framework agreement between the Federal Government, the hard coal-producing Federal States, the RAG AG and the IG BCE. The public sector grants temporary aid to promote sales (balancing the difference between domestic production costs and the world market price) and to cope with the necessary decommissioning measures. The subsidies are gradually reduced and ultimately cycled out, a move that also addresses climate protection and resource conservation."
+    chart2_source: "Source: Subsidies for the sale and closure of German hard coal from 2013 to 2016 (Federal Government amounts)"
     entwicklung:
-      title: Entwicklung
-      p: "Im Jahr 2016 belief sich die Höhe der geleisteten Absatzbeihilfen des Bundes auf 1.282 Mio. Euro. Weitere Zuschüsse gewährte das Land Nordrhein-Westfalen. Die dem Steinkohlenbergbau zugesagten Hilfen sind degressiv gestaltet. Von 1998 bis 2005 haben sich die Bundeshilfen etwa halbiert und von 2006 bis 2014 noch einmal um 25 % reduziert. Abweichungen vom rückläufigen Trend der Subvention sind u. a. in schwankenden Weltmarktpreisen für Steinkohle begründet. "
+      title: Development
+      p: "In 2016, the amount of Federal aid for the sales of hard coal amounted to €1,282 million. The state of North Rhine-Westphalia provided more financial aid. The subsidies pledged to the hard coal mining industry are being reduced over time. Between 1998 and 2005, Federal subsidies were cut by approximately 50% – and they were again reduced by 25% between 2006 and 2014. Deviations from the declining trend of subsidisation are based on the fluctuating world market prices for hard coal (inter alia)."
     kontrolle:
-      title: Kontrolle
-      p: "Die Subventionierung des deutschen Steinkohlenbergbaus ist im Rahmen der EU genehmigungspflichtig und wurde von der EU-Kommission geprüft und genehmigt. Zudem werden die bereitgestellten Beihilfen hinsichtlich ihrer zweckentsprechenden Verwendung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfer/innen jährlich überprüft."
+      title: Control measures
+      p: "The subsidisation of the German hard coal industry is subject to approval by the EU and has been reviewed and approved by the EU Commission. The German Federal Office of Economics and Export Control (in cooperation with auditors) also monitors how these financial subsidies are being used on an annual basis."
     vorsorge:
-      title: Vorsorge
-      p: "Zur Bewältigung der notwendigen Stilllegungsmaßnahmen wird das ehemalige Beteiligungsvermögen der RAG AG zur Finanzierung der nach der Stilllegung verbleibenden Ewigkeitslasten (Grubenwasserhaltung, Dauerbergschäden, Grundwasserreinigung) durch die privatrechtliche RAG-Stiftung bereit gestellt. Soweit dieses Vermögen zur Deckung der Ewigkeitslasten nicht ausreicht, werden der Bund und die Revierländer im Verhältnis von einem Drittel und zwei Drittel eintreten."
-  heading_anpassungsgeld: Anpassungsgeld
-  anpassungsgeld_p: Arbeitnehmer/innen, die mindestens 50 Jahre (Untertage-Beschäftigte) bzw. 57 Jahre (Übertage-Beschäftigte) alt sind und die aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme vor dem 1. Januar 2023 ihren Arbeitsplatz verlieren, erhalten für maximal fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Leistung der Rentenversicherung. Die Anpassungshilfe spiegelt die soziale Verantwortung von Bund und den steinkohleproduzierenden Bundesländern wieder. Im Jahr 2016 wurden durch den Bund Anpassungshilfen in Höhe von 113,2 Mio. Euro gewährt.
+      title: Prevention
+      p: "To cope with the necessary decommissioning activities, the private-law RAG Foundation is making the former investment assets of the RAG AG available to finance the remaining perpetual burdens following the closure of the mines (burdens such as mine water drainage, permanent land subsidence and groundwater purification). If these assets are not sufficient to cover the perpetual burdens, the Federal Government and the hard coal-producing Federal States will provide subsidies at a ratio of one-third to two-thirds respectively."
+  heading_anpassungsgeld: Adaption payment
+  anpassungsgeld_p: Employees who are at least 50 and 57 years old (underground workers and surface employees respectively) and who will lose their jobs before January 1, 2023 due to the closing-down of mines or rationalisation measures, will receive adaption payment as an interim benefit for a maximum of 5 years until their entitlement to pension insurance becomes valid. The adaption payment reflects the social responsibility of the Federal Government and the hard coal-producing Federal States. In 2016, the Federal Government guaranteed adaption payment totalling €113.2 million.
   beschäftigte:
-    title: Beschäftigte
-    p: Die Zahl der Beschäftigten entwickelt sich rückläufig. So waren Anfang des Jahres 2008 32.803 Arbeitnehmer/innen im Steinkohlenbergbau beschäftigt. Bis Ende des Jahres 2015 wurde die Beschäftigungszahl sozialverträglich auf 9.640 Arbeitnehmer/innen reduziert. Diesem Trend folgt mit zeitlicher Verzögerung auch die Anzahl der Anpassungsgeld(APG)-Berechtigten. Da nach den letzten Zechenstilllegungen zum Jahresende 2018 weitere Arbeitnehmer/innen ausscheiden werden und eine sinkende Zahl an Beschäftigten noch nach 2018 für die Stilllegung der Gruben benötigt wird, gelten die derzeit aktuellen APG-Richtlinien noch bis zum Jahre 2027.
+    title: Employees
+    p: The number of employees is steadily decreasing; at the beginning of 2008, 32,803 persons were employed in hard coal mining. By the end of 2015 the number of employees had been reduced to 9,640 employees. The number of persons entitled to adaption payment is following this reduction trend, albeit with a time lag. Since more employees will be retiring after the last mine closures at the end of 2018 and a declining number of employees will still be needed after 2018 to complete the closure of mines, the current adaption payment guidelines will still apply until 2027.
   kontrolle:
-    title: Kontrolle
-    p: Neben der Prüfung der zweckentsprechenden Verwendung der Mittel durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle in Zusammenarbeit mit Wirtschaftsprüfern prüft der Bundesrechnungshof im Rahmen der Haushaltsprüfung des Bundesamtes jährlich stichprobenartig APG-Einzelfälle.
-    source: "Quelle: Subventionsbericht der Bundesregierung, eigene Darstellung"
-    daten-einsehen: Daten einsehen
+    title: Control measures
+    p: In addition to the monitoring of the intended use of funds by the German Federal Office of Economics and Export Control in cooperation with external auditors, the German Federal Audit Office also randomly reviews individual adaption payment cases within the framework of the Federal Office’s annual budget review.
+    source: "Source: Adaption Payment (Anpassungsgeld) 2013-16 (Federal Governments amounts)"
+    daten-einsehen: Here
   begünstigungen:
-    title: Begünstigungen für Strom- und Energiesteuer
-    p1: Sowohl bei der Stromsteuer als auch bei der Energiesteuer existieren verschiedene Steuerbegünstigungen. Steuerbegünstigungen erfassen Steuerbefreiungen, Steuerermäßigungen und Steuerentlastungen. Das Stromsteuergesetz (StromStG) sieht Begünstigungen für bestimmte Arten der Verwendung bzw. der Stromerzeugung vor. Das Energiesteuergesetz (EnergieStG) kennt ebenfalls Verwendungen, bei denen Energieerzeugnisse steuerlich begünstigt werden. Ein Teil dieser Begünstigungen ist nach der Energiesteuerrichtlinie verpflichtend zu gewähren.
-    p2: Als Unternehmen des Produzierenden Gewerbes können rohstoffgewinnende Unternehmen insbesondere von den verschiedenen Steuerentlastungsmöglichkeiten des Energie- und Stromsteuerrechts profitieren.
-    p3: "Drei Regelungen sind hierbei besonders relevant:"
+    title: Concessions for electricity and energy taxes
+    p1: There are various tax concessions for both the electricity and the energy taxes, including tax exemptions, tax reductions and tax relief.  The Electricity Taxation Act (StromStG) provides for certain types of use, or electricity generation. The Energy Taxation Act (EnergieStG) also covers uses in which energy products are tax-favoured. Some of these tax concessions are mandatory under the Energy Tax Directive.
+    p2: As production industry companies, extractive sector enterprises can particularly profit from the different tax relief possibilities provided by energy and electricity tax legislation.
+    p3: "Three regulations are particularly relevant here:"
     list:
-      item1: "Steuerentlastung für Unternehmen (§ 54 EnergieStG, § 9b StromStG): Unternehmen des Produzierenden Gewerbes wird auf Antrag eine Ermäßigung der Stromsteuer und der Energiesteuer in Höhe von 25% der Regelsteuersätze auf Strom und Heizstoffe sowie Kraftstoffe gewährt, die in begünstigten Produktionsanlagen eingesetzt werden."
-      item2: "Steuerentlastung in Form des sog. Spitzenausgleichs (§ 55 EnergieStG, § 10 StromStG): Für Unternehmen des Produzierenden Gewerbes soll die zusätzliche Belastung durch die „ökologische Steuerreform“ durch eine Entlastung bei der Energie- und der Stromsteuer abgemildert werden. Da die Mehreinnahmen durch die ökologische Steuerreform auch dazu dienten, den Faktor Arbeit zu vergünstigen und dazu beigetragen haben, dass die von Unternehmen zu zahlenden Arbeitgeberanteile an den Rentenversicherungsbeiträgen im Vergleich zu 1999 gesunken sind, wird für den Spitzenausgleich eine Vergleichsrechnung für das jeweilige Unternehmen angestellt. Um eine doppelte Entlastung sowohl bei den Arbeitgeberanteilen an der Rentenversicherung als auch bei der eingesetzten Energie zu vermeiden, werden die eingesparten Rentenversicherungsbeiträge bei der Berechnung der Höhe der Entlastung berücksichtigt. Die Höhe der Entlastung errechnet sich somit je nach Unternehmen individuell und ist zudem auf maximal 90% der gezahlten Stromsteuer sowie 90% des Steueranteils nach § 55 Abs. 3 EnergieStG gedeckelt. Voraussetzungen für eine Inanspruchnahme des Spitzenausgleichs sind u. a. der Nachweis eines zertifizierten Energiemanagementsystems und die jährliche Reduzierung der Energieintensivität des Produzierenden Gewerbes als Ganzes um einen gesetzlich festgelegten Wert. Vergleichswert ist der Durchschnittswert der Energieintensität des Produzierenden Gewerbes für den Zeitraum 2007-2012."
-      item3: "Bestimmte Prozesse und Verfahren/Herstellerprivileg (§ 9a StromStG, § 51 EnergieStG, §§ 26, 37, 44 und 47 EnergieStG): Unternehmen des Produzierenden Gewerbes können Strom bzw. Energieerzeugnisse bei Entnahme bzw. Verwendung zu genau bestimmten, energieintensiven Zwecken (wie Elektrolyse, Metallerzeugung, Herstellung von Glaswaren etc.) vollständig von der Steuer entlasten. Zudem können Unternehmen, die Energieerzeugnisse auf dem Betriebsgelände produzieren (Raffinerien, Gasgewinnungs- und Kohlebetriebe), die selbst produzierten Energieerzeugnisse im eigenen Unternehmen zur Aufrechterhaltung des Betriebs steuerfrei nutzen oder von der Steuer entlasten."
-    p4: "Die Subventionen werden im Subventionsbericht der Bundesregierung für das gesamte Produzierende Gewerbe und nicht separat für einzelne Wirtschaftszweige wie den Rohstoffsektor dargestellt. Die in der nachfolgenden Tabelle dargestellten ausgewählten Begünstigungen gelten für das gesamte Produzierende Gewerbe. Daraus lassen sich nicht notwendiger Weise Rückschlüsse auf den Anteil der Begünstigungen für den rohstoffproduzierenden Sektor ziehen."
+      item1: "Tax relief for companies (§ 54 EnergieStG, § 9b StromStG): If a production industry company applies for electricity and energy tax concessions and its application is approved, it is granted a reduction of 25% of the tax rates on electricity, heating and the fuels used in its production facilities eligible for tax concession."
+      item2: "Tax relief in the form of ‘peak compensation’ (§ 55 EnergieStG, § 10 StromStG): The additional burden of the ‘ecological tax reform’ on production industry companies is lightened by a reduction in their energy and electricity taxes. Since the increase in revenues generated by the ecological tax reform also served to reduce the factor of ‘work’ and contributed to companies paying less for employers’ contributions to pension insurance schemes in comparison to 1999, a comparative peak compensation calculation is carried out for companies in question. In order to avoid double relief for the employers’ pension insurance as well as for the energy used, saved pension contributions are taken into account in the calculation of the tax relief. The amount of relief is therefore calculated individually depending on the company, and is also capped at a maximum of 90% of the electricity tax paid and 90% of the tax share pursuant to § 55(3) of the EnergieStG. Prerequisites for claiming peak compensation are, among other things, evidence of a certified energy management system and an annual energy intensity reduction (by a statutory value) achieved by all the plants of the production industry company. The comparative value is the average energy intensity value for production industry companies between 2007 and 2012."
+      item3: "Specific processes and procedures/Manufacturer’s Tax Law (§ 9a StromStG, § 51 EnergieStG, §§ 26, 37, 44 and 47 EnergieStG). Production industry companies can reduce their electricity and energy taxes by 100%, if the energy/electricity is used for precisely determined, energy-intensive purposes (such as electrolysis, metal production, production of glassware, etc.). In addition, companies that produce energy products on their own premises (refineries, gas extraction and coal mining companies) can use these self-produced energy products tax-free (or obtain tax relief) for the purposes of maintaining operations within their own companies."
+    p4: "The subsidy report of the Federal Government contains the total subsidies for the entire production industry, whereas the subsidies in the natural resources industry are shown separately for each sector. The selected tax concessions shown in the table below apply to the entire production industry. Conclusions cannot necessarily be drawn about the proportion of the concessions for the natural resources production sector."
     table:
-      title1_1: "Tabelle: Ausgewählte Begünstigungen"
+      title1_1: "Table: Selected energy and electricity tax concessions"
       sup11:
         title: "15"
-        text: "Hier sind nur Begünstigungen aufgenommen, die auch für rohstoffproduzierende Unternehmen von Relevanz sind."
-      title1_2: " bei der Energie- und Stromsteuer für das gesamte Produzierende Gewerbe"
+        text: "Only concessions which are also relevant for raw material-producing companies have been included here."
+      title1_2: "for the entire production industry"
       sup12:
         title: "16"
-        text1: "Der Anteil der rohstoffgewinnenden Industrie an der Bruttowertschöpfung des produzierenden Gewerbes beträgt 0,65 Prozent. Quelle: eigene Berechnung aus Angaben zum BIP (Kapitel 5a) sowie"
+        text1: "The share of the natural resources extractive industry in the gross value added of the production industry amounts to 0.65% percent. Source: Own calculation from GDP data (here) and"
         link: DESTATIS
-        text2: (Zugriff 03.07.2017).
-      source: "Quelle: 25. Subventionsbericht der Bundesregierung 2015"
+        text2: "(accessed on July 3, 2017)."
+      source: "Source: 25th Subsidy Report of the Federal Government 2015"
       sup13:
         title: "17"
-        text1:  "Der 26. Subventionsbericht der Bundesregierung lag bei Redaktionsschluss für den 1. D-EITI Bericht 2017 noch nicht vor. Daher wird hier auf den Bericht des Jahres 2015 verwiesen. Der 26. Subventionsbericht wird voraussichtlich im August 2017 unter:"
+        text1:  "The 26th Subsidy Report of the Federal Government was not yet available by the editorial deadline for the 1st D-EITI Report 2017. For this reason, we refer to the report of 2015.  The 26th Subsidy Report is expected to be published in August 2017 at:"
         link: "http://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2017-08-23-subventionsbericht-26.html;jsessionid=FD52705712D36647993AF8610E28B5A0"
-        text2: "veröffentlicht."
-      th1: Regelung
+        text2: "."
+      th1: Law or Act
       th2:
-        title: Jahr
+        title: Year
         th2_1: "2013"
         th2_2: "2014"
-        th2_3: (Soll) 2015
-        th2_4: (Soll) 2016
+        th2_3: (Target) 2015
+        th2_4: (Target) 2016
       row1:
-        td1: Allgemeine Steuervergünstigung (§ 54 EnergieStG)
-        td2: 145 Mio. €
-        td3: 153 Mio. €
-        td4: 160 Mio. €
-        td5: 160 Mio. €
+        td1: "General tax relief (§ 54 EnergieStG)"
+        td2: "€145 million"
+        td3: "€153 million"
+        td4: "€160 million"
+        td5: "€160 million"
       row2:
-        td1: Allgemeine Steuervergünstigung (§ 9b StromStG)
-        td2: 975 Mio. €
-        td3: 1.038 Mio. €
-        td4: 1.000 Mio. €
-        td5: 1.000 Mio. €
+        td1: "General tax relief  (§ 9b StromStG)"
+        td2: "€975 million"
+        td3: "€1.038 million"
+        td4: "€1.000 million"
+        td5: "€1.000 million"
       row3:
-        td1: Spitzenausgleich (§ 55 EnergieStG)
-        td2: 167 Mio. €
-        td3: 197 Mio. €
-        td4: 180 Mio. €
-        td5: 180 Mio. €
+        td1: "Peak balancing  (§ 55 EnergieStG)"
+        td2: "€167 million"
+        td3: "€197 million"
+        td4: "€180 million"
+        td5: "€180 million"
       row4:
-        td1: Spitzenausgleich (§ 10 StromStG)
-        td2: 1.870 Mio. €
-        td3: 1.911 Mio. €
-        td4: 1.900 Mio. €
-        td5: 1.900 Mio. €
+        td1: "Peak balancing  (§ 10 StromStG)"
+        td2: "€1.870 million"
+        td3: "€1.911 million"
+        td4: "€1.900 million"
+        td5: "€1,900 million"
       row5:
-        td1: Herstellerprivileg (§§ 26, 37, 44, 47 EnergieStG)
-        td2: 350 Mio. €
-        td3: 350 Mio. €
-        td4: 350 Mio. €
-        td5: 350 Mio. €
-    p5_1: Die Mitgliedstaaten der Europäischen Union sind jedoch für Begünstigungen ab 1. Juli 2016 zur jährlichen Veröffentlichung umfassender Informationen zur Gewährung von staatlichen Beihilfen auf einer ausführlichen
-    link: Beihilfe-Internetseite
-    p5_2: verpflichtet (Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz, EnSTransV). Aufgrund dieser Verordnung kann die Zollverwaltung Daten zu den Vergünstigungen bei der Energie- und der Stromsteuer erheben, verarbeiten, speichern, übermitteln und löschen, um den Anforderungen der Kommission nachzukommen, erstmals zum 30. Juni 2017.
+        td1: "Manufacturer privilege (§§ 26, 37, 44, 47 EnergieStG)"
+        td2: "€350 million"
+        td3: "€350 million"
+        td4: "€350 million"
+        td5: "€350 million"
+    p5_1: The Member States of the European Union, however, have an obligation to annually publish comprehensive information on the granting of state aid on a detailed aid
+    link: website
+    p5_2: "; this applies to tax concessions from July 1, 2016 (Transparency Obligations for EnergieStG and StromStG – EnSTransV). Under this regulation, customs authorities may collect, process, store, transfer and delete data on energy and electricity tax benefits in order to comply with the Commission’s requirements; the regulation will come into force for the first time on June 30, 2017."
 
 erneuerbare_energien:
   title: Erneuerbare Energien

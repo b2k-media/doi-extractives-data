@@ -68,7 +68,7 @@ $(document).ready(function(){
     category = jsondata.categories;
     title = jsonData.title;
     ticks= jsondata.xAxis;
-    labels= jsondata.labels;
+    var labels = (isEn > 1) ? jsondata.labels_en : jsondata.labels;
     jsonUnit = jsondata.unit;
     var colors = jsondata.color;
     var chartTitle = (isEn > 1) ? jsondata.title_en : jsondata.title;
