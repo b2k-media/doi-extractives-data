@@ -1,13 +1,13 @@
 glossary: Glossary
 glossary_data-term:
-  bundesimmissionsschutzgesetz: ""
-  subventionen: ""
-  wasserhaushaltsgesetz: ""
-  bruttowertschöpfung: ""
-  bruttoinlandsprodukt: ""
+  bundesimmissionsschutzgesetz: "bundesimmissionsschutzgesetz"
+  subventionen: "subventionen"
+  wasserhaushaltsgesetz: "wasserhaushaltsgesetz"
+  bruttowertschöpfung: "bruttowertschöpfung"
+  bruttoinlandsprodukt: "bruttoinlandsprodukt"
   planfeststellungsverfahren: "Planning approval procedure under mining law"
-  bauordnung: ""
-  abgrabungsgesetze: ""
+  bauordnung: "bauordnung"
+  abgrabungsgesetze: "abgrabungsgesetze"
 
 menu:
     back: "D-EITI.de"
