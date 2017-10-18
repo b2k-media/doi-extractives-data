@@ -3371,10 +3371,17 @@ downloads:
       title: Data on the reconciliation report
     - name: daten-zum-deiti-bericht
       title: "Aggregated data D-EITI report 2016"
+  beschäftigten_CSV: "/downloads/Employees_of_the_Mining and Quarrying_sector_2016.csv"
+  steuereinnahmen_CSV: "/downloads/Tax_revenues_from_the_natural_resources_sector_2015.csv"
+  einnahmen_CSV: "/downloads/Revenue_from_minesite_royalties_2015.csv"
+  einnahmen_2_CSV: "/downloads/Revenue_from_extraction_royalties_2015.csv"
+  umsatz_CSV: "/downloads/Turnover_of_the_Mining_and_Quarrying.csv"
+  D-EITI_xlsx: "/downloads/D-EITI_payment reconciliation_2016.xlsx"
+  zipfile: "/downloads/OpenData_D-EITI_Report_2016.zip"
+
   h1: Data used at the interactive map on natural resources
   p1: 'The production data presented here is mainly based on the publication of the Federal Ministry of Economics and Technology (BMWi) "Mining in Germany"'
   download_label: Download production data
-  beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_EN_2016.csv"
   download_link: Download data
   download_label_förderabgaben: Download der Daten
   h2: Data on natural resource extraction in Germany
