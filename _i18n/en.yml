@@ -728,70 +728,71 @@ anfallende_zahlungen:
         text: In the MSG, there was no consensus on the extent to which energy and electricity tax payments were among the most important payment flows, therefore they are not included in the payment reconciliation.
 
 steuergeheimnis:
-  title: Steuergeheimnis
+  title: Tax secrecy
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: bedeutung
-      title: Bedeutung
+      title: How important is tax secrecy in Germany?
+
 
   bedeutung:
-    title: Bedeutung
-    p1: Das Steuergeheimnis besitzt einen hohen Stellenwert in Deutschland. Da die Steuerpflichtigen im Rahmen ihrer Mitwirkungspflichten der Finanzbehörde ihre Steuerverhältnisse vollständig zu offenbaren haben, muss die Geheimhaltung ihrer Angaben gewährleistet sein. Dies wird durch das Steuergeheimnis (§§30 ff. der Abgabenordnung (AO)) sichergestellt. Die Vorschriften regeln, wer das Steuergeheimnis zu wahren hat und unter welchen Voraussetzungen eine Offenbarung oder Verwertung von Daten, die dem Steuergeheimnis unterliegen, zulässig ist. Das Steuergeheimnis dient also dem Schutz des Steuerpflichtigen.
-    p2: Eine Durchbrechung des Steuergeheimnisses ist nur unter sehr strengen Voraussetzungen möglich. So ist eine Offenbarung von Informationen, die dem Steuergeheimnis unterliegen, in der Regel nur zulässig, wenn sie ausdrücklich gesetzlich zugelassen ist, der Betroffene der Offenbarung zustimmt oder an den betreffenden Steuerdaten ein zwingendes öffentliches Interesse besteht.
-    p3: Deshalb ist für die Offenbarung von Daten für freiwillige Berichtsinitiativen – wie die Initiative für Transparenz im rohstoffgewinnenden Sektor – die Zustimmung der betroffenen Unternehmen zwingend erforderlich. Ebenso erfordert die Durchführung des Zahlungsabgleichs betreffend Steuerzahlungen im Rahmen des EITI-Prozesses eine Freigabe des Steuerpflichtigen in Form einer Bevollmächtigung des unabhängigen Verwalters zur Abfrage der relevanten Steuerdaten.
+    title: How important is tax secrecy in Germany?
+    p1: Tax secrecy has a high priority in Germany. Since taxpayers must fully disclose their tax details to the financial authorities within the framework of their cooperation obligations, the privacy of their information must be ensured. This is ensured by the Tax Secrecy provisions (§§30 et seq.) of the German Tax Code (AO). The provisions of the Code regulate who must protect tax secrecy and under what conditions the disclosure or utilisation of data (which is subject to tax secrecy) is permitted. Tax secrecy thus serves to protect the taxpayer.
+    p2: A breach of tax secrecy can only be permitted under very strict conditions. Any disclosure of information which is subject to tax secrecy is normally only permitted if expressly authorised by law, if the person concerned agrees to the disclosure, or if there is a compelling public interest in the tax data in question.
+    p3: This is why the disclosure of data for voluntary reporting initiatives – like the Extractive Industries Transparency Initiative – requires the explicit consent of the companies concerned. Similarly, the implementation of reconciliation regarding tax payments within the framework of the EITI process requires the permission of the taxpayer in the form of a power of attorney for the Independent Administrator to query the relevant tax data.
 
 offentliche-berichte:
-  title: Öffentliche Berichte
+  title: Public reports
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: gesetzliche-berichtspflicht
-      title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
+      title: Statutory reporting obligation for extractive sector companies (BilRUG)
     - name: gemeinsamkeiten
-      title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
+      title: Similarities and differences in the reporting obligation as per EITI
 
   gesetzliche-berichtspflicht:
-    title: Gesetzliche Berichtspflicht für rohstoffgewinnende Unternehmen (BilRUG)
-    p1: "Mit dem Bilanzrichtlinie-Umsetzungsgesetz (BilRUG) vom 23. Juli 2015 wurden die Vorgaben aus der EU-Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 in deutsches Recht umgesetzt. Die im Handelsgesetzbuch (HGB) verankerten Vorschriften der §§ 341q ff. HGB entsprechen in weiten Teilen den Anforderungen der EITI. Von diesen handelsrechtlichen Berichtspflichten sind alle „großen“ in der mineralgewinnenden Industrie tätigen oder Holzeinschlag in Primärwäldern betreibenden Kapitalgesellschaften und haftungsbeschränkte Personengesellschaften (vgl. § 341q HGB) betroffen. Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei folgenden Kriterien überschreiten (§ 267 Abs. 3 HGB):"
-    l1: Bilanzsumme von 20 Mio. Euro
-    l2: Nettoumsatzerlöse von 40 Mio. Euro
-    l3: Im Jahresdurchschnitt 250 Beschäftigte
-    p2: Unabhängig von ihrer Größe werden zudem auch kapitalmarktorientierte Kapitalgesellschaften i.S.v. § 264d HGB sowie Kreditinstitute und Versicherungsunternehmen in der Rechtsform der Kapitalgesellschaft (einschließlich haftungsbeschränkter Personenhandelsgesellschaften) von der Berichtspflicht erfasst. Darüber hinaus werden in Konzernstrukturen auch (Tochter-)Gesellschaften in die Berichterstattung einbezogen, die in Kombination mit ihrer Muttergesellschaft die Größenkriterien und das Kriterium der Tätigkeit erfüllen. Auf die Größe und den Sitz der jeweiligen Tochtergesellschaft kommt es hierbei nicht an.
-    p3: Die den gesetzlichen Vorschriften unterliegenden Unternehmen sind dazu verpflichtet, sämtliche in § 341r Nr. 3 HGB aufgeführten Zahlungen an staatliche Stellen ab einer „Wesentlichkeitsschwelle“ von 100.000 Euro je staatlicher Stelle offen zu legen, soweit diese Zahlungen unter einen der in § 341r Nr. 3 aufgeführten Zahlungsgründe fallen. Hierzu gehören neben Steuerzahlungen beispielsweise auch Lizenzen, Konzessionen und andere mit der Förderung von Rohstoffen in Verbindung stehende Vertragsverhältnisse. Die Angaben sind auf Projekte aufzuteilen, soweit im Berichtsjahr mehr als ein Projekt betrieben wurde.
+    title: Statutory reporting obligation for extractive sector companies (BilRUG)
+    p1: "The Accounting Directive Implementation Law (BilRUG) of July 23, 2015, implemented the requirements of the EU Accounting Directive 2013/34/EU of June 26, 2013 into German legislation. Many provisions of Sections 341q et seq. in the HGB correspond to the requirements of the EITI. All the ‘large’ limited companies and limited liability partnerships involved in the extractive sector or in the logging sector in primary forests are subject to these reporting requirements under commercial law (cf. § 341q, HGB). The term ‘large’ in the legal sense refers to companies that exceed at least two of the following three criteria on two successive reporting dates ((§ 267(3), HBG):"
+    l1: Balance sheet total of €20 million.
+    l2: Net turnover of €40 million.
+    l3: An annual average of 250 employees.
+    p2: Within the meaning of § 264d of the HGB, capital market-oriented limited companies, as well as credit institutions and insurance companies in the legal form of limited companies (including limited liability commercial partnerships) are also subject to the reporting obligation, irrespective of their size. Subsidiaries (in corporate group structures) that meet the size criteria and the criterion of activity in combination with their parent companies are also subject to reporting obligations. The size and location of the pertinent subsidiary is not relevant in this case.
+    p3: The companies subject to the legal provisions are required to disclose all payments (specified in § 341r, No. 3 of the HGB) made to government agencies above a ‘materiality threshold’ of €100,000 per government agency, if these payments fall under one of the reasons for payment specified in § 341r, No. 3. In addition to tax payments, this includes e.g. licenses, concessions and other contractual relationships related to the extraction of natural resources. The data must be allocated to individual projects if more than one project was carried out in the year under review.
 
   gemeinsamkeiten:
-    title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
-    p1_1: Neben den gesetzlichen Berichtspflichten nach BilRUG werden die wichtigsten Finanzströme der rohstoffgewinnenden Industrie auch über die EITI offengelegt (siehe hierzu
-    link1: Zahlungsabgleich
-    p1_2: ). Die handelsrechtlichen Berichtspflichten decken sich in weiten Teilen mit den Berichtspflichten nach EITI. Allerdings bestehen auch Unterschiede.
-    p2_1: Ein grundlegender Unterschied zwischen BilRUG und EITI besteht im Umfang der Berichterstattung. EITI sieht vor, dass die teilnehmenden Unternehmen aus dem Rohstoffsektor alle wesentlichen Zahlungen an die Regierungsstellen veröffentlichen. Welche Zahlungen wesentlich sind, ist im Gegensatz zu BilRUG nicht abschließend aufgeführt und muss im Laufe des EITI-Prozesses geklärt werden (siehe hierzu
-    link2: Zahlungsabgleich
-    p2_2: ). Der EITI-Standard sieht keine Unterscheidung zwischen Zahlungen ober- oder unterhalb der Grenze von jährlich mindestens 100.000 Euro vor. Die Akteure der deutschen EITI haben sich darauf verständigt, die Wesentlichkeitsschwelle des BilRUG zu übernehmen.
-    p3: Im Gegensatz zu BilRUG setzt EITI auf die beiderseitige Offenlegung der Zahlungsströme. So muss zwecks Zahlungsabgleich auch die staatliche Seite Einblick in ihre Einkünfte aus dem Rohstoffsektor gewähren. In diesem Zusammenhang ist es ein Hauptanliegen der EITI, jedem Interessierten die Zahlungsströme in Form von Open Data zugänglich zu machen und damit die öffentliche Debatte zu unterstützen.
+    title: Similarities and differences in the reporting obligation as per EITI
+    p1_1: In addition to the statutory reporting requirements pursuant to BilRUG, the most important financial flows of the extractive industry are also disclosed via the EITI (read more on
+    link1:  payment reconciliation
+    p1_2: ). The reporting requirements under commercial law largely correspond to those of the EITI. However, there are also differences.
+    p2_1: One fundamental difference between the BilRUG and the EITI lies in the extent of the reporting. EITI stipulates that the participating companies from the natural resources extractive sector publish all significant payments they make to government agencies. In contrast to BilRUG, the material payments are not exhaustively listed by EITI and must be clarified in the course of the EITI process ((read more on
+    link2: payment reconciliation
+    p2_2: ). The EITI standard does not provide for a distinction between payments above or below the limit of at least €100,000 annually. The German D-EITI stakeholders have agreed to adopt the materiality threshold of the BilRUG.
+    p3: In contrast to BilRUG, EITI relies on the mutual disclosure of the payment flows. The state must also therefore grant an insight into its income from the extractive industry, for the purposes of payment reconciliation. In this context, one of EITI’s main concerns is to make the payment flows available in the form of open data, thereby supporting the public debate.
 
 verwendung-der-einnahmen:
-  title: Verwendung der Einnahmen
+  title: Revenue allocation
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: einnahmen_rohstoffsektor
-      title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+      title: How are the revenues of the extractive industry allocated?
     - name: landesrechtliche_regelungen
       title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
 
   einnahmen_rohstoffsektor:
-    title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
-    p1: Der föderale Staatsaufbau der Bundesrepublik Deutschland spiegelt sich in der Verteilung der Steuereinnahmen wieder. Welche Ebene die Ertragskompetenz hat, wie also die Steuererträge zwischen Bund, Ländern und Gemeinden verteilt werden, ist in Artikel 106 GG geregelt. Dabei wird zwischen Steuern, die den Gemeinden, Ländern oder dem Bund vollständig zufließen und den sog. Gemeinschaftssteuern unterschieden. Im Fall der Gemeinschaftssteuern werden die Einnahmen zwischen dem Bund und den Ländern aufgeteilt.
-    p2: Im Hinblick auf die Rohstoffförderung relevante Beispiele für Gemeinschaftssteuern sind die Körperschaft- und Einkommensteuer. An den Einnahmen aus der Körperschaftssteuer werden der Bund und die Länder zu je 50 % beteiligt.
-    p3: Die Gewerbesteuer hingegen stellt eine reine Gemeindesteuer dar. Somit steht sie als wichtigste Einnahmequellen der Kommunen den Gemeinden zu, in denen die betreffenden Betriebsstätten liegen. Bund und Länder werden durch eine Umlage am Aufkommen der Gewerbesteuer beteiligt.
-    p4: Eine Umverteilung zwischen Bund und Ländern erfolgt ebenso in Bezug auf die Einnahmen aus der Förderabgabe. Sie fließen in den Länderfinanzausgleich. Die Einnahmen aus der Stromsteuer und der Energiesteuer stehen dem Bund zu.
-    p5: Die Steueraufkommen aus der Rohstoffförderung sind gemäß § 3 der AO nicht zweckgebunden, d. h. über ihre Verwendung entscheiden der Bundeshaushalt sowie die Länder- und Kommunalhaushalte frei. Die Höhe und Verwendung der Einnahmen und Ausgaben werden jährlich detailliert offengelegt. Dazu verabschieden der Bund und die Länder Haushaltsgesetze und die Kommunen Haushaltssatzungen, die ihre Haushaltspläne beinhalten. Mit Veröffentlichung der Haushaltspläne erhalten alle Bürgerinnen und Bürger freien Zugang zu den darin enthaltenen Informationen.
-    p6_1: Um der Öffentlichkeit einen Zugang zu Informationen über die Verwendung der Steuereinnahmen zu erleichtern, veröffentlicht das BMF Informationen zum Bundeshaushalt auf der Web-Plattform
+    title: How are the revenues of the extractive industry allocated?
+    p1: The Federal state structure of the Federal Republic of Germany is reflected in the distribution of tax revenues. The level which has the authority for the revenues, i.e. how they are distributed between the Federal Government, the states and the municipalities is regulated by Article 106 of the Basic Law (GG), in which a distinction is made between so-called ‘community taxes’ and taxes which flow in their entirety to the municipalities, states or Federal Government. In the case of community taxes, the revenues are shared between the Federal Government and the states.
+    p2: With regard to the extraction of natural resources, corporation tax and income tax are relevant examples of community taxes. The Federal Government and the states are each allocated 50 % of corporation tax revenues.
+    p3: Trade tax, on the other hand, is purely a community tax, and as the most important source of income of the communities, it is allocated to the individual municipalities in which the relevant operating facilities/factories are situated. The Federal Government and the states’ share in the revenues of the trade tax through a specific allocation and redistribution mechanism.
+    p4: With regard to the revenues from extraction royalties, redistribution between the Federal Government and the states also takes place. The revenues flow into inter-state financial equalisation. The Federal Government is entitled to the revenues from electricity and energy taxes.
+    p5: As per § 3 of the Tax Code, the tax revenues from the extraction of natural resources are not earmarked for a specific purpose; the persons responsible for the Federal Budget, the state budgets and the municipal budgets decide how they will be used. The amount and use of revenues and expenditure are disclosed in detail every year. To this end, the Federal Government and the states adopt budget laws (the municipalities adopt budget statutes) that include their own budgets. When the budgets are published, all citizens then have free access to the information.
+    p6_1: To facilitate public access to information on the use of tax revenues, the BMF publishes information about the Federal Budget on the
     link1: https://www.bundeshaushalt-info.de/.
-    p6_2:  Zudem können auf der Webseite
+    p6_2:  web platform. You can also visit the
     link2: https://www.offenerhaushalt.de
-    p6_3: weitere Haushalte eingesehen werden.
+    p6_3: website for information on other budgets
 
   landesrechtliche_regelungen:
     title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
