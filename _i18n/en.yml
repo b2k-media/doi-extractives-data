@@ -772,27 +772,27 @@ offentliche-berichte:
     p3: In contrast to BilRUG, EITI relies on the mutual disclosure of the payment flows. The state must also therefore grant an insight into its income from the extractive industry, for the purposes of payment reconciliation. In this context, one of EITI’s main concerns is to make the payment flows available in the form of open data, thereby supporting the public debate.
 
 verwendung-der-einnahmen:
-  title: Verwendung der Einnahmen
+  title: Revenue allocation
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: einnahmen_rohstoffsektor
-      title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
+      title: How are the revenues of the extractive industry allocated?
     - name: landesrechtliche_regelungen
       title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
 
   einnahmen_rohstoffsektor:
-    title: Was geschieht mit den Einnahmen aus dem Rohstoffsektor?
-    p1: Der föderale Staatsaufbau der Bundesrepublik Deutschland spiegelt sich in der Verteilung der Steuereinnahmen wieder. Welche Ebene die Ertragskompetenz hat, wie also die Steuererträge zwischen Bund, Ländern und Gemeinden verteilt werden, ist in Artikel 106 GG geregelt. Dabei wird zwischen Steuern, die den Gemeinden, Ländern oder dem Bund vollständig zufließen und den sog. Gemeinschaftssteuern unterschieden. Im Fall der Gemeinschaftssteuern werden die Einnahmen zwischen dem Bund und den Ländern aufgeteilt.
-    p2: Im Hinblick auf die Rohstoffförderung relevante Beispiele für Gemeinschaftssteuern sind die Körperschaft- und Einkommensteuer. An den Einnahmen aus der Körperschaftssteuer werden der Bund und die Länder zu je 50 % beteiligt.
-    p3: Die Gewerbesteuer hingegen stellt eine reine Gemeindesteuer dar. Somit steht sie als wichtigste Einnahmequellen der Kommunen den Gemeinden zu, in denen die betreffenden Betriebsstätten liegen. Bund und Länder werden durch eine Umlage am Aufkommen der Gewerbesteuer beteiligt.
-    p4: Eine Umverteilung zwischen Bund und Ländern erfolgt ebenso in Bezug auf die Einnahmen aus der Förderabgabe. Sie fließen in den Länderfinanzausgleich. Die Einnahmen aus der Stromsteuer und der Energiesteuer stehen dem Bund zu.
-    p5: Die Steueraufkommen aus der Rohstoffförderung sind gemäß § 3 der AO nicht zweckgebunden, d. h. über ihre Verwendung entscheiden der Bundeshaushalt sowie die Länder- und Kommunalhaushalte frei. Die Höhe und Verwendung der Einnahmen und Ausgaben werden jährlich detailliert offengelegt. Dazu verabschieden der Bund und die Länder Haushaltsgesetze und die Kommunen Haushaltssatzungen, die ihre Haushaltspläne beinhalten. Mit Veröffentlichung der Haushaltspläne erhalten alle Bürgerinnen und Bürger freien Zugang zu den darin enthaltenen Informationen.
-    p6_1: Um der Öffentlichkeit einen Zugang zu Informationen über die Verwendung der Steuereinnahmen zu erleichtern, veröffentlicht das BMF Informationen zum Bundeshaushalt auf der Web-Plattform
+    title: How are the revenues of the extractive industry allocated?
+    p1: The Federal state structure of the Federal Republic of Germany is reflected in the distribution of tax revenues. The level which has the authority for the revenues, i.e. how they are distributed between the Federal Government, the states and the municipalities is regulated by Article 106 of the Basic Law (GG), in which a distinction is made between so-called ‘community taxes’ and taxes which flow in their entirety to the municipalities, states or Federal Government. In the case of community taxes, the revenues are shared between the Federal Government and the states.
+    p2: With regard to the extraction of natural resources, corporation tax and income tax are relevant examples of community taxes. The Federal Government and the states are each allocated 50 % of corporation tax revenues.
+    p3: Trade tax, on the other hand, is purely a community tax, and as the most important source of income of the communities, it is allocated to the individual municipalities in which the relevant operating facilities/factories are situated. The Federal Government and the states’ share in the revenues of the trade tax through a specific allocation and redistribution mechanism.
+    p4: With regard to the revenues from extraction royalties, redistribution between the Federal Government and the states also takes place. The revenues flow into inter-state financial equalisation. The Federal Government is entitled to the revenues from electricity and energy taxes.
+    p5: As per § 3 of the Tax Code, the tax revenues from the extraction of natural resources are not earmarked for a specific purpose; the persons responsible for the Federal Budget, the state budgets and the municipal budgets decide how they will be used. The amount and use of revenues and expenditure are disclosed in detail every year. To this end, the Federal Government and the states adopt budget laws (the municipalities adopt budget statutes) that include their own budgets. When the budgets are published, all citizens then have free access to the information.
+    p6_1: To facilitate public access to information on the use of tax revenues, the BMF publishes information about the Federal Budget on the
     link1: https://www.bundeshaushalt-info.de/.
-    p6_2:  Zudem können auf der Webseite
+    p6_2:  web platform. You can also visit the
     link2: https://www.offenerhaushalt.de
-    p6_3: weitere Haushalte eingesehen werden.
+    p6_3: website for information on other budgets
 
   landesrechtliche_regelungen:
     title: Landesrechtliche Regelungen zu Feldes- und Förderabgaben
