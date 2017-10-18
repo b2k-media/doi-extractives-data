@@ -625,7 +625,7 @@ anfallende_zahlungen:
           title: Pachtzahlungen
         - name: verbrauchsteuern
           title: Verbrauchsteuern
-
+  pdf_file: "/downloads/Landesrechtliche_Regelungen_zu_Feldes-und_Forderabgaben-Auszug_D-EITI-Bericht_fur_2016.pdf"
   einnahmen:
     p1_1: Rohstoffgewinnende Unternehmen in Deutschland zahlen verschiedene Gebühren, Abgaben und Steuern auf ihre Tätigkeiten. Unternehmen, die bergfreie Rohstoffe gewinnen, zahlen eine spezifische Feldes- und Förderabgabe gemäß Bundesberggesetz an die Länder. Ausgenommen davon sind die Bodenschätze, die aufgrund sogenannter alter Rechte gewonnen werden
     link1: "(siehe auch „Genehmigung von Bergbauprojekten“)."
