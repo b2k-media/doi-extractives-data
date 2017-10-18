@@ -631,6 +631,7 @@ anfallende_zahlungen:
         - name: verbrauchsteuern
           title: Excises
 
+  pdf_file: "/downloads/Overview_minesite_extraction_royalties_Germany.pdf"
   einnahmen:
     p1_1: Rohstoffgewinnende Unternehmen in Deutschland zahlen verschiedene Gebühren, Abgaben und Steuern auf ihre Tätigkeiten. Unternehmen, die bergfreie Rohstoffe gewinnen, zahlen eine spezifische Feldes- und Förderabgabe gemäß Bundesberggesetz an die Länder. Ausgenommen davon sind die Bodenschätze, die aufgrund sogenannter alter Rechte gewonnen werden
     link1: "(siehe auch „Genehmigung von Bergbauprojekten“)."
