@@ -1133,64 +1133,64 @@ verwendung-der-einnahmen:
         item1: "Erdwärme: Aufsuchung und Gewinnung"
         item2: "Steinsalz: Gewinnung"
 umgang-mit-der-natur:
-  title: Umgang mit der Natur
+  title: Dealing with nature
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: naturschutzrechtliche_eingriffsregelungen
-      title: Naturschutzrechtliche Eingriffsregelungen
+      title: Dealing with human intervention in nature
       subnav_items:
         - name: rechtlicher_rahmen
-          title: Rechtlicher Rahmen
+          title: Rules of intervention under nature conservation law
         - name: zulassungspraxis_rohstoffförderung
-          title: Zulassungspraxis bei der Rohstoffförderung
+          title: Approval practices in the extraction of natural resources
         - name: dokumentation_von_kompensationsmaßnahmen
-          title: Dokumentation von Kompensationsmaßnahmen für Eingriffe in die Natur
+          title: Documentation of compensatory measures for interventions in nature
         - name: table
-          title: Übersicht Kompensationsverzeichnisse in den Bundesländern
+          title:  Overview of compensation directories in the Federal States
         - name: beispiel
-          title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
+          title: Example of the transparency of compensation directories in Baden-Wuerttemberg
         - name: beispiel_für_festsetzung
-          title: Beispiel für die Festsetzung von Ersatzgeldzahlungen in Nordrhein-Westfalen (NRW)
+          title: Example of the assessment of compensatory payments in North-Rhine-Westphalia
         - name: kooperation_zwischen
-          title: Kooperation zwischen Stakeholdern
+          title: Cooperation between stakeholders
     - name: rückstellungen
-      title: Rückstellungen
+      title: Provisions
     - name: sicherheitsleistungen
-      title: Sicherheitsleistungen
+      title: Implementation securities
 
   naturschutzrechtliche_eingriffsregelungen:
-    title: Naturschutzrechtliche Eingriffsregelungen
-    p1: Jede Bergbautätigkeit ist mit Eingriffen in Natur und Landschaft verbunden und kann gravierende Umweltbelastungen zur Folge haben. Gleichzeitig kann auf ehemaligen, aber auch auf bestimmten Arealen betriebener Abbauflächen ein Beitrag zur Sicherung der Biodiversität geleistet werden. Kompensationsmaßnahmen wie Ausgleichs- oder Ersatzmaßnahmen sowie Ersatzzahlungen sollen Eingriffe in Natur und Landschaft kompensieren und deren Funktion wiederherstellen.
-    p2_1: Der für die mittel- bis langfristige Rohstoffsicherung erforderliche Flächenbedarf wird auf rund 1% der Fläche Deutschlands geschätzt. Die dabei tatsächlich in Abbau stehende Fläche beträgt 29 km² oder – bezogen auf die Fläche Deutschlands – 0,008%
-    link1: (Bundesanstalt für Geowissenschaften und Rohstoffe 2016).
-    p2_2: Das entspricht einer täglichen Flächeninanspruchnahme von durchschnittlich 8 Hektar.  Die für die Rohstoffgewinnung genutzten Flächen sind regional unterschiedlich konzentriert, wodurch auch die damit verbundenen Eingriffe in Natur und Landschaft große regionale Unterschiede und Konzentrationen aufweisen.
+    title: Dealing with human intervention in nature
+    p1: Every mining activity is associated with interventions in nature and landscape and can result in serious environmental impacts. At the same time, however, a contribution can be made to the conservation of biodiversity on former minesites and on certain areas of operating minesites. Compensatory actions, such as compensatory or substitution measures and compensatory payments are intended to compensate for interventions in nature and landscape and to restore their natural function.
+    p2_1: It is estimated that around 1 % of Germany’s entire area will be necessary to ensure the country’s natural resources in the medium to long term. The area currently being mined amounts to 29 km², or 0.008 % of the total area of Germany (
+    link1: Federal Institute for Geosciences and Natural Resources 2016, BGR
+    p2_2: ). This corresponds to a daily area utilisation of an average of 8 ha. However, the areas used for the extraction of natural resources differ in their concentrations in the various regions, as a result of which the associated interventions in nature and landscape also evince great regional differences and concentrations.
 
     rechtlicher_rahmen:
-      title: Rechtlicher Rahmen
-      p1: Im Bundesnaturschutzgesetz (BNatSchG) ist als allgemeiner Grundsatz zu Eingriffen geregelt, dass erhebliche Beeinträchtigungen von Natur und Landschaft vom Verursacher vorrangig zu vermeiden und zu minimieren sind. Nicht vermeidbare Beeinträchtigungen sind durch Ausgleichs- oder Ersatzmaßnahmen (im Weiteren „Kompensationsmaßnahmen“) oder, soweit dies nicht möglich ist, durch einen Ersatz in monetärer Form zu kompensieren (§ 13 BNatSchG). Dieser allgemeine Grundsatz bildet somit eine Abarbeitungskaskade, die zuerst die Vermeidung, dann die Kompensationsmaßnahmen, und als letzte Möglichkeit die Ersatzgeldzahlung vorsieht. Bei Bergbaumaßnahmen zielt dieses Vermeidungsgebot vor allem auf eine möglichst umweltschonende Ausführungsvariante ab, da Standortalternativen aufgrund der Art des Rohstoffs und technischer Erwägungen nicht möglich sein können und Nullvarianten aufgrund der ökonomischen Vorrangigkeit des Rohstoffabbaus ausscheiden können. Unvermeidbare Beeinträchtigungen von Natur und Landschaft sind insbesondere durch Förderung natürlicher Sukzession, Renaturierung, naturnahe Gestaltung, Wiedernutzbarmachung oder Rekultivierung auszugleichen oder zu mindern (§ 1 Abs. 5 S. 4 BNatSchG).
-      p2: Kompensationsmaßnahmen sind in dem jeweils erforderlichen Zeitraum zu unterhalten und rechtlich zu sichern. Der Unterhaltungszeitraum wird von der Zulassungsbehörde im Zulassungsbescheid festgelegt. Für die Ausführung, Unterhaltung und Sicherung der Kompensationsmaßnahmen ist der Verursacher des Eingriffs oder dessen Rechtsnachfolger verantwortlich.
-      p3: Nach bundes- und europarechtlichen Vorgaben sind in Zulassungsverfahren von naturschutzrechtlichen Eingriffen zudem die möglichen Auswirkungen eines Vorhabens auf besonders geschützte Tier- und Pflanzenarten (besonderes Artenschutzrecht) sowie auf das europäische Schutzgebietsnetz NATURA 2000 zu prüfen.
-      p4: Das BNatSchG enthält eine Vollregelung, d. h. Landesgesetze und -normen zur instrumentalen Ausgestaltung der Eingriffsregelung dürfen dieser nicht widersprechen. Zur Konkretisierung bei der Anwendung der Vorschriften haben die Länder zum Teil ergänzende Regelungen getroffen, wobei die Praxis in den Ländern unterschiedlich ist. Beispielsweise ist die konkrete Bemessung der Höhe und Verwendung von Ersatzgeldzahlungen von Bundesland zu Bundesland unterschiedlich.
+      title: Legal framework
+      p1: In the Federal Nature Conservation Act (BNatSchG), the general principle regarding interventions is that major interventions in nature and landscape are to be primarily avoided and minimised by the polluter. Unavoidable interventions are to be compensated by means of compensatory or substitution measures (hereinafter ‘compensatory measures’) or, if this is not possible, by a compensatory payment in monetary form (§ 13 BNatSchG). This general principle thus forms a processing cascade, which first provides for avoidance, then compensatory measures and, as a last resort, a compensatory payment. In the case of mining measures, this avoidance rule primarily targets a variant that is as environmentally-friendly as possible, since site alternatives due to the type of natural resource and technical considerations cannot be possible, and zero variances can be eliminated due to the economic priority of natural resources extraction. Unavoidable interventions in nature and landscape must therefore be offset or mitigated, particularly through the promotion of natural succession, renaturation, near-natural design, rehabilitation or recultivation (§ 1(5), P. 4f. BNatSchG).
+      p2: Compensatory measures must be maintained and legally secured during the required period of time. The period of maintenance is determined by the approval authority in the certificate of approval. The perpetrator of the intervention (the polluter) or its legal successor is responsible for the execution, maintenance and safeguarding of the compensatory measures.
+      p3: In accordance with German federal and European regulations, the possible effects of a project on particularly-protected species of animals and plants (special species protection legislation) and on the European protected area network NATURA 2000 must be examined in the approval procedures for nature conservation law interventions.
+      p4: The BNatSchG contains a full regulation, viz. that the laws and norms of the Federal States on the instrumental design of the intervention regulation may not contradict it. In order to make the regulation more applicable, some Federal States have made supplementary regulations, whereby the practice differs from state to state, e.g. in the concrete assessment of the amount and the use of compensatory payments.
 
     zulassungspraxis_rohstoffförderung:
-      title: Zulassungspraxis bei der Rohstoffförderung
-      p1: Plant ein Unternehmen einen Eingriff in die Natur und Landschaft im Rahmen der Rohstoffförderung, wird die naturschutzrechtliche Eingriffsreglung auf Ebene der zuständigen Zulassungsbehörde abgearbeitet. Das sind entsprechend der jeweiligen Rohstoffart entweder die Bergbehörden der deutschen Bundesländer (bei bergfreien und grundeigenen Rohstoffen) oder die mit dem Vollzug der landesrechtlichen Abgrabungsgesetze, des Bau- und Wasserhaushaltsrechts oder des Bundesimmissionsschutzgesetzes beauftragten Landesbehörden (bei sog. Grundeigentümerbodenschätzen). Dieses Vorgehen entspricht dem sogenannten „Huckepack-Verfahren“, bei dem alle Vorhaben, die aufgrund anderer Rechtsvorschriften ohnehin der Zulassung von einer Behörde bedürfen, die Zulassung von der zuständigen Fachbehörde im „Benehmen“ mit der zuständigen Naturschutzbehörde erteilt bekommen (§ 17 BNatSchG). Damit muss der zuständigen Naturschutzbehörde eine Stellungnahme im Zulassungsverfahren eingeräumt werden, wobei die jeweilige Zulassungsbehörde nicht an die Empfehlungen der Naturschutzbehörde gebunden ist. Die Bestimmungen des besonderen Artenschutzes sind jedoch zwingend und unterliegen nicht der Abwägung. Ferner sind Schutzgebietsausweisungen zu beachten.
-      p2: Im Zulassungsverfahren legt der/die Unternehmer/in hierzu der zuständigen Behörde einen landschaftspflegerischen Begleitplan (LBP) vor, welcher insbesondere Angaben über Ort, Art, Umfang und zeitlichen Ablauf des Eingriffs sowie die vorgesehenen Vermeidungs- und Kompensationsmaßnahmen und ggf. auch über den Ersatzgeldumfang macht. Hierbei wird regelmäßig der überwiegende Teil der erforderlichen Kompensation im Rahmen der Renaturierung bzw. Rekultivierung erbracht (siehe Zielbestimmung BNatSchG). Kompensationsmaßnahmen auf externen Flächen sind dann erforderlich, wenn sich bestimmte Landschafts- bzw. Biotopstrukturen nicht wiederherstellen lassen oder wenn aus artenschutzrechtlichen Gründen spezielle Maßnahmen notwendig sind.
-      p3: Beim Abbau der sogenannten bergfreien (z. B. Kohle, Salze, Erdöl und Erdgas) und grundeigenen (z. B. Steine, Erden und Industrieminerale) Bodenschätze, der durch das Bundesberggesetz (BBergG) geregelt wird, wird die Eingriffsregelung nach dem BNatSchG im Rahmen des bergrechtlichen Betriebsplanverfahrens abgearbeitet, wobei die Pflichten nach dem BNatSchG vollumfänglich gelten. Der Ausgleich von Eingriffen kann bereits im Rahmen der bergrechtlichen Verpflichtung zur Wiedernutzbarmachung der Oberfläche (§ 55 Abs. 1 Nr. 7 BBergG, § 1 Abs. 5 S. 4 BNatSchG) erfolgen. Soweit dies nicht möglich ist, sind Ausgleichs- und/oder Ersatzmaßnahmen oder nachrangig Ersatzgeldzahlungen nach BNatSchG erforderlich (siehe hierzu Beispiel aus NRW unten). Bei Verfahren, die unter das Bundesberggesetz fallen, finden dabei auch die rechtlichen Instrumente des BBergG, wie insbesondere die regelmäßige Kontrolle durch die in der Regel alle zwei Jahre vorzulegenden und neu zu genehmigenden Hauptbetriebspläne Anwendung.
+      title: Approval practices in the extraction of natural resources
+      p1: If a company plans to intervene in nature and landscape by extracting natural resources, the nature conservation legislation on intervention regulation is dealt with at the level of the responsible approval authority. Depending on the respective type of natural resource, these are either the mining authorities of the German states (in the case of free-to-mine and privately-owned natural resources) or the state authorities in charge of the execution of the state-based excavation laws, the building and water resources management laws and the Federal Immission Control Act (in the case of so-called landowners’ natural resources). This procedure corresponds to the so-called ‘piggy-back’ procedure, which stipulates (in §17 BNatSchG) that the approval of all projects, which nevertheless require approval by an authority due to other legal provisions, will be carried out by the competent authority in conformity with the responsible nature conservation authority. The competent nature conservation authority must therefore be given a voice in the approval procedure, whereby the relevant approval authority is not bound by the recommendations of the nature conservation authority. However, the provisions of the specific species protection are compulsory and are not subject to consideration in this respect. Designations of protected areas must also be observed.
+      p2: As part of the approval procedure, the entrepreneur shall also provide the competent authority with a Landscape Management Plan (LBP), which shall provide information on the location, nature, extent and timing of the intervention, as well as the intended avoidance and compensatory measures and, where required, the amount of the compensatory payment. In this case, the major part of the necessary compensation is to be regularly provided for renaturation or recultivation (see target definition BNatSchG). Compensatory measures on external surfaces are necessary if certain landscape or biotope structures cannot be restored or if specific measures are necessary for reasons of species protection.
+      p3: In the case of the extraction of the so-called ‘free-to-mine’ (e.g. coal, salts, oil and natural gas) and privately-owned resources (e.g. stone, earths and industrial minerals) governed by the German Federal Mining Act (BBergG), the intervention regulation is processed as per the BNatSchG in accordance with the operating plan procedure under mining law, whereby the obligations as per the BNatSchG apply in full. Compensation for interventions can already take place within the scope of the obligation under mining law to rehabilitate the area (§ 55(1), No. 7 BBergG, § 1(5), P. 4, BNatSchG). If this is not possible, compensatory and/or substitution measures or subordinated compensatory payments pursuant to BNatSchG are necessary (see North Rhine-Westphalia (NRW) example below). In the case of procedures which are subject to Federal Mining Act, the legal instruments of the Ordinance are applied, such as (and in particular) regular monitoring based on the main operating plans, which must generally be submitted and re-approved every two years.
 
     dokumentation_von_kompensationsmaßnahmen:
-      title: Dokumentation von Kompensationsmaßnahmen für Eingriffe in die Natur
-      p1: Seit der Novellierung des BNatschG 2010 sind die Bundesländer verpflichtet, Kompensationsverzeichnisse für sämtliche Eingriffe in die Natur zu erstellen. Diese sind jedoch unterschiedlich ausgeprägt und nicht in allen Bundesländern öffentlich einsehbar.
+      title: Documentation of compensatory measures for interventions in nature
+      p1: Since the amendment of the BNatschG in 2010, German Federal States are obliged to create compensation directories for all interventions in nature. However, these take various forms and are not publicly available in all Federal States.
 
     table:
-      title: Übersicht Kompensationsverzeichnisse in den Bundesländern
-      table_title: "Quelle: eigene Darstellung, Stand: Mai 2017"
-      th1: Bundesland
-      th2: Öffentlich einsehbar
-      th3: Zentral für das Bundes-land
-      th4: Umfassende Informationen zur Eingriffsfläche und Kompensationsart
-      th5: Erfasst mögliche  Ersatzzahlungen
+      title: Overview of compensation directories in the Federal States
+      table_title: "Source: own presentation, as of: May 2017"
+      th1: Federal State
+      th2: Publicly available
+      th3: Centralfor theFederal State
+      th4: Comprehensive information on the intervention area and the compensation type
+      th5: Potential compensatory payments recorded
       th6: Weblink
       row1:
         td1: Baden-Württemberg
@@ -1199,7 +1199,7 @@ umgang-mit-der-natur:
         td4: Ja
         td5: Nein
         td6: Onlinearchive der
-        link: Landkreise.
+        link: Landkreise
       row2:
         td1: Bayern
         td2: Ja
@@ -1207,7 +1207,7 @@ umgang-mit-der-natur:
         td4: Ja
         td5: Nein
         td6: Daten-
-        link: Download.
+        link: Download
       row3:
         td1: Berlin
         td2: Ja
@@ -1215,7 +1215,7 @@ umgang-mit-der-natur:
         td4: Nein
         td5: Nein
         td6: Browserbasierter
-        link:  Kartendienst.
+        link:  Kartendienst
       row4:
         td1: Brandenburg
         td2: Nein
@@ -1232,7 +1232,7 @@ umgang-mit-der-natur:
         td6_1: Daten
         link1: -Download;
         td6_2: Browserbasierter
-        link2: Kartendienst.
+        link2: Kartendienst
       row6:
         td1: Hamburg
         td2: Ja
@@ -1240,7 +1240,7 @@ umgang-mit-der-natur:
         td4: Nein
         td5: Nein
         td6: Browserbasierter.
-        link: Kartendienst.
+        link: Kartendienst
       row7:
         td1: Hessen
         td2: Ja
@@ -1248,7 +1248,7 @@ umgang-mit-der-natur:
         td4: Ja
         td5: Nein
         td6: Browserbasierter.
-        link: Kartendienst.
+        link: Kartendienst
       row8:
         td1: Mecklenburg-Vorpommern
         td2: Ja
@@ -1257,15 +1257,15 @@ umgang-mit-der-natur:
         td5: Nein
         link1: Download;
         td6: Browserbasierter
-        link2: Kartendienst.
+        link2: Kartendienst
       row9:
         td1: Niedersachsen
         td2: Teilweise
         td3: Nein
         td4: Teilweise (s. Bsp. Landkreis Cuxhaven)
         td5: Nein
-        td6: Browserbasierter Kartendienst am Bsp. LK .
-        link: Cuxhaven.
+        td6: Browserbasierter Kartendienst am Bsp. LK.
+        link: Cuxhaven
       row10:
         td1: Nordrhein-Westfalen
         td2: Geplant
@@ -1279,7 +1279,7 @@ umgang-mit-der-natur:
         td3: Ja
         td4: Ja
         td5: Nein
-        link: Kartendienst.
+        link: Kartendienst
       row12:
         td1: Saarland
         td2: Nein
@@ -1293,7 +1293,7 @@ umgang-mit-der-natur:
         td3: Ja
         td4: Nein
         td5: Nein
-        link: Beschreibung.
+        link: Beschreibung
       row14:
         td1: Sachsen-Anhalt
         td2: "Teilweise (Ökokonten: Ja, Kompensationsverzeichnis: Nein)"
@@ -1308,71 +1308,72 @@ umgang-mit-der-natur:
         td4: Nein
         td5: Nein
         td6: Browserbasierter
-        link: Kartendienst.
+        link: Kartendienst
       row16:
         td1: Thüringen
         td2: Nein
         td3: Ja
         td4: Ja
-        td5: Ja
+        td5: Nein
         td6: "-"
+
     table_source: "Quelle: eigene Darstellung, Stand: Mai 2017"
 
     beispiel:
-      title: Beispiel für die Transparenz von Kompensationsverzeichnissen in Baden-Württemberg
-      p1: Grundlage für das baden-württembergische Kompensationsverzeichnis bildet neben dem § 17 Abs. 6 BNatSchG die Kompensationsverzeichnis-Verordnung und die Ökokonto-Verordnung des Landes, welche eine öffentliche Dokumentationspflicht vorsehen. Beide Verordnungen können auf der Webseite des Umweltministeriums Baden-Württembergs heruntergeladen werden. Das baden-württembergische Kompensationsverzeichnis ist in die Abteilungen „Ökokonto“ und „Eingriffskompensation“ unterteilt.
-      p2: Ein Ökokonto ist ein Instrument für Eingriffsverursacher, um Kompensationsmaßnahmen zeitlich und räumlich von der Abbaufläche zu entkoppeln und somit flexibler zu managen. Über sogenannte „Ökopunkte“, die durch die gezielte ökologische Aufwertung von externen Flächen angesammelt werden, können Kompensationsmaßnahmen bevorratet und die entsprechenden Ökopunkte bei späteren Eingriffen verbraucht werden, um sie ganz oder in Teilen auszugleichen. Eingriffsverursacher wie z. B. Rohstoffunternehmen und Kommunen treten hierbei sowohl als Produzenten als auch als Verbraucher und Händler von Ökopunkten auf.
-      p3_1: Eine zentrale Übersicht über die Gesamtanzahl aller Eingriffe in Baden-Württemberg, einschließlich ihrer Kompensationsmaßnahmen, ist zwar nicht verfügbar, jedoch können die naturschutz-rechtlichen Ökokontomaßnahmen sowie die bereits einem naturschutzrechtlichen Eingriff zugeordneten Kompensationsmaßnahmen über die Internetseiten der zuständigen unteren Naturschutzbehörden auf Ebene der Stadt- und Landkreise abgerufen werden
+      title: Example of the transparency of compensation directories in Baden-Wuerttemberg
+      p1: The basis of the compensation directory in Baden-Wuerttemberg is formed by § 17(6) of the BNatSchG, the compensation directory regulation and the eco-account regulation of the state, which provide for the obligation to make documentation available for the public. The latter two regulations can be downloaded from the website of the Ministry of the Environment of Baden-Wuerttemberg. The Baden-Wuerttemberg compensation directory is divided into the ‘eco-account’ and the ‘intervention compensation’ sections.
+      p2: An eco-account is an instrument for the perpetrators of interventions (polluters). It enables them to temporally and spatially decouple compensation measures from the mining area, making the measures more flexible to manage. Compensatory measures can be stockpiled via so-called ‘eco-points’, which are accumulated by means of the targeted ecological upgrading of external areas. The corresponding eco-points can be used for later interventions to compensate for the interventions either in whole or in part. Polluters such as natural resource companies and local authorities are involved here as producers, consumers and traders of eco-points.
+      p3_1: A central overview of the total number of all interventions in Baden-Wuerttemberg, including their compensatory measures, is not available; however, the legal environmental protection eco-account measures and the compensatory measures already assigned to an intervention under nature conservation law can be accessed via the Internet sites of the responsible nature conservation sub-authorities at city and county levels (
       link1: http://www4.lubw.baden-wuerttemberg.de/servlet/is/225385/
-      link2:  bzw. http://www4.lubw.baden-wuerttemberg.de/servlet/is/225375/
-      p3_2: "Dort sind folgende Informationen zu den naturschutzrechtlichen Kompensationsmaßnahmen der Kreise einsehbar:"
+      link2:  or. http://www4.lubw.baden-wuerttemberg.de/servlet/is/225375/
+      p3_2: "where the following information on the nature conservation compensatory measures of the counties is available: "
       list1:
-        item1: Bezeichnung der Zulassungsbehörde und der Kompensationsmaßnahme (Kurzbeschreibung),
-        item2: Aktenzeichen und Datum des Zulassungsbescheids,
-        item3: Art des den Eingriff verursachenden Vorhabens
-        item4: Vorhabenträger/in,
-        item5: Lage der Kompensationsfläche,
-        item6: Maßgaben zur fristgerechten Umsetzung der Kompensationsmaßnahme und zum festgesetzten Unterhaltungszeitraum,
-        item7: Stand der Umsetzung.
-      p4: "Für die Ökokontomaßnahmen sind weiterhin folgende Informationen einsehbar:"
+        item1: description of the approval authority and the compensatory measure (short description),
+        item2: file number and date of the approval certificate,
+        item3: type of project causing the intervention,
+        item4: project developer,
+        item5: location of the compensation area,
+        item6: measures for the timely implementation of the compensatory measure and the fixed period of maintenance,
+        item7: state of the implementation.
+      p4: "The following information on eco-account measures can also be accessed:"
       list2:
-        item1: Maßnahmenkomplex
-        item2: Status
-        item3: Naturraum,
-        item4: Lage der Maßnahme,
-        item5: Ökopunkte.
-      p5: Im Kompensationsverzeichnis des Landes Baden-Württemberg sind Kompensationsmaßnahmen sowohl auf Eingriffsflächen, als auch auf Ersatzflächen dokumentiert. Aufgelistet sind Maßnahmen seit April 2011.
+        item1: complex of measures,
+        item2: status,
+        item3: natural area,
+        item4: location of the measure,
+        item5: eco-points.
+      p5: Compensatory measures on intervention areas and substitute areas are documented in the compensation directory of the state of Baden-Wuerttemberg. Measures taken since April 2011 have been listed.
 
     beispiel_für_festsetzung:
-      title: Beispiel für die Festsetzung von Ersatzgeldzahlungen in Nordrhein-Westfalen (NRW)
-      p1: Ersatzgeld kann als Ultima Ratio bei einem zugelassenen Eingriff erhoben werden, wenn Beeinträchtigungen der Natur nicht zu vermeiden oder in angemessener Frist auszugleichen oder zu ersetzen sind. Nach dem BNatSchG richtet sich die Ersatzgeldzahlung nach den durchschnittlichen Kosten der nicht durchführbaren Kompensationsmaßnahmen einschließlich der erforderlichen Kosten für deren Planung und Unterhaltung sowie die Flächenbereitstellung unter Einbeziehung der Personal- und sonstigen Verwaltungskosten. Sind diese nicht feststellbar, bemisst sich die Ersatzgeldzahlung nach Dauer und Schwere des Eingriffs unter Berücksichtigung der dem Verursacher daraus erwachsenden Vorteile (§ 15 Abs. 6 S. 1ff. BNatSchG).
-      p2: Bei der Zulassung der Aktivitäten der rohstofffördernden Industrie in NRW ist die Festsetzung von Ersatzgeldzahlungen die Ausnahme. Dennoch gibt es Fälle, bei denen z. B. der überwiegende Teil der Kompensation in der Rekultivierung erfolgt, ein kleines rechnerisches Kompensationsdefizit aber noch auf einer externen Fläche umzusetzen wäre oder die Festsetzung der Kompensation durch Wiedernutzbarmachung nicht zweckmäßig ist. Wenn diese Fläche bzw. die erforderliche Maßnahme mit verhältnismäßigem Aufwand nicht verfügbar, nicht umsetzbar bzw. nicht zweckmäßig ist, erfolgt eine entsprechende Ersatzgeldfestsetzung. In NRW wird diese Festsetzung entsprechend den Vorgaben des Landesnaturschutzgesetzes (LG) im Benehmen mit der jeweils zuständigen höheren Landschaftsbehörde vorgenommen (§ 6 Abs. 1 LG).
-      p3: Empfänger des Ersatzgeldes ist die regional zuständige untere Landschaftsbehörde, welche das Ersatzgeld zweckgebunden für Maßnahmen des Naturschutzes und der Landschaftspflege zu verwenden hat (§ 4a Abs. 1 LG). Soweit das Ersatzgeld für einen Eingriff in Waldflächen zu zahlen oder für eine Aufforstung von Flächen zu verwenden ist, wird es der Forstverwaltung zu Verfügung gestellt (§ 4a Abs. 2 LG).
-      p4: Beispiele für Ersatzgeldfestsetzungen sind die Kiestagebaue im Tagebauvorfeld der Braunkohlevorhaben. In drei Tagebauen war eine ökologisch wertvolle Wiedernutzbarmachung nicht angezeigt, weil im direkten Anschluss zur Kies- bzw. Sandgewinnung der Braunkohlentagebau die Fläche nutzt. Für diese Fälle hat die dortige untere Landschaftsbehörde ein vereinfachtes Bewertungsverfahren entwickelt, mit welchem eine angemessene Ersatzgeldzahlung ermittelt werden kann. Für die drei vorgenannten Vorhaben sind insgesamt Ersatzgeldzahlungen von 265.767,90 Euro festgesetzt worden.
-      p5: Für einen weiteren Kiestagebau wurde im Rahmen einer kleinflächigen Erweiterungsplanung ein Ersatzgeld festgesetzt, sofern die beabsichtigte Rekultivierung nicht umgesetzt werden kann. Mit dem eingenommenen Ersatzgeld von 21.900 Euro soll dann die untere Landschaftsbehörde des Kreises eine andere gleichwertige Kompensationsmaßnahme umsetzen. (Bei den vorgenannten Beispielen handelt es sich nicht um eine abschließende Aufzählung).
-      p6: In den Jahren zwischen 2011 und 2015 hat es bei der Bergbehörde NRW Ersatzgeldfestsetzungen von insgesamt ca. 300.000 Euro gegeben. Für die Braunkohlenbergbaue in NRW hat es bisher keine Ersatzgeldzahlungen gegeben; die Eingriffskompensation erfolgt überwiegend in der Wiedernutzbarmachung. Das Verhältnis der vielen und teilweise auch sehr großflächigen Tagebauvorhaben (insbesondere im Braunkohlenbergbau) unter Bergrecht in NRW zu den wenigen vorgenannten kleinen Vorhaben zeigt, dass die Festsetzung von Ersatzgeld in den bergrechtlichen Verfahren eine untergeordnete Rolle spielt.
+      title: Example of the assessment of compensatory payments in North-Rhine-Westphalia
+      p1: In the case of an authorised intervention, compensatory money can be levied as an Ultima Ratio if negative impacts on nature are unavoidable, or if they cannot be compensated or replaced within a reasonable period. As per the BNatSchG, the compensatory payment is based on the average costs of the non-feasible compensation measures, including the necessary costs for their planning and maintenance, as well as the provision of the area, which encompasses personnel and other administrative costs. If these cannot be ascertained, the compensatory payment is based on the duration and severity of the intervention, taking into account the advantages accruing to the polluter (§ 15(6), P. 1 et seq., BNatSchG). The assessment of the amounts of compensatory payment is the exception rather than the rule in the approval of the activities of the natural resources extractive industry in North-Rhine-Westphalia. Nevertheless, there are cases in which, for example, the major part of the compensation takes place in recultivation, but a small computational, compensational deficit still must be implemented on an external area, or the assessment of the compensation through rehabilitation will not be appropriate. If the area in question or the required measure is unavailable, or can neither be implemented nor is expedient at a reasonable cost, a relevant compensatory payment is assessed. In North-Rhine-Westphalia, this assessment is made in accordance with the provisions of the State-level Nature Conservation Law (LNatSchG NRW) in consultation with the relevant higher authority for nature conservation (§ 33(1), LNatSchG NRW).
+      p2: The beneficiary of the compensatory payment is the regionally-responsible, sub-authority for nature conservation, which must use the compensatory money for measures involving nature conservation and landscape management (§ 4a(4), LNatSchG NRW). If the compensatory payment is to be paid for an intervention in forested areas or to be used for the afforestation of land, the payment will be made available to the forestry administration (§ 31(4) LNatschG NRW).
+      p3: Examples of the assessments of compensatory payments are the open-cast gravel mines in the open-cast mining zones in front of the lignite mining projects. In three of the open-cast mines, an ecologically-valuable rehabilitation was not indicated because open-cast lignite mining would use the area directly after the gravel or sand extraction operations.
+      p4: In these cases, the local sub-authority for landscapes developed a simplified procedure by means of which an appropriate compensatory payment was assessed. A total of €265,767.90 in compensatory payments was assessed for the three projects mentioned above.
+      p5: For another open-cast gravel mining project, a small-scale expansion was planned for which a compensatory payment was assessed, if the intended recultivation could not be implemented. The county sub-authority for nature conservation, however, would have to use the compensatory payment of €21,900 it received to implement another equivalent compensatory measure. (This list of examples is not exhaustive).
+      p6: In the years between 2011 and 2015, a total of around €300,000 in compensatory payments were assessed for the North-Rhine Westphalia mining authorities. So far, there have been no compensatory payments for the lignite mining industry in North-Rhine Westphalia; intervention compensation is mainly carried out in the form of rehabilitation. The ratio of the many open-cast mining projects in NRW (especially lignite mining projects, some of which are on a very large scale) to the few small projects mentioned above shows that the assessment of compensatory payments plays a subordinate role in the procedures carried out under mining law.
 
     kooperation_zwischen:
-      title: Kooperation zwischen Stakeholdern
-      p: Weil jede Rohstoffextraktion einen erheblichen Eingriff in Natur und Landschaft darstellt, sollte eine umweltschonende Abbauführung und Gewinnungstechnik Unternehmensstandard sein. Eine zeitnahe Renaturierung und Rekultivierung kann zur Förderung der biologischen Vielfalt beitragen, aber auch betriebene Abbaustätten sind Habitate für seltene Tiere und Pflanzen. Hierbei hat sich die Zusammenarbeit zwischen abbauenden Unternehmen, dort Beschäftigten und ortskundigen Naturschützern als sinnvoll erwiesen. Dadurch kann das Betriebsmanagement an die lokalen und spezifischen Biodiversitätsansprüche angepasst werden. Dies gelingt in der Regel, wenn Unternehmensleitung und Beschäftigte kontinuierlich im Dialog mit naturschutzfachlich kundigen Institutionen und Personen stehen. Bei Erweiterungen oder neuen Abbauvorhaben dient der frühzeitige Dialog von Interessensträgern auch dazu, Konflikte gar nicht erst entstehen zu lassen. Informations- und Schulungsmaterialien zum Thema helfen der Breitenwirkung solcher Initiativen, die durch mitgliedsstarke Umwelt- und Naturschutzverbände, die Industriegewerkschaften Bergbau, Chemie, Energie und Bauen-Agrar-Umwelt sowie Wirtschaftsverbände auf Bundes- und Landesebene unterstützt werden.
+      title: Cooperation between stakeholders
+      p: Since each extraction of natural resources represents a significant intervention in nature and landscape, an environmentally-friendly extraction development and technology approach should be standard for companies in this sector. Timely renaturation and recultivation can contribute to the promotion of biological diversity; but operating extraction sites are also habitats for rare animals and plants. The cooperation between companies extracting natural resources, the persons working there and local conservationists has already proved its worth, because it enables the management of the extraction operations to be adapted to the local and specific biodiversity requirements. This usually succeeds if the company management and employees are continually involved in dialogue with specialist nature conservation institutions and persons. In the case of expansions or new extraction projects, an early dialogue between the stakeholders can also avoid conflicts before they arise. Information and training materials on the subject help to broaden the impact of initiatives like this, which are supported by strong memberships in the environmental and nature conservation associations, the mining, chemicals, energy and construction-agri-environment industrial trade unions, and economic associations at federal and state levels.
 
   rückstellungen:
-    title: Rückstellungen
-    p1: In Deutschland ist bundesgesetzlich geregelt, dass rohstoffgewinnende Unternehmen Rekultivierungsmaßnahmen durchführen. Die Unternehmen sind darüber hinaus dazu verpflichtet eine langfristige bilanzielle Vorsorge („Finanzierungsvorsorge“) zu treffen. Hierzu gehören üblicherweise Maßnahmen, die nach dem Stilllegen des Bergbaus noch erforderlich sind, wie zum Beispiel Maßnahmen zur Wiedernutzbarmachung der in Anspruch genommenen Oberfläche oder Rekultivierungsmaßnahmen. Für diese finanziellen Verpflichtungen werden nach bilanziellen Vorschriften Rückstellungen gebildet.
-    p2: Die Höhe der zu bildenden Rückstellungen basiert auf den zu erwartenden Aufwendungen für verschiedene geplante Maßnahmen. Langfristige steuerrechtliche Rückstellungen mit einer Restlaufzeit von über einem Jahr werden zudem unter Berücksichtigung künftiger Kostensteigerungen mit einem gesetzlich definierten Zinssatz abgezinst. Die zu erwartenden Erfüllungszeitpunkte sind im Wesentlichen abhängig von der wirtschaftlichen Restnutzungsdauer der jeweiligen Förderungsstandorte. Die Verpflichtungen reichen teilweise bei den Unternehmen weit über das Jahr 2050 hinaus.
-    p3: Bergbauliche Rückstellungen werden in den Jahresabschlüssen der rohstoffgewinnenden Betriebe auf der Passivseite der Bilanz ausgewiesen. Sie werden daher als Bilanzposition im Rahmen der Abschlussprüfung durch Wirtschaftsprüfungsunternehmen überprüft. Rückstellungen müssen nach den einschlägigen Vorschriften angemessen sein. Dies wird in steuerrechtlichen Fragen von der Finanzverwaltung überprüft.
-    p4_1: Transparent ausgewiesen werden die Rückstellungen bei den Unternehmen, die ihre Jahresabschlüsse auf
+    title: Provisions
+    p1: In Germany, federal legislation stipulates that companies which extract natural resources must carry out recultivation measures. The companies are also obliged to create and maintain long-term accounting provisions (‘financing provisions’). These usually include measures which are still necessary after closure of the mine concerned, such as measures for the rehabilitation of the mine area and recultivation measures. Provisions are set aside for these financial obligations under accounting rules.
+    p2: The amount of the provisions to be set aside is based on the anticipated expenses for various planned measures. Long-term tax provisions with a residual maturity of more than one year are also discounted, using a legally-defined interest rate and taking future cost increases into consideration. The expected dates of fulfilment are essentially dependent on the remaining economic useful life of the extraction sites in question. The obligations of some companies extend far beyond the year 2050.
+    p3: Provisions for mining are shown on the liabilities side of the balance sheet in the annual financial statements of the extractive sector companies and this is why they are audited by professional auditors as balance sheet items. Provisions made must be in accordance with the relevant regulations; the tax authorities check any related fiscal issues.
+    p4_1: Provisions made by companies which must publish their annual financial statements are shown transparently at
     link: http://www.bundesanzeiger.de
-    p4_2: veröffentlichen müssen. Die Pflicht der Offenlegung gilt für alle Kapitalgesellschaften nach § 325 HGB, alle Personenhandelsgesellschaften ohne natürliche Person als persönlich haftenden Gesellschafter (z. B. GmbH & Co. KG) und sonstige Unternehmen, die eine gewisse Größe überschreiten.
+    p4_2: The duty of disclosure applies to all limited companies pursuant to § 325 of the HGB, all commercial partnerships without a natural person as a personally-liable shareholder (e.g. GmbH & Co. KG) and other companies that exceed a certain size.
 
   sicherheitsleistungen:
-    title: Sicherheitsleistungen
-    p1: Sicherheitsleistungen stellen ein in der Bundesrepublik Deutschland vorgesehenes Instrument dafür dar, die durch rohstoffgewinnende Betriebe zu leistenden Rückbau-, Sicherungs- und Wiedernutzbarmachungsmaßnahmen bei Ausfall oder Verweigerung des Unternehmens ohne zusätzliche Kosten für die Allgemeinheit durch sogenannte Ersatzvornahmen der Behörden umsetzen zu können.
-    p2: Für unter das Bundesberggesetz fallende Rohstoffgewinnungsvorhaben sind Sicherheitsleistungen als behördliches Instrument im Bundesberggesetz ausdrücklich vorgesehen. Einzelne Bundesländer haben für die Rohstoffgewinnung außerhalb des Geltungsbereiches des Bundesberggesetzes in ihren Abgrabungsgesetzen oder anderen untergesetzlichen Regelungen für Abgrabungen vergleichbare Vorschriften erlassen. Zudem können zur Absicherung der Durchführung von Ausgleichs- und Ersatzmaßnahmen für die Eingriffe in Natur und Landschaft gemäß § 17 Abs. 5 BNatSchG  Sicherheitsleistungen festgesetzt werden.
-    p3: Die Bergbehörde kann im Rahmen Ihres Ermessensspielraums nach § 56 Abs. 2 Bundesberggesetz (BBergG) die Zulassung von Betriebsplänen von einer Sicherheitsleistung abhängig machen, soweit diese erforderlich ist, um insbesondere Maßnahmen zur Gefahrenvorsorge und Wiedernutzbarmachung der in Anspruch genommenen Flächen abzusichern. Dies betrifft beispielsweise Folgemaßnahmen bergbaulicher Aktivitäten, wie Wasserhaltungen aber auch der Rückbau von Anlagen, die Entfernung wassergefährdender Stoffe sowie die Sicherung von ehemaligen Abbauflächen durch Verfüllen oder Absperren.
-    p4: Die Behörde kann, sofern sie eine Sicherheit für notwendig hält und sich aus der jeweiligen gesetzlichen Vorschrift keine Beschränkungen ergeben, grundsätzlich jede geeignete Form der Sicherheitsleistung zulassen. Möglich sind die Hinterlegung von Bargeld und Wertpapieren, Hypotheken, spezielle Ausfallversicherungen, betriebliche Rückstellungen, Bank- oder Konzernbürgschaften und sogenannte harte Patronatserklärungen.
-    p5: " Branchenüblich im Rohstoffgewinnungssektor sind betriebliche Rückstellungen, Bankbürgschaften oder Versicherungsbürgschaften und insbesondere bei großen Unternehmen Konzernbürgschaften sowie Patronatserklärungen. Bargeld und Wertpapiere werden üblicherweise nicht als Sicherheit angenommen, da die Verwaltung dieser Finanzmittel durch die Behörde zu komplex ist. Insoweit handelt es sich nicht um Zahlungen der Unternehmen an staatliche Stellen."
-    p6: Die Höhe der festzusetzenden Sicherheitsleistung richtet sich nach den geschätzten Kosten einer möglicherweise notwendigen Ersatzvornahme. Soll ein Vorhaben in Abschnitten durchgeführt werden, wird die Sicherheitsleistung orientiert am tatsächlichen Eingriff etappenweise festgesetzt und nach erfolgreicher Teilwiedernutzbarmachung anteilig freigegeben.
+    title: Implementation securities
+    p1: Implementation securities are an instrument provided in the Federal Republic of Germany to implement the renaturation, safeguarding and rehabilitation measures to be carried out by extractive sector companies. If a company should fail or refuse to carry out the above measures, the authorities ensure that no additional costs will have to paid by the general public by means of so-called ‘substitute performances’.
+    p2: Implementation securities are expressly provided for under the Federal Mining Act (BBergG) as an official instrument for natural resources extraction projects which are subject to the BBergG. Individual Federal States have introduced similar legislation in their excavation laws (or other subordinate excavation regulations) for the extraction of natural resources which is outside the legal scope of the BBergG. Implementation securities can also be established to ensure the implementation of compensatory and substitution measures for interventions in nature and landscape, pursuant to § 17(5) of the Federal Nature Conservation Act (BNatSchG).
+    p3: Within the scope of its discretion pursuant to § 56(2) BBergG, the mining authority may make the granting of operating plan permits dependent on an implementation security, if this is necessary to guarantee (in particular) the implementation of measures for risk prevention and rehabilitation in the areas affected by the extraction of the natural resources. This applies to follow-up measures of mining activities such as water drainage, for example, but also to the dismantling of equipment, the removal of water-endangering substances and the securing of former extraction sites by backfilling them or blocking them off completely.
+    p4: In principle, the mining authority may permit any suitable form of implementation security if it considers that such a security is necessary and if there are no restrictions arising from the relevant statutory provisions; such forms of implementation security include the deposit of cash and bonds, mortgages, special default insurances, operational provisions, bank or group guarantees and so-called strict letters of comfort.
+    p5: " Operating provisions, bank guarantees or insurance guarantees and, particularly in the case of large companies, corporate guarantees and letters of comfort are customary in the natural resources extractive sector. Cash and bonds are not usually accepted as securities, since the management of these is too complex for the authorities; implementation securities are therefore not payments from companies to state agencies."
+    p6: The amount of the implementation security to be set is oriented on the estimated cost of a (possibly necessary) substitute performance. If a project is to be carried out in stages, the implementation security is set up in stages on the basis of the actual intervention and is approved on a pro rata basis after successful partial rehabilitation.
 
 wasser:
   title: Water
