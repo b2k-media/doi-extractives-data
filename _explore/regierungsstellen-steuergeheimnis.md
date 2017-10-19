@@ -30,7 +30,7 @@ breadcrumb:
           <a href="{{site.baseurl}}/rohstoffgewinnung/steuergeheimnis/">
             {% t regierungsstellen-steuergeheimnis.steuergeheimnis.link1 %}
           </a>
-          {% t regierungsstellen-steuergeheimnis.steuergeheimnis.p1 %}
+          {% t regierungsstellen-steuergeheimnis.steuergeheimnis.p2 %}
         </p>
         <ol>
           <li>{% t regierungsstellen-steuergeheimnis.steuergeheimnis.list1.li1 %}</li>
