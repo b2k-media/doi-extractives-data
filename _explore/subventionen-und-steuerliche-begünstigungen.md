@@ -4,6 +4,7 @@ layout: default
 permalink: /rohstoffgewinnung/subventionen-und-steuerliche-begunstigungen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
+    title_en: German Commodities Sector
     permalink: /rohstoffgewinnung/
 ---
 

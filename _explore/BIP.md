@@ -4,6 +4,7 @@ layout: default
 permalink: /daten/BIP/
 breadcrumb:
   - title: Daten
+    title_en: Explore Data
     permalink: /daten/
 ---
 

@@ -4,6 +4,7 @@ layout: default
 permalink: /rohstoffgewinnung/salze/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
+    title_en: German Commodities Sector
     permalink: /rohstoffgewinnung/
 ---
 

@@ -4,6 +4,7 @@ layout: default
 permalink: /daten/gesamtdeutsche_rohstoffproduktion/
 breadcrumb:
   - title: Daten
+    title_en: Explore Data
     permalink: /daten/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
