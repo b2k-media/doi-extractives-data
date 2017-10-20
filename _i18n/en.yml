@@ -3425,6 +3425,7 @@ downloads:
   umsatz_CSV: "/downloads/Turnover_of_the_Mining_and_Quarrying.csv"
   D-EITI_xlsx: "/downloads/D-EITI_payment reconciliation_2016.xlsx"
   zipfile: "/downloads/OpenData_D-EITI_Report_2016.zip"
+  unabhaengiger_verwalter_PDF: "/downloads/Recommendations_Independent_Administrator.pdf"
 
   h1: Data used at the interactive map on natural resources
   p1: 'The production data presented here is mainly based on the publication of the Federal Ministry of Economics and Technology (BMWi) "Mining in Germany"'
