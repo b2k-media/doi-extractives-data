@@ -2077,9 +2077,9 @@ bip:
       star2:
         title: "**"
         text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
-    daten_einsehen_pre: Detaillierte Quellenangabe siehe
-    daten_einsehen: Daten einsehen
-    daten_einsehen_post: . Eigene Darstellung.
+    daten_einsehen_pre: "See detailed sources here:"
+    daten_einsehen: "View data"
+    daten_einsehen_post: ". Own representation."
 
 beschäftigung:
     title: Beschäftigung
@@ -2291,127 +2291,127 @@ zahlungsströme:
     p2: "The MSG has decided to adopt these rules for the first D-EITI report.  If payments made during reporting year 2016 amounted to less than €100,000 per government agency, the data collection templates require relevant proof of the existence of payments, but without mentioning any specific amounts."
 
 unternehmen-und-zahlungsströme:
-    title: "Unternehmen und Zahlungsströme"
+    title: "Companies and payment reconciliation"
     nav_items:
       - name: title
-        title: Seitenanfang
+        title: Top of page
       - name: zahlungsabgleich
-        title: "Am Zahlungsabgleich teilnehmende Unternehmen"
+        title: "Participating companies and/or group of companies"
       - name: zahlungen
-        title: "Zahlungen und Differenzen Körperschaftsteuer"
+        title: "Payments and differences in the cash flow of corporation tax"
       - name: differenzen
-        title: "Zahlungen und Differenzen Feldes- und Förderabgaben"
+        title: "Payments and differences in the cash flow of minesite and extraction royalties"
       - name: feldes
-        title: "Feldes- Förderabgaben nach Bergbehörde"
-    daten_einsehen: "Daten einsehen"
+        title: "Results of the reconciliation of minesite/extraction royalties by mining authority "
+    daten_einsehen: "View data"
     zahlungsabgleich:
-      title: "Am Zahlungsabgleich teilnehmende Unternehmen"
+      title: "Participating companies and/or group of companies"
       table:
         head:
           h1: " "
           h2: " "
-          h3: "Sektor"
+          h3: "Sector"
         row1:
           td1: "1"
-          td2: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
-          td3: "Erdöl und Erdgas"
+          td2: "BEB Erdgas und Erdöl GmbH & Co. KG, Hanover"
+          td3: "Crude oil and natural gas"
         row2:
           td1: "2"
           td2: "DEA Deutsche Erdoel AG, Hamburg"
-          td3: "Erdöl und Erdgas"
+          td3: "Crude oil and natural gas"
         row3:
           td1: "3"
           td2: "Dyckerhoff - Gruppe, Wiesbaden"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row4:
           td1: "4"
           td2: "ENGIE E&P Deutschland GmbH, Lingen"
-          td3: "Erdöl und Erdgas"
+          td3: "Crude oil and natural gas"
         row5:
           td1: "5"
-          td2: "ExxonMobil Production Deutschland GmbH, Hannover"
-          td3: "Erdöl und Erdgas"
+          td2: "ExxonMobil Production Deutschland GmbH, Hanover"
+          td3: "Crude oil and natural gas"
         row6:
           td1: "6"
           td2: "Heidelberger Sand und Kies GmbH, Heidelberg"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row7:
           td1: "7"
           td2: "K+S - Gruppe"
         row7_1:
-          td2: "esco - european salt company GmbH & Co. KG, Hannover"
-          td3: "Kali und Salze"
+          td2: "esco - european salt company GmbH & Co. KG, Hanover"
+          td3: "Potash and salt products"
         row7_2:
           td2: "K+S Kali GmbH, Kassel"
-          td3: "Kali und Salze"
+          td3: "Potash and salt products"
         row8:
           td1: "8"
           td2: "LafargeHolcim - Gruppe"
         row8_1:
           td2: "Buss Basalt GmbH & Co. KG, Münzenberg"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row8_2:
-          td2: "Holcim (Deutschland) GmbH, Hamburgg"
-          td3: "Steine und Erden"
+          td2: "Holcim (Deutschland) GmbH, Hamburg"
+          td3: "Quarried natural resources"
         row8_3:
           td2: "Holcim Beton und Zuschlagstoffe GmbH, Hamburg"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row8_4:
           td2: "Holcim Kieswerk Zeithain GmbH & Co. KG, Dresden"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row8_5:
           td2: "Holcim West Zement GmbH, Beckum"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row8_6:
           td2: "Kalksteinwerke Medenbach GmbH, Breitscheid"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row8_7:
           td2: "Kieswerk Leinetal GmbH & Co. KG, Diekholzen"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row8_8:
           td2: "Kieswerk Hermann GmbH & Co. KG, Kirchhain"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row8_9:
           td2: "Kieswerke Borsberg GmbH & Co. KG, Pirna"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row9:
           td1: "9"
           td2: "Lausitz Energie Bergbau AG, Cottbus"
-          td3: "Braunkohle"
+          td3: "Lignite"
         row10:
           td1: "10"
           td2: "RWE - Gruppe"
         row10_1:
           td2: "Rheinische Baustoffwerke GmbH, Bergheim"
-          td3: "Steine und Erden"
+          td3: "Quarried natural resources"
         row10_2:
           td2: "RWE Power AG, Essen"
-          td3: "Braunkohle"
+          td3: "Lignite"
         row11:
           td1: "11"
           td2: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
-          td3: "Erdöl und Erdgas"
+          td3: "Crude oil and natural gas"
         row12:
           td1: "12"
           td2: "Wintershall Holding GmbH, Celle"
-          td3: "Erdöl und Erdgas"
+          td3: "Crude oil and natural gas"
 
     zahlungen:
-      title: "Zahlungen und Differenzen Körperschaftsteuer"
-      p: "Die Zahlungen und Differenzen des Zahlungsstroms Körperschaftsteuer stellen sich je Unternehmen wie folgt dar: "
+      title: "Payments and differences in the cash flow of corporation tax"
+      p: "The payments and differences in the cash flow of corporation tax are shown as follows for each company:"
       table:
         head:
-          h1: "Körperschaftssteuer"
-          h2: "Betrag lt. Unternehmen EUR"
-          h3: "Betrag lt. staatlicher Stellen EUR"
-          h4: "Differentz vorläufig EUR"
-          h5: "Differenz vorläfig %"
-          h6: "Klärung von Differenzen EUR"
-          h7: "ungeklärte Differenzen EUR"
-          h8: "ungeklärte Differenzen %"
+          h1: "Corporation tax"
+          h2: "Amount according to the company EUR"
+          h3: "Amount according to the public authorities"
+          h4: "Provisional differences EUR"
+          h5: "Provisional differences %"
+          h6: "Differences to be explained EUR"
+          h7: "Unexplained differences EUR"
+          h8: "Unexplained differences %"
         row1:
           i: "1"
-          p1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
+          p1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hanover"
           p2: "---"
           p3: " "
           p4: " "
@@ -2431,7 +2431,7 @@ unternehmen-und-zahlungsströme:
           p8: "0,00"
         subhead1:
           i: "3"
-          title: "Dyckerhoff - Gruppe:"
+          title: "Dyckerhoff - Gruppe, Wiesbaden:"
         row3:
           p1: "Dyckerhoff GmbH, Wiesbaden"
           p2: "1.447.779"
@@ -2462,7 +2462,7 @@ unternehmen-und-zahlungsströme:
           p8: "0,00"
         row6:
           i: "5"
-          p1: "ExxonMobil Production Deutschland GmbH, Hannover"
+          p1: "ExxonMobil Production Deutschland GmbH, Hanover"
           p2: "55.301.318"
           p3: "55.301.318"
           p4: "0,00"
@@ -2484,7 +2484,7 @@ unternehmen-und-zahlungsströme:
           i: "7"
           title: "K+S - Gruppe:"
         row8:
-          p1: "esco - european salt company GmbH & Co. KG, Hannover"
+          p1: "esco - european salt company GmbH & Co. KG, Hanover"
           p2: "---"
           p3: " "
           p4: " "
@@ -2646,25 +2646,25 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: "0,00"
     differenzen:
-      title: "Zahlungen und Differenzen Feldes- und Förderabgaben"
-      p: "Die Zahlungen und Differenzen des Zahlungsstroms Feldes-/Förderabgaben stellen sich je Unternehmen wie folgt dar: "
+      title: "Payments and differences in the cash flow of minesite and extraction royalties"
+      p: "The payments and differences in the cash flow of minesite and extraction royalties are shown as follows for each company:"
 
       table:
         row0:
           td0: " "
-          td1: "Feldes-/Förderabgaben nach Unternehmen"
-          td2: "Sektor"
-          td3: "Betrag lt. Unternehmen *)"
-          td4: "Betrag lt. staatlicher Stellen"
-          td5: "Differenzen vorläufig"
-          td6: "Differenzen vorläufig"
-          td7: "Klärung von Differenzen"
-          td8: "ungeklärte Differenzen"
-          td9: "ungeklärte Differenzen"
+          td1: "Minesite and extraction royalties by company"
+          td2: "Sector"
+          td3: "Amount according to the company *)"
+          td4: "Amount according to the public authorities EUR"
+          td5: "Provisional differences EUR"
+          td6: "Provisional differences %"
+          td7: "Differences to be explained EUR"
+          td8: "Unexplained differences EUR"
+          td9: "Unexplained differences %"
         row1:
           td0: "1"
-          td1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
-          td2: "Erdöl und Erdgas"
+          td1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hanover"
+          td2: "Crude oil and natural gas"
           td3: "65.116.685,09"
           td4: "64.987.248,76"
           td5: "129.436,33"
@@ -2675,7 +2675,7 @@ unternehmen-und-zahlungsströme:
         row2:
           td0: "2"
           td1: "DEA Deutsche Erdoel AG, Hamburg"
-          td2: "Erdöl und Erdgas"
+          td2: "Crude oil and natural gas"
           td3: "72.117.540,42"
           td4: "72.058.852,01"
           td5: "58.688,41"
@@ -2686,7 +2686,7 @@ unternehmen-und-zahlungsströme:
         row3:
           td0: "3"
           td1: "Dyckerhoff - Gruppe, Wiesbaden"
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2697,7 +2697,7 @@ unternehmen-und-zahlungsströme:
         row4:
           td0: "4"
           td1: "ENGIE E&P Deutschland GmbH, Lingen"
-          td2: "Erdöl und Erdgas"
+          td2: "Crude oil and natural gas"
           td3: "9.432.090,97"
           td4: "9.432.090,97"
           td5: "0,00"
@@ -2707,8 +2707,8 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row5:
           td0: "5"
-          td1: "ExxonMobil Production Deutschland GmbH, Hannover "
-          td2: "Erdöl und Erdgas"
+          td1: "ExxonMobil Production Deutschland GmbH, Hanover "
+          td2: "Crude oil and natural gas"
           td3: "41.190.853,28"
           td4: "41.190.853,13"
           td5: "0,15"
@@ -2719,7 +2719,7 @@ unternehmen-und-zahlungsströme:
         row6:
           td0: "6"
           td1: "Heidelberger Sand und Kies GmbH, Heidelberg "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2731,8 +2731,8 @@ unternehmen-und-zahlungsströme:
           td0: "7"
           td1: "K+S - Gruppe"
         row7_1:
-          td1: "esco - european salt company GmbH & Co. KG, Hannover"
-          td2: "Kali und Salze"
+          td1: "esco - european salt company GmbH & Co. KG, Hanover"
+          td2: "Potash and potash salt products"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2742,7 +2742,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row7_2:
           td1: "K+S Kali GmbH, Kassel"
-          td2: "Kali und Salze"
+          td2: "Potash and potash salt products"
           td3: "1.007.841,68"
           td4: "1.007.841,68"
           td5: "0,00"
@@ -2755,7 +2755,7 @@ unternehmen-und-zahlungsströme:
           td1: "LafargeHolcim - Gruppe "
         row8_1:
           td1: "Buss Basalt GmbH & Co. KG, Münzenberg  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2765,7 +2765,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_2:
           td1: "Holcim (Deutschland) GmbH, Hamburg  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2775,7 +2775,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_3:
           td1: "Holcim Beton und Zuschlagstoffe GmbH, Hamburg  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2785,7 +2785,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_4:
           td1: "Holcim Kieswerk Zeithain GmbH & Co. KG, Dresden  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2795,7 +2795,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_5:
           td1: "Holcim West Zement GmbH, Beckum  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2805,7 +2805,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_6:
           td1: "Kalksteinwerke Medenbach GmbH, Breitscheid  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2815,7 +2815,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_7:
           td1: "Kieswerk Leinetal GmbH & Co. KG, Diekholzen  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2825,7 +2825,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_8:
           td1: "Kieswerk Hermann GmbH & Co. KG, Kirchhain   "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2835,7 +2835,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row8_9:
           td1: "Kieswerke Borsberg GmbH & Co. KG, Pirna  "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2846,7 +2846,7 @@ unternehmen-und-zahlungsströme:
         row9:
           td0: "9"
           td1: "Lausitz Energie Bergbau AG, Cottbus "
-          td2: "Braunkohle"
+          td2: "Lignite"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2859,7 +2859,7 @@ unternehmen-und-zahlungsströme:
           td1: "RWE - Gruppe"
         row10_1:
           td1: "Rheinische Baustoffwerke GmbH, Bergheim "
-          td2: "Steine und Erden"
+          td2: "Quarried natural resources"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2869,7 +2869,7 @@ unternehmen-und-zahlungsströme:
           td9: "0,0"
         row10_2:
           td1: "RWE Power AG, Essen "
-          td2: "Braunkohle"
+          td2: "Lignite"
           td3: "0,00"
           td4: "0,00"
           td5: "0,00"
@@ -2881,7 +2881,7 @@ unternehmen-und-zahlungsströme:
         row11:
           td0: "11"
           td1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
-          td2: "Erdöl und Erdgas"
+          td2: "Crude oil and natural gas"
           td3: "2.114.465,01"
           td4: "2.011.648,60"
           td5: "102.816,41"
@@ -2892,7 +2892,7 @@ unternehmen-und-zahlungsströme:
         row12:
           td0: "12"
           td1: "Wintershall Holding GmbH, Celle"
-          td2: "Erdöl und Erdgas"
+          td2: "Crude oil and natural gas"
           td3: "40.832.665,00"
           td4: "40.695.620,69"
           td5: "137.044,31"
@@ -2913,34 +2913,34 @@ unternehmen-und-zahlungsströme:
           td9: "-0,0"
     sub0:
       title: "*)"
-      text: "Zahlungen im Sektor 'Erdöl und Erdgas' betreffen den eigenen Förderanteil aus der wirtschaftlichen Nutzung der jeweiligen Bergbauberechtigung"
+      text: "Payments made in the crude oil and natural gas sector relate to the own production share from the economic exploitation of the respective mining rights."
     sub1:
       title: "1)"
-      text: "Korrekturen aufgrund von Doppelerfassungen"
+      text: "Corrections due to duplicate entries"
     sub2:
       title: "2)"
-      text: "Korrekturen aufgrund zeitlicher Buchungsunterschiede"
+      text: "Adjustments due to the different timing of certain booking entries"
     sub3:
       title: "3)"
-      text: "Korrekturen um sonstige Gebühren u.ä."
+      text: "Correction for other fees, etc."
     sub4:
       title: "4)"
-      text: "Meldung erfolgt für Mobil Erdgas-Erdöl GmbH, Hamburg"
+      text: "Data delivered for Mobil Erdgas-Erdöl GmbH, Hamburg"
     feldes:
-      title: "Feldes- Förderabgaben nach Bergbehörde"
-      p: "Die Zahlungen und Differenzen für Feldes-/Förderabgaben entfallen auf die nachfolgend aufgeführten Bergbehörden:"
+      title: "Results of the reconciliation of minesite/extraction royalties by mining authority"
+      p: "The payments and differences of the minesite/extraction royalties by mining authority:"
       table:
         head:
-          h1: "Feldes-/Förderabgaben nach Bergbehörden"
-          h2: "Betrag lt. Unternehmen EUR"
-          h3: "Betrag lt. staatlicher Stellen EUR"
-          h4: "Differentz vorläufig EUR"
-          h5: "Differenz vorläfig %"
-          h6: "Klärung von Differenzen EUR"
-          h7: "ungeklärte Differenzen EUR"
-          h8: "ungeklärte Differenzen %"
+          h1: "Minesite and extraction royalties by mining authority"
+          h2: "Amount according to the company EUR"
+          h3: "Amount according to the public authorities EUR"
+          h4: "Provisional differences EUR"
+          h5: "Provisional differences %"
+          h6: "Differences to be explained EUR"
+          h7: "Unexplained differences EUR"
+          h8: "Unexplained differences %"
         row1:
-          p1: "Landesamt für Bergbau, Energie und Geologie, Hannover (LBEG)"
+          p1: "State Office for Mining, Energy and Geology, Hanover (LBEG)"
           p2: "177.293.644,24"
           p3: "176.934.011,78"
           p4: "359.632,46"
@@ -2949,7 +2949,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,01"
           p8: "0,0"
         row2:
-          p1: "LBEG für: Finanzverwaltung Schleswig Holstein, Kiel"
+          p1: "LBEG on behalf of: Fiscal Administration of Schleswig-Holstein, Kiel"
           p2: "49.415.226,88"
           p3: "49.354.265,9"
           p4: "60.960,98"
@@ -2958,7 +2958,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,01"
           p8: "0,0"
         row3:
-          p1: "LBEG für: Landeshaupkasse Bremen, Bremen"
+          p1: "LBEG on behalf of: State Treasury of Bremen, Bremen"
           p2: "23.726"
           p3: "23.725,8"
           p4: "0,20"
@@ -2967,7 +2967,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,20"
           p8: "0,0"
         row4:
-          p1: "Landesamt für Geologie und Bergbau, Mainz-Hechtsheim"
+          p1: "State Office for Geology and Mining, Mainz-Hechtsheim"
           p2: "2.787.291,19"
           p3: "2.779.898,98"
           p4: "7.392,21"
@@ -2976,7 +2976,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: "0,00"
         row5:
-          p1: "Regierung von Oberbayern, Bergamt Südbayern, München"
+          p1: "Government of Upper Bavaria, Mining Office of Southern Bavaria, Munich"
           p2: "1.284.411,46"
           p3: "1.284.411,7"
           p4: "-0,24"
@@ -2985,7 +2985,7 @@ unternehmen-und-zahlungsströme:
           p7: "-0,24"
           p8: "0,0"
         row6:
-          p1: "Regierungspräsidium Darmstadt, Wiesbaden"
+          p1: "Regional Council of Darmstadt, Wiesbaden"
           p2: "1.007.841,68"
           p3: "1.007.841,68"
           p4: "0,00"
@@ -3004,16 +3004,16 @@ unternehmen-und-zahlungsströme:
           p8: "0,0"
     sub-1:
       title: "1)"
-      text: "keine Zahlungen aufgrund Rechtsform"
+      text: "No payments have been made due to the legal form of the company."
     sub-2:
       title: "2)"
-      text: "Zahlungen erfolgen durch den Organträger"
+      text: "Payments are made by the parent company."
     sub-3:
       title: "3)"
-      text: "keine Angabe von Zahlungen aufgrund Organschaft"
+      text: "No payment information available due to the existence of a consolidated tax group."
     sub-4:
       title: "4)"
-      text: "Es sind Zahlungen erfolgt, allerdings in Summe unter EUR 100.000,00"
+      text: "Payments have been made, though in total sum below 100.000 EUR."
 
 zahlungsabgleich:
   title: "Zahlungsabgleich"
@@ -3466,9 +3466,9 @@ downloads:
     link3: "RGB 2016"
     p4: ", Tabellen 5, 28 und 29) entnommen."
   table_link:
-    p1: Detaillierte Quellenangaben siehe
-    link: "Daten einsehen."
-    p2: "Eigene Darstellung."
+    p1: "See detailed sources here:"
+    link: "View data"
+    p2: ". Own representation."
 
   steuern:
     title: Steuern Daten zu Staatseinnahmen durch Steuern
