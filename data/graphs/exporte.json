@@ -1,6 +1,6 @@
 [{
 	"title": "Rohstoffexporte nach Wert ",
-	"title_en": "Rohstoffexporte nach Wert [EN]",
+	"title_en": "Exports of the ‘Mining and Quarrying’ sector – divided into sub-sectors 2012-2016 (value)",
   "data": [
     [
 			[0.14, 2012],
@@ -33,11 +33,12 @@
 	],
 	"color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff"],
 	"labels": ["Kohle", "Erdöl und Erdgas", "Erze", "Steine und Erden"],
+	"labels_en": ["Coal", "Crude oil and natural gas", "Ores", "Quarried natural resources"],
 	"xAxis": [0, 2, 4, 6, 8, 9],
 	"unit": "Mrd. €"
 }, {
 	"title": "Rohstoffexporte nach Menge",
-	"title_en": "Rohstoffexporte nach Menge [EN]",
+	"title_en": "Exports of the ‘Mining and Quarrying’ sector – divided into sub-sectors 2012-2016 (quantity)",
 	"data": [
 		[
       [1.4100799, 2012],
@@ -70,6 +71,7 @@
 	],
   "color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff"],
 	"labels": ["Kohle", "Erdöl und Erdgas", "Erze", "Steine und Erden"],
+	"labels_en": ["Coal", "Crude oil and natural gas", "Ores", "Quarried natural resources"],
 	"xAxis": [0, 10, 20, 30, 40, 50],
 	"unit": "Mio. t"
 }]
