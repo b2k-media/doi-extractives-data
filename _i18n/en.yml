@@ -1613,23 +1613,8 @@ erneuerbare_energien:
 explore-data:
     title: "Explore data"
     introduction-first: |
-      Welcome to the D-EITI data portal.
-      Here you can discover the data collected as part of the D-EITI implementation data
-      and inform themselves about the German
-      <span class="term term_end" data-term="extractive sector" title="Click to define" tabindex="0">
-      extractive sector
-      <icon class="icon-book"></icon></span>.
-      Currently
-      <a href="#production">
-        Data for raw material production in Germany
-      </a> available.
-
-    introduction-second: |
-      Data To
-      <a href="#revenue">Revenue</a>
-      from German commodity sector and to
-      <a href="#economic-impact">social and economic importance </a>
-      the sector are constantly updated and added to the publication of the first D-EITI report in the summer 2017th.
+      Discover interactive data on the  <a href="#production">extraction of resources in Germany</a> as well as on the <a href="#revenue">economic and social contribution</a> of the extractive industry.
+    introduction-second: " "
     figcaption: |
       An interactive resource card, see:
       <a class="link-alpha" href="#production">production data</a>
@@ -1647,12 +1632,12 @@ explore-data:
       description-1: Here you can learn about the revenues that are generated in the German commodity sector more in the future.
 
     economic-impact:
-      heading-1: Wirtschaftliche und soziale Bedeutung
-      item1: BIP und Umsatz
-      item2: Einnahmen
-      item3: Beschäftigung
-      item4: Exporte
-      item5: Zahlungsabgleich
+      heading-1: Economic and social importance
+      item1: GDP and turnover
+      item2: Revenues
+      item3: Employment
+      item4: Exports
+      item5: Reconciliation of payments and revenues
 
 gesamtdeutsche_rohstoffproduktion:
   title: Gesamtdeutsche Rohstoffproduktion
