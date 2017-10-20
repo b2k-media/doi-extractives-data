@@ -27,6 +27,9 @@ permalink: /downloads/
       <h2 id="chart-title-1">{% t downloads.h2 %}</h2>
       <hr/>
       <p>
+      <a href="{{site.baseurl}}/daten/gesamtdeutsche_rohstoffproduktion/">
+        {% t downloads.link2_0 %}
+      </a>
         {% t downloads.p2_1 %}
         <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
           {% t downloads.link2_1 %}
@@ -36,7 +39,7 @@ permalink: /downloads/
       <p>
         {% t downloads.p3_1 %}
         <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
-          {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
+          {% t downloads.link3_0 %}
         </a>
         {% t downloads.p3_2 %}
       </p>
@@ -137,6 +140,9 @@ permalink: /downloads/
           {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_2 %}
+        <a target="_blank" href="{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_3 %}">
+          {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_3 %}
+        </a>
       </p>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_1 %}
@@ -169,7 +175,7 @@ permalink: /downloads/
  href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigPDF_2180140.pdf?__blob=publicationFile">PDF</a>
         {% t downloads.p5.p2 %}
         <a target="_blank"
- href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>).
+ href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>
         {% t downloads.p5.p3 %}
       </p>
       <p>{% t downloads.p5.p4 %}</p>
@@ -207,6 +213,17 @@ permalink: /downloads/
         {% t downloads.exporte.p3 %}
         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">{% t downloads.exporte.link3 %}</a>
         {% t downloads.exporte.p4 %}
+      </p>
+      <p class="downloads-download_links-intro">
+        {% t downloads.download_label %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}{% t downloads.exports_CSV %}">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (csv, 2 KB)
+            </a>
+          </li>
+        </ul>
       </p>
     </div>
 
@@ -284,6 +301,7 @@ permalink: /downloads/
         <a target="_blank" href="{% t downloads.förderabgaben.link2_data %}">
           {% t downloads.förderabgaben.link2 %}
         </a>
+        {% t downloads.förderabgaben.p2_2 %}
         <a target="_blank" href="{% t downloads.förderabgaben.link3_data %}">
           {% t downloads.förderabgaben.link3 %}
         </a>

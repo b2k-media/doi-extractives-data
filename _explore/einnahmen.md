@@ -29,7 +29,19 @@ breadcrumb:
           {% t einnahmen.steuern.title %}
         </h2>
         <p>{% t einnahmen.steuern.p1 %}</p>
-        <p>{% t einnahmen.steuern.p2 %}</p>
+        <p>{% t einnahmen.steuern.p2 %}
+        <a href="{{site.baseurl}}/downloads/#daten-zur-beitrag-zum-bip">
+          {% t einnahmen.steuern.daten_einsehen %}
+        </a>
+        {% t einnahmen.steuern.p3 %}
+        <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">
+          {% t einnahmen.steuern.link1 %}
+        </a>
+        {% t einnahmen.steuern.p4 %}
+        <a href="{{site.baseurl}}/rohstoffgewinnung/umgang-mit-der-natur/">
+          {% t einnahmen.steuern.link2 %}
+        </a>
+        </p>
         <br/>
       </section>
       <br/>
@@ -325,7 +337,7 @@ breadcrumb:
         </table>
         <p style="font-size: 0.75rem">
           {% t downloads.table_link.p1 %}
-            <a href="{{site.baseurl}}/downloads/#steuern">
+            <a href="{{site.baseurl}}/downloads/#förderabgaben ">
               <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
               {% t downloads.table_link.link %}
             </a>

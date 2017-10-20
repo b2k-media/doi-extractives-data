@@ -1603,7 +1603,7 @@ explore-data:
     title: "Daten"
     introduction-first: |
 
-      Hier können Sie interaktiv Zahlen und Daten rund um die <a href="#production">Förderung von Rohstoffen in Deutschland</a> entdecken und sich über den <a href="#revenue">wirtschaftlichen</a> und <a href="#economic-impact">sozialen Beitrag</a> des rohstoffgewinnenden Sektors informieren.
+      Hier können Sie interaktiv Zahlen und Daten rund um die <a href="#production">Förderung von Rohstoffen in Deutschland</a> entdecken und sich über den <a href="#revenue">wirtschaftlichen und sozialen Beitrag</a> des rohstoffgewinnenden Sektors informieren.
 
     introduction-second: " "
     figcaption: |
@@ -1695,7 +1695,8 @@ gesamtdeutsche_rohstoffproduktion:
     p2: "Quellenverzeichnis"
     p2_1: " [DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
-    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe."
+    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
     link2: "URL: https://www.natursteinverband.de/"
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
@@ -1818,7 +1819,10 @@ einnahmen:
       p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2015 oben genannte Steuern in Höhe von 361 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,03 %. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren zurückgegangen.
       p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
       daten_einsehen: Daten einsehen
-      p3: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei dargestellt.
+      p3: " "
+      link1: " "
+      p4: " "
+      link2: " "
       körperschaftsteuer:
         title: Körperschaftsteuer
         p: Ausgewertet wurden statistische Daten der Jahre 2010 bis 2012. Für die Schätzung wurden die festgesetzten Körperschaftsteuern unbeschränkt und beschränkt Körperschaftsteuerpflichtiger vor Anrechnung von Kapitalertragsteuer o.Ä. berücksichtigt. Die Fortschreibung für die Jahre 2013 bis 2015 erfolgte anhand der Entwicklung der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“.
@@ -3403,6 +3407,7 @@ downloads:
   D-EITI_xlsx: "/downloads/D-EITI_Zahlungsabgleich_2016.xlsx"
   zipfile: "/downloads/Daten_zum_1._D-EITI_Bericht.zip"
   unabhaengiger_verwalter_PDF: "/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf"
+  exports_CSV: "downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
 
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
@@ -3410,10 +3415,12 @@ downloads:
   download_link: Daten herunterladen
   download_label_förderabgaben: Download der Daten
   h2: Daten zur gesamtdeutschen Rohstoffproduktion
+  link2_0: " "
   p2_1: Die Zahlen zu den Produktionsmengen von Steinkohle, Braunkohle, Erdöl, Erdgas, Kalisalz, Spezialton, Steinsalz und Industriesole, basieren auf den Angaben der BMWi Publikation
   link2_1: „Der Bergbau in der Bundesrepublik Deutschland 2015“.
   p2_2: Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von Rohstoffen in Deutschland erhält.
   p3_1: Die Daten zur Gewinnung der Bodenschätze werden über die Bergämter erhoben und umfassen alle nutzbaren Bodenschätze, die nach den Vorschriften des BBbergG unter Aufsicht der Behörde gewonnen werden sowie Erzeugnisse, die durch Be- oder Verarbeitung der vorgenannten Bodenschätze anfallen oder hergestellt werden. D. h. bei Bodenschätzen, die nur teilweise unter Bergrecht fallen, gibt die Statistik kein umfassendes Bild. Deshalb liegen die Angaben von Produktionsmengen von Quarzkies und -sand (Bundesverband Mineralische Rohstoffe (MIRO) 2016), Kies und Sand (MIRO 2016), gebrochenem Naturstein (MIRO 2016), Kalk-, Mergel und Dolomitstein (Bundesverband der Deutschen Kalkindustrie (BVK)) sowie für Naturwerkstein (Deutscher Naturwerkstein-Verband (DNV)) die Daten der Verbände zugrunde. Für Kaolin wird auf die Schätzung der BGR (BGR 2016) zurückgegriffen, da der Wert von 3,7 Mio. t
+  link3_0: " "
   p3_2: sich nicht auf die am Markt erhältlichen Produkte bezieht.
   p4: Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände oder verschiedener Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2015 (BGR 2016). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach DESTATIS), Steinsalz und Industriesole (Berechnung nach DESTATIS) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind MIRO 2016 entnommen. Die Werte der Produktion der Natursteine DNV 2016 und von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen.
   h3: Daten zum Beitrag zum BIP
@@ -3460,6 +3467,7 @@ downloads:
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
     link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%20f%C3%BCr%20Wirtschaft%20und%20Energie_2017-18.pdf"
+    p2_2: und
     link3: Niedersachsen.
     link3_data: "http://www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
     label1: "Download der Daten zu Förderabgaben"

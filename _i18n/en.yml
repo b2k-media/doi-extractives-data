@@ -427,18 +427,18 @@ genehmigung-von-bergbauprojekten:
     p3: "According to the Federal Mining Act, mine inspectors may enter the mines, demand information, visit facilities and carry out tests – and they may also impose requirements in individual cases. The mining entrepreneurs also have obligations, e.g. to report incidents and accidents, to accept the actions of the mining inspection authorities and to accompany the mine inspectors on tours of the mines and mine buildings (inspections)."
   h2: Steps for the approval of mining projects of landowners natural resources
   h3: Proof of ownership
-  p2: Besitznachweis für Grundstück z. B. Pachtvertrag muss vorliegen
-  h4: Aufsicht durch die Bergbehörden der Länder
+  p2: of the land e.g. land leasing contract must be available.
+  h4: Approval procedures
   p3:
-    p1: Für den Abbau dieser Rohstoffe finden Genehmigungsverfahren nach dem
-    k1: Bundesimmissionsschutzgesetz
-    p2: den
-    k2: landesrechtlichen
-    p3: ", dem"
-    k3: Bauordnung
-    p4: oder dem
-    k4: Wasserhaushaltsgesetz
-    p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
+    p1: as per the
+    k1: Federal Immission Control Act
+    p2: ","
+    k2: the State’s Excavation Laws
+    p3: ","
+    k3: Building Laws
+    p4: or its
+    k4: Water Resources Legislation
+    p5: "(in wet extraction) are carried out. The materials in question are mostly ‘bulk materials’ from the quarried natural resources sector."
 
 genehmigung-zulassung:
     title: Approval of an operating plan
@@ -1613,23 +1613,8 @@ erneuerbare_energien:
 explore-data:
     title: "Explore data"
     introduction-first: |
-      Welcome to the D-EITI data portal.
-      Here you can discover the data collected as part of the D-EITI implementation data
-      and inform themselves about the German
-      <span class="term term_end" data-term="extractive sector" title="Click to define" tabindex="0">
-      extractive sector
-      <icon class="icon-book"></icon></span>.
-      Currently
-      <a href="#production">
-        Data for raw material production in Germany
-      </a> available.
-
-    introduction-second: |
-      Data To
-      <a href="#revenue">Revenue</a>
-      from German commodity sector and to
-      <a href="#economic-impact">social and economic importance </a>
-      the sector are constantly updated and added to the publication of the first D-EITI report in the summer 2017th.
+      Discover interactive data on the  <a href="#production">extraction of resources in Germany</a> as well as on the <a href="#revenue">economic and social contribution</a> of the extractive industry.
+    introduction-second: " "
     figcaption: |
       An interactive resource card, see:
       <a class="link-alpha" href="#production">production data</a>
@@ -1638,7 +1623,7 @@ explore-data:
       heading-1: Commodity production in Germany
       sub-heading-1: Interactive Resource Card
       description-1: For the first time ever commodities production data at the provincial level in an interactive resource card are available.
-      sub-heading-2: Total German production of raw materials
+      sub-heading-2: Natural resource extr. in Germany
       description-2: Inform about which <span class="term" data-term="raw materials" title="Click to define" tabindex="0">raw materials<icon class="icon-book"></icon></span> are to promote in Germany.
 
     revenue :
@@ -1647,12 +1632,12 @@ explore-data:
       description-1: Here you can learn about the revenues that are generated in the German commodity sector more in the future.
 
     economic-impact:
-      heading-1: Wirtschaftliche und soziale Bedeutung
-      item1: BIP und Umsatz
-      item2: Einnahmen
-      item3: Beschäftigung
-      item4: Exporte
-      item5: Zahlungsabgleich
+      heading-1: Economic and social importance
+      item1: GDP and turnover
+      item2: Revenues
+      item3: Employment
+      item4: Exports
+      item5: Reconciliation of payments and revenues
 
 gesamtdeutsche_rohstoffproduktion:
   title: Gesamtdeutsche Rohstoffproduktion
@@ -1668,58 +1653,59 @@ gesamtdeutsche_rohstoffproduktion:
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
   steinkohle:
-    title: Steinkohle
-    p: Die deutsche Steinkohlenförderung sinkt seit Jahren kontinuierlich und es ist geplant bis Ende 2018 die Förderung sozialverträglich zu beenden. Im Jahr 2015 betrug die Förderung 6,2 Mio. t v.F. Aus den durchschnittlichen Grenzübergangspreisen für Kraftwerkskohlen für das Jahr 2015, kann man daraus einen Wert von etwa 423 Mio. Euro abschätzen.
+    title: Hard coal
+    p: Plans are in the pipeline to end German hard coal extraction in a socially-acceptable manner by 2018, since the industry has been steadily declining for years. 6.2 million tons of usable output were extracted in 2015. An approximate value of €423 million for this quantity can be estimated from the average 2015 cross-border prices for power station coal.
   braunkohle:
-    title: Braunkohle
-    p: Die Förderung der heimischen Braunkohle lag bei 178,1 Mio. t in etwa auf dem Vorjahresniveau. Nach Schätzung der BGR entspricht dies einem Wert von 2431 Mio. Euro.
+    title: Lignite
+    p: At 178.1 million tons, lignite extraction remained around the previous year’s level. According to the estimate of the BGR, this corresponds to a value of €2,431 million.
   erdöl:
-    title: Erdöl
-    p: Die deutsche Erdölproduktion lag im Jahr 2015 bei 2,41 Mio. t. Ähnlich wie bei der Steinkohle hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdölproduktion auf 859 Mio. Euro abgeschätzt.
+    title: Crude oil
+    p: German crude oil production in 2015 was 2.41 million tons. As in the case of hard coal, the BGR again used the average 2015 cross-border prices as a basis for estimating the value of crude oil production at €859 million.
   erdgas:
-    title: Erdgas
-    p: 2015 wurde in der Bundesrepublik in neun Bundesländern Erdgas (einschl. Erdölgas) in Höhe von 9.387,62 Mio. m³ gefördert. Wie bei Erdöl, hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2015 den Wert der Erdgasproduktion auf 2064 Mio. Euro abgeschätzt.
+    title: Natural gas
+    p: 2015 saw 9,387.62 m³ of natural gas (incl. petroleum gas) extracted from sites in nine German Federal States. As in the case of crude oil, the BGR again used the average 2015 cross-border prices as a basis for estimating the value of natural gas production at €2,064 million.
   kalisalz:
-    title: Kalisalz
-    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2015 bei 5,7 Mio. t in Form von Kaliprodukten
-    link1: (BMWi 2016).
-    p1_2: Dazu kommen noch sonstige Erzeugnisse aus der Kalifabrikation in Höhe von rund 1,5 Mio. t
-    link2: (BMWi 2016).
-    p1_3: Der Wert der Kali- und Kalisalzprodukte beträgt nach der Berechnung der BGR etwa 2.156 Mio. Euro.
+    title: Potash salt
+    p1_1: "Two companies in Germany extract potash salt and magnesium salt. The usable extracted output in 2015 amounted to 5.7 million tons in the form of potash products ["
+    link1: BMWi 2016
+    p1_2: "]. 1.5 million tons from other by-products of potash production must be added to that figure ["
+    link2: BMWi 2016
+    p1_3: "]. The BGR calculated that the total quantity has a value of roughly €2,156 million."
   spezialton:
-    title: Spezialton
-    p: Nach Angaben der deutschen Bergbehörden wurden im Jahr 2015 in Deutschland 6,40 Mio. t verwertbarer Menge an Spezialton gefördert. Dabei handelt es sich um hochwertigen Ton für die keramische Industrie und Feuerfesttone. Nach Angaben des Statistischen Bundesamtes hat die BGR den Wert dieser Menge auf 148 Mio. Euro berechnet.
+    title: Special clay
+    p: According to the German mining authorities, 6.40 million usable tons of special clay were extracted in Germany in 2015. The clay in question is high-quality material for the ceramic industry and refractory use. According to the Federal Office of Statistics, the BGR calculated the value of this amount at €148 million.
   steinsalz:
-    title: Steinsalz und Industriesole
-    p: Nach Angaben der deutschen Bergbehörden wurden im Jahre 2015 in Deutschland 13,7 Mio. t (NaCl-Inhalt) an Steinsalz und Industriesole gewonnen. Aufbauend auf Wertangaben des Statistischen Bundesamtes berechnete die BGR den Wert dieser Menge auf 566 Mio. Euro.
+    title: Rock salt and industrial brine
+    p: 13.7 million tons of rock salt and industrial brine (NaCl content) were extracted in Germany in 2015, according to the German mining authorities. The BGR calculated the value of that quantity to be €566 million, based on value information from the Federal Office of Statistics.
   kaolin:
-    title: Kaolin
-    p1_1: Kaolin wird überwiegend in der Papierindustrie und zu Produktion von Feinkeramik verwendet. Nach den Meldungen der deutschen Bergbehörden, wurden im Jahr 2015 5,3 Mio. t kaolinhaltiges Rohmaterial gefördert, wovon 3,8 Mio. t verwertbar waren
-    link: (BMWi 2016).
-    p1_2: Nach Aufbereitung blieben etwa 1,1 Mio. t verkaufsfähige Kaolinprodukte im Wert von 119 Mio. Euro.
+    title: China clay
+    p1_1: "China clay or kaolin is used mainly in the paper industry and in the production of fine ceramics. According to information provided by the German mining authorities, 5.3 million tons of kaolin-bearing raw material were extracted in 2015, of which 3.8 million tons were usable ["
+    link: BMWi 2016
+    p1_2: "]. Around 1.1 million tons of saleable kaolin products remained after treatment and this quantity was valued at €119 million."
   quarzkies_und_sand:
-    title: Quarzkies und –sand
-    p1_1: Die Gewinnung von Quarzkiese und –sanden
+    title: Quartz gravel and sand
+    p1_1: In 2015, 9.7 million tons of quartz gravel and quartz sands
     sup2:
-      title: "2"
-      text: "In [BMWi 2016] wird eine andere Klassifikation betrachtet, nämlich Quarz und Quarzsand. Davon sind Quarzsand und-kies nur eine Untermenge, die nicht eigens nach Bergrecht ausgewiesen wird. Für die Schätzung des Wertes werden deshalb hier die Daten aus [MIRO 2016] übernommen."
-    p1_2: belief sich im Jahr 2015 auf 9,7 Mio. t mit einem Wert von 205,5 Mio. Euro. Der Rohstoff wird u. a. als Glassand, Gießereisand sowie als Füllstoff in chemischen und bauchemischen Produkten eingesetzt.
-  kies_und_sand:
-    title: Kies und Sand und gebrochener Naturstein
-    p: Kiese, Sande und gebrochene Natursteine werden zu ca. 95 % in der Bau- und Baustoffindustrie verwendet (BGR 2016). Hier kommen sie z. B. im Tiefbau oder in der Betonherstellung zum Einsatz. Im Jahr 2015 wurden Kiese und Sande in Höhe von 239 Mio. t mit einem Wert von 1.510 Mio. Euro gefördert, sowie gebrochene Natursteine in Höhe von 210 Mio. t und einem Wert von 1.439 Mio. Euro.
-    sup1:
       title: "1"
-      text: "Alle Angaben aus [MIRO 2016]. Die geförderte Menge in [BMWi 2016] zu Kiesen und Kiessanden ist wesentlich geringer, da nur ein Bruchteil der Unternehmen unter das Bergrecht fällt."
+      text: "In [BMWi 2016], a different classification is considered, namely that of quartz and quartz sand. Of these quartz sand and quartz gravel are only a sub-group, which is not specifically designated according to mining law. The data from [MIRO 2016] is therefore used to estimate the value."
+    p1_2: "were extracted in 2015, valued at €205.5 million. Among its other uses, the raw material is used as vitreous sand, foundry sand and as a filler in chemical and building chemical products. "
+  kies_und_sand:
+    title: Gravel, sand and broken natural stone
+    p: Around 95% of the gravel, sand and broken natural stone extracted today is used in the building and building materials industries [BGR 2016], where they are used in underground engineering and in the manufacture of concrete amongst others. In 2015, 239 million tons of gravels and sands (with a value of €1,510 million) and 210 million tons of broken natural stone (valued at €1,439 million) were extracted.
+    sup1:
+      title: "2"
+      text: "All data taken from [MIRO 2016]. The amount of extracted gravels and gravel sands indicated in [BMWi 2016] is significantly less, since only very few of the companies are subject to mining law."
   naturwerkstein:
-    title: Naturwerkstein
-    p: Naturwerkstein wird zunächst in Rohblöcken gewonnen und anschließend zu Platten unterschiedlichen Formats gesägt. Diese Platten werden z. B. als Fassadenverkleidung oder als Wand- und Bodenbelag eingesetzt. Zudem finden sie als Fensterbänke, Treppenstufen und Grabsteine Verwendung. Im Jahr 2015 wurden 0,44 Mio. t des Rohstoffs gefördert, mit einem geschätzten Wert von 52 Mio. Euro.
+    title: Ashlar
+    p: "Ashlar is first extracted in raw blocks and then sawn into plates of different formats, which are e.g. for facade cladding, wall and floor coverings, window sills, stair steps and gravestones. In 2015, 0.44 million tons of this natural resource were extracted, with an estimated value of €52 million."
   kalk_mergel:
-    title: Kalk-/Mergel- und Dolomitstein
-    p: Im Jahr 2015 wurden 48,9 Mio. t Kalk-, Mergel- und Dolomitstein mit einem Wert von 719 Mio. Euro gefördert. Kalk wird u. a. im Haus- und Straßenbau sowie bei der Produktion von z. B. Eisen, Stahl, Zement, Glas oder Lebensmitteln eingesetzt.
-    p2: "Quellenverzeichnis"
+    title: Limestone, marlstone and dolomite
+    p: 48.9 million tons of limestone, marlstone and dolomite valued at €719 million were extracted in 2015. Limestone is used in many sectors, including home and road construction and in iron, steel, cement, glass and foodstuffs production.
+    p2: "Bibliography "
     p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
-    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe. https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe."
+    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
     link2: "URL: https://www.natursteinverband.de/"
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
@@ -1821,64 +1807,65 @@ gesamtdeutsche_rohstoffproduktion:
     note: "Die Wertangaben sind nur für Kali- und Kalisalzprodukte möglich"
 
 einnahmen:
-    title: Beitrag zu den Staatseinnahmen
+    title: Contribution to government revenue
     nav_items:
       - name: title
-        title: Seitenanfang
+        title: Top of page
       - name: steuern
-        title: Steuern
+        title: Taxes
       - name: förder_feldesabgaben
-        title: Förder- und Feldesabgaben
-      - name: umsatz
-        title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-    p1_1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 750 Mio. Euro im Jahr 2015. Dies entspricht einem Anteil von 0,06 % an den Gesamteinnahmen des Staates. Daneben gibt es weitere Zahlungen des rohstoffgewinnenden Sektors an den Staat wie zum Beispiel Pachten, Energie- und Stromsteuern (siehe
-    link: „Einnahmen aus der rohstoffgewinnenden Industrie“
-    p1_2: ) sowie Zahlungen in Zusammenhang mit naturschutzrechtlichen Eingriffen sowie der Wassernutzung (siehe
-    link1: „Umgang mit dem Eingriff in die Natur“
-    p1_3: ), die hier nicht dargestellt sind.
+        title: Extraction and minesite royalties
+    p1_1: "The natural resources sector generates revenue for the State at different Federal levels. The most important revenues are the taxes from general company taxation (corporation tax and income tax, as well as trade tax and the solidarity surcharge), as well as natural resource-specific minesite and extraction royalties. Added together, these revenues from the extractive industry amounted to around €750 million in 2015. This corresponds to a share of 0.06% of the total income of the Germany State. Other payments are also made by the extractive sector to the state, such as leaseholds, energy and electricity taxes ("
+    link: read more on payments made
+    p1_2: "), as well as payments relating to interventions in nature conservation legislation and water use ("
+    link1: "read more"
+    p1_3: "), which are not shown here."
     steuern:
-      title: Steuern
-      p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2015 oben genannte Steuern in Höhe von 361 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,03 %. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren zurückgegangen.
-      p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
-      daten_einsehen: Daten einsehen
-      p3: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei dargestellt.
+      title: Taxes
+      p1: The sum of the above-mentioned taxes paid by the extractive industry in 2015 amounted to €361 million. This corresponds to a proportion of around 0.03% of the State’s total income. The largest amount of tax revenues is generated by trade and corporation taxes. However, tax revenues from the extractive industry have declined in recent years.
+      p2: The following table shows the estimated revenues from the above taxes of the extractive industry and their share of the total tax revenue (for detailed source information
+      daten_einsehen: View Data
+      p3: ").  Other payment flows not addressed in the following table are described "
+      link1: here
+      p4: and
+      link2: here.
       körperschaftsteuer:
-        title: Körperschaftsteuer
-        p: Ausgewertet wurden statistische Daten der Jahre 2010 bis 2012. Für die Schätzung wurden die festgesetzten Körperschaftsteuern unbeschränkt und beschränkt Körperschaftsteuerpflichtiger vor Anrechnung von Kapitalertragsteuer o.Ä. berücksichtigt. Die Fortschreibung für die Jahre 2013 bis 2015 erfolgte anhand der Entwicklung der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“.
+        title: Corporation tax
+        p: "Statistical data from the years 2010 to 2012 was assessed. For the purposes of the assessment, the corporation tax amounts imposed on unlimited and limited corporation taxpayers before the deduction of capital gains tax or the like were taken into account. The update for the years 2013 to 2015 was made on the basis of the development of the gross value added of the economic sector B, ‘Mining and Quarrying.’"
       gewerbesteuer:
-        title: Gewerbesteuer
-        p1: Die Gewerbesteuer wird in Deutschland von den über 11.000 Gemeinden nach individuell festgelegten und dadurch differierenden Hebesätzen erhoben. Ausgangsbasis für die Bemessung der Gewerbesteuer ist der Gewerbeertrag. Dies ist der nach Einkommensteuer- bzw. Körperschaftsteuerrecht zu bestimmende Gewinn, der ggf. um Hinzurechnungen und Kürzungen nach dem Gewerbesteuergesetz erhöht bzw. gemindert wird. Auf Grundlage des Gewerbeertrags wird deutschlandweit einheitlich ein Steuermessbetrag ermittelt und durch Anwendung des jeweiligen Hebesatzes der Gemeinde auf den Steuermessbetrag die vom Unternehmen zu zahlende Gewerbesteuer bestimmt. Der Gewerbesteuer unterliegen Körperschaften, Personengesellschaften und natürliche Personen mit ihren gewerblichen Einkünften.
-        p2: In der Gewerbesteuerstatistik sind nur die im Veranlagungsverfahren ermittelten Steuermessbeträge enthalten. Das Statistische Bundesamt hat in einer Sonderauswertung der Statistiken für die Jahre 2010 und 2011 den dort nachgewiesenen positiven Steuermessbeträgen der betrachteten Unternehmen die Hebesätze der entsprechenden Gemeinden zugeordnet. Damit konnte die Gewerbesteuer näherungsweise ermittelt werden.
+        title: Trade tax
+        p1: "Trade tax in Germany is collected by more than 11,000 municipalities according to individually determined and thus differing rates. The basis for the calculation of the trade tax is trade income. This is the profit determined pursuant to the income tax law or the corporation tax law. The amount of trade tax may be increased or reduced by additions and reductions as per the German Trade Tax Act.  On the basis of the business income, a taxable amount is calculated uniformly throughout Germany and the trade tax to be paid by the company is determined by applying the respective tax factor of the municipality to the taxable amount. Trade tax is levied on corporations, partnerships and natural persons with their commercial income."
+        p2: "Only the taxable amounts determined during the assessment procedure are included in the trade tax statistics. The Federal Office of Statistics used the results of a special evaluation of statistics for the years 2010 and 2011 to assign the positive taxable amounts of the companies in question to the relevant tax rates charged by the respective municipalities. This enabled the trade tax to be determined in an approximate manner."
       einkommensteuer:
-        title: Einkommensteuer
-        p1: Natürliche Personen können als Einzelunternehmer oder Beteiligte an einer Personengesellschaft ebenfalls Gewinne im rohstoffgewinnenden Sektor erzielen und sind mit diesen gewerbe- und einkommensteuerpflichtig. In der Einkommensteuerstatistik sind jedoch keine Untergliederungen nach Wirtschaftszweigen enthalten. Damit konnte diese Statistik für die vorliegende Untersuchung nicht genutzt werden. Die Statistik über Personengesellschaften wiederum ist zwar nach Wirtschaftszweigen gegliedert, sie dient jedoch nur der Feststellung der erzielten Einkünfte, die bei den Beteiligten (Mitunternehmern) der Besteuerung entweder bei der Körperschaftsteuer oder der Einkommensteuer unterliegen.
-        p2: "Die auf den rohstoffgewinnenden Sektor entfallende Einkommensteuer wurde aufgrund der vorgenannten Probleme mit folgenden Verfahren unter Nutzung der Gewerbesteuerstatistik und der Statistik über die Personengesellschaften und Gemeinschaften geschätzt:"
-        p3: Für die Einzelunternehmen wurde aus den in der Gewerbesteuerstatistik ausgewiesenen positiven Steuermessbeträgen dieser Personengruppe durch Rückrechnung ein näherungsweiser Gewinn ermittelt. Die Summe der Einkünfte von Personengesellschaften, die im entsprechenden Wirtschaftszweig auf natürliche Personen als Beteiligte entfällt, wurde aus der Statistik über Personengesellschaften und Gemeinschaften ausgewertet.
-        p4: Auf diesen Gewinn bzw. diese Summe der Einkünfte wurde ein durchschnittlicher Steuersatz von 28,6 % angewendet. Dieser durchschnittliche Steuersatz wurde mithilfe eines Mikrosimulationsmodells für Einkommensteuerpflichtige mit gewerblichen Einkünften ermittelt. Unter Berücksichtigung der Gewerbesteueranrechnung auf die Einkommensteuer ergibt sich die in der Tabelle dargestellte Größenordnung für die Einkommensteuer.
+        title: Income tax
+        p1: "Natural persons, as individual entrepreneurs or members of a partnership, can also make profits in the natural resources extractive sector – and are therefore subject to trade and income tax. However, income tax statistics do not include any breakdown by economic sectors, therefore this statistic could not be used for the present study. The statistics on partnerships, however, are broken down into economic sectors, but they are only used to determine the earned income, which is subject either to corporation tax or income tax imposed on the parties involved (co-entrepreneurs)."
+        p2: "Due to the above-mentioned problems, the income tax attributable to the natural resources extractive sector was estimated by means of the following procedures, using the trade tax statistics and the statistics on partnerships and communities:"
+        p3: "An approximate profit was determined for the individual entrepreneurs, by means of retroactive calculation, using the positive taxable amounts assessed in the trade tax statistics for this group of persons. The sum of the income of partnerships, which, in the relevant industry, is attributable to natural persons as participants, was assessed from the statistics on partnerships and communities."
+        p4: "An average tax rate of 28.6 % was applied to this profit or to this sum of earnings. This average tax rate was calculated using a microsimulation model for persons with commercial incomes who pay income tax. With the trade tax offset against the income tax, the results in the table show the approximate income tax amounts."
       solidaritätszuschlag:
-        title: Solidaritätszuschlag
-        p1: Zur Einkommensteuer und zur Körperschaftsteuer wird ein Solidaritätszuschlag als Ergänzungsabgabe erhoben. Er beträgt grundsätzlich 5,5 % der festgesetzten Körperschaft- und Einkommensteuer (siehe vorhergehende Erläuterungen).
-        p2: Einkommensteuer und Solidaritätszuschlag sind nicht Teil des D-EITI Zahlungsabgleichs  (zur Begründung vgl. Kap. 9 / Annex).
-        p3_1: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei
-        link1: "Anfallende Zahlungen"
-        p3_2: und
-        link2:  "Umgang mit der Natur"
-        p3_3: dargestellt.
+        title: Solidarity surcharge
+        p1: A solidarity surcharge is levied as a supplementary tax to income tax and corporation tax. It generally amounts to 5.5 % of the established corporation tax and income tax (see previous explanations).
+        p2: Income tax and the solidarity surcharge are not part of the D-EITI payment reconciliation.
+        p3_1: Other payment flows not addressed in the following table are described in
+        link1: "Payments made"
+        p3_2: and
+        link2: "Dealing with nature"
+        p3_3: .
 
     steuereinnahmen:
-      title: Steuereinnahmen aus dem Rohstoffsektor (Körperschaftsteuer, Gewerbesteuer, Einkommensteuer und Solidaritätszuschlag)
-      th1: Steuerart
+      title: Tax revenues from the natural resources sector (corporation tax, trade tax, income tax and the solidarity surcharge)
+      th1: Type of tax
       th2:
-        title: Jahr
+        title: Year
         th21: "2010"
         th22: "2011"
         th23: "2012"
         th24: "2013"
         th25: "2014"
         th26: "2015"
-        th0: in Mio. €
+        th0: in millions of €
       row1:
-        td1: Körperschaftsteuer
+        td1: Corporation tax
         td2: "132"
         td3: "154"
         td4: "173"
@@ -1886,7 +1873,7 @@ einnahmen:
         td6: "148"
         td7: "122"
       row2:
-        td1: Gewerbesteuer
+        td1: Trade tax
         td2: "155"
         td3: "248"
         td4: "266"
@@ -1894,7 +1881,7 @@ einnahmen:
         td6: "227"
         td7: "187"
       row3:
-        td1: Einkommensteuer
+        td1: Income tax
         td2: "39"
         td3: "34"
         td4: "60"
@@ -1902,7 +1889,7 @@ einnahmen:
         td6: "51"
         td7: "42"
       row4:
-        td1: Solidaritätszuschlag
+        td1: Solidarity surcharge
         td2: "9"
         td3: "10"
         td4: "13"
@@ -1910,7 +1897,7 @@ einnahmen:
         td6: "11"
         td7: "9"
       row5:
-        td1: Summe
+        td1: Totals
         td2: "335"
         td3: "446"
         td4: "512"
@@ -1918,7 +1905,7 @@ einnahmen:
         td6: "438"
         td7: "361"
       row6:
-        td1: Gesamteinnahmen des Staates
+        td1: Total income of the State
         td2: 1.030.908
         td3: 1.103.862
         td4: 1.163.357
@@ -1926,40 +1913,40 @@ einnahmen:
         td6: 1.244.589
         td7: 1.301.816
       row7:
-        td1: Anteil o.g. Steuern an Gesamteinnahmen
+        td1: Proportion of the above taxes on total receipts
         td2: 0,03%
         td3: 0,04%
         td4: 0,04%
         td5: 0,04%
         td6: 0,04%
         td7: 0,03%
-      row8: "nachrichtlich:"
+      row8: "for information only:"
       row9:
-        td1: Fortschreibungsfaktor
+        td1: Updating factor
         td4: 7,09%
         td5: -11,40%
         td6: -3,48%
         td7: -17,61%
     förder_feldesabgaben:
-      title: Förder- und Feldesabgaben
-      p1: Die Förderabgaben werden von den Bergämtern der Bundesländer erhoben und variieren stark, abhängig von der lokalen Bergbauaktivität und den festgelegten Abgabesätzen in den einzelnen Bundesländern. Insgesamt wurden 2016 in Deutschland 233 Mio. Euro Fördereinnahmen erhoben. Spitzenreiter war mit Abstand Niedersachsen, mit mehr als 172 Mio. Euro. Auf Rang zwei folgt Schleswig-Holstein mit rund 48 Mio. Euro, gefolgt von Rheinland-Pfalz mit rund 5 Mio. Euro. Bei einigen Bundesländern unterlag die Höhe der Einnahmen in den vergangenen Jahren signifikanten Schwankungen. Dies kann unterschiedliche Gründe haben, z. B. sinkende Weltmarktpreise für Rohstoffe oder Änderungen der Produktionsmengen.
+      title: Extraction and minesite royalties
+      p1: Extraction royalties are levied by the mining authorities of the Federal States. They vary greatly, depending on the local mining activity and the fixed tax rates in the individual Federal States. A total of €232.5 million in extractive sector revenues was levied in Germany in 2016. The front runner was by far the state of Lower Saxony, with more than €172 million. Schleswig-Holstein was ranked second with around €48 million, followed by the Rhineland-Palatinate with around €5 million. In the case of some Federal States, the amount of revenue has been subject to significant fluctuations in the past few years. This may have different reasons, e.g. falling world market prices for raw materials or changes in production quantities.
       daten_einsehen: Daten einsehen
-      p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
+      p2: " "
       table1:
-        title: "Einnahmen aus Feldesabgaben für das Jahr 2015"
-        th1: Förderabgabe in Euro
+        title: "The following table shows the revenue from royalties paid by the extractive sector in 2015 and 2016:"
+        th1: Extraction royalties in €
         th2: "2015"
         th3: "2016"
         row1:
-          td1: Bundesgebiet
+          td1: Federal state
           td2: "386.954.750,40"
           td3: "232.507.396,33"
         row2:
-          td1: Baden-Württemberg
+          td1: Baden-Wuerttemberg
           td2: "117.387,84"
           td3: "128.185,25"
         row3:
-          td1: Bayern
+          td1: Bavaria
           td2: "479.125,65"
           td3: "1.479.828,47"
         row4:
@@ -1975,19 +1962,19 @@ einnahmen:
           td2: "167.392,87"
           td3: "86.573,83"
         row7:
-          td1: Hessen
+          td1: Hesse
           td2: "455.052,77"
           td3: "462.929,24"
         row8:
-          td1: Niedersachsen
+          td1: Lower Saxony
           td2: "295.865.995,20"
           td3: "172.075.617,30"
         row9:
-          td1: Nordrhein-Westfalen
+          td1: North Rhine-Westphalia
           td2: "1.451.800,74"
           td3: "666.541,61"
         row10:
-          td1: Rheinland-Pfalz
+          td1: Rhineland-Palatinate
           td2: "8.112.789,63"
           td3: "5.191.731,39"
         row11:
@@ -2003,38 +1990,38 @@ einnahmen:
           td2: "528.292,70"
           td3: "536.917,05"
         row14:
-          td1: Mecklenburg-Vorpommern
+          td1: Mecklenburg-Western-Pomerania
           td2: "466.322,01"
           td3: "247.585,55"
         row15:
-          td1: Sachsen
+          td1: Saxony
           td2: "335.156,57"
           td3: "523.795,20"
         row16:
-          td1: Sachsen-Anhalt
+          td1: Saxony-Anhalt
           td2: "1.363.756,74"
           td3: "1.480.734,27"
         row17:
-          td1: Thüringen
+          td1: Thuringia
           td2: "1.507.056,81"
           td3: "1.454.320,91"
         row18:
-          td1: Förderabgaben in Mio. Euro
+          td1: Total extraction royalties
           td2: "387,0"
           td3: "232,5"
         row19:
-          td1: Gesamteinnahmen des Staates in Mio. Euro
+          td1: "Total income of the Federal State in millions of €"
           td2: "1.301.816"
           td3: "1.351.851"
         row20:
-          td1: Anteil im Prozent
+          td1: Proportion
           td2: "0,03"
           td3: "0,02"
-      p3: "Die Feldeseinnahmen der Bundesländer werden nicht systematisch bundesweit zusammengestellt oder veröffentlicht. Ihre Höhe ist deutlich geringer als die Höhe der Fördereinnahmen und sie fallen überhaupt nur in einigen Bundesländern an (siehe nachfolgende Tabelle):"
+      p3: "The revenues from minesite royalties of the Federal States are not systematically compiled or published on a nationwide basis. Their amount is significantly lower than the amount of extractive sector revenues and they are only applicable in some federal States (see the table below):"
       table2:
-        title: Feldesabgabe im Jahr 2015
-        th1: Bundesland
-        th2: in Tausend Euro
+        title: "Revenue from royalties paid by the extractive sector in 2015:"
+        th1: Federal state
+        th2: "€"
         row1:
           td1: Bayern
           td2: "46"
@@ -2048,32 +2035,32 @@ einnahmen:
           td1: Nordrhein-Westfalen
           td2: "1452"
 bip:
-    title: "BIP und Umsatz"
+    title: "Contribution to the GDP and turnover"
     nav_items:
       - name: intro
-        title: Seitenanfang
+        title: Top of page
       - name: bip
-        title: "BIP: Wie groß ist der deutsche Rohstoffsektor?"
-      - name: daten
-        title: Daten einsehen
+        title: "GDP: What is the size of the German extractive industry?"
+      - name: umsatz
+        title: "Turnover"
 
     bip:
-      title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
-      p1_1: "Mit einem"
-      p1_2: "Bruttoinlandsprodukt"
-      p1_3: "von rund 3.032,82 Mrd. Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
-      p1_4: "Bruttowertschöpfung"
-      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Mrd. Euro, was einem Anteil von"
-      p1_6: "0,14 %"
-      p1_7: "am BIP entspricht."
-      daten: Daten Einsehen
+      title: "GDP: What is the size of the German extractive industry?"
+      p1_1: "Germany is the largest economy in Europe and the fourth largest in the world, with a "
+      p1_2: "GDP"
+      p1_3: "of some €3,032.82 billion in 2015. The"
+      p1_4: "gross value added"
+      p1_5: "of the ‘Mining and Quarrying’ economic sector amounted to €4.16 billion in 2015, which accounted for 0.14 % of the GDP."
+      p1_6: " "
+      p1_7: " "
+      daten: View Data
     umsatz:
-      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88%) auf Inlandsumsätze und 1,1 Mrd. Euro (12%) auf Umsätze mit dem Ausland.
-      daten_einsehen: Daten einsehen
+      title: "Turnover:"
+      p1: "‘Mining and Quarrying’ sector companies generated a total turnover of around €9.2 billion in 2016. Around €8.1 billion (about 88%) of this sum was attributable to domestic sales and €1.1 billion (about 12%) to foreign sales."
+      daten_einsehen: View Data
       star1:
         title: "*"
-        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07)"
+        text: "Provision of services for mining and quarrying (W08-09) and in the subordinate role of ore mining (WZ08-07), related to companies with 20 and more employees"
       star2:
         title: "**"
         text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
@@ -2082,61 +2069,60 @@ bip:
     daten_einsehen_post: ". Own representation."
 
 beschäftigung:
-    title: Beschäftigung
+    title: Employment
     nav_items:
       - name: title
-        title: Seitenanfang
+        title: Top of page
       - name: tabelle-1
-        title: "Tabelle: Besch&auml;ftigung"
+        title: "Tabelle: Employment"
       - name: daten-einsehen
-        title: "Daten einsehen"
-    p1: "Die Beschäftigten in der rohstoffgewinnenden Industrie gehen einer Vielzahl von unterschiedlichen Berufen nach. So arbeiten beispielsweise Ingenieure im Marktscheidewesen an der Erkundung und Vermessung von Vorkommen, Rohstoffingenieure und Geotechniker am Aufbau und Betrieb der technischen Anlagen und Bergbautechnologen führen den Abbau im Tage- und Untertagebau durch. Die Branche bietet auch qualifizierte Ausbildungsberufe wie z. B. Industrie- und Verfahrensmechaniker oder Elektroniker."
-    p2: "Insgesamt waren in den Unternehmen der rohstoffgewinnenden Industrie zum Stichtag 30.06.2016 in Deutschland 71.074 Mitarbeiter/innen sozialversicherungspflichtig beschäftigt, wobei über die Hälfte aller Angestellten auf den Bereich „Gewinnung von Steinen und Erden, sonstiger Bergbau“ (Anteil: rund 53%) und gut ein Fünftel auf den Kohlenbergbau (Anteil: etwa 22%) entfiel. Diese Zahlen schließen für den gleichen Stichtag insgesamt 2.373 Auszubildende in den rohstoffgewinnenden Betrieben ein. Bezogen auf die insgesamt sozialversicherungspflichtig Beschäftigten in Deutschland entfiel damit ein Anteil von rund 0,23% auf die rohstoffgewinnende Industrie."
-    p3: "Ein weiterer wichtiger Beschäftigungsfaktor sind die Sekundäreffekte des rohstoffgewinnenden Sektors, durch die zusätzliche Arbeits- und Ausbildungsplätze geschaffen werden. Hierzu gehören insbesondere die Dienstleistungen der Zulieferer und Subunternehmer, welche beispielweise mit der Übernahme von logistischen und gastronomischen Aufgaben oder dem Bau und Betrieb von Förderstätten beauftragt werden."
+        title: "View Data"
+    p1: "Employees in the extractive sectors have a great variety of different occupations. Mine surveying engineers, for example, work on the exploration and surveying of resources, natural resources and geotechnical engineers carry out the setup and operation of the technical facilities and mining technologists perform mining operations in surface and underground minesites. The industry also offers qualified apprenticeships, such as industrial and process mechanics or electronics engineers."
+    p2: "As of the reporting date on June 6, 2016, a total of 71,074 were employed under the mandatory social security scheme in extractive sectors in Germany; more than half of all these employees worked in the ‘Quarried natural resources, other mining products’ sector (around 53 %) and more than a fifth worked in the Coal Mining sector (22 %). These figures include a total of 2,373 trainees working in the extractive sectors on the same reporting date. In relation to the total number of employees who pay social security contributions in Germany, this represented a percentage of around 0.23 % in the natural resources extractive sector."
+    p3: "Another important employment factor is the secondary effects of the extractive sector, through which additional jobs and apprenticeships are created. These mainly include the services of the suppliers and sub-contractors who are e.g. commissioned with the management of logistical and gastronomic tasks or with the construction and operation of minesites."
     table:
-      title: "Tabelle: Beschäftigte"
-      th2: "Sozialversicherungspflichtig Beschäftigte am Stichtag 30.06.2016"
-      th3: "darunter Auszubildende"
+      title: "Employees of the ‘Mining and Quarrying’ sector – 2016"
+      th2: "Persons employed under the mandatory social security scheme as of the reporting date on June 6, 2016 "
+      th3: "No. of apprentices among these employees"
       row1:
-        td1: "Bergbau und Gewinnung von Steinen und Erden insgesamt"
+        td1: "Mining and quarrying in total"
         td2: "71074"
         td3: "2373"
       row2:
-        td1: "darunter:"
+        td1: "including:"
       row3:
-        td1: "Kohlenbergbau"
+        td1: "Coal mining"
         td2: "15.881"
         td3: "860"
       row4:
-        td1: "Gewinnung von Erdöl und Erdgas"
+        td1: "Extraction of crude oil and natural"
         td2: "3.045"
         td3: "105"
       row5:
-        td1: "Erzbergbau"
+        td1: "Ore mining"
         td2: "860"
         td3: "*"
       row6:
-        td1: "Gewinnung von Steinen und Erden, sonstiger Bergbau"
+        td1: "Quarried natural resources, other mining products"
         td2: "37.982"
         td3: "1.068"
       row7:
-        td1: "Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden"
+        td1: "Provision of Services for Mining"
         td2: "13.306"
         td3: "340"
-      star: "* Aus Datenschutzgründen und Gründen der statistischen Geheimhaltung werden Zahlenwerte von 1 oder 2 und Daten, aus denen rechnerisch auf einen solchen Zahlenwert geschlossen werden kann, anonymisiert."
-    daten_einsehen: "Daten Einsehen"
+      star: "* For reasons of data protection and statistical confidentiality, numerical values of 1 or 2 and data from which such numerical values can be mathematically deduced are made anonymous."
+    daten_einsehen: "View Data"
 
 exporte:
     title: Exporte
     nav_items:
       - name: title
-        title: Seitenanfang
+        title: Top of page
       - name: chart1
-        title: Rohstoffexporte nach Wert
+        title: Exports of the ‘Mining and Quarrying’ sector (value)
       - name: chart2
-        title: Rohstoffexporte nach Menge
-    p: Deutschland ist von einer stark exportorientierten und diversifizierten Wirtschaftsstruktur gekennzeichnet. 2016 exportierte das Land Waren im Wert von insgesamt rund 1,2 Billionen Euro. Dabei entfielen rund 6,6 Milliarden Euro auf Waren der rohstoffgewinnenden Industrie, was einem Anteil von 0,54 % an den Gesamtexporten entspricht. Der Bereich „Erdöl und Erdgas“ machte mit knapp 5 Milliarden Euro den größten Anteil an den Exporten aus. Dabei handelt es sich allerdings überwiegend um Re-Exporte von Erdgas. Das im Inland geförderte Erdgas wird fast vollständig auch in Deutschland verbraucht. Gefolgt wird dieser Bereich vom Sektor „Steine und Erden, sonstiger Bergbau“ mit 1,3 Milliarden Euro. Zudem wurden Erze im Wert von rund 130 Mio. Euro und Kohle von ca. 125 Mio. Euro exportiert. Auch hier beinhalten die Zahlen die Re-Exporte, allerdings in weit geringerem Umfang als beim Erdgas.
-    daten_einsehen: "Detaillierte Quellenangabe siehe Daten einsehen. Eigene Darstellung."
+        title: Exports of the ‘Mining and Quarrying’ sector (quantity)
+    p: "Germany is characterised by a strongly export-oriented and diversified economic structure. In 2016, the country exported goods worth a total of €1,2 trillion. Products of the extractive industries accounted for some €6.6 billion of this amount, equivalent to 0.54 % of total exports. The crude oil and natural gas sectors accounted for the largest share of exports at almost €5 billion. However, this mainly involved re-exports of natural gas. Domestically-extracted natural gas is almost completely consumed in Germany. This sector is followed by ‘Quarried natural resources, other mining products’ with €1.3 billion. Exports also included ores (around €130 million) and coals (€125 million). Here too, the figures include re-exports, but to a much lesser extent compared to natural gas."
 
 auswahl-sektoren:
   title: Selection of sectors
@@ -3329,8 +3315,8 @@ zahlungsabgleich:
     text: "Payments have been made, but in total less than €100.000,00."
 
 how-it-work:
-    title: Rohstoffgewinnung
-    description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
+    title: Resource Extraction
+    description-1: "Resource extraction in Germany is diverse: What are the legal frameworks? Which payment flows do exist? How are human interventions in nature dealt with? This portal provides you with detailed information."
     section1:
       title: Which natural resources are extracted in Germany?
       item1: Crude Oil and Gas
@@ -3426,108 +3412,95 @@ downloads:
   D-EITI_xlsx: "/downloads/D-EITI_payment reconciliation_2016.xlsx"
   zipfile: "/downloads/OpenData_D-EITI_Report_2016.zip"
   unabhaengiger_verwalter_PDF: "/downloads/Recommendations_Independent_Administrator.pdf"
+  exports_CSV: "downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
 
   h1: Data used at the interactive map on natural resources
   p1: 'The production data presented here is mainly based on the publication of the Federal Ministry of Economics and Technology (BMWi) "Mining in Germany"'
   download_label: Download production data
   download_link: Download data
-  download_label_förderabgaben: Download der Daten
+  download_label_förderabgaben: Download data
   h2: Data on natural resource extraction in Germany
-  p2_1: "The production quantities of hard coal, lignite, crude oil, natural gas, potash salt, special clay, rock salt and industrial brine are based on the information in"
-  link2_1: "Der Bergbau in der Bundesrepublik Deutschland 2015."
-  p2_2: "(Mining in the Federal Republic of Germany in 2015)' published by the BMWi (German Federal Ministry for Economic Affairs and Energy). It is an annual publication, which includes information about the extraction of natural resources in Germany."
+  link2_0: The production quantities
+  p2_1: "of hard coal, lignite, crude oil, natural gas, potash salt, special clay, rock salt and industrial brine are based on the information in"
+  link2_1: " "
+  p2_2: "'Der Bergbau in der Bundesrepublik Deutschland 2015 (Mining in the Federal Republic of Germany in 2015)' published by the BMWi (German Federal Ministry for Economic Affairs and Energy). It is an annual publication, which includes information about the extraction of natural resources in Germany."
   p3_1: "The data on the extraction of the natural resources stems from mining authorities and includes all usable natural resources extracted under the supervision of the responsible mining authority in accordance with the regulations of the BBergG (German Federal Mining Act) and products created or manufactured by processing the above natural resources. This means that the statistics do not provide a comprehensive picture in the case of natural resources that are only partially covered by mining law. The data on the production quantities of quartz gravel and quartz sand [Federal Association of Mineral Resources – MIRO 2016], gravel and sand [MIRO 2016], broken natural stone [MIRO 2016], limestone, marl and dolomite stone [Federal Association of the German Lime Industry – BVK] and on ashlar [German Natural Stone Association – DNV] was therefore obtained from the respective industry associations. The data on china clay is based on the estimation of the Federal Institute for Geosciences and Natural Resources [BGR 2016], since the value of 3.7 million tons"
+  link3_0: "[BMWi 2016]"
   p3_2: "does not refer to the products available on the market. "
   p4: "Furthermore, the data on the value of the associated production volumes is not included in the official statistics. Data is therefore taken from other sources, such as the associations’ annual reports or from various publications of the Federal Office of Statistics. In detail, the production values of hard coal, lignite, crude oil and natural gas are based on estimates from the 2015 average cross-border prices [BGR 2016]. The values for potash and potash salt products, special clays (values according to Destatis), rock salt and industrial brine (values according to Destatis) and china clay (values according to IM 2016 (Industrial Materials) are also taken from the same publication. The values for the production of quartz sand and gravel, gravel and sand and broken natural stone are taken from MIRO 2016. The values for the production of natural stone [DNV 2016] and of limestone, marl and dolomite stone are taken from the data provided by the Federal Office of Statistics. The data was not subjected to any specific verification procedure."
-  h3: Daten zum Beitrag zum BIP
+  h3: Data on contribution to the GDP
   p5:
-    p1: Die Daten werden der aktuellen Volkswirtschaftlichen Gesamtrechnung des statistischen Bundesamtes entnommen (
-    p2: und
-    p3: "Der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“ umfasst die Gewinnung natürlich vorkommender fester (Kohle, Salz, Erze, Steine und Erden), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. In der statistischen "
-    link: „Klassifikation der Wirtschaftszweige“
-    p4: "(WZ 2008) umfasst der Sektor „Bergbau und Gewinnung von Steinen und Erden“ den gesamten Abschnitt B mit folgenden Subsektoren: Kohlenbergbau (WZ08-05); Gewinnung von Erdöl und Erdgas (WZ08-06); Erzbergbau (WZ08-07); Gewinnung von Steinen und Erden, sonstiger Bergbau (WZ08-08) sowie Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden (WZ08-09). Eine detaillierte Auflistung dieser Subsektoren findet sich in der Publikation „Klassifikation der Wirtschaftszweige“ des Statistischen Bundesamts auf den Seiten 175-185. Es gilt zu beachten, dass im Abschnitt B („Bergbau und Gewinnung von Steinen und Erden“) der Subsektor „Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden“ (WZ08-09) inkludiert ist. Dieser Bereich umfasst allerdings keine klassischen Gewinnungstätigkeiten. Daneben gibt es weitere rohstoffgewinnende Unternehmen die aufgrund ihrer Haupttätigkeit einem anderen Wirtschaftszweig zugeordnet sind und deshalb im Folgenden nicht berücksichtigt sind."
-    p5: "Daneben gibt es weitere rohstoffgewinnende Unternehmen die aufgrund ihrer Haupttätigkeit einem anderen Wirtschaftszweig zugeordnet sind und deshalb im Folgenden nicht berücksichtigt sind."
-  h5: Daten zur Beschäftigung
+    p1: The data was taken from the current national accounts of the Federal Office of Statistics (
+    p2: and
+    p3: "). The ‘Mining and Quarrying’ economic sector includes the extraction of naturally-occurring solid mineral resources (coal, salt, ores, quarried natural resources), liquid mineral resources (crude oil) and gaseous mineral resources (natural gas)."
+    p4: "In the statistical classification of the economic sectors (WZ 2008), the ‘Mining and Quarrying’ segment encompasses the entire section B with the following sub-sectors: coal mining (WZ08-05); crude oil and natural gas extraction (WZ08-06); ore mining (WZ08-07); Quarried natural resources, other mining products (WZ08-08), and the performance of services for mining and for quarrying (WZ08-09). A detailed list of these sub-sectors can be found in the publication ‘Klassifikation der Wirtschaftszweige’ (Classification of Economic Activities) of the Federal Office of Statistics, pages 175 to 185. It should be noted that section B (‘Mining and Quarrying’) includes the sub-sector ‘Provision of Services for Mining and Quarrying’ (WZ08-09). This, however, does not include classical extraction activities."
+    p5: "In addition, there are other companies which extract natural resources; however, these are allocated to a different economic sector due to their main activities and are therefore not included in the following."
+  h5: Data on employment
   p7:
-    p1: Die Daten zu den Beschäftigten werden der jährlich erscheinenden Publikation „Der Bergbau in der Bundesrepublik Deutschland“ des Bundesministeriums für Wirtschaft und BMWi entnommen
+    p1: Data on the employees was taken from the database of the Federal Employment Agency (Bundesagentur für Arbeit)
     link: (PDF und EXCEL)
-    p2: Zur Berechnung des prozentualen Anteils der Beschäftigten wurde auf die Gesamtzahl der Erwerbstätigen der Arbeitsmarktstatistik des Statistischen Jahrbuches des Statistischen Bundesamtes zurückgegriffen
-  h6: Daten zu Exporten
-  p8:
-    p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (GP09-05 bis GP09-08) des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt. Die Daten der Exporte von 2010-2014 wurden der"
-    link1: Genesis-Online-Datenbank
-    p2: von Destatis am 14.12.2016 entnommen. Die Daten für 2015 sind auf der
-    link2: Website
-    p3: des Statistischen Bundesamtes abrufbar. (EXCEL)
   exporte:
-    h1: "Daten zu Exporten nach Menge"
-    p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt und umfassen in diesen Berechnungen die Bereiche „Kohle“ (GP09-05), „Erdöl und Erdgas“ (GP09-06), „Erze“ (GP09-07) und „Steine und Erden, sonstiger Bergbau“ (GP09-08). Die Daten der Exporte von 2012-2016 wurden der "
-    link1: "Genesis-Online-Datenbank"
-    p2: " von Destatis am 26.05.2017 entnommen. Die Daten für 2015 sind auf der "
-    link2: "Website"
-    p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
+    h1: "Data on exports"
+    p1: "The German natural resources export data is based on information on the goods divisions of the goods catalogue for production statistics, Federal Office of Statistics. These calculations include ‘coal’ (GP09-05), ‘crude oil and natural gas’ (GP09-06), ‘ores’ (GP09-07) and ‘quarried natural resources, other mining products’ (GP09-08). The data on the exports between 2012 and 2016 was taken from the"
+    link1: "Genesis Online Database by Destatis"
+    p2: "on May 26, 2017."
+    link2: " "
+    p3: "The data for 2015 can be found on the website of the German Federal Office of Statistics. The information on the re-exports of natural gas is taken from the German Federal Institute for Geosciences and Natural Resources ("
     link3: "RGB 2016"
-    p4: ", Tabellen 5, 28 und 29) entnommen."
+    p4: ", Tables 5, 28 and 29)."
   table_link:
     p1: "See detailed sources here:"
     link: "View data"
     p2: ". Own representation."
 
   steuern:
-    title: Steuern Daten zu Staatseinnahmen durch Steuern
-    p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2012, der Gewerbesteuerstatistiken 2010 und 2011 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
-    p2: Betrachtet wurde jeweils nur der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“. Er umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der „Klassifikation der Wirtschaftszweige“ des statistischen Bundesamts auf den Seiten 175-185.
-    p3: "Da die aktuellsten statistischen Daten die Jahre 2011 bzw. 2012 betreffen, wurden die Folgejahre bis 2015 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.). Für das Jahr 2016 liegt noch kein Betrag der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ vor."
-    p4: Die für den rohstoffgewinnenden Sektor ausgewiesenen Steuerbeträge sind Beträge, die für das jeweils angegebene Jahr von den Unternehmen zu zahlen waren (sog. Veranlagungsjahr). Der statistische Zeitrahmen unterscheidet sich damit von dem für die Gesamteinnahmen des Staates, die im Jahr des Zuflusses verbucht werden (Kassenjahr).
-    p5: "Die angegebenen Gesamteinnahmen des Staates sind der Kassenstatistik des Bundes (Öffentlicher Gesamthaushalt – ÖGH) entnommen. Die Gesamteinnahmen des Staates umfassen neben den Steuereinnahmen des Staates auch Einnahmen aus Sozialversicherungsbeiträgen, Veräußerungserlösen oder Vermögensanlagen (Staatsanleihen) sowie ferner auch Gebühren, Verwaltungseinnahmen oder etwa Gewinne aus Staatsunternehmen. Detaillierte Erläuterungen bzw. Definitionen zum Öffentlichen Gesamthaushalt (ÖGH) sind auf der Website des Statistischen Bundesamtes abrufbar:"
+    title: Data on government revenues through taxes
+    p1: "The tax amounts shown in the table are based on special evaluations of the corporation tax statistics from 2010 to 2012, the trade tax statistics of 2010 and 2011 and the statistics on the partnerships and communities from 2010 to 2012, as well as estimates and updates of the Federal Ministry of Finance."
+    p2: "Only the ‘Mining and Quarrying’ economic sector was addressed. The ‘Mining and Quarrying’ sector includes the extraction of the following naturally-occurring mineral resources: solids (such as coal, salt and ores), liquids (crude oil) and gaseous resources (natural gas). A detailed list of these sub-sectors can be found in the publication ‘Klassifikation der Wirtschaftszweige’ (Classification of Economic Activities) of the Federal Office of Statistics, pages 175 to 185."
+    p3: "As the most recent statistical data concerns the years 2011 and 2012, the subsequent years have been updated until 2015. The rate of change in gross value added by the economic sector B, ‘Mining and Quarrying’ as stated in the national accounts was used for the purpose of the update (source: ‘VGR – Wichtige Zusammenhänge im Überblick’ (National Accounts - An Overview of Key Facts), page 20 f.). The gross value added by the economic sector B, ‘Mining and Quarrying’ in 2016 is not yet available."
+    p4: "The tax amounts reported for the natural resources sector are amounts that had to be paid by the companies for the respective year (so-called assessment year). The statistical time frame is therefore different from that of the total income of the state which is recorded in the year of the inflow (cash year)."
+    p5: "The total reported income of the state is taken from the Federal Government’s cash statistics (total public budget – ÖGH). The state’s total income includes not only income from taxes, but social security contributions, proceeds from the disposal of assets or investments (government bonds) as well as fees, administrative income and profits from state enterprises. Detailed explanations and definitions of the total public budget can be found on the website of the Federal Office of Statistics:"
     link: "https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/ThemaFinanzen.html"
   förderabgaben:
-    title: Daten zu Feldes- und Förderabgaben
-    p1_1: "Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen
-    Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den Abrechnungen des Länderfinanzausgleichs auf der Internetseite des
-    BMF veröffentlicht."
-    p1_2: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von drei Bundesländern
-    die Einnahmen aus den Feldesabgaben vor:"
-    link: Abrechnungen des Länderfinanzausgleichs
-    link_data: "http://www.bundesfinanzministerium.de/Web/DE/Themen/Oeffentliche_Finanzen/Foederale_Finanzbeziehungen/Laenderfinanzausgleich/laenderfinanzausgleich.html"
-    p1_2: auf der Internetseite des BMF veröffentlicht.
-    p2_1: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2015 liegen nur von vier Bundesländern die Einnahmen aus den Feldesabgaben vor:"
-    link1: Bayern,
+    title: Data on extraction and minesite royalties
+    p1_1: "The Federal States’ revenues from extraction royalties are made available to the Federal Ministry of Finance (BMF) by the states for purposes related to the national financial equalisation mechanism within the framework of monthly reporting on tax revenues. They are published in the settlements of the financial equalisation of the Federal States on the website of the BMF."
+    p1_2: "Only few Federal States publish their revenues from minesite royalties in their budgets. A summarised overview of the minesite royalties is not available. Most Federal States publish accumulated minesite and extraction revenues in their individual budgets. The revenue from the 2015 minesite royalties is only available for three Federal States:"
+    link1: Bavaria,
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
     link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%2520f%25C3%25BCr%2520Wirtschaft%2520und%2520Energie_2017-18.pdf"
-    link3: Niedersachsen,
+    p2_2: "and"
+    link3: Niedersachsen.
     link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
-    link4: Nordrhein-Westfalen.
-    link4_data: "https://www.landtag.nrw.de/web/WWW/haushalt/cd-fm-0916/daten/pdf/2017/gesamt_2017.pdf"
-    label1: "Download der Daten zu Förderabgaben"
-    label2: "Download der Daten zu Feldesabgaben"
+    link4: " "
+    link4_data: " "
+    label1: "Download data on minesite royalties"
+    label2: "Download data on extraction royalties"
   umsatz:
-    title: Daten zu Umsatz Steine und Erden
-    p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
+    title: Data on turnover of quarried natural resources
+    p: The data has been extracted from the ‘Annual Report for Business Operations for 2016’ (Jahresbericht für Betriebe 2016) issued by the Federal Office of Statistics. This report refers to companies with at least 20 employees. As this statistical data is not the same as the statistical data on employees covered by the mandatory social security scheme, the data in the report does not cover all extractive business operations
     link: (EXCEL).
   anpassungsgeld:
-    title: Daten zu Anpassungsgeld
-    p: Die Daten zur Höhe der Subventionen wurden dem aktuellen Subventionsbericht der Bundesregierung entnommen, der alle zwei Jahre erscheint
+    title: Data on rehabilitation aid
+    p: The data on the amounts of the subsidies was taken from the current subsidies report of the Federal Government. This report is published every two years
     link: (PDF).
     link_data: "www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2015-08-26-subventionsbericht-25.html"
   zahlungsabgleich:
-    title: "Daten zum Zahlungsabgleich"
-    p1_1: "Die Informationen zum Zahlungsabgleich finden Sie in dieser"
-    link1: "Excel-Datei."
-    p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den ersten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
+    title: "Data on the reconciliation report"
+    p1_1: "The information on the reconciliation report can be found in this Excel"
+    link1: "file"
+    p1_2: ". The reconciliation report was prepared for the first report by the Independent Administrator of the D-EITI (Warth & Kleingrant Thornton, Düsseldorf). Further explanations for the preparation of the reconciliation report as well as for the selection of the relevant natural resources, companies, and payment flows are presented in this"
     link2: "pdf"
-    p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
-
+    p1_3: ". You will also find recommendations from the Independent Administrator for future reporting under D-EITI."
   daten-zum-deiti-bericht:
-    title: Daten zum 1. D-EITI Bericht"
-    p1: "Die Multi-Stakeholder-Gruppe (MSG) der deutschen Initiative für Transparenz im rohstoffgewinnenden Sektor (D-EITI) hat sich für die Umsetzung des Prinzips offener Daten im Rahmen der D-EITI festgelegt."
-    link1: "Das Open-Data-Konzept"
-    p2: "kommt ausdrücklich nur für Daten und Informationen, die öffentlich sind bzw. deren Veröffentlichung im Rahmen der D-EITI durch die MSG beschlossen wurde, und nur im Rahmen der geltenden rechtlichen Grundlagen zur Anwendung. Alle Daten sind ohne Nutzungsbeschränkungen gemeinfrei verfügbar nach der"
-    link2: "CC BY 4.0 Lizens"
-    p3: "sowie"
-    link3: "der Datenlizenz Deutschland Version 2.0."
-    p4: "Download der aggregierten Daten aus dem 1. D-EITI-Bericht"
+    title: "Aggregated data D-EITI report 2016"
+    p1: "The multi-stakeholder group (MSG) of the German Extractive Industries Transparency Initiative (D-EITI) has opted for the implementation of open data within D-EITI. The"
+    link1: "Open-Data-Concept"
+    p2: "is only applicable for data and information, which is public and/or allowed to be published by the MSG within the framework of the D-EITI, and only within the framework of the applicable legal bases. All data is freely available without restrictions according to the"
+    link2: "CC BY 4.0 license"
+    p3: "as well as the"
+    link3: "data license Germany version 2.0."
+    p4: "Download the aggregated data from the 1st D-EITI report"
 
 about:
     title: About D-EITI
