@@ -3330,8 +3330,8 @@ zahlungsabgleich:
     text: "Payments have been made, but in total less than €100.000,00."
 
 how-it-work:
-    title: Rohstoffgewinnung
-    description-1: "Die Förderung von Rohstoffen in Deutschland ist facettenreich: Wie sind die gesetzlichen Rahmenbedingungen? Wie sind die Zahlungsströme? Wie finden Natur- und Umweltschutz Berücksichtigung? Detaillierte Informationen bietet Ihnen unser Portal."
+    title: Resource Extraction
+    description-1: "Resource extraction in Germany is diverse: What are the legal frameworks? Which payment flows do exist? How are human interventions in nature dealt with? This portal provides you with detailed information."
     section1:
       title: Which natural resources are extracted in Germany?
       item1: Crude Oil and Gas
