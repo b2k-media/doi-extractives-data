@@ -3041,6 +3041,8 @@ zahlungsabgleich:
     p1: "Der Abgleich der von den Unternehmen für das Jahr 2016 gemeldeten Zahlungen für Körperschaftsteuer bzw. Feldes-/Förderabgaben mit den jeweiligen Einnahmen der staatlichen Stellen umfasste insgesamt 302 Mio. EUR. Dabei wurden Differenzen von drei Cent festgestellt:"
     p2: "Die aufgeschlüsselten Zahlungen pro Unternehmen und öffentlicher Stelle für Körperschaftsteuer sowie Feldes- und Förderabgaben finden Sie"
     link: hier.
+    chart_l1: "Zahlungen Unternehmen"
+    chart_l2: "Einnahmen staatliche Stellen"
   abdeckung:
     title: "Abdeckung der Sektoren"
     p1: "Nachfolgende Übersicht gibt die Abdeckung der jeweiligen Sektoren durch den Kreis der identifizierten Unternehmen sowie der tatsächlich am Berichtsprozess teilnehmenden Unternehmen wieder. Die Bezugsgröße für die Ermittlung der Abdeckung in den Sektoren Braunkohle, Erdöl, Erdgas ist die Fördermenge aus dem Jahr 2016. Die Bezugsgröße für die Ermittlung der Abdeckung in den Sektoren Kali, Salze (inkl. Industriesohle) ist die verwertbare Fördermenge aus dem Jahr 2015."
@@ -3400,6 +3402,7 @@ downloads:
   umsatz_CSV: "/downloads/Umsatz_Steine_Erden_2012-2016.csv"
   D-EITI_xlsx: "/downloads/D-EITI_Zahlungsabgleich_2016.xlsx"
   zipfile: "/downloads/Daten_zum_1._D-EITI_Bericht.zip"
+  unabhaengiger_verwalter_PDF: "/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf"
 
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
