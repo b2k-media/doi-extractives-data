@@ -3016,83 +3016,85 @@ unternehmen-und-zahlungsströme:
       text: "Payments have been made, though in total sum below 100.000 EUR."
 
 zahlungsabgleich:
-  title: "Zahlungsabgleich"
+  title: "Reconciliation of payments and revenues"
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: förderabgaben
-      title: "Zahlungsabgleich Körperschaftsteuer und Feldes- und Förderabgaben"
+      title: "Payment reconciliation for corporation tax and minesite and extraction royalties"
     - name: abdeckung
-      title: "Abdeckung der Sektoren"
+      title: "Coverage of sectors"
     - name: unternehmen
-      title: "Summe berichteter Zahlungen der Unternehmen"
+      title: "Total reported company payments"
     - name: gewerbesteuer
-      title: "Ergebnisse des beispielhaft durchgeführten Zahlungsabgleichs für Gewerbesteuer"
+      title: "Exemplary trade tax payments reconciliation"
 
   p1:
-    p1: "Es wurden"
-    link1: "48 Unternehmesgruppen"
-    p2: "aus den"
-    link2: "Sektoren"
-    p3: "Braunkohle, Erdgas, Erdöl, Kali, Salze (inkl. Industriesohle) sowie Steine und Erden identifiziert und eingeladen sich an D-EITI zu beteiligen."
-    link3: "Zwölf Unternehmensgruppen"
-    p4: ", mit einer Abdeckung von rund 90% für die Sektoren Braunkohle, Erdgas, Erdöl und Kali, haben sich bisher beteiligt und zu folgenden Zahlungsströmen berichtet:"
-    link4: Körperschaftsteuer
-    link5: Feldes- und Förderabgaben,
-    link6: Gewerbesteuer,
-    link7: Pachtzahlungen.
-    p5: "Zahlungen wurden ab einer"
-    link8: "Wesentlichkeitsschwelle"
-    p6: "von 100.000 € und für das Geschäftsjahr 2016 gemeldet."
+    p1: " "
+    link1: "48 companies"
+    p2: "from the"
+    link2: "sectors"
+    p3: "lignite, natural gas, crude oil, potash, salts (including industrial coal) and quarried natural resources were identified and invited to participate in D-EITI."
+    link3: "Twelve"
+    p4: "groups of companies, with a coverage of around 90% for the lignite, natural gas, oil and potash sectors participated in the initiative and reported in the following payment flows so far:"
+    link4: Corporate tax,
+    link5: minesite and extraction royalties,
+    link6: trade tax,
+    link7: lease payments.
+    p5: These payments were reported above
+    link8: "a threshold"
+    p6: "of 100.000,00 € for the accounting year 2016."
   p2:
-    p7: "Die berichteten Zahlungen der Unternehmen für Körperschaftsteuer und Feldes- und Förderabgaben wurden mit den korrespondierenden Einnahmen der "
-    link8_1: "öffentlichen Stellen"
-    p7_1: "abgeglichen. Hierfür haben die teilnehmenden Unternehmen die öffentlichen Stellen vom"
-    link9: "Steuergeheimnis"
-    p8: befreit.
+    p7: "The reported corporation tax and minesite- and extraction royalties have been reconciled with the corresponding revenues from the"
+    link8_1: "public authorities"
+    p7_1: ". For that reason participating companies have exempted public authorities from tax secrecy."
+    link9: " "
+    p8: " "
   p3:
-    p9: "Die Zahlungen der Unternehmen für"
-    link10: "Gewerbesteuer,"
-    link10_1: " Pachtzahlungen"
-    p10: "wurden für das Jahr 2016 nicht mit den Einnahmen der staatlichen Stellen abgeglichen."
+    p9: "The payments made by companies for"
+    link10: " "
+    link10_1: "  "
+    p10: "trade tax and lease payments were not reconciled with government revenues for 2016."
 
   p4:
-    p11: "Die gesammelten Daten zum Zahlungsabgleich finden Sie hier:"
-    link11: Daten einsehen
+    p11: "You can find the collected data of payment flows here:"
+    link11: View data
   förderabgaben:
-    title: "Zahlungsabgleich Körperschaftsteuer und Feldes- und Förderabgaben"
-    p1: "Der Abgleich der von den Unternehmen für das Jahr 2016 gemeldeten Zahlungen für Körperschaftsteuer bzw. Feldes-/Förderabgaben mit den jeweiligen Einnahmen der staatlichen Stellen umfasste insgesamt 302 Mio. EUR. Dabei wurden Differenzen von drei Cent festgestellt:"
-    p2: "Die aufgeschlüsselten Zahlungen pro Unternehmen und öffentlicher Stelle für Körperschaftsteuer sowie Feldes- und Förderabgaben finden Sie"
-    link: hier.
+    title: "Payment reconciliation for corporation tax and minesite and extraction royalties"
+    p1: "The reconciliation of the corporation taxes as well as mining and extraction royalties reported by the participating companies for the year 2016 with the corresponding revenues of the government agencies amounted to 302 Million Euro. The reconciliation resulted in differences of only three cents."
+    p2: "The reported payments by companies and public authorities for corporation tax and minesite and extraction royalties you can find"
+    link: here.
+    chart_l1: "Total payments according to the company"
+    chart_l2: "Total payments according to the public authorities"
   abdeckung:
-    title: "Abdeckung der Sektoren"
-    p1: "Nachfolgende Übersicht gibt die Abdeckung der jeweiligen Sektoren durch den Kreis der identifizierten Unternehmen sowie der tatsächlich am Berichtsprozess teilnehmenden Unternehmen wieder. Die Bezugsgröße für die Ermittlung der Abdeckung in den Sektoren Braunkohle, Erdöl, Erdgas ist die Fördermenge aus dem Jahr 2016. Die Bezugsgröße für die Ermittlung der Abdeckung in den Sektoren Kali, Salze (inkl. Industriesohle) ist die verwertbare Fördermenge aus dem Jahr 2015."
-    p2: "*) Auf die Ermittlung eines Grades der Abdeckung des Sektors Steine und Erden wurde vor dem Hintergrund der"
-    link1: "Kleinteiligkeit des Sektors "
-    p3: "verzichtet."
-    p4: "**) Die Angabe einer Abdeckung unterbleibt, um den Schutz wettbewerbsrelevanter Daten sicher zu stellen."
-    link2: Daten einsehen
+    title: "Coverage of sectors"
+    p1: "The following overview shows the coverage of the respective sectors by the group of identified companies and the companies actually participating in the reporting process, with their respective reference values upon which the determination procedure was based. The reference value for the determination of the sectors lignite, crude oil, natural gas is the production of 2016. The reference value for the determination of the sectors potash, salts (including industrial coal) is the useable quantity of 2015."
+    p2: "*) Against the background of the small-scale nature of the sector, the determination of a degree of coverage of the quarried natural resources sector was dispensed with, cf. Chapter 9.b.ii."
+    link1: " "
+    p3: " "
+    p4: "**) Coverage details have been omitted to ensure the protection of competition-relevant data."
+    link2: View data
   unternehmen:
-    title: "Summe berichteter Zahlungen der Unternehmen"
-    p1: "Die nachfolgende Übersicht zeigt die in 2016 durch die"
-    link1: "teilnehmenden Unternehmen"
-    p2: "geleisteten Zahlungen an staatliche Stellen für die Zahlungsströme Körperschaftsteuer, Gewerbesteuer, Feldes-/Förderabgaben sowie Pachtzahlungen. Bis zum 31.01.2018 können noch weitere Unternehmen ihre Zahlungsströme an D-EITI melden. Im Frühjahr 2018 werden diese Zahlungsströme auf der Website entsprechend aktualisiert."
-    link2: "Daten einsehen"
-    p3: "Nachfolgend die aufgeschlüsselten Zahlungen pro Unternehmen und Zahlungsstrom:"
-    link3: "Daten einsehen"
-    p4: "Die Meldungen zu den Zahlungsströmen Körperschaftsteuer und Gewerbesteuer verdeutlichen die hohe Relevanz von "
-    link4: "steuerlichen Organschaftsverhältnissen in Deutschland"
-    p5: ". Liegt in diesen Fällen der Schwerpunkt der Tätigkeit der Organschaft außerhalb der Rohstoffgewinnung, kann die Angabe der durch den Organträger abgeführten Steuern unterbleiben (vgl. Fußnote 3) in Tabelle „Datenmeldungen Unternehmen“). Ist die Organschaft dagegen insgesamt schwerpunktmäßig in der Rohstoffgewinnung tätig, kommt es zu einer (anteiligen bzw. vollständigen) Meldung der durch den Organträger abgeführten Steuern (vgl. Fußnote 2) ) in Tabelle „Datenmeldungen Unternehmen“."
+    title: "Total reported company payments"
+    p1: "The following overview demonstrates the payments made 2016 by the"
+    link1: "participating companies"
+    p2: "to government agencies for the corporation tax, trade tax, lease payments, minesite and extraction royalties. Until 31.01.2018 further companies can report their payment flows to D-EITI. In spring 2018 these payment flows will be updated on the website."
+    link2: "View Data"
+    p3: "Payment flow per company and cash flow:"
+    link3: "View Data"
+    p4: "The reports on the cash flows of corporation tax and trade tax illustrate the high relevance of "
+    link4: "consolidated tax groups"
+    p5: "in Germany. In these cases, if the main activity of the consolidated tax group does not involve the extraction of natural resources, the details of the taxes paid by the parent company can be omitted (cf. footnote 3 and table `Reported company data` above). On the other hand, if the consolidated tax group is mainly active in the extractive industry, a report (on a pro rata basis and/or complete) of the taxes paid by the parent company is required (cf. footnote 2 in table `Reported company data` above)."
     table:
       head:
-        h1: "Datenmeldungen Unternehmen"
-        h2: "Körperschaftssteuer EUR"
-        h3: "Gewerbesteuer EUR"
-        h4: "Feldes/ Förderabgaben EUR"
-        h5: "Pachtuahlungen EUR"
-        h6: "Summe berichteter Zahlungen EUR"
+        h1: "Reported company data"
+        h2: "Corporation tax EUR"
+        h3: "Trade tax EUR"
+        h4: "Minesite/extraction royalties EUR"
+        h5: "Lease payments EUR"
+        h6: "Total reported payments"
       row1:
-        p1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
+        p1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hanover"
         p2: "---"
         p3: "37.089.446,37"
         p4: "65.116.685,09"
@@ -3120,7 +3122,7 @@ zahlungsabgleich:
         p5: "0,00"
         p6: "28.788.396,98"
       row5:
-        p1: "ExxonMobil Production Deutschland GmbH, Hannover"
+        p1: "ExxonMobil Production Deutschland GmbH, Hanover"
         p2: "55.301.318"
         p3: "44.496.333,1"
         p4: "41.190.853,28"
@@ -3134,7 +3136,7 @@ zahlungsabgleich:
         p5: "0,00"
         p6: "1.128.822,66"
       row7:
-        p1: "K+S - Gruppe: esco - european salt company GmbH & Co. KG, Hannover"
+        p1: "K+S - Gruppe: esco - european salt company GmbH & Co. KG, Hanover"
         p2: "---"
         p3: "3.766.118,87"
         p4: "0,00"
@@ -3246,30 +3248,30 @@ zahlungsabgleich:
         p5: "0,00"
         p6: "40.832.665"
       row23:
-        p1: "Summe berichteter Zahlungen der Unternehmen"
+        p1: "Total reported company payments"
         p2: "70.993.101,82"
         p3: "98.444.944,39"
         p4: "231.812.141,45"
         p5: "360.455,06"
         p6: "401.610.642,72"
   gewerbesteuer:
-    title: "Ergebnisse des beispielhaft durchgeführten Zahlungsabgleichs für Gewerbesteuer"
-    p1: "Hinsichtlich des Abgleichs von Zahlungen für Gewerbesteuern wurde vor dem Hintergrund des föderalen Systems in Deutschland und der Vielzahl von Gemeinden, die als Zahlungsempfänger in Frage kommen können, auf einen generellen "
-    link1: "Zahlungsabgleich der gemeldeten Gewerbesteuern verzichtet."
-    p2: "Stattdessen wird hier ein beispielhafter Zahlungsabgleich von Gewerbesteuerzahlungen dargestellt, für den sich die esco - european salt company GmbH & Co. KG, Hannover, freiwillig zur Verfügung gestellt hat. Die nachfolgende Übersicht zeigt die Ergebnisse dieses Zahlungsabgleichs:"
-    link2: "Daten einsehen"
+    title: "Exemplary trade tax payments reconciliation"
+    p1: "With regard to the reconciliation of payments for trade taxation, the MSG has refrained from a general payment reconciliation of the reported trade taxes, against the background of the federal system in Germany and the many municipalities which can be considered as payment recipients ("
+    link1: "cf. the explanations in Chapter 9. a.iii."
+    p2: "). The implementation of an exemplary payment reconciliation of trade tax payments was resolved, for which esco - european salt company GmbH & Co. KG of Hanover volunteered to make itself available. The following overview shows the results of this payment reconciliation:"
+    link2: "View Data"
     table:
       head:
-        h1: "Abgleich Gewerbesteuer / esco - european salt company GmbH & Co. KG, Hannover"
-        h2: "Betrag lt. Unternehmen EUR"
-        h3: "Betrag lt. staatlicher Stellen EUR"
-        h4: "Differenzen vorläufig EUR"
-        h5: "Differenzen vorläufig %"
-        h6: "Klärung von Differenzen EUR"
-        h7: "ungeklärte Differenzen EUR"
-        h8: "ungeklärte Differenzen %"
+        h1: "Trade tax reconciliation for esco – european salt company GmbH & Co. KG, Hanover"
+        h2: "Amount according to the company EUR"
+        h3: "Amount according to the public authorities EUR"
+        h4: "Provisional differences EUR"
+        h5: "Provisional differences %"
+        h6: "Differences to be explained EUR"
+        h7: "Unexplained differences EUR"
+        h8: "Unexplained differences %"
       row1:
-        p1: "Landeshauptstadt Hannover, Johannssenstraße 10, 30159 Hannover"
+        p1: "State Capital Hanover, Johannssenstraße 10, 30159 Hanover"
         p2: "355.164,11"
         p3: "355.164,11"
         p4: "0,00"
@@ -3278,7 +3280,7 @@ zahlungsabgleich:
         p7: "0,00"
         p8: "0,00"
       row2:
-        p1: "Stadt Bernburg, Schlossgartenstraße 16, 06406 Bernburg"
+        p1: "Bernburg, Schlossgartenstraße 16, 06406 Bernburg"
         p2: "1.452.246,19"
         p3: "1.452.246,19"
         p4: "0,00"
@@ -3287,7 +3289,7 @@ zahlungsabgleich:
         p7: "0,00"
         p8: "0,00"
       row3:
-        p1: "Samtgemeinde Grasleben, Bahnhofstraße 4, 38368 Grasleben"
+        p1: "Integrated municipality Grasleben, Bahnhofstraße 4, 38368 Grasleben"
         p2: "591.734,75"
         p3: "591.734,75"
         p4: "0,00"
@@ -3296,7 +3298,7 @@ zahlungsabgleich:
         p7: "0,00"
         p8: "0,00"
       row4:
-        p1: "Stadt Rheinberg, Kirchplatz 10, 47495 Rheinberg"
+        p1: "Rheinberg, Kirchplatz 10, 47495 Rheinberg"
         p2: "1.366.973,82"
         p3: "1.366.973,82"
         p4: "0,00"
@@ -3315,16 +3317,16 @@ zahlungsabgleich:
         p8: " "
   sub-1:
     title: "1"
-    text: "keine Zahlungen aufgrund Rechtsform"
+    text: "No payments have been made due to the legal form of the company."
   sub-2:
     title: "2"
-    text: "Zahlungen erfolgen durch den Organträger"
+    text: "Payments are made by the parent company."
   sub-3:
     title: "3"
-    text: "keine Angabe von Zahlungen aufgrund Organschaft"
+    text: "No payment information available due to the existence of a consolidated tax group."
   sub-4:
     title: "4"
-    text: "Es sind Zahlungen erfolgt, allerdings in Summe unter EUR 100.000,00"
+    text: "Payments have been made, but in total less than €100.000,00."
 
 how-it-work:
     title: Rohstoffgewinnung

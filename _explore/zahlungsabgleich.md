@@ -88,7 +88,7 @@ breadcrumb:
 
 
 
-          <!-- New Table 
+          <!-- New Table
           <div id="chart"></div>
           <script>
           var chart = c3.generate({
@@ -151,9 +151,9 @@ breadcrumb:
                 <tbody>
                   <tr>
                     <td class="first-image"></td>
-                    <td class="text">Zahlungen Unternehmen</td>
+                    <td class="text">{% t zahlungsabgleich.förderabgaben.chart_l1 %}</td>
                     <td class="second-image"></td>
-                    <td class="text">Einnahmen staatliche Stellen</td>
+                    <td class="text">{% t zahlungsabgleich.förderabgaben.chart_l2 %}</td>
                   </tr>
                 </tbody>
               </table>
