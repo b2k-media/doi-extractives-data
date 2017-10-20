@@ -2049,32 +2049,32 @@ einnahmen:
           td1: Nordrhein-Westfalen
           td2: "1452"
 bip:
-    title: "BIP und Umsatz"
+    title: "Contribution to the GDP and turnover"
     nav_items:
       - name: intro
-        title: Seitenanfang
+        title: Top of page
       - name: bip
-        title: "BIP: Wie groß ist der deutsche Rohstoffsektor?"
-      - name: daten
-        title: Daten einsehen
+        title: "GDP: What is the size of the German extractive industry?"
+      - name: umsatz
+        title: "Turnover"
 
     bip:
-      title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
-      p1_1: "Mit einem"
-      p1_2: "Bruttoinlandsprodukt"
-      p1_3: "von rund 3.032,82 Mrd. Euro im Jahr 2015 ist Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
-      p1_4: "Bruttowertschöpfung"
-      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2015 4,16 Mrd. Euro, was einem Anteil von"
-      p1_6: "0,14 %"
-      p1_7: "am BIP entspricht."
-      daten: Daten Einsehen
+      title: "GDP: What is the size of the German extractive industry?"
+      p1_1: "Germany is the largest economy in Europe and the fourth largest in the world, with a "
+      p1_2: "GDP"
+      p1_3: "of some €3,032.82 billion in 2015. The"
+      p1_4: "gross value added"
+      p1_5: "of the ‘Mining and Quarrying’ economic sector amounted to €4.16 billion in 2015, which accounted for 0.14 % of the GDP."
+      p1_6: " "
+      p1_7: " "
+      daten: View Data
     umsatz:
-      title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88%) auf Inlandsumsätze und 1,1 Mrd. Euro (12%) auf Umsätze mit dem Ausland.
-      daten_einsehen: Daten einsehen
+      title: "Turnover:"
+      p1: "‘Mining and Quarrying’ sector companies generated a total turnover of around €9.2 billion in 2016. Around €8.1 billion (about 88%) of this sum was attributable to domestic sales and €1.1 billion (about 12%) to foreign sales."
+      daten_einsehen: View Data
       star1:
         title: "*"
-        text: "Erbringung von Dienstleistungen für den Bergbau und die Gewinnung von Steinen und Erden (W08-09) sowie in untergeordneter Rolle Erzbergbau (WZ08-07)"
+        text: "Provision of services for mining and quarrying (W08-09) and in the subordinate role of ore mining (WZ08-07), related to companies with 20 and more employees"
       star2:
         title: "**"
         text: "bezogen auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten (Gewinnung von Naturstein, Kies, Sand, Ton Kaolin: 10 und mehr Beschäftigte)"
