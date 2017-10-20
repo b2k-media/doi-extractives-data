@@ -2131,7 +2131,7 @@ exporte:
     title: Exporte
     nav_items:
       - name: title
-        title: Seitenanfang
+        title: Top of page
       - name: chart1
         title: Exports of the ‘Mining and Quarrying’ sector (value)
       - name: chart2
