@@ -4,6 +4,7 @@ layout: default
 permalink: /daten/zahlungsabgleich/auswahl-sektoren/
 breadcrumb:
   - title: Daten/Zahlungsabgleich
+    title_en:  Explore Data/Reconciliation of payments and revenues
     permalink: /daten/zahlungsabgleich/
 ---
 

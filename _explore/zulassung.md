@@ -4,6 +4,7 @@ layout: default
 permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/zulassung/
 breadcrumb:
   - title: Deutscher Rohstoffsektor/Zulassung
+    title_en: German Commodities Sector/Zulassung
     permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/
 ---
 

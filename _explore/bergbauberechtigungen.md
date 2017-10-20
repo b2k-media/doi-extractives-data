@@ -4,6 +4,7 @@ layout: default
 permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/bergbauberechtigungen/
 breadcrumb:
   - title: Deutscher Rohstoffsektor/Bergbauberechtigungen
+    title_en: German Commodities Sector/Bergbauberechtigungen
     permalink: /rohstoffgewinnung/genehmigung-von-bergbauprojekten/
 ---
 

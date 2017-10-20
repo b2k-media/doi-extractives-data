@@ -4,6 +4,7 @@ layout: default
 permalink: /rohstoffgewinnung/steuergeheimnis/
 breadcrumb:
   - title: Deutscher Rohstoffsektor
+    title_en: German Commodities Sector
     permalink: /rohstoffgewinnung/
 ---
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl_root }}/css/slick-theme.css"/>
