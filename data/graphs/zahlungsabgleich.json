@@ -1,6 +1,6 @@
 [{
 	"title": "Zahlungsabgleich Feldes- und Förderabgaben und Körperschaftsteuer",
-	"title_en": "Zahlungsabgleich Feldes- und Förderabgaben und Körperschaftsteuer EN",
+	"title_en": "Corporation tax",
 	"data": [
     [
       [302377258 , "Zahlungsabgleich Gesamt"],
@@ -19,7 +19,7 @@
 	"unit": "    €"
 }, {
 	"title": "Abdeckung der Sektoren*",
-	"title_en": "Abdeckung der Sektoren* EN",
+	"title_en": "Coverage of sectors*",
 	"data": [
     [
       [100 , "Braunkohle"],
@@ -38,5 +38,6 @@
 	],
 	"color": ["#28467a", "#4682be"],
 	"labels": ["Geschätzte Abdeckung aller identifizierter Unternehmen", "Geschätzte Abdeckung aller teilnehmenden Unternehmen"],
+	"labels_en": ["Estimated coverage of all identified companies", "Estimated coverage of all participating companies"],
 	"xAxis": [0, 20, 40, 60, 80, 106]
 }]
