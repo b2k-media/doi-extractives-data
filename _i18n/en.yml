@@ -427,18 +427,18 @@ genehmigung-von-bergbauprojekten:
     p3: "According to the Federal Mining Act, mine inspectors may enter the mines, demand information, visit facilities and carry out tests – and they may also impose requirements in individual cases. The mining entrepreneurs also have obligations, e.g. to report incidents and accidents, to accept the actions of the mining inspection authorities and to accompany the mine inspectors on tours of the mines and mine buildings (inspections)."
   h2: Steps for the approval of mining projects of landowners natural resources
   h3: Proof of ownership
-  p2: Besitznachweis für Grundstück z. B. Pachtvertrag muss vorliegen
-  h4: Aufsicht durch die Bergbehörden der Länder
+  p2: of the land e.g. land leasing contract must be available.
+  h4: Approval procedures
   p3:
-    p1: Für den Abbau dieser Rohstoffe finden Genehmigungsverfahren nach dem
-    k1: Bundesimmissionsschutzgesetz
-    p2: den
-    k2: landesrechtlichen
-    p3: ", dem"
-    k3: Bauordnung
-    p4: oder dem
-    k4: Wasserhaushaltsgesetz
-    p5: "(bei Nassabbau) statt. Es handelt sich hier meist um sogenannte Massenrohstoffe aus dem Steine und Erden Sektor"
+    p1: as per the
+    k1: Federal Immission Control Act
+    p2: ","
+    k2: the State’s Excavation Laws
+    p3: ","
+    k3: Building Laws
+    p4: or its
+    k4: Water Resources Legislation
+    p5: "(in wet extraction) are carried out. The materials in question are mostly ‘bulk materials’ from the quarried natural resources sector."
 
 genehmigung-zulassung:
     title: Approval of an operating plan
@@ -3507,7 +3507,6 @@ downloads:
     p1_2: ". The reconciliation report was prepared for the first report by the Independent Administrator of the D-EITI (Warth & Kleingrant Thornton, Düsseldorf). Further explanations for the preparation of the reconciliation report as well as for the selection of the relevant natural resources, companies, and payment flows are presented in this"
     link2: "pdf"
     p1_3: ". You will also find recommendations from the Independent Administrator for future reporting under D-EITI."
-
   daten-zum-deiti-bericht:
     title: "Aggregated data D-EITI report 2016"
     p1: "The multi-stakeholder group (MSG) of the German Extractive Industries Transparency Initiative (D-EITI) has opted for the implementation of open data within D-EITI. The"
