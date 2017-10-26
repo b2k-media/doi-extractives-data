@@ -1194,131 +1194,131 @@ umgang-mit-der-natur:
       th5: Potential compensatory payments recorded
       th6: Weblink
       row1:
-        td1: Baden-Württemberg
-        td2: Ja
-        td3: Nein
-        td4: Ja
-        td5: Nein
-        td6: Onlinearchive der
-        link: Landkreise
+        td1: Baden-Wuerttemberg
+        td2: "Yes"
+        td3: "No"
+        td4: "Yes"
+        td5: "No"
+        td6: " "
+        link: "Onlinearchive"
       row2:
-        td1: Bayern
-        td2: Ja
-        td3: Ja
-        td4: Ja
-        td5: Nein
-        td6: Daten-
-        link: Download
+        td1: Bavaria
+        td2: "Yes"
+        td3: "Yes"
+        td4: "Yes"
+        td5: "No"
+        td6: "Data-"
+        link: "Download"
       row3:
         td1: Berlin
-        td2: Ja
-        td3: Ja
-        td4: Nein
-        td5: Nein
-        td6: Browserbasierter
-        link:  Kartendienst
+        td2: "Yes"
+        td3: "Yes"
+        td4: "No"
+        td5: "No"
+        td6: "browserbased "
+        link: "map service"
       row4:
         td1: Brandenburg
-        td2: Nein
-        td3: Ja
-        td4: Nein
-        td5: Nein
-        td6: Im Aufbau
+        td2: "No"
+        td3: "Yes"
+        td4: "No"
+        td5: "No"
+        td6: "Under construction"
       row5:
         td1: Bremen
-        td2: Ja
-        td3: Ja
-        td4: Ja
-        td5: Nein
-        td6_1: Daten
-        link1: -Download;
-        td6_2: Browserbasierter
-        link2: Kartendienst
+        td2: "Yes"
+        td3: "Yes"
+        td4: "Yes"
+        td5: "No"
+        td6_1: "Data-"
+        link1: "Download"
+        td6_2: "browserbased "
+        link2: "map service"
       row6:
         td1: Hamburg
-        td2: Ja
-        td3: Ja
-        td4: Nein
-        td5: Nein
-        td6: Browserbasierter.
-        link: Kartendienst
+        td2: "Yes"
+        td3: "Yes"
+        td4: "No"
+        td5: "No"
+        td6: "browserbased"
+        link: "map service"
       row7:
-        td1: Hessen
-        td2: Ja
-        td3: Ja
-        td4: Ja
-        td5: Nein
-        td6: Browserbasierter.
-        link: Kartendienst
+        td1: Hesse
+        td2: "Yes"
+        td3: "Yes"
+        td4: "Yes"
+        td5: "No"
+        td6: "browserbased"
+        link: "map service"
       row8:
-        td1: Mecklenburg-Vorpommern
-        td2: Ja
-        td3: Ja
-        td4: Ja
-        td5: Nein
-        link1: Download;
-        td6: Browserbasierter
-        link2: Kartendienst
+        td1: Mecklenburg-Western-Pomerania
+        td2: "Yes"
+        td3: "Yes"
+        td4: "Yes"
+        td5: "No"
+        link1: "Download;"
+        td6: "browserbased"
+        link2: "map service"
       row9:
-        td1: Niedersachsen
-        td2: Teilweise
-        td3: Nein
-        td4: Teilweise (s. Bsp. Landkreis Cuxhaven)
-        td5: Nein
-        td6: Browserbasierter Kartendienst am Bsp. LK.
-        link: Cuxhaven
+        td1: Lower Saxony
+        td2: To some extend
+        td3: "No"
+        td4: "To some extent (e.g. the County of Cuxhaven)"
+        td5: "No"
+        td6: "browserbased mapservice e.g."
+        link: "County of Cuxhaven"
       row10:
-        td1: Nordrhein-Westfalen
-        td2: Geplant
-        td3: Nein
-        td4: Ja
-        td5: Nein
+        td1: "North Rhine-Westphalia"
+        td2: Planned
+        td3: "No"
+        td4: "Yes"
+        td5: "No"
         td6: "-"
       row11:
         td1: Rheinland-Pfalz
-        td2: Ja
-        td3: Ja
-        td4: Ja
-        td5: Nein
-        link: Kartendienst
+        td2: "Yes"
+        td3: "Yes"
+        td4: "Yes"
+        td5: "No"
+        link: "Map service"
       row12:
         td1: Saarland
-        td2: Nein
-        td3: Nein
-        td4: Nein
-        td5: Nein
+        td2: "No"
+        td3: "No"
+        td4: "No"
+        td5: "No"
         td6: "-"
       row13:
-        td1: Sachsen
-        td2: Nein
-        td3: Ja
-        td4: Nein
-        td5: Nein
-        link: Beschreibung
+        td1: Saxony
+        td2: "No"
+        td3: "Yes"
+        td4: "No"
+        td5: "No"
+        link: "Description"
       row14:
         td1: Sachsen-Anhalt
-        td2: "Teilweise (Ökokonten: Ja, Kompensationsverzeichnis: Nein)"
-        td3: Ja
-        td4: Nein
-        td5: Nein
-        link: Login
+        td2: "To some extent: The eco-accounts are publicly available but not the compensation directory."
+        td3: "Yes"
+        td4: "No"
+        td5: "No"
+        link: "Login"
       row15:
         td1: Schleswig-Holstein
-        td2: Ja
-        td3: Nein
-        td4: Nein
-        td5: Nein
-        td6: Browserbasierter
-        link: Kartendienst
+        td2: "Yes"
+        td3: "No"
+        td4: "No"
+        td5: "No"
+        td6: "browserbased "
+        link: "map service"
       row16:
-        td1: Thüringen
-        td2: Nein
-        td3: Ja
-        td4: Ja
-        td5: Nein
+        td1: Thuringia
+        td2: "No"
+        td3: "Yes"
+        td4: "Yes"
+        td5: "No"
         td6: "-"
 
-    table_source: "Quelle: eigene Darstellung, Stand: Mai 2017"
+    table_source: "Source: own presentation, as of: May 2017"
 
     beispiel:
       title: Example of the transparency of compensation directories in Baden-Wuerttemberg
