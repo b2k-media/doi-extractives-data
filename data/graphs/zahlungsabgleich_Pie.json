@@ -9,5 +9,13 @@
   		["Feldes-/Förderabgabe: 231.812.141,45 € (57,72%)", 231812141.45]
   	]
   ],
+  "data_en": [
+  	[
+  		["Lease payments: 0.36 Mio € (0,09%)",  360455.06],
+  		["Corporate tax: 70.99 Mio € (17,51%)", 70993101.82],
+  		["Trade tax: 98.44 Mio € (24,51%)", 98444944.39],
+  		["Minesite and extraction royalties: 231,81 Mio € (57,72%)", 231812141.45]
+  	]
+  ],
   "color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff"]
 }

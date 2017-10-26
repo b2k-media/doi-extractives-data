@@ -18,21 +18,45 @@
 			[239, "Kies und Sand"]
 		]
 	],
+	"data_en": [
+		[
+			[0.44, "Ashlar"],
+			[1.1, "China clay"],
+			[2.41, "Crude oil"],
+			[5.75, "Potash salt"],
+			[6.22 , "Hard coal*"],
+			[6.40, "Special clay"],
+			[7.29, "Potash and potash salt products"],
+			[9.7, "Quartz gravel and sand"],
+			[13.67, "Rock salt and industrial brine"],
+			[48.9, "Limestone/marlstone/dolomite"],
+			[178.1, "Lignite"],
+			[210, "Broken natural stone"],
+			[239, "Gravel and sand"]
+		]
+	],
 	"color": ["#28467a"],
 	"labels": ["Rohstoff Menge"],
+	"labels_en": ["Natural resource quantity"],
 	"xAxis": [0, 50, 100, 150, 200, 280],
 	"unit": "Mio. t"
 },
 {
 	"title": "",
-	"title_en": "Rohstoff Menge (2015) EN",
+	"title_en": "",
 	"data": [
 		[
 			[9387.6, "Erdgas**"]
 		]
 	],
+	"data_en": [
+		[
+			[9387.6, "Natural gas**"]
+		]
+	],
 	"color": ["#28467a"],
 	"labels": ["Rohstoff Menge"],
+	"labels_en": ["Natural resource quantity"],
 	"xAxis": [0, 3000, 6000, 9000, 11000],
 	"unit": "Mio. m³"
 },
@@ -57,7 +81,26 @@
 			[2431,	 "Braunkohle"]
 		]
 	],
+	"data": [
+		[
+			["No information available",	 "Potash salt"],
+			[52,	 "Ashlar"],
+			[119,	 "China clay"],
+			[148,	 "Special clay"],
+			[205.5,  "Quartz gravel and sand"],
+			[423,	 "Hard coal*"],
+			[576,	 "Rock salt and industrial brine"],
+			[719,	 "Limestone/marlstone/dolomite"],
+			[859,	 "Crude oil"],
+			[1439,	 "Broken natural stone"],
+			[1510,	 "Gravel and sand"],
+			[2064,	 "Natural gas** "],
+			[2156,	 "Potash and potash salt products"],
+			[2431,	 "Lignite"]
+		]
+	],
 	"color": ["#28467a"],
 	"labels": ["Rohstoff Wert"],
+	"labels_en": ["Natural resource value"],
 	"xAxis": [0, 500, 1000, 1500, 2000, 2600]
 }]
