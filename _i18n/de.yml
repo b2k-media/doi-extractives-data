@@ -1702,6 +1702,7 @@ gesamtdeutsche_rohstoffproduktion:
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
     p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
   table1:
+    h1: "Rohstoffgewinnung in Deutschland für 2015 (Menge)"
     th1: Rohstoffgewinnung in Deutschland für 2015
     th2: (Menge)
     row1:
@@ -1749,6 +1750,7 @@ gesamtdeutsche_rohstoffproduktion:
     star1: "*  verwertbare Förderung"
     star2: "** einschließlich Erdölbegleitgas"
   table2:
+    h1: "Rohstoffgewinnung in Deutschland für 2015 (Wert)"
     th1: Rohstoff
     th2: Wert Wert (2015) in Mio. €
     1:

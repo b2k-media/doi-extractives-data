@@ -34,7 +34,7 @@ $(document).ready(function(){
   }
 
   function plotPieGraph(plotData) {
-    var plot3 = $.jqplot('pieChart', plotData.data, {
+    var plot3 = $.jqplot('pieChart', ((isEn > 1 && plotData.data_en != null ) ? plotData.data_en : plotData.data), {
         seriesDefaults:{
             shadow: false,
             renderer:$.jqplot.PieRenderer,

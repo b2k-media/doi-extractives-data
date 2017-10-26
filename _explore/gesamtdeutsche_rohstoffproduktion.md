@@ -26,7 +26,7 @@ breadcrumb:
 
         <br/><br/>
         <section style="position: relative;">
-        <div class="chart-title-style" id="rohstoff-menge">Rohstoffgewinnung in Deutschland für 2015 (Menge)</div>
+        <div class="chart-title-style" id="rohstoff-menge">{% t gesamtdeutsche_rohstoffproduktion.table1.h1 %}</div>
         <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
@@ -116,7 +116,7 @@ breadcrumb:
         </section>
         <br/>
         <section style="position: relative;">
-        <div class="chart-title-style" id="rohstoff-wert">Rohstoffgewinnung in Deutschland für 2015 (Wert)</div>
+        <div class="chart-title-style" id="rohstoff-wert">{% t gesamtdeutsche_rohstoffproduktion.table2.h1 %}</div>
         <!-- <table>
           <tbody>
             <tr>
