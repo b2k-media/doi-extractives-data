@@ -4,6 +4,7 @@ layout: default
 permalink: /daten/einnahmen/
 breadcrumb:
   - title: Daten
+    title_en: Explore Data
     permalink: /daten/
 ---
 

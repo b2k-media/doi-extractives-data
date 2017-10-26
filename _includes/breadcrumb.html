@@ -1,6 +1,12 @@
 {% if page.breadcrumb %}
   <div>
-    <a class="breadcrumb" href="{{ site.baseurl }}{{ page.breadcrumb[0].permalink }}">{{ page.breadcrumb[0].title }}</a>
+      <a class="breadcrumb" href="{{ site.baseurl }}{{ page.breadcrumb[0].permalink }}">
+        {% if site.lang == "en" %}
+          {{ page.breadcrumb[0].title_en }}
+        {% else %}
+          {{ page.breadcrumb[0].title }}
+        {% endif %}
+      </a>
     /
   </div>
 {% endif %}
