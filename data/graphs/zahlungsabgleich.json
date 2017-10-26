@@ -13,8 +13,21 @@
       [70993102 , "Körperschaftsteuer"]
     ]
 	],
+	"data_en": [
+    [
+      [302377258 , "Total payment flow"],
+      [231384156 , "Minesite and extraction royalties"],
+      [70993102 , "Corporation tax"]
+		],
+    [
+      [302377258 , "Total payment flow"],
+      [231384156 , "Minesite and extraction royalties"],
+      [70993102 , "Corporation tax"]
+    ]
+	],
 	"color": ["#28467a", "#4682be"],
 	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
+	"labels_en": ["Total payments according to the company", "Total payments according to the public authorities"],
 	"xAxis": [0, 100000000, 200000000, 300000000, 400000000],
 	"unit": "    €"
 }, {
@@ -33,7 +46,23 @@
       [96 , "Erdöl"],
       [100 , "Erdgas"],
       [98 , "Kali"],
-      ["k.A.**" , "Salze"]
+      ["kA**" , "Salze"]
+    ]
+	],
+	"data_en": [
+    [
+      [100 , "Lignite"],
+      [96 , "Crude oil"],
+      [100 , "Natural gas"],
+      [98 , "Potash"],
+      [83 , "Salts (including industrial)"]
+		],
+    [
+      [89 , "Lignite"],
+      [96 , "Crude oil"],
+      [100 , "Natural gas"],
+      [98 , "Potash"],
+      ["n/s**" , "Salts (including industrial)"]
     ]
 	],
 	"color": ["#28467a", "#4682be"],
