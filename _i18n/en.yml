@@ -1640,18 +1640,18 @@ explore-data:
       item5: Reconciliation
 
 gesamtdeutsche_rohstoffproduktion:
-  title: Gesamtdeutsche Rohstoffproduktion
-  nav_title: Gesamtdeutsche Rohstoffproduktion
+  title: Extraction of natural resources in Germany
+  nav_title: Extraction of natural resources in Germany
   nav_items:
     - name: title
-      title: Seitenanfang
+      title: Top of page
     - name: rohstoff-menge
-      title: Rohstoff Menge (2015)
+      title: Natural resources quantity (2015)
     - name: rohstoff-wert
-      title: Rohstoff Wert (2015)
-  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2015 auf.
-  p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
-  daten_einsehen: Daten Einsehen
+      title: Natural resource value (2015)
+  p1: "A wide range of different mineral resources and energy resources is mined in Germany. The following tables list the natural resources extracted in Germany by quantities and estimated value in 2015."
+  p2: "Further information on data sources as well as links to original data are available here:"
+  daten_einsehen: View Data
   steinkohle:
     title: Hard coal
     p: Plans are in the pipeline to end German hard coal extraction in a socially-acceptable manner by 2018, since the industry has been steadily declining for years. 6.2 million tons of usable output were extracted in 2015. An approximate value of €423 million for this quantity can be estimated from the average 2015 cross-border prices for power station coal.
@@ -1756,8 +1756,8 @@ gesamtdeutsche_rohstoffproduktion:
     row14:
       td1: Kalk-/Mergel-/Dolomitstein
       td2: 48,9 Mio. t
-    star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
+    star1: "* Useable extracted output"
+    star2: "** Including associated gas"
   table2:
     h1: "Extraction of natural resources in Germany in 2015 (value)"
     th1: Rohstoff
@@ -1804,9 +1804,9 @@ gesamtdeutsche_rohstoffproduktion:
     14:
       td1: Kalk-/Mergel-/Dolomitstein
       td2: "719"
-    star1: "*  verwertbare Förderung"
-    star2: "** einschl. Erdölgas"
-    note: "Die Wertangaben sind nur für Kali- und Kalisalzprodukte möglich"
+    star1: "* Useable extracted output"
+    star2: "** Including associated gas"
+    note: "Information on value is only available for potash and potash salt products."
 
 einnahmen:
     title: Contribution to government revenue
