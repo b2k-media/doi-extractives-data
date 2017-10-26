@@ -1623,7 +1623,7 @@ explore-data:
       heading-1: Commodity production in Germany
       sub-heading-1: Interactive Resource Card
       description-1: For the first time ever commodities production data at the provincial level in an interactive resource card are available.
-      sub-heading-2: Natural resource extr. in Germany
+      sub-heading-2: Resource extraction in Germany
       description-2: Inform about which <span class="term" data-term="raw materials" title="Click to define" tabindex="0">raw materials<icon class="icon-book"></icon></span> are to promote in Germany.
 
     revenue :
@@ -1637,7 +1637,7 @@ explore-data:
       item2: Revenues
       item3: Employment
       item4: Exports
-      item5: Reconciliation of payments and revenues
+      item5: Reconciliation
 
 gesamtdeutsche_rohstoffproduktion:
   title: Gesamtdeutsche Rohstoffproduktion
@@ -2290,6 +2290,7 @@ unternehmen-und-zahlungsströme:
       - name: feldes
         title: "Results of the reconciliation of minesite/extraction royalties by mining authority "
     daten_einsehen: "View data"
+    table_source: "Own representation. See detailed sources here:"
     zahlungsabgleich:
       title: "Participating companies and/or group of companies"
       table:

@@ -2285,6 +2285,7 @@ unternehmen-und-zahlungsströme:
       - name: feldes
         title: "Feldes- Förderabgaben nach Bergbehörde"
     daten_einsehen: "Daten einsehen"
+    table_source: "Eigene Darstellung. Detaillierte Quellenangaben siehe:"
     zahlungsabgleich:
       title: "Am Zahlungsabgleich teilnehmende Unternehmen"
       table:

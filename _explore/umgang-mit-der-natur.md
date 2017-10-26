@@ -235,7 +235,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td5 %}</td>
               <td>
-                <a target="_blank" href="http://87.191.164.71/ekis_start/index.php">
+                <a target="_blank" href="http://ekis.geolock.de/">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.link %}
                 </a>
               </td>

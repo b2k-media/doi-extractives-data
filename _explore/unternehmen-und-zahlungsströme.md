@@ -153,11 +153,11 @@ breadcrumb:
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row12.td3 %}</td>
             </tr>
           </table>
-          <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
-          <!--<a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
+          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t unternehmen-und-zahlungsströme.daten_einsehen %}
-          </a>-->
+          </a>
           <br/>
         </section>
       </section>
@@ -510,28 +510,29 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
-        <p id="sub-1">
+        <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
+        <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <icon class="fa fa-file-text-o u-padding-right"></icon>
+          {% t unternehmen-und-zahlungsströme.daten_einsehen %}
+        </a>
+        <br/>
+        <br/>
+        <p style="font-size: 0.75rem" id="sub-1">
           <sup>{% t unternehmen-und-zahlungsströme.sub-1.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub-1.text %}
         </p>
-        <p id="sub-2">
+        <p style="font-size: 0.75rem" id="sub-2">
           <sup>{% t unternehmen-und-zahlungsströme.sub-2.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub-2.text %}
         </p>
-        <p id="sub-3">
+        <p style="font-size: 0.75rem" id="sub-3">
           <sup>{% t unternehmen-und-zahlungsströme.sub-3.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub-3.text %}
         </p>
-        <p id="sub-4">
+        <p style="font-size: 0.75rem" id="sub-4">
           <sup>{% t unternehmen-und-zahlungsströme.sub-4.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub-4.text %}
         </p>
-        <br/>
-        <!--<a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
-          <icon class="fa fa-file-text-o u-padding-right"></icon>
-          {% t unternehmen-und-zahlungsströme.daten_einsehen %}
-        </a>-->
         <br/>
       </section>
       <br/>
@@ -894,33 +895,35 @@ breadcrumb:
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row13.td9 %}</strong></td>
           </tr>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
-
-        <p id="sub0">
+        <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
+        <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <icon class="fa fa-file-text-o u-padding-right"></icon>
+          {% t unternehmen-und-zahlungsströme.daten_einsehen %}
+        </a>
+        <br/>
+        <br/>
+        <p style="font-size: 0.75rem" id="sub0">
           <sup>{% t unternehmen-und-zahlungsströme.sub0.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub0.text %}
         </p>
-        <p id="sub1">
+        <p style="font-size: 0.75rem" id="sub1">
           <sup>{% t unternehmen-und-zahlungsströme.sub1.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub1.text %}
         </p>
-        <p id="sub2">
+        <p style="font-size: 0.75rem" id="sub2">
           <sup>{% t unternehmen-und-zahlungsströme.sub2.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub2.text %}
         </p>
-        <p id="sub3">
+        <p style="font-size: 0.75rem" id="sub3">
           <sup>{% t unternehmen-und-zahlungsströme.sub3.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub3.text %}
         </p>
-        <p id="sub4">
+        <p style="font-size: 0.75rem" id="sub4">
           <sup>{% t unternehmen-und-zahlungsströme.sub4.title %}</sup>
           {% t unternehmen-und-zahlungsströme.sub4.text %}
         </p>
         <br/>
-        <!--<a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
-          <icon class="fa fa-file-text-o u-padding-right"></icon>
-          {% t unternehmen-und-zahlungsströme.daten_einsehen %}
-        </a>-->
+
         <br/>
       </section>
       <br/>
@@ -1011,11 +1014,11 @@ breadcrumb:
               </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t downloads.table_link.p1 %} <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">{% t downloads.table_link.link %}</a> {% t downloads.table_link.p2 %}</p>
-        <!--<a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+        <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
+        <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t unternehmen-und-zahlungsströme.daten_einsehen %}
-        </a>-->
+        </a>
         <br/>
       </section>
 
