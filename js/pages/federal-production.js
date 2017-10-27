@@ -287,7 +287,8 @@
         .datum({
           value: total,
           properties: {
-            name: traslation.total
+            name: traslation.total,
+            name_en: traslation.total
           }
         })
         .call(updateRegionRow, isState);
