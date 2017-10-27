@@ -367,29 +367,29 @@ rechtlicher-rahmen:
     p2: "Depending on the Federal state, the natural resource and the type of extraction involved, middle and lower-management levels of governmental bodies are responsible for the landowners’ natural resources category."
   rechtliche-unterteilung:
     title: Legal division of natural resources in Germany
-    bodenschatze: Bodenschätze
+    bodenschatze: natural resources
     table:
       tr1:
-        td1: Rechtliche Untergliederung
-        td2: Bergfreie Bodenschätze (unter Bergrecht)
-        td3: Grundeigene Bodenschätze (unter Bergrecht)
-        td4: Grundeigentümer-Bodenschätze (nicht unter Bergrecht)
+        td1: Legal division
+        td2: Free-to-mine natural resources (subject to mining law)
+        td3: Free-to-mine natural resources
+        td4: Privately-owned natural resources
       tr2:
-        td1: Fachliche Untergliederung
-        td2: "Energierohstoffe: Kohlen, Kohlenwasserstoffe, Erdwärme<br/><br/>Industrieminerale: Flussspat, Graphit, Lithium, Phosphor, alle leicht wasserlöslichen Salze, Schwefel, Schwerspat, Strontium, Zirkon<br/><br/>Metallerze: z. B. Eisen-,Kupfer-, Blei- Zinkerze usw.<br/><br/>Außerdem: Alle Bodenschätze im Bereich des Festlandssockels und der Küstengewässer (also auch Kies, Natursteine)"
-        td3: "Industrieminerale: Bentonit und andere montmorillonitreiche Tone, Feldspat, Glimmer, Kaolin, Kieselgur (Diatomit), „Pegmatitsand“, Quarz(-sand und -kies), und Quarzit (soweit für Feuerfestprodukte und Ferrosilicium-Herstellung geeignet), Speckstein und Talk, Ton (soweit feuerfest, säurefest)<br/><br/>Steine und Erden: Basaltlava (außer Säulenbasalt), Dachschiefer, Trass<br/><br/>Außerdem: Alle untertägig gewonnenen grundeigenen Bodenschätze (also dann auch Gipsstein, Naturstein, Ziegeleitone usw.)"
-        td4: "Steine und Erden (im Tagebau): Anhydrit, Gipsstein, Kalkstein sowie Säulenbasalt und andere Natursteine, Kies und Sand, Quarz und Quarzit (soweit nicht für die Herstellung von Feuerfestprodukten und Ferrosilicium-geeignet), und andere in dieser Tabelle nicht genannten Rohstoffe<br/><br/>Außerdem: Torf"
+        td1: Subject-specific subdivision
+        td2: "Energy resources: coals, hydrocarbons, geothermal energy<br/><br/>Industrial minerals: fluorite, graphite, lithium, phosphorus, all salts that are readily soluble in water, sulphur, barite, strontium, zirconium<br/><br/>Metal ores: e.g. iron, copper, lead, zinc ores, etc.<br/><br/>Also: all natural resources in the area of the continental shelf and coastal waters (including gravel and natural stones)"
+        td3: "Right to mine: must be granted by the responsible mining authority"
+        td4: "Proof of ownership: of the land, e.g. land leasing contract must be submitted to the mining authority."
       tr3:
-        td1: Verfügungsgewalt
-        td2: "Diese Bodenschätze sind „frei“, d. h. sie gehören nicht dem Grundeigentümer. Ihre Nutzbarmachung bedarf der Bewilligung/ Genehmigung durch die Bergbehörde."
-        td3: "Diese Bodenschätze gehören dem Grundeigentümer; ihre Nutzbarmachung steht dem Grundeigentümer zu"
+        td1: Right of disposal over natural resources
+        td2: "These natural resources are ‘free’, viz., they do not belong to the landowner. Their exploitation requires mining rights and the permission of the mining authorities."
+        td3: "Approval of the operating plan by the mining authority (approval of the main operating plans every two years) <br/>An operation-relevant approval specifies the technical and legal environmental conditions under which natural resources can be explored and extracted."
       tr4:
-        td1: "Art der rechtlichen Regelung"
-        td2: "Geregelt nach Bundesberggesetz § 3, Abs. 3          § 3, Abs. 4"
+        td1: "Type of legal regulation"
+        td2: "Governed by the Federal Mining Act § 3, Abs. 3          § 3, Abs. 4"
         td3:
-          p1: "Geregelt nach anderen Rechtsgebieten, z. B. Baurecht (Abgrabungsgesetz),"
-          k1: Wasserhaushaltsgesetz
-          p2: "bzw. Landeswassergesetz, Bundes-Immissionsschutzgesetz, bundes- bzw. Landes-Naturschutzgesetz"
+          p1: "Supervision by the mining authorities of the Federal States <br/>The extraction of free-to-mine and privately-owned natural resources is subject to supervision by the relevant mining authority (mining authorities; § 69(1) BBergG). In addition to awarding mining rights and granting operating plan approvals, the third core competence of the mining authorities is the supervision of mining operations."
+          k1: " "
+          p2: "According to the Federal Mining Act, mine inspectors may enter the mines, demand information, visit facilities and carry out tests – and they may also impose requirements in individual cases. The mining entrepreneurs also have obligations, e.g. to report incidents and accidents, to accept the actions of the mining inspection authorities and to accompany the mine inspectors on tours of the mines and mine buildings (inspections)."
   p2: "Own presentation. Partial source: State Geological Service of the Federal Republic of Germany,"
   link: Securing of Raw Materials 2008
 
