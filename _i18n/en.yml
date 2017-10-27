@@ -1910,28 +1910,28 @@ einnahmen:
         td6: "438"
         td7: "361"
       row6:
-        td1: Total income of the State
-        td2: 1.030.908
-        td3: 1.103.862
-        td4: 1.163.357
-        td5: 1.201.058
-        td6: 1.244.589
-        td7: 1.301.816
+        td1: "Total income of the State"
+        td2: "1,030,908"
+        td3: "1,103,862"
+        td4: "1,163,357"
+        td5: "1,201,058"
+        td6: "1,244,589"
+        td7: "1,301,816"
       row7:
         td1: Proportion of the above taxes on total receipts
-        td2: 0,03%
-        td3: 0,04%
-        td4: 0,04%
-        td5: 0,04%
-        td6: 0,04%
-        td7: 0,03%
+        td2: "0.03%"
+        td3: "0.04%"
+        td4: "0.04%"
+        td5: "0.04%"
+        td6: "0.04%"
+        td7: "0.03%"
       row8: "for information only:"
       row9:
         td1: Updating factor
-        td4: 7,09%
-        td5: -11,40%
-        td6: -3,48%
-        td7: -17,61%
+        td4: "7.09%"
+        td5: "-11.40%"
+        td6: "-3.48%"
+        td7: "-17.61%"
     förder_feldesabgaben:
       title: Extraction and minesite royalties
       p1: Extraction royalties are levied by the mining authorities of the Federal States. They vary greatly, depending on the local mining activity and the fixed tax rates in the individual Federal States. A total of €232.5 million in extractive sector revenues was levied in Germany in 2016. The front runner was by far the state of Lower Saxony, with more than €172 million. Schleswig-Holstein was ranked second with around €48 million, followed by the Rhineland-Palatinate with around €5 million. In the case of some Federal States, the amount of revenue has been subject to significant fluctuations in the past few years. This may have different reasons, e.g. falling world market prices for raw materials or changes in production quantities.
@@ -1944,16 +1944,16 @@ einnahmen:
         th3: "2016"
         row1:
           td1: Federal state
-          td2: "386.954.750,40"
-          td3: "232.507.396,33"
+          td2: "386,954,750.40"
+          td3: "232,507,396.33"
         row2:
           td1: Baden-Wuerttemberg
-          td2: "117.387,84"
-          td3: "128.185,25"
+          td2: "117,387.84"
+          td3: "128,185.25"
         row3:
           td1: Bavaria
-          td2: "479.125,65"
-          td3: "1.479.828,47"
+          td2: "479,125,65"
+          td3: "1,479,828.47"
         row4:
           td1: Berlin
           td2: "0.00"
@@ -1964,64 +1964,64 @@ einnahmen:
           td3: "0.00"
         row6:
           td1: Hamburg
-          td2: "167.392,87"
-          td3: "86.573,83"
+          td2: "167,392.87"
+          td3: "86,573.83"
         row7:
           td1: Hesse
-          td2: "455.052,77"
-          td3: "462.929,24"
+          td2: "455,052.77"
+          td3: "462,929.24"
         row8:
           td1: Lower Saxony
-          td2: "295.865.995,20"
-          td3: "172.075.617,30"
+          td2: "295,865,995.20"
+          td3: "172,075,617.30"
         row9:
           td1: North Rhine-Westphalia
-          td2: "1.451.800,74"
-          td3: "666.541,61"
+          td2: "1,451,800.74"
+          td3: "666,541.61"
         row10:
           td1: Rhineland-Palatinate
-          td2: "8.112.789,63"
-          td3: "5.191.731,39"
+          td2: "8,112,789.63"
+          td3: "5,191,731.39"
         row11:
           td1: Saarland
-          td2: "137.667,06"
-          td3: "33.121,21"
+          td2: "137,667.06"
+          td3: "33,121.21"
         row12:
           td1: Schleswig-Holstein
-          td2: "75.966.953,81"
-          td3: "48.139.515,05"
+          td2: "75,966,953.81"
+          td3: "48,139,515.05"
         row13:
           td1: Brandenburg
-          td2: "528.292,70"
-          td3: "536.917,05"
+          td2: "528,292.70"
+          td3: "536,917.05"
         row14:
           td1: Mecklenburg-Western-Pomerania
-          td2: "466.322,01"
-          td3: "247.585,55"
+          td2: "466,322.01"
+          td3: "247,585.55"
         row15:
           td1: Saxony
-          td2: "335.156,57"
-          td3: "523.795,20"
+          td2: "335,156.57"
+          td3: "523,795.20"
         row16:
           td1: Saxony-Anhalt
-          td2: "1.363.756,74"
-          td3: "1.480.734,27"
+          td2: "1,363,756.74"
+          td3: "1,480,734.27"
         row17:
           td1: Thuringia
-          td2: "1.507.056,81"
-          td3: "1.454.320,91"
+          td2: "1,507,056.81"
+          td3: "1,454,320.91"
         row18:
           td1: Total extraction royalties
-          td2: "387,0"
-          td3: "232,5"
+          td2: "387.0"
+          td3: "232.5"
         row19:
           td1: "Total income of the Federal State in millions of €"
-          td2: "1.301.816"
-          td3: "1.351.851"
+          td2: "1,301,816"
+          td3: "1,351,851"
         row20:
           td1: Proportion
-          td2: "0,03"
-          td3: "0,02"
+          td2: "0.03"
+          td3: "0.02"
       p3: "The revenues from minesite royalties of the Federal States are not systematically compiled or published on a nationwide basis. Their amount is significantly lower than the amount of extractive sector revenues and they are only applicable in some federal States (see the table below):"
       table2:
         title: "Revenue from royalties paid by the extractive sector in 2015:"
@@ -2038,7 +2038,7 @@ einnahmen:
           td2: "351"
         row4:
           td1: Nordrhein-Westfalen
-          td2: "1452"
+          td2: "1,452"
 bip:
     title: "Contribution to the GDP and turnover"
     nav_items:
