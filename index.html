@@ -16,7 +16,12 @@ title: Home
       </p>
     </div>
     <iframe
+      {% if site.lang == "en" %}
+      src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEITIDeutschland%2Fvideos%2F257273064785804%2F&width=600&show_text=false&height=343&appId" 
+      {% else %}
       src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEITIDeutschland%2Fvideos%2F263195100860267%2F&width=600&show_text=false&height=343&appId"
+      {% endif %}
+
       width="600"
       height="443"
       style="border:none;overflow:hidden"
