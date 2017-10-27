@@ -57,6 +57,9 @@ breadcrumb:
           </p>
           <p>
             {% t zahlungsströme.gewerbesteuer.p3 %}
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/#title">
+              {% t zahlungsströme.gewerbesteuer.link2 %}
+            </a>
           </p>
         </section>
         <section id="besonderheiten" style="position: relative;">
@@ -76,7 +79,7 @@ breadcrumb:
           </ul>
           <p>
             {% t zahlungsströme.organschaftsverhältnissen.p3 %}
-            <a href="{{site.baseurl}}/daten/zahlungsabgleich/">
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/#gewerbesteuer">
               {% t zahlungsströme.organschaftsverhältnissen.link1 %}
             </a>
           </p>
@@ -101,7 +104,7 @@ breadcrumb:
         <p>{% t zahlungsströme.pachtzahlungen.p1 %}</p>
         <p>
           {% t zahlungsströme.pachtzahlungen.p2_1 %}
-          <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/#zahlungen-industrie">
+          <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/#pachtzahlungen">
             {% t zahlungsströme.pachtzahlungen.link %}
           </a>
           {% t zahlungsströme.pachtzahlungen.p2_2 %}
