@@ -39,7 +39,7 @@ breadcrumb:
           <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p4 %}</p>
           <p>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_1 %}
-            <a target="_blank" href="https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html">
+            <a target="_blank" href="{% t lizenzregister_und_verträge.rechtliche_grundlage.link_href %}">
               {% t lizenzregister_und_verträge.rechtliche_grundlage.linkp %}
             </a>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_2 %}
@@ -73,9 +73,8 @@ breadcrumb:
           <p>
             {% t lizenzregister_und_verträge.handhabung.p1_1 %}
             <a target="_blank" href="http://www.maps.lgrb-bw.de">
-              {% t lizenzregister_und_verträge.handhabung.link1 %}
+              {% t lizenzregister_und_verträge.handhabung.p1_2 %}
             </a>
-            {% t lizenzregister_und_verträge.handhabung.p1_2 %}
             <a target="_blank" href="http://www.geo.brandenburg.de/lbgr/bergbau">
               {% t lizenzregister_und_verträge.handhabung.link2 %}
             </a>
@@ -92,7 +91,13 @@ breadcrumb:
         <p>{% t lizenzregister_und_verträge.verträge.p1 %}</p>
         <p>{% t lizenzregister_und_verträge.verträge.p2 %}</p>
         <p>{% t lizenzregister_und_verträge.verträge.p3 %}</p>
-        <p>{% t lizenzregister_und_verträge.verträge.p4 %}</p>
+        <p>
+          {% t lizenzregister_und_verträge.verträge.p4 %}
+          <a target="_blank" href="http://www.rohstofftransparenz.de/en/rohstoffgewinnung/lizenzregister-und-vertraege/">
+            {% t lizenzregister_und_verträge.verträge.p4_link %}
+          </a>
+          {% t lizenzregister_und_verträge.verträge.p4_2 %}
+        </p>
         <p>{% t lizenzregister_und_verträge.verträge.p5 %}</p>
         <p>{% t lizenzregister_und_verträge.verträge.p6 %}</p>
       </section>

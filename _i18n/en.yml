@@ -58,7 +58,7 @@ erdol-erdgas:
       p: "In 1910, natural gas was found in Neuengamme (which is a district of Hamburg today) when drilling for water. The industrial production of natural gas started in 1913. However, natural gas production in Germany remained minimal until the end of the 1960s, with only a 1% share of the primary energy consumption in Germany (West). The oil crises of the 1970s focused increased attention on the consumption of energy and the need for the development of energy sources. Domestic production grew with the discovery of large gas deposits on the German-Dutch border and the increasing conversion of town and coke-oven gas to natural gas. This was accompanied by a steady expansion of the gas infrastructure (from 12 to 20 billion m³(Vn) of raw gas between 1970 and 2005). In 2005, domestic natural gas production covered up to 25 % of domestic gas consumption, but production has been declining since then: in 2016, it stood at around 8 billion m³(Vn), some 6 % of domestic gas consumption. The proven and probable reserves of natural gas are also in decline, with a total of 74 billion m³ as of January 1st, 2016. This means that the static range of the German natural gas reserves amounts to 8 years. The decline in natural gas reserves and production is mainly due to the increasing depletion of the large deposits and the resulting natural decline in extraction. A legislative process lasting several years was also responsible for the decline in reserves; during this process, the topics discussed included future requirements for the use of fracking technology, which led to new legislation in 2016. There have been no significant new discoveries in recent years."
     wirtschaftliche-bedeutung:
       title: Economic importance
-      p: "Germany ranks number 43 in the table of all natural gas-producing countries. The country’s share of global gas production amounted to 0.3 % in 2015. Natural gas is of relatively significant economic importance in relation to other extracted natural resources such as lignite. The value of the natural gas extracted in 2015 amounted to €2 billion. Natural gas accounts for one-fifth of the total value of the natural resources extracted in Germany. 3.950 persons were employed in the oil and gas sectors in 2015."
+      p: "Germany ranks number 43 in the table of all natural gas-producing countries. The country’s share of global gas production amounted to 0.3 % in 2015. Natural gas is of relatively significant economic importance in relation to other extracted natural resources such as lignite. The value of the natural gas extracted in 2015 amounted to €2 billion. Natural gas accounts for one-fifth of the total value of the natural resources extracted in Germany. 3.950 persons were employed in the oil and gas sectors in 2015"
       sup2:
         title: "2"
         text: " This data contains only employment figures for companies subject to mining law."
@@ -572,6 +572,7 @@ lizenzregister_und_verträge:
     p4: "The competent authorities may also make this information directly accessible to the public and this has already been taking place for some time now in many Federal States – several states publish a transparent online licence cadastre (i.e. a land registration licence). Other Federal States are also planning to set up similar systems."
     p5_1: "All hydrocarbon-segment mining licences in Germany can also be viewed in the annual publication ‘Erdöl und Erdgas in der Bundesrepublik Deutschland"
     linkp: "(Crude oil and natural gas in the Federal Republic of Germany)"
+    link_href: "https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html#english"
     p5_2: "."
 
   beispiel:
@@ -590,17 +591,19 @@ lizenzregister_und_verträge:
     title: "Implementation in other Federal States"
     p1_1: "Other Federal States have also created online sites for inspecting mining authorisation books and maps. Examples here are"
     link1: "www.maps.lgrb-bw.de"
-    p1_2: " Baden-Wuerttemberg,"
-    link2: "www.geo.brandenburg.de/lbgr/bergbau"
-    p1_3: "Berlin and Brandenburg"
-    link3: "www.geoportal.saarland.de."
+    p1_2: "Baden-Wuerttemberg,"
+    link2: "Berlin and Brandenburg "
+    p1_3: "and"
+    link3: "the Saarland."
 
   verträge:
     title: Contracts
     p1: "In some countries, the conditions under which natural resources can be extracted are negotiated directly between the extractive companies and the government agencies and the results of these negotiations are set down in contracts between the parties involved. This is not usually the case in Germany, since the conditions for the exploration and extraction of natural resources are generally validated by law and implemented by the respective competent authorities."
     p2: "Against this (international) background, the EITI encourages participating countries to promote transparency with regard to these contracts in requirement 2.4 of the EITI standard. The EITI requirement thus requires an understanding of the content and scope of the ‘contracts’ and/or ‘agreements’ (between government agencies and extractive companies) in which ‘conditions’ relating to the extraction of natural resources are specified."
     p3: "In Germany, the extraction of both free-to-mine and privately-owned natural resources and landowners’ natural resources is subject to a procedural, public-law licensing regime, the content, process and scope of which differs according to the type of the natural resource involved and the size of the extraction operation. Relevant legislation can include regulations on mining law, Federal building law, water law, immission protection and nature conservation laws. The various legal requirements are specified and implemented for the respective mining project through official approvals. The ‘conditions’ within the meaning of EITI requirement 2.4, under which the extraction of natural resources takes place, are defined as part of the approval by the state. This approval procedure in Germany is based on relevant legal requirements, and as such it differs significantly from the private-law contracts practised in many other countries. These aspects must be accordingly considered in the future specification of the requirements of the EITI standard under 2.4."
-    p4: "Competent authorities are already publishing approvals on their websites today, if the project in question requires an environmental impact assessment. In addition, transparency exists with respect to mining rights where the extraction of free-to-mine natural resources is concerned (read more). There are currently no statutory requirements for a comparable disclosure of property rights to mining/extraction sites and/or rights of use regarding the extraction of non-free-to-mine natural resources."
+    p4: "Competent authorities are already publishing approvals on their websites today, if the project in question requires an environmental impact assessment. In addition, transparency exists with respect to mining rights where the extraction of free-to-mine natural resources is concerned ("
+    p4_link: read more
+    p4_2: "). There are currently no statutory requirements for a comparable disclosure of property rights to mining/extraction sites and/or rights of use regarding the extraction of non-free-to-mine natural resources."
     p5: "In addition, ‘agreements’ may also be of a private legal nature and may be concluded between extractive companies and government agencies. Further terms and/or conditions relating to the extraction of the resources may also be agreed between the contracting parties. In individual cases, contractual agreements regarding the confidentiality of the contract content may preclude any centrally-controlled recording and/or publication of these agreements. However, the provisions for the preparation of a payment report provide an obligation for companies extracting natural resources to disclose payments ‘in order to improve infrastructure’ in § 341r No. 3 of the HGB (German Commercial Code). According to the Institute of Chartered Accountants in Germany (Institut der Wirtschaftsprüfer in Deutschland e.V.), such payments include amongst others those for the promotion of municipal investments or educational institutions, which are, for example, set down in private legal agreements. In this respect, it is assumed that the publication of payment reports will also lead to a disclosure of cash flows from private legal agreements between the extractive industry and the State, but not to a disclosure of the contractual contents of such private agreements. To clarify the exact content-related substance behind this reason for payment, we must await the future analysis of published payment reports and the development of other pertinent legal and/or business issues."
     p6: "In Germany, the EITI requirement for the promotion of transparency with respect to contracts and agreements between government agencies and extractive companies is currently being addressed and discussed in the MSG."
 
@@ -3331,7 +3334,7 @@ how-it-work:
       title: What are the legal frameworks?
       item1: Legal framework
       item2: Approval of mining projects
-      item3: Register of licences and contracts
+      item3: Licences and contracts
       item4: Beneficial Ownership
     section4:
       title: What revenues does the state generate?
