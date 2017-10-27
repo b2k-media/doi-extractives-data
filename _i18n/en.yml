@@ -2091,17 +2091,17 @@ beschäftigung:
       th3: "No. of apprentices among these employees"
       row1:
         td1: "Mining and quarrying in total"
-        td2: "71074"
-        td3: "2373"
+        td2: "71,074"
+        td3: "2,373"
       row2:
         td1: "including:"
       row3:
         td1: "Coal mining"
-        td2: "15.881"
+        td2: "15,881"
         td3: "860"
       row4:
         td1: "Extraction of crude oil and natural"
-        td2: "3.045"
+        td2: "3,045"
         td3: "105"
       row5:
         td1: "Ore mining"
@@ -2109,11 +2109,11 @@ beschäftigung:
         td3: "*"
       row6:
         td1: "Quarried natural resources, other mining products"
-        td2: "37.982"
-        td3: "1.068"
+        td2: "37,982"
+        td3: "1,068"
       row7:
         td1: "Provision of Services for Mining"
-        td2: "13.306"
+        td2: "13,306"
         td3: "340"
       star: "* For reasons of data protection and statistical confidentiality, numerical values of 1 or 2 and data from which such numerical values can be mathematically deduced are made anonymous."
     daten_einsehen: "View Data"
