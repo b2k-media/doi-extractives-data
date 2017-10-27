@@ -283,70 +283,70 @@ rechtlicher-rahmen:
           title: Legal division of natural resources in Germany
   grid:
     baden-wurttemberg:
-      title: Baden-Württemberg
-      descr: Min. für Umwelt <br/>Klima und Energiewirtschaft
-      link: Regierungspräs. Freiburg,<br/> Landesamt für Goelogie,<br/> Rohstoffe und Bergbau
+      title: Baden-Wuerttemberg
+      descr: Ministry for the Environment,<br/>Climate and Energy.<br/>
+      link: Regional Council of Freiburg,<br/> State Office for Geology,<br/> Natural Resources and Mining
     bayern:
-      title: Bayern
-      descr: Staatsmin. für Wirtschaft und Medien,<br/> Energie und Technologie
-      link1: Regierungspräs. München
-      link2: Regierungspräs. Oberfranken
+      title: Bavaria
+      descr: State Ministry for Economic Affairs<br/> and Media, Energy and Technology
+      link1: Government of Upper Bavaria, <br/>Mining Office of Southern Bavaria,
+      link2: Government of Upper Franconia,<br/>Mining Office of North Bavaria
     berlin:
       title: Berlin
-      descr: Senatsverw. für Wirtschaft,<br/> Technologie und Forschung
-      link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
+      descr: Senate Administration for Economic Affairs,<br/> Technology and Research
+      link: State Office for Mining,<br/>for Geology and Natural<br/>Resources of Brandenburg
     brandenburg:
       title: Brandenburg
-      descr: Min. für Wirtschaft<br/> und Europaangelegenheiten
-      link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
+      descr: Ministry for Economic<br/> Affairs and Energy
+      link: State Office for Mining,<br/>Geology and Natural Resources
     bremen:
       title: Bremen
-      descr: Senator für Wirtschaft,<br/> Arbeit und Häfen
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      descr: Senator for Economic Affairs,<br/> Labour and Ports
+      link: State Office for Mining,<br/> Energy and Geology
     hamburg:
       title: Hamburg
-      descr: Behörde für Wirtschaft,<br/> Verkehr und Innovation
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      descr: Department of Economic Affairs,<br/> Transport  and Innovation
+      link: State Office for Mining,<br/> Energy and Geology
     hessen:
-      title: Hessen
-      descr: Min. für Umwelt, Klimaschutz, <br/>Landwirtschaft und Verbraucherschutz
-      link: Regierungspräsidium Darmstadt<br/> Abt. Arbeitsschutz und Umwelt Wiesbaden
+      title: Hesse
+      descr: Ministry for the Environment,<br/>Climate Protection,<br/>Agriculture and<br/>Consumer Protection
+      link: Regional Council of Darmstadt<br/> Department of Occupational Health<br/>and the Environment, Wiesbaden
     mecklenburg-vorpommern:
-      title: Mecklenburg-Vorpommern
-      descr: Min. für Energie, Infrastruktur<br/> und Landesentwicklung
-      link: Bergamt Stralsund
+      title: Mecklenburg-Western-Pomerania
+      descr: Ministry for Energy, Infrastructure<br/>and Regional Development
+      link: Stralsund Mining Office
     niedersachsen:
-      title: Niedersachsen
-      descr: Min. für Wirtschaft, <br/>Arbeit und Verkehr
-      link: Landesamt für Bergbau,<br/> Energie und Geologie Niedersachsen
+      title: Lower Saxony
+      descr: Ministry for Economic Affairs,<br/>Labour and Transport
+      link: State Office for<br/>Energy and Geology
     nordrhein-westfalen:
-      title: Nordrhein-Westfalen
-      descr: Min. für Wirtschaft, Energie,<br/> Industrie, Mittelstand und Handwerk
-      link: Bezirksreg. Arnsberg<br/> Abt. 6 Bergbau und Energie
+      title: North-Rhine Westphalia
+      descr: Ministry for Economic Affairs,<br/>Innovation, and Energy
+      link: District Government of Arnsberg<br/>Department of Mining and Energy in<br/>North-Rhine Westphalia, Dortmund
     rheinland-pfalz:
-      title: Rheinland-Pfalz
-      descr: Min. für Wirtschaft, Klimaschutz, <br/> Energie und Landesplanung
-      link: Landesamt für Geologie<br/> und Bergbau
+      title: Rhineland-Palatinate
+      descr: Ministry for Economic Affairs,<br/>Climate Protection,<br/>Energy and Regional Planning
+      link: State Office for Geology<br/>and Mining
     saarland:
       title: Saarland
-      descr: Min. für Wirtschaft,<br/> Arbeit, Energie und Verkehr
-      link: Oberbergamt
+      descr: Ministry for Economic Affairs,<br/>Labour, Energy and Transport
+      link: Upper Mining Office
     sachsen:
-      title: Sachsen
-      descr: Staatsmin. für Wirtschaft,<br/> Arbeit und Verkehr
-      link: Oberbergamt
+      title: Saxony
+      descr: Ministry for Economic Affairs,<br/> Labour and Transport
+      link: Upper Mining Office
     sachsen-anhalt:
-      title: Sachsen-Anhalt
-      descr: Min. für Wissenschaft<br/> und Wirtschaft
-      link: Landesamt für Geologie<br/> und Bergwesen
+      title: Saxony-Anhalt
+      descr: Ministry for Sciences<br/>and Economic Affairs
+      link: State Office for Geology<br/>and Mining
     schleswig-holstein:
       title: Schleswig-Holstein
-      descr: Min. für Energiewende, Landwirtschaft<br/> Umwelt und ländliche Räume
-      link: Landesamt für Bergbau, Energie und Geologie
+      descr: Ministry for Energy Transition,<br/>Agriculture,<br/>the Environment and Rural Areas
+      link: State Office for Mining,<br/>Energy and Geology
     thuringen:
-      title: Thüringen
-      descr: Min. für Landwirtschaft, Forsten, <br/>Umwelt und Naturschutz
-      link: Landesbergamt
+      title: Thuringia
+      descr: Ministry for Agriculture, Forests,<br/>the Environment and Nature<br/>Conservation
+      link: State Mining Office
   rechtliche-regelung:
     title: Legal regulation
     p1: "Germany differentiates between three groups of natural resources in terms of their legal regulation:"
