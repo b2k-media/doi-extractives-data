@@ -59,7 +59,7 @@ $(document).ready(function(){
             drawGridlines: false,
             shadow: false
         },
-        title: plotData.title
+        title: ((isEn > 1 && plotData.title_en != null) ? plotData.title_en : plotData.title)
     });
   }
 

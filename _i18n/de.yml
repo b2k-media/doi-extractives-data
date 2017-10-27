@@ -465,7 +465,7 @@ genehmigung-zulassung:
       link4: "(UVP-G)"
       p1_5: "nicht erfüllen."
       p2_1: "Ist eine UVP notwendig, so ist nach dem Bergrecht ein"
-      link1: "Planfeststellungsverfahrens"
+      link5: "Planfeststellungsverfahrens"
       p2_2: "durchzuführen. Dieses Verfahren schließt die betroffene Bevölkerung ein, indem die Pläne zum Abbau von Bodenschätzen der betroffenen Bevölkerung zugänglich gemacht und Einwände entgegengenommen werden. Es folgt eine Anhörung der betroffenen Behörden zu den Einwänden und eine Erörterung unter Beteiligung aller Stellen und Personen, die Einwände geäußert haben. Eine Entscheidung zu den Einwänden wird von der zuständigen Behörde (hier den Bergämtern) getroffen und als Verwaltungsakt festgesetzt. Auch bei der bergrechtlichen Planfeststellung handelt es sich um eine gebundene Entscheidung, die nicht durch planerische Abwägungs- und Ermessenspielräume gekennzeichnet ist. Zudem bindet sie nicht nur Entscheidungen anderer Behörden auf horizontaler Ebene, sondern gilt nach § 57a Abs. 5 BBergG auch für die nachfolgenden Betriebspläne (vertikale Konzentration)."
 bergbauberechtigungen:
   title: Bergbauberechtigungen
@@ -565,6 +565,7 @@ lizenzregister_und_verträge:
     p4: "Die zuständigen Behörden können die genannten Informationen auch direkt öffentlich zugänglich machen, was bereits seit längerem in einer Vielzahl der Bundesländer geschieht. So veröffentlichen einige Bundesländer übersichtliche Online-Lizenzkataster. Weitere Bundesländer planen den Aufbau entsprechender Systeme. "
     p5_1: "Weiterhin werden alle Bergbauberechtigungen in Deutschland im Bereich Kohlenwasserstoffe in der jährlich erscheinenden Publikation"
     linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
+    link_href: "https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html"
     p5_2: "veröffentlicht."
 
   beispiel:
@@ -581,12 +582,12 @@ lizenzregister_und_verträge:
 
   handhabung:
     title: "Handhabung in anderen Bundesländern"
-    p1_1: "Auch andere Bundesländer haben die Möglichkeit geschaffen, online Einsicht in die Berechtsamsbücher und –karten zu nehmen. Beispiele hierfür sind Baden-Württemberg unter"
-    link1: "www.maps.lgrb-bw.de"
-    p1_2: "Berlin und Brandenburg unter"
-    link2: "www.geo.brandenburg.de/lbgr/bergbau"
-    p1_3: "oder das Saarland unter"
-    link3: "www.geoportal.saarland.de."
+    p1_1: "Auch andere Bundesländer haben die Möglichkeit geschaffen, online Einsicht in die Berechtsamsbücher und –karten zu nehmen. Beispiele hierfür sind"
+    link1: " "
+    p1_2: "Baden-Württemberg,"
+    link2: "Berlin und Brandenburg"
+    p1_3: "oder"
+    link3: "das Saarland."
 
 
   verträge:
@@ -595,6 +596,8 @@ lizenzregister_und_verträge:
     p2: "Vor diesem (internationalen) Hintergrund ermutigt die Initiative für Transparenz im rohstoffgewinnenden Sektor (EITI) teilnehmende Länder in Anforderung 2.4 des EITI-Standards dazu, die Transparenz hinsichtlich dieser Verträge zu fördern. Die EITI-Anforderung erfordert somit zunächst ein Verständnis über den Inhalt und den Umfang der in Frage stehenden „Verträge“ bzw. „Vereinbarungen“ zwischen staatlichen Stellen und rohstoffabbauenden Unternehmen, in denen „Bedingungen“ im Zusammenhang mit dem Abbau von Rohstoffen festgelegt sind."
     p3: "In Deutschland unterliegt die Gewinnung sowohl von bergfreien als auch von grundeigenen Rohstoffen und Grundeigentümerbodenschätzen verfahrensrechtlich einem öffentlich-rechtlichen Genehmigungsregime, dessen Inhalt, Ablauf und Umfang sich je nach Art der betroffenen Rohstoffe und Größe des Abbauvorhabens unterscheidet. Es können u. a. Vorschriften des Bergrechts, Bundesbaurechts, Wasserrechts sowie Immissionsschutz- und Naturschutzrechts einschlägig sein. Die verschiedenen gesetzlichen Vorschriften werden für das jeweilige Abbauvorhaben über Genehmigungsbescheide konkretisiert und umgesetzt. Die „Bedingungen“ im Sinne der EITI-Anforderung 2.4, unter denen die Gewinnung von Rohstoffen stattfindet, werden als Bestandteil der Genehmigung von staatlicher Seite festgelegt. Diese in Deutschland auf Grundlage einschlägiger rechtlicher Vorgaben erfolgte Genehmigungspraxis unterscheidet sich deutlich von der in einer Vielzahl anderer Länder geübten Praxis privatrechtlicher Verträge. Bei der künftigen Festlegung der Anforderungen des EITI-Standards unter 2.4 müssen diese Aspekte entsprechend berücksichtigt werden. "
     p4: "Außerdem werden Genehmigungen heute schon, wenn das Vorhaben einer Umweltverträglichkeitsprüfung bedarf, von den zuständigen Behörden auf ihrer Webseite veröffentlicht. Zudem besteht Transparenz hinsichtlich Bergbauberechtigungen, soweit der Abbau bergfreier Rohstoffe betroffen ist (siehe Kapitel Lizenzregister). Für eine vergleichbare Offenlegung von Abbauberechtigungen, d. h. zum Eigentum von Abbauflächen bzw. Nutzungsrechten hinsichtlich des Abbaus nicht bergfreier Rohstoffe, bestehen derzeit keine gesetzlichen Vorgaben."
+    p4_link: " "
+    p4_2: " "
     p5: "Darüber hinaus können „Vereinbarungen“ auch privatrechtlicher Natur sein und zwischen rohstoffabbauenden Unternehmen und staatlichen Stellen geschlossen werden. Hier können zwischen den Vertragsparteien weitere Bedingungen bzw. Auflagen im Zusammenhang mit dem Rohstoffabbau vereinbart werden. Einer zentralen Erfassung bzw. Veröffentlichung dieser Vereinbarungen können im Einzelfall vertragliche Abreden zur Verschwiegenheit über den Vertragsinhalt entgegenstehen. Die Vorschriften zur Erstellung eines Zahlungsberichts sehen allerdings in § 341r Nr. 3 HGB bereits eine Verpflichtung zur Offenlegung von Zahlungen rohstoffgewinnender Unternehmen „zur Verbesserung der Infrastruktur“ vor. Darunter fallen nach dem Verständnis des Instituts der Wirtschaftsprüfer in Deutschland e.V. u. a. Zahlungen zur Förderung von kommunalen Investitionen oder Bildungseinrichtungen, die beispielsweise in privatrechtlichen Vereinbarungen festgehalten werden. Insofern ist davon auszugehen, dass es über die Veröffentlichung von Zahlungsberichten auch zu einer Offenlegung von Zahlungsströmen aus privatrechtlichen Vereinbarungen zwischen der Rohstoffindustrie und dem Staat kommen wird, nicht jedoch zu einer Offenlegung von Vertragsinhalten privatrechtlicher Vereinbarungen. Für eine genaue inhaltliche Ausgestaltung dieses Zahlungsgrundes bleibt die zukünftige Analyse von veröffentlichten Zahlungsberichten und die weitere rechtliche bzw. betriebswirtschaftliche Entwicklung abzuwarten."
     p6: "Im deutschen Kontext wird die EITI-Anforderung zur Förderung von Transparenz im Bereich Verträge und Vereinbarungen zwischen staatlichen Stellen und rohstoffgewinnenden Unternehmen im Zusammenhang mit dem Rohstoffabbau weiter in der MSG behandelt und diskutiert."
 
@@ -2234,6 +2237,7 @@ zahlungsströme:
     p1_3: ". Hinzu kommt, dass die einzelnen Gemeinden – anders als die einzelnen Finanzämter im Fall der Körperschaftsteuer – nicht zentral über eine Organisationseinheit angesprochen werden können."
     p2: "Es ist nicht im Vorhinein absehbar, an welche und an wie viele Gemeinden Zahlungen für Gewerbesteuer geleistet werden. Diese Informationen können nur von den Unternehmen selbst im Rahmen des Datenerhebungsprozesses generiert werden. "
     p3: "Vor diesem Hintergrund hat die MSG beschlossen, die Gewerbesteuerzahlungen der Unternehmen im Rahmen der Datenerhebung aufzunehmen und im vorliegenden EITI-Bericht darzustellen, allerdings auf einen generellen Zahlungsabgleich für den ersten deutschen EITI-Bericht zu verzichten. Der Abgleich der Gewerbesteuerzahlungen mit den Einnahmen der Gemeinden als Zahlungsempfänger soll stattdessen beispielhaft stellvertretend für alle anderen teilnehmenden Unternehmen anhand der Zahlungsdaten eines am Berichtsprozess teilnehmenden Unternehmens veranschaulicht werden. Für diesen beispielhaften Zahlungsabgleich der Gewerbesteuerzahlungen hat sich die esco - european salt company GmbH & Co. KG, Hannover, ein Unternehmen der K+S-Gruppe mit Sitz in Kassel, bereit erklärt. Zu weiteren Einzelheiten und den Ergebnissen dieses Zahlungsabgleichs der Gewerbesteuerzahlungen vgl. die Ausführungen unter Kapitel 9.c.iii."
+    link2: " "
 
   besonderheiten:
     title: "Besonderheiten hinsichtlich der Erfassung von Steuerzahlungen in bestimmten Mutter-Tochter-Konstellationen"
@@ -3410,7 +3414,8 @@ downloads:
   D-EITI_xlsx: "/downloads/D-EITI_Zahlungsabgleich_2016.xlsx"
   zipfile: "/downloads/Daten_zum_1._D-EITI_Bericht.zip"
   unabhaengiger_verwalter_PDF: "/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf"
-  exports_CSV: "downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
+  exports_CSV: "/downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
+  production_CSV: "/downloads/production.csv"
 
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"

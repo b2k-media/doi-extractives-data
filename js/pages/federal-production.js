@@ -287,7 +287,8 @@
         .datum({
           value: total,
           properties: {
-            name: traslation.total
+            name: traslation.total,
+            name_en: traslation.total
           }
         })
         .call(updateRegionRow, isState);
@@ -964,10 +965,11 @@
 
   function updateProductList(products) {
     var select = root.select('[name=product]');
-
+    var allStr = (langEn ? 'All ':'Alle ');
+    //var allStr = 'Alle'
     select.select('option:nth-child(2)')
       .text(products.length > 1
-            ? 'Alle ' + products.length + ' ' +traslation.product
+            ? allStr + products.length + ' ' +traslation.product
             : products.length === 0
             ? 'Keine ' +traslation.product
             : products.length + eiti.format.pluralize(products.length, ' Rohstoff')).attr('disabled', true);

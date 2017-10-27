@@ -67,7 +67,7 @@ breadcrumb:
         <p>
           {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.p2_1 %}
           <span class="term term_end" data-term="{% t glossary_data-term.planfeststellungsverfahren %}" title="Click to define" tabindex="0">
-            {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.link1 %}
+            {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.link5 %}
             <icon class="icon-book"></icon>
           </span>
           {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.p2_2 %}

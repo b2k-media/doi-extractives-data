@@ -297,11 +297,11 @@ breadcrumb:
               <th></th>
             </tr>
             <tr>
-              <td><strong>{% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td1 %}</strong></td>
-              <td>
+              <td style="min-width: 120px"><strong>{% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td1 %}</strong></td>
+              <td style="min-width: 150px">
                 {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td2 %}
               </td>
-              <td>
+              <td style="min-width: 240px">
                 {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr1.td3 %}
               </td>
               <td>
@@ -336,10 +336,17 @@ breadcrumb:
               </td>
               <td>
                 {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.p1 %}
+
+                {% if site.lang == "en" %}
+
+                {% else %}
                 <span class="term term_end" data-term="{% t glossary_data-term.wasserhaushaltsgesetz %}" title="Click to define" tabindex="0">
                   {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.k1 %}
                   <icon class="icon-book"></icon>
-                </span>
+                </span>  
+                {% endif %}
+
+
                  {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr4.td3.p2 %}
               </td>
             </tr>
