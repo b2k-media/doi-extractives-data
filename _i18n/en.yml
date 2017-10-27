@@ -486,7 +486,7 @@ bergbauberechtigungen:
     - name: sonderfall1
       title: "Special case: Mining rights under the old laws"
     - name: sonderfall2
-      title: "Special case: Unique features in the ‘new’ German Federal States"
+      title: "Special case: Unique features in the ‘new’  German Federal States"
 
   p1: "Mining rights constitute the basis for the exploration and extraction of free-to-mine natural resources. Applications are made in the form of a permit, a license or proprietary mining rights."
   p2: "There are three different types of mining rights:"
@@ -511,7 +511,7 @@ bergbauberechtigungen:
     p: "The various forms of mining rights described above (permit, licence and proprietary mining rights) are also supplemented by older legal mining rights, which are described as old rights. These are mining rights that were granted before the current Federal Mining Act of 1982 came into force, e.g. for the lignite opencast mines in the Rhenish mining region. Under current law, these rights are still valid (see § 149(1), sentence 1 BBergG) if they were shown to the relevant mining authority during a phase-out period of three years after the Mining Law of 1982 came into force and if they were confirmed by mining inspection authorities. In contrast to mining rights under the new BBergG, rights under the old laws are not time-limited and neither extraction nor minesite royalties have to be paid. In practice, these old rights mainly apply to hard coal and lignite. An operating plan must be approved before these natural resources can be extracted."
 
   sonderfall2:
-    title: "Special case: Unique features in the ‘new’ German Federal States"
+    title: "Special case: Unique features in the ‘new’  German Federal States"
     p: "The mining rights system of the GDR only applied to the (communist) state-owned and other mineral resources. The state-owned natural resources mainly comprised free-to-mine and privately-owned resources and were the property of the communist state. Other natural resources primarily comprised landowners’ natural resources and were allocated to the land ownership category. The Bestowal Regulation of 15.08.1990 created the foundation for the conversion of mining rights for state-owned natural resources into free-to-mine resources, which were subsequently recognised by the legal system of the reunited Germany. The transferred mining rights are deemed to be proprietary mining rights. Like the mining rights under old law, the transferred rights are not time-restricted and are also exempt from minesite and extraction royalties (see § 149 and § 151 BBergG). In contrast to the Federal States of the former West Germany, the validity of the old rights (see section on mining rights under the old laws) in the ‘new’ Federal States does not only extend until 1980, but also applies to deposits explored up to and including 1990. These rights also apply to both free-to-mine and privately-owned natural resources. Exploration and extraction rights for privately-owned natural resources were also governed by GDR laws on state-awarded mining rights."
 
   tableHead: "Overview of old mining laws, mining laws in the GDR and modern mining laws"
@@ -536,7 +536,7 @@ bergbauberechtigungen:
       td2: "No"
       td3: "No"
       td4: "Yes"
-      text : "(see notes on mining rights above)"
+      text : " "
       link: "Mining rights"
 
 lizenzregister_und_verträge:
