@@ -469,7 +469,7 @@ genehmigung-zulassung:
       link4: "(UVP-G)"
       p1_5: "."
       p2_1: "If an UVP is necessary, a"
-      link1: "planning approval procedure"
+      link5: "planning approval procedure"
       p2_2: "must be carried out in accordance with mining law. This procedure includes the affected population by making the plans for the extraction of mineral resources accessible to the affected population so that objections can be submitted. The authorities concerned then address the objections and a public hearing is held, with the participation of all official bodies and persons who have expressed objections. A decision on the objections is made by the competent authority (in this case the mining authorities), and adopted as an administrative act. The planning approval procedure under mining law is also a bound decision, one which is not characterised by planning considerations and discretion. In addition, it not only binds the decisions of other authorities at the horizontal level, it also applies to the following operating plans (vertical concentration) as per § 57a(5) BBergG)."
 
 bergbauberechtigungen:
@@ -1436,7 +1436,7 @@ wasser:
         title: "7"
         text: "IHK Pfalz 2013 Chamber of Industry and Commerce, Palatinate: The water abstraction fees of the German states. A comparison."
         link: "https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/<br/>WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf"
-      p2: "Most Federal States levy consumption-related fees for the abstraction of ground and surface water. Depending on the individual structure, these fees are also intended to reflect the ‘value of the public services’ for the utilisation of resources and can therefore act as incentive taxes for a sustainable water management programme and for the allocation of environmental and resource costs (§ 1 and § 6a of the Water Resources Act)."
+      p2: "Most Federal States levy consumption-related fees for the abstraction of ground and surface water. Depending on the individual structure, these fees are also intended to reflect the ‘value of the public services’ for the utilisation of resources and can therefore act as incentive taxes for a sustainable water management programme and for the allocation of environmental and resource costs (§ 1 and § 6a of the Water Resources Act)"
       sup8:
         title: "8"
         text: "Gawel/Bretschneider (2016): Water abstraction fees in Baden-Württemberg – Inventory and Evaluation."
@@ -1555,9 +1555,9 @@ subventionen-und-steuerliche-begünstigungen:
       row2:
         td1: "General tax relief  (§ 9b StromStG)"
         td2: "€975 million"
-        td3: "€1.038 million"
-        td4: "€1.000 million"
-        td5: "€1.000 million"
+        td3: "€1,038 million"
+        td4: "€1,000 million"
+        td5: "€1,000 million"
       row3:
         td1: "Peak balancing  (§ 55 EnergieStG)"
         td2: "€167 million"
@@ -1566,9 +1566,9 @@ subventionen-und-steuerliche-begünstigungen:
         td5: "€180 million"
       row4:
         td1: "Peak balancing  (§ 10 StromStG)"
-        td2: "€1.870 million"
-        td3: "€1.911 million"
-        td4: "€1.900 million"
+        td2: "€1,870 million"
+        td3: "€1,911 million"
+        td4: "€1,900 million"
         td5: "€1,900 million"
       row5:
         td1: "Manufacturer privilege (§§ 26, 37, 44, 47 EnergieStG)"
@@ -3419,7 +3419,8 @@ downloads:
   D-EITI_xlsx: "/downloads/D-EITI_payment reconciliation_2016.xlsx"
   zipfile: "/downloads/OpenData_D-EITI_Report_2016.zip"
   unabhaengiger_verwalter_PDF: "/downloads/Recommendations_Independent_Administrator.pdf"
-  exports_CSV: "downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
+  exports_CSV: "/downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
+  production_CSV: "/downloads/Production_volume_federal_states_2015_interactive_map.csv"
 
   h1: Data used at the interactive map on natural resources
   p1: 'The production data presented here is mainly based on the publication of the Federal Ministry of Economics and Technology (BMWi) "Mining in Germany"'

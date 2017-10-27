@@ -3414,7 +3414,8 @@ downloads:
   D-EITI_xlsx: "/downloads/D-EITI_Zahlungsabgleich_2016.xlsx"
   zipfile: "/downloads/Daten_zum_1._D-EITI_Bericht.zip"
   unabhaengiger_verwalter_PDF: "/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf"
-  exports_CSV: "downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
+  exports_CSV: "/downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
+  production_CSV: "/downloads/production.csv"
 
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
