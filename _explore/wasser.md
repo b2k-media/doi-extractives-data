@@ -151,7 +151,7 @@ breadcrumb:
         <p id="sub-8">
           <sup>{% t wasser.wasserentnahme.ausgestaltung.sup8.title %}</sup>
           {% t wasser.wasserentnahme.ausgestaltung.sup8.text %}
-          <a target="_blank"  href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_nat%C3%BCrlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
+          <a target="_blank"  href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_natuerlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
             {% t wasser.wasserentnahme.ausgestaltung.sup8.link %}
           </a>
         </p>
