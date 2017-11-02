@@ -1699,7 +1699,9 @@ gesamtdeutsche_rohstoffproduktion:
     p2_1: " [DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
     p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe."
-    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/
+    IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
+    link1_1: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
     link2: "URL: https://www.natursteinverband.de/"
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"

@@ -1709,7 +1709,9 @@ gesamtdeutsche_rohstoffproduktion:
     p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
     p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe."
-    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/
+    IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
+    link1_1: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
     link2: "URL: https://www.natursteinverband.de/"
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
@@ -3456,7 +3458,7 @@ downloads:
     p2: "on May 26, 2017."
     link2: " "
     p3: "The data for 2015 can be found on the website of the German Federal Office of Statistics. The information on the re-exports of natural gas is taken from the German Federal Institute for Geosciences and Natural Resources ("
-    link3: "RGB 2016"
+    link3: "BGR 2016"
     p4: ", Tables 5, 28 and 29)."
   table_link:
     p1: "See detailed sources here:"
@@ -3478,10 +3480,10 @@ downloads:
     link1: Bavaria,
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
-    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%2520f%25C3%25BCr%2520Wirtschaft%2520und%2520Energie_2017-18.pdf"
+    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%20f%C3%BCr%20Wirtschaft%20und%20Energie_2017-18.pdf"
     p2_2: "and"
     link3: Niedersachsen.
-    link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
+    link3_data: "http://www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
     link4: " "
     link4_data: " "
     label1: "Download data on minesite royalties"
