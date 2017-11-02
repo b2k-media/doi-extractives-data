@@ -21,9 +21,10 @@ permalink: /impressum/
           <p class="hero-description">{% t 'impressum.secretary.fax' %}</p>
           <p class="hero-description">
             {% t 'impressum.secretary.email' %}
-            <a target="_blank" href="mailto:Sekretariat@D-EITI.de" class="blue_link">
-            <font class="">Sekretariat [at] D-EITI.de</font></a>
+            <a target="_blank" href="https://www.d-eiti.de/kontakt-kontakformular/" class="blue_link">
+            <font class="">{% t 'impressum.secretary.link' %}</font></a>
           </p>
+          <p class="hero-description">{% t 'impressum.secretary.web' %}</p>
           <br/>
           <h3>{% t 'impressum.p1' %}</h3>
           <h3>{% t 'impressum.p2' %}</h3>
@@ -70,8 +71,8 @@ permalink: /impressum/
           <h3>{% t 'impressum.giz.text9' %}</h3>
           <p class="hero-description">
             {% t 'impressum.giz.text9_1' %}
-            <a target="_blank" href="mailto:Sekretariat@D-EITI.de" class="blue_link">
-            <font class="">Sekretariat [at] D-EITI.de</font></a>
+            <a target="_blank" href="https://www.d-eiti.de/kontakt-kontakformular/" class="blue_link">
+            <font class="">{% t 'impressum.giz.link3' %}</font></a>
           </p>
         </div>
       </div>

@@ -3628,7 +3628,7 @@ data_translation:
   entire_germany: Germany
 
 footer:
-  impressum: Imprint
+  impressum: Registration Information
   data-protection: Disclaimer
   help: "Help us to improve rohstofftransparenz.de! We are grateful for your feedback."
   teilen_msg: "Share feedback"
@@ -3665,21 +3665,22 @@ datenschutz:
   description-3: Your trust is important to us. Therefore, we would like to answer your questions regarding the processing of your personal data. In addition, you have a right to free information about your stored data as well as a right to rectification, blocking or deletion of this data under the Federal Data Protection Act. You may also at any time revoke the consent granted to us for data collection and use without giving reasons. If you have any questions that could not be answered by this data protection declaration, or if you would like more detailed information, please contact Sekretariat@D-EITI.de
 
 impressum:
-  title: Impressum
+  title: Registration Information
   secretary:
-    title: Sekretariat der D-EITI
+    title: D-EITI Secretariat
     address: (Deutschland – Extractive Industries Transparency Initiative)
     strasee: Reichpietschufer 20
     city: 10785 Berlin
     tel: "Tel.: +49 30 – 72 614 – 202"
     fax: "Fax: +49 30 – 72614 22 – 202"
-    email: "E-Mail:"
-    link: "Sekretariat@D-EITI.de"
+    email: " "
+    link: "E-Mail"
+    web: "www.D-EITI.de"
   p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
-  p2: "im Auftrag des Bundesministeriums für Wirtschaft und Energie"
+  p2: "on behalf of the Federal Ministry for Economic Affairs and Energy (BMWi)"
 
   giz:
-    text1_1: "Sitz der Gesellschaft"
+    text1_1: "Registered offices"
     text1_2: "Bonn und Eschborn"
 
     text2_1: "Friedrich-Ebert-Allee 40"
@@ -3697,23 +3698,23 @@ impressum:
     text4_2: "Internet:"
     link2: "www.giz.de"
 
-    text5: "HANDELSREGISTER"
-    text5_1: "Amtsgericht Bonn: HRB 18384"
-    text5_2: "Amtsgericht Frankfurt am Main: HRB 12394"
+    text5: "Registered at"
+    text5_1: "Local court (Amtsgericht) Bonn, Germany: HRB 18384"
+    text5_2: "Local court (Amtsgericht) Frankfurt am Main, Germany: HRB 12394"
 
-    text6: "UMSATZSTEUERIDENTIFIKATIONSNUMMER (UST-ID-NR.)"
+    text6: "VAT no."
     text6_1: "DE 113891176"
 
-    text7: "VORSITZENDER DES AUFSICHTSRATES"
-    text7_1: "Staatssekretär Dr. Friedrich Kitschelt"
+    text7: "Chairman of the Supervisory Board"
+    text7_1: "Dr Friedrich Kitschelt, State Secretary"
 
-    text8: "MITGLIEDER DES VORSTANDS"
-    text8_1: "Tanja Gönner (Vorstandssprecherin)"
-    text8_2: "Dr. Christoph Beier (Stellvertretender Vorstandssprecher)"
+    text8: "Management Board"
+    text8_1: "Tanja Gönner (Chair of the Management Board)"
+    text8_2: "Dr Christoph Beier (Vice-Chair of the Management Board)"
     text8_3: "Dr. Hans-Joachim Preuß"
     text8_4: "Cornelia Richter"
 
     text9: "Webmaster"
-    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge an:"
-    link3: "sekretariat@D-EITI.de"
+    text9_1: "Please send any comments and suggestions for improvement"
+    link3: "here"
 point: "."

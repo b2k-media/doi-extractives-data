@@ -3670,8 +3670,9 @@ impressum:
     city: 10785 Berlin
     tel: "Tel.: +49 30 – 72 614 – 202"
     fax: "Fax: +49 30 – 72614 22 – 202"
-    email: "E-Mail:"
-    link: "Sekretariat@D-EITI.de"
+    email: " "
+    link: "E-Mail"
+    web: "www.D-EITI.de"
   p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
   p2: "im Auftrag des Bundesministeriums für Wirtschaft und Energie"
 
@@ -3711,6 +3712,6 @@ impressum:
     text8_4: "Cornelia Richter"
 
     text9: "Webmaster"
-    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge an:"
+    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge bitte an:"
     link3: "sekretariat@D-EITI.de"
 point: "."
