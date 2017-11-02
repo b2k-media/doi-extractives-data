@@ -691,7 +691,7 @@ anfallende_zahlungen:
     körperschaftsteuer:
       title: Corporation tax
       p: A company (which extracts natural resources) with the legal form of a limited company (in particular a limited liability company or public limited company) which has its head office or management in Germany is subject to unlimited corporation tax. Limited companies which do not have their head offices and management in Germany are subject to corporation tax on the income generated in Germany. In Germany, corporation tax amounts to 15 % of the taxable income. The revenue is shared by the Federal Government and the states. Corporation tax is levied by the tax authorities of the Federal States. Read the law
-      link: hier (only available in German).
+      link: here (only available in German).
     feldes-und-förderabgaben:
       title: Minesite and extraction royalties
       p1: Companies and persons require a permit to prospect for ‘free-to-mine’ mineral resources (§ 7 BBergG (German Federal Mining Act)). Owners of this type of permit are required to pay an annual minesite royalty as per § 30 BBergG. Pursuant to § 30(3), first sentence, of the BBergG, this generally amounts to €5 per square kilometre of a minesite in the first year after the permit has been granted; the amount increases by €5 per year to a maximum of €25 per year, whereby the legislation of individual states may provide for differing royalty amounts and even exemptions under certain conditions (see § 32(2), BBergG and the
