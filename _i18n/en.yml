@@ -167,17 +167,18 @@ salze:
   title: Salts
   nav_items:
     - name: title
-      title: Top of page
-    - name: fakten_zu_salze
-      title: Interesting facts about salts
-    - name: geschichte
-      title: History
-    - name: wirtschaftliche-bedeutung
-      title: Economic importance
-    - name: gewinnung
-      title: Extraction
-    - name: verwendung
-      title: Uses
+      title: Salts
+      subnav_items:
+        - name: fakten_zu_salze
+          title: Interesting facts about salts
+        - name: geschichte
+          title: History
+        - name: wirtschaftliche-bedeutung
+          title: Economic importance
+        - name: gewinnung
+          title: Extraction
+        - name: verwendung
+          title: Uses
   h2: Salts
   slides_title: Interesting facts about salts
   slides:
