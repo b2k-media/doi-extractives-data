@@ -2123,7 +2123,7 @@ beschäftigung:
     daten_einsehen: "View Data"
 
 exporte:
-    title: Exporte
+    title: Exports
     nav_items:
       - name: title
         title: Top of page
