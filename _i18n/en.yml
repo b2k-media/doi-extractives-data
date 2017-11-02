@@ -3633,7 +3633,8 @@ footer:
   help: "Help us to improve rohstofftransparenz.de! We are grateful for your feedback."
   teilen_msg: "Share feedback"
   fragen: "Questions?"
-  contact_us: "Contact us under"
+  contact_us: "Contact us"
+  link: "here"
   description-1: "This website is based on open data. The source-code can be used freely here on"
   description-2: "GitHub"
   take_part_msg: "We appreciate your contribution"
@@ -3658,11 +3659,12 @@ states:
   Thüringen: Thuringia
 
 datenschutz:
-  title: Datenschutz
+  title: Data protection
   sub-heading: Data protection
   description-1: On this website, the piwik open source software is used for statistical purposes and to improve the offer. No other use or transfer to third parties takes place.
   description-2: Every time a user accesses the Internet site www.d-eiti.de and every time a file is downloaded, data about this process is temporarily stored and processed in a log file. Before storing, each record is anonymized by changing the IP address.
-  description-3: Your trust is important to us. Therefore, we would like to answer your questions regarding the processing of your personal data. In addition, you have a right to free information about your stored data as well as a right to rectification, blocking or deletion of this data under the Federal Data Protection Act. You may also at any time revoke the consent granted to us for data collection and use without giving reasons. If you have any questions that could not be answered by this data protection declaration, or if you would like more detailed information, please contact Sekretariat@D-EITI.de
+  description-3: Your trust is important to us. Therefore, we would like to answer your questions regarding the processing of your personal data. In addition, you have a right to free information about your stored data as well as a right to rectification, blocking or deletion of this data under the Federal Data Protection Act. You may also at any time revoke the consent granted to us for data collection and use without giving reasons. If you have any questions that could not be answered by this data protection declaration, or if you would like more detailed information, please contact
+  link: us.
 
 impressum:
   title: Registration Information

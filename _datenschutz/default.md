@@ -12,7 +12,17 @@ permalink: /datenschutz/
         <hr/>
         <p class="hero-description">{% t 'datenschutz.description-1' %}</p>
         <p class="hero-description">{% t 'datenschutz.description-2' %}</p>
-        <p class="hero-description">{% t 'datenschutz.description-3' %}</p>
+        <p class="hero-description">
+        {% t 'datenschutz.description-3' %}
+        <a target="_blank" href="
+        {% if site.lang == "en" %}
+        https://www.d-eiti.de/en/kontakt-kontakformular/  
+        {% else %}
+        https://www.d-eiti.de/kontakt-kontakformular/
+        {% endif %}
+        ">{% t 'datenschutz.link' %}</a>
+        </p>
+
       </div>
     </div>  
   </section>
