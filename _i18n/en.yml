@@ -1816,11 +1816,12 @@ einnahmen:
     title: Contribution to government revenue
     nav_items:
       - name: title
-        title: Top of page
-      - name: steuern
-        title: Taxes
-      - name: förder_feldesabgaben
-        title: Extraction and minesite royalties
+        title: Contribution to government revenue
+        subnav_items:
+          - name: steuern
+            title: Taxes
+          - name: förder_feldesabgaben
+            title: Extraction and minesite royalties
     p1_1: "The natural resources sector generates revenue for the State at different Federal levels. The most important revenues are the taxes from general company taxation (corporation tax and income tax, as well as trade tax and the solidarity surcharge), as well as natural resource-specific minesite and extraction royalties. Added together, these revenues from the extractive industry amounted to around €750 million in 2015. This corresponds to a share of 0.06% of the total income of the Germany State. Other payments are also made by the extractive sector to the state, such as leaseholds, energy and electricity taxes ("
     link: read more on payments made
     p1_2: "), as well as payments relating to interventions in nature conservation legislation and water use ("
