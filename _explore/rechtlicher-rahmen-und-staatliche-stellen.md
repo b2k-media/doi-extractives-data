@@ -25,7 +25,17 @@ breadcrumb:
       <section style="position: relative;">
       <div class="chart-title-style" id="zustandige-staatliche-stellen">{% t rechtlicher-rahmen.subtitle %}</div>
       <a target="_blank" href="http://www.bmwi.de/">
-        <img src="{{ site.baseurl_root }}/img/bundesministerium.png" alt="BMWi">
+        <img
+          src="
+            {% if site.lang == "en" %}
+              {{ site.baseurl_root }}/img/bundesministerium_en.png
+            {% else %}
+              {{ site.baseurl_root }}/img/bundesministerium.png
+            {% endif %}
+            "
+          alt="BMWi"
+        >
+
       </a>
       <br/>
       <table id="bergbehorden">
