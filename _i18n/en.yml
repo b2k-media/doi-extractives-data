@@ -167,17 +167,18 @@ salze:
   title: Salts
   nav_items:
     - name: title
-      title: Top of page
-    - name: fakten_zu_salze
-      title: Interesting facts about salts
-    - name: geschichte
-      title: History
-    - name: wirtschaftliche-bedeutung
-      title: Economic importance
-    - name: gewinnung
-      title: Extraction
-    - name: verwendung
-      title: Uses
+      title: Salts
+      subnav_items:
+        - name: fakten_zu_salze
+          title: Interesting facts about salts
+        - name: geschichte
+          title: History
+        - name: wirtschaftliche-bedeutung
+          title: Economic importance
+        - name: gewinnung
+          title: Extraction
+        - name: verwendung
+          title: Uses
   h2: Salts
   slides_title: Interesting facts about salts
   slides:
@@ -690,7 +691,7 @@ anfallende_zahlungen:
     körperschaftsteuer:
       title: Corporation tax
       p: A company (which extracts natural resources) with the legal form of a limited company (in particular a limited liability company or public limited company) which has its head office or management in Germany is subject to unlimited corporation tax. Limited companies which do not have their head offices and management in Germany are subject to corporation tax on the income generated in Germany. In Germany, corporation tax amounts to 15 % of the taxable income. The revenue is shared by the Federal Government and the states. Corporation tax is levied by the tax authorities of the Federal States. Read the law
-      link: hier (only available in German).
+      link: here (only available in German).
     feldes-und-förderabgaben:
       title: Minesite and extraction royalties
       p1: Companies and persons require a permit to prospect for ‘free-to-mine’ mineral resources (§ 7 BBergG (German Federal Mining Act)). Owners of this type of permit are required to pay an annual minesite royalty as per § 30 BBergG. Pursuant to § 30(3), first sentence, of the BBergG, this generally amounts to €5 per square kilometre of a minesite in the first year after the permit has been granted; the amount increases by €5 per year to a maximum of €25 per year, whereby the legislation of individual states may provide for differing royalty amounts and even exemptions under certain conditions (see § 32(2), BBergG and the
@@ -1440,7 +1441,7 @@ wasser:
       sup8:
         title: "8"
         text: "Gawel/Bretschneider (2016): Water abstraction fees in Baden-Württemberg – Inventory and Evaluation."
-        link: https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/<br/>Schutz_nat%C3%BCrlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf
+        link: https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/ Schutz_natuerlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf
       p3: In most German states, levy rates differ according to the type of abstraction, volume, origin of the water (surface water or ground water) and the purpose for which the water is to be used. There are also various state-specific deviations from the relevant rules through exemptions or discounts, which may also apply to the natural resources sector.
   wasserentnahmeentgelte:
     title: Water abstraction fees in the natural resources sector
@@ -1624,7 +1625,7 @@ explore-data:
 
     production:
       heading-1: Commodity production in Germany
-      sub-heading-1: Interactive Resource Card
+      sub-heading-1: Interactive natural resource map
       description-1: For the first time ever commodities production data at the provincial level in an interactive resource card are available.
       sub-heading-2: Resource extraction in Germany
       description-2: Inform about which <span class="term" data-term="raw materials" title="Click to define" tabindex="0">raw materials<icon class="icon-book"></icon></span> are to promote in Germany.
@@ -1708,7 +1709,9 @@ gesamtdeutsche_rohstoffproduktion:
     p2_1: "[DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
     p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe."
-    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/
+    IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
+    link1_1: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
     link2: "URL: https://www.natursteinverband.de/"
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
@@ -1815,11 +1818,12 @@ einnahmen:
     title: Contribution to government revenue
     nav_items:
       - name: title
-        title: Top of page
-      - name: steuern
-        title: Taxes
-      - name: förder_feldesabgaben
-        title: Extraction and minesite royalties
+        title: Contribution to government revenue
+        subnav_items:
+          - name: steuern
+            title: Taxes
+          - name: förder_feldesabgaben
+            title: Extraction and minesite royalties
     p1_1: "The natural resources sector generates revenue for the State at different Federal levels. The most important revenues are the taxes from general company taxation (corporation tax and income tax, as well as trade tax and the solidarity surcharge), as well as natural resource-specific minesite and extraction royalties. Added together, these revenues from the extractive industry amounted to around €750 million in 2015. This corresponds to a share of 0.06% of the total income of the Germany State. Other payments are also made by the extractive sector to the state, such as leaseholds, energy and electricity taxes ("
     link: read more on payments made
     p1_2: "), as well as payments relating to interventions in nature conservation legislation and water use ("
@@ -2119,7 +2123,7 @@ beschäftigung:
     daten_einsehen: "View Data"
 
 exporte:
-    title: Exporte
+    title: Exports
     nav_items:
       - name: title
         title: Top of page
@@ -3454,7 +3458,7 @@ downloads:
     p2: "on May 26, 2017."
     link2: " "
     p3: "The data for 2015 can be found on the website of the German Federal Office of Statistics. The information on the re-exports of natural gas is taken from the German Federal Institute for Geosciences and Natural Resources ("
-    link3: "RGB 2016"
+    link3: "BGR 2016"
     p4: ", Tables 5, 28 and 29)."
   table_link:
     p1: "See detailed sources here:"
@@ -3476,10 +3480,10 @@ downloads:
     link1: Bavaria,
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
-    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%2520f%25C3%25BCr%2520Wirtschaft%2520und%2520Energie_2017-18.pdf"
+    link2_data: "http://www.mdf.brandenburg.de/media_fast/4055/08_Ministerium%20f%C3%BCr%20Wirtschaft%20und%20Energie_2017-18.pdf"
     p2_2: "and"
     link3: Niedersachsen.
-    link3_data: "www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
+    link3_data: "http://www.mf.niedersachsen.de/download/115918/Haushaltsplan_2017_und_2018_-_Gesamtdokument.pdf"
     link4: " "
     link4_data: " "
     label1: "Download data on minesite royalties"
@@ -3520,11 +3524,11 @@ about:
     description-2: Come back soon to stay up to date on transparency in the extractive industries in Germany.
 
 federal-production:
-    heading-1: Interactive Resource Card
-    description-1: In this interactive resource card, you can select information on individual commodities and the provinces.
-    description-2: For this, use the filter (top right).
-    description-3: "For more information about data sources and links to the original data can be viewed here:"
-    icon: Show Data
+    heading-1: Interactive natural resource map
+    description-1: In this map you can select Information on the individual natural resources as well as on the federal states.
+    description-2: To do so, please use the filter option (top right).
+    description-3: "Find more information on the sources as well as links to the original data here."
+    icon: View Data
 
     filter-container:
       show-filter: Show filters
@@ -3628,12 +3632,13 @@ data_translation:
   entire_germany: Germany
 
 footer:
-  impressum: Imprint
+  impressum: Registration Information
   data-protection: Disclaimer
   help: "Help us to improve rohstofftransparenz.de! We are grateful for your feedback."
   teilen_msg: "Share feedback"
   fragen: "Questions?"
-  contact_us: "Contact us under"
+  contact_us: "Contact us"
+  link: "here"
   description-1: "This website is based on open data. The source-code can be used freely here on"
   description-2: "GitHub"
   take_part_msg: "We appreciate your contribution"
@@ -3658,28 +3663,30 @@ states:
   Thüringen: Thuringia
 
 datenschutz:
-  title: Datenschutz
+  title: Data protection
   sub-heading: Data protection
   description-1: On this website, the piwik open source software is used for statistical purposes and to improve the offer. No other use or transfer to third parties takes place.
   description-2: Every time a user accesses the Internet site www.d-eiti.de and every time a file is downloaded, data about this process is temporarily stored and processed in a log file. Before storing, each record is anonymized by changing the IP address.
-  description-3: Your trust is important to us. Therefore, we would like to answer your questions regarding the processing of your personal data. In addition, you have a right to free information about your stored data as well as a right to rectification, blocking or deletion of this data under the Federal Data Protection Act. You may also at any time revoke the consent granted to us for data collection and use without giving reasons. If you have any questions that could not be answered by this data protection declaration, or if you would like more detailed information, please contact Sekretariat@D-EITI.de
+  description-3: Your trust is important to us. Therefore, we would like to answer your questions regarding the processing of your personal data. In addition, you have a right to free information about your stored data as well as a right to rectification, blocking or deletion of this data under the Federal Data Protection Act. You may also at any time revoke the consent granted to us for data collection and use without giving reasons. If you have any questions that could not be answered by this data protection declaration, or if you would like more detailed information, please contact
+  link: us.
 
 impressum:
-  title: Impressum
+  title: Registration Information
   secretary:
-    title: Sekretariat der D-EITI
+    title: D-EITI Secretariat
     address: (Deutschland – Extractive Industries Transparency Initiative)
     strasee: Reichpietschufer 20
     city: 10785 Berlin
     tel: "Tel.: +49 30 – 72 614 – 202"
     fax: "Fax: +49 30 – 72614 22 – 202"
-    email: "E-Mail:"
-    link: "Sekretariat@D-EITI.de"
+    email: " "
+    link: "E-Mail"
+    web: "www.D-EITI.de"
   p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
-  p2: "im Auftrag des Bundesministeriums für Wirtschaft und Energie"
+  p2: "on behalf of the Federal Ministry for Economic Affairs and Energy (BMWi)"
 
   giz:
-    text1_1: "Sitz der Gesellschaft"
+    text1_1: "Registered offices"
     text1_2: "Bonn und Eschborn"
 
     text2_1: "Friedrich-Ebert-Allee 40"
@@ -3697,23 +3704,23 @@ impressum:
     text4_2: "Internet:"
     link2: "www.giz.de"
 
-    text5: "HANDELSREGISTER"
-    text5_1: "Amtsgericht Bonn: HRB 18384"
-    text5_2: "Amtsgericht Frankfurt am Main: HRB 12394"
+    text5: "Registered at"
+    text5_1: "Local court (Amtsgericht) Bonn, Germany: HRB 18384"
+    text5_2: "Local court (Amtsgericht) Frankfurt am Main, Germany: HRB 12394"
 
-    text6: "UMSATZSTEUERIDENTIFIKATIONSNUMMER (UST-ID-NR.)"
+    text6: "VAT no."
     text6_1: "DE 113891176"
 
-    text7: "VORSITZENDER DES AUFSICHTSRATES"
-    text7_1: "Staatssekretär Dr. Friedrich Kitschelt"
+    text7: "Chairman of the Supervisory Board"
+    text7_1: "Dr Friedrich Kitschelt, State Secretary"
 
-    text8: "MITGLIEDER DES VORSTANDS"
-    text8_1: "Tanja Gönner (Vorstandssprecherin)"
-    text8_2: "Dr. Christoph Beier (Stellvertretender Vorstandssprecher)"
+    text8: "Management Board"
+    text8_1: "Tanja Gönner (Chair of the Management Board)"
+    text8_2: "Dr Christoph Beier (Vice-Chair of the Management Board)"
     text8_3: "Dr. Hans-Joachim Preuß"
     text8_4: "Cornelia Richter"
 
     text9: "Webmaster"
-    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge an:"
-    link3: "sekretariat@D-EITI.de"
+    text9_1: "Please send any comments and suggestions for improvement"
+    link3: "here"
 point: "."

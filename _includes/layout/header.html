@@ -1,7 +1,13 @@
 <header class="header container-page-wrapper">
 
   <div class="header-left">
-    <a href="{{ site.baseurl_root }}/">
+    <a href="
+    {% if site.lang == "de" %}
+    {{ site.baseurl_root }}/
+    {% elsif site.lang == "en" %}
+    {{ site.baseurl_root }}/en/
+    {% endif %}
+    ">
       <img class="header-image" src="{{ site.baseurl_root }}/img/RT-D-EITI-Logo.png" alt="Deiti logo">
     </a>
   </div>
@@ -53,7 +59,13 @@
           <a class="header-nav_item_link" href="{{ domain_with_lang_prefix }}/daten/">{% t 'menu.explore-data' %}</a>
       </li>
       <li class="header-nav_item">
-        <a class="header-nav_item_link" href="https://www.d-eiti.de/" target="_blank">{% t 'menu.back' %}</a>
+        <a class="header-nav_item_link" href="
+        {% if site.lang == "en" %}
+        https://www.d-eiti.de/en/
+        {% else %}
+        https://www.d-eiti.de/
+        {% endif %}
+        " target="_blank">{% t 'menu.back' %}</a>
       </li>
 
     </ul>

@@ -595,9 +595,9 @@ lizenzregister_und_verträge:
     p1: "In einigen Ländern werden die Bedingungen, unter denen Bodenschätze gefördert werden können, unmittelbar zwischen den rohstofffördernden Unternehmen und den staatlichen Stellen verhandelt und im Rahmen von Verträgen zwischen den beteiligten Parteien festgehalten. In Deutschland ist das grundsätzlich nicht der Fall, da die Bedingungen für das Aufsuchen und die Gewinnung von Bodenschätzen in Gesetzen allgemein gültig festgelegt sind und diese durch die jeweils zuständigen Behörden umgesetzt werden."
     p2: "Vor diesem (internationalen) Hintergrund ermutigt die Initiative für Transparenz im rohstoffgewinnenden Sektor (EITI) teilnehmende Länder in Anforderung 2.4 des EITI-Standards dazu, die Transparenz hinsichtlich dieser Verträge zu fördern. Die EITI-Anforderung erfordert somit zunächst ein Verständnis über den Inhalt und den Umfang der in Frage stehenden „Verträge“ bzw. „Vereinbarungen“ zwischen staatlichen Stellen und rohstoffabbauenden Unternehmen, in denen „Bedingungen“ im Zusammenhang mit dem Abbau von Rohstoffen festgelegt sind."
     p3: "In Deutschland unterliegt die Gewinnung sowohl von bergfreien als auch von grundeigenen Rohstoffen und Grundeigentümerbodenschätzen verfahrensrechtlich einem öffentlich-rechtlichen Genehmigungsregime, dessen Inhalt, Ablauf und Umfang sich je nach Art der betroffenen Rohstoffe und Größe des Abbauvorhabens unterscheidet. Es können u. a. Vorschriften des Bergrechts, Bundesbaurechts, Wasserrechts sowie Immissionsschutz- und Naturschutzrechts einschlägig sein. Die verschiedenen gesetzlichen Vorschriften werden für das jeweilige Abbauvorhaben über Genehmigungsbescheide konkretisiert und umgesetzt. Die „Bedingungen“ im Sinne der EITI-Anforderung 2.4, unter denen die Gewinnung von Rohstoffen stattfindet, werden als Bestandteil der Genehmigung von staatlicher Seite festgelegt. Diese in Deutschland auf Grundlage einschlägiger rechtlicher Vorgaben erfolgte Genehmigungspraxis unterscheidet sich deutlich von der in einer Vielzahl anderer Länder geübten Praxis privatrechtlicher Verträge. Bei der künftigen Festlegung der Anforderungen des EITI-Standards unter 2.4 müssen diese Aspekte entsprechend berücksichtigt werden. "
-    p4: "Außerdem werden Genehmigungen heute schon, wenn das Vorhaben einer Umweltverträglichkeitsprüfung bedarf, von den zuständigen Behörden auf ihrer Webseite veröffentlicht. Zudem besteht Transparenz hinsichtlich Bergbauberechtigungen, soweit der Abbau bergfreier Rohstoffe betroffen ist (siehe Kapitel Lizenzregister). Für eine vergleichbare Offenlegung von Abbauberechtigungen, d. h. zum Eigentum von Abbauflächen bzw. Nutzungsrechten hinsichtlich des Abbaus nicht bergfreier Rohstoffe, bestehen derzeit keine gesetzlichen Vorgaben."
-    p4_link: " "
-    p4_2: " "
+    p4: "Außerdem werden Genehmigungen heute schon, wenn das Vorhaben einer Umweltverträglichkeitsprüfung bedarf, von den zuständigen Behörden auf ihrer Webseite veröffentlicht. Zudem besteht Transparenz hinsichtlich Bergbauberechtigungen, soweit der Abbau bergfreier Rohstoffe betroffen ist ("
+    p4_link: "siehe Kapitel Lizenzregister"
+    p4_2: "). Für eine vergleichbare Offenlegung von Abbauberechtigungen, d. h. zum Eigentum von Abbauflächen bzw. Nutzungsrechten hinsichtlich des Abbaus nicht bergfreier Rohstoffe, bestehen derzeit keine gesetzlichen Vorgaben."
     p5: "Darüber hinaus können „Vereinbarungen“ auch privatrechtlicher Natur sein und zwischen rohstoffabbauenden Unternehmen und staatlichen Stellen geschlossen werden. Hier können zwischen den Vertragsparteien weitere Bedingungen bzw. Auflagen im Zusammenhang mit dem Rohstoffabbau vereinbart werden. Einer zentralen Erfassung bzw. Veröffentlichung dieser Vereinbarungen können im Einzelfall vertragliche Abreden zur Verschwiegenheit über den Vertragsinhalt entgegenstehen. Die Vorschriften zur Erstellung eines Zahlungsberichts sehen allerdings in § 341r Nr. 3 HGB bereits eine Verpflichtung zur Offenlegung von Zahlungen rohstoffgewinnender Unternehmen „zur Verbesserung der Infrastruktur“ vor. Darunter fallen nach dem Verständnis des Instituts der Wirtschaftsprüfer in Deutschland e.V. u. a. Zahlungen zur Förderung von kommunalen Investitionen oder Bildungseinrichtungen, die beispielsweise in privatrechtlichen Vereinbarungen festgehalten werden. Insofern ist davon auszugehen, dass es über die Veröffentlichung von Zahlungsberichten auch zu einer Offenlegung von Zahlungsströmen aus privatrechtlichen Vereinbarungen zwischen der Rohstoffindustrie und dem Staat kommen wird, nicht jedoch zu einer Offenlegung von Vertragsinhalten privatrechtlicher Vereinbarungen. Für eine genaue inhaltliche Ausgestaltung dieses Zahlungsgrundes bleibt die zukünftige Analyse von veröffentlichten Zahlungsberichten und die weitere rechtliche bzw. betriebswirtschaftliche Entwicklung abzuwarten."
     p6: "Im deutschen Kontext wird die EITI-Anforderung zur Förderung von Transparenz im Bereich Verträge und Vereinbarungen zwischen staatlichen Stellen und rohstoffgewinnenden Unternehmen im Zusammenhang mit dem Rohstoffabbau weiter in der MSG behandelt und diskutiert."
 
@@ -1699,7 +1699,9 @@ gesamtdeutsche_rohstoffproduktion:
     p2_1: " [DESTATIS] – Statistisches Bundesamt (versch. Jg. a):"
     link1: https://erhebungsportal.estatistik.de/Erhebungsportal
     p2_2: "sowie (versch. Jg. b): Produzierendes Gewerbe."
-    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendes-Gewerbe/Konjunkturdaten/ProduktionJ.html"
+    p2_3: "https://www.destatis.de/DE/Publikationen/Thematisch/
+    IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
+    link1_1: "https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Konjunkturdaten/ProduktionJ.html"
     p3_1: "[DNV 2016] – Deutscher Naturwerkstein-Verband e.V. (2016):"
     link2: "URL: https://www.natursteinverband.de/"
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
@@ -3630,7 +3632,8 @@ footer:
   help: "Helfen Sie uns, rohstofftransparenz.de weiter zu verbessern!"
   teilen_msg: "Teilen Sie uns Ihr Feedback mit"
   fragen: "Fragen?"
-  contact_us: "Kontaktieren Sie uns unter"
+  contact_us: "Kontaktieren Sie uns"
+  link: hier
   description-1: "Diese Seite basiert auf dem Prinzip des Offenen-Daten-Formats. Der Source-Code kann frei verwendet werden"
   description-2: "GitHub"
   take_part_msg: "Wir freuen uns über Ihre aktive Teilnahme!"
@@ -3659,7 +3662,8 @@ datenschutz:
   sub-heading: Datenschutzerklärung
   description-1: Auf dieser Website werden mit der Open Source Software piwik Daten für statistische Zwecke und zur Verbesserung des Angebots ausgewertet und anschließend gelöscht. Eine andere Verwendung oder Weitergabe an Dritte erfolgt nicht.
   description-2: Bei jedem Zugriff eines Nutzers auf das Internet-Angebot www.d-eiti.de und bei jedem Abruf einer Datei werden Daten über diesen Vorgang vorübergehend in einer Protokolldatei gespeichert und verarbeitet. Vor der Speicherung wird jeder Datensatz durch Veränderung der IP-Adresse anonymisiert.
-  description-3: Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Auch haben Sie nach dem Bundesdatenschutzgesetz ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Sie können außerdem jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenn Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden Sie sich bitte jederzeit an Sekretariat@D-EITI.de
+  description-3: Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Auch haben Sie nach dem Bundesdatenschutzgesetz ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Sie können außerdem jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenn Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden Sie sich bitte jederzeit an
+  link: das D-EITI Sekretariat.
 
 impressum:
   title: Impressum
@@ -3670,8 +3674,9 @@ impressum:
     city: 10785 Berlin
     tel: "Tel.: +49 30 – 72 614 – 202"
     fax: "Fax: +49 30 – 72614 22 – 202"
-    email: "E-Mail:"
-    link: "Sekretariat@D-EITI.de"
+    email: "Sekretariat der D-EITI: "
+    link: "E-Mail"
+    web: "www.D-EITI.de"
   p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
   p2: "im Auftrag des Bundesministeriums für Wirtschaft und Energie"
 
@@ -3711,6 +3716,6 @@ impressum:
     text8_4: "Cornelia Richter"
 
     text9: "Webmaster"
-    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge an:"
-    link3: "sekretariat@D-EITI.de"
+    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge bitte an "
+    link3: "das D-EITI Sekretariat"
 point: "."
