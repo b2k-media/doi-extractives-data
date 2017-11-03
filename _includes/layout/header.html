@@ -50,7 +50,7 @@
     <ul class="header-nav_bottom">
       {% capture domain_with_lang_prefix %}{{ site.baseurl_root }}{{ site.lang | url_lang_prefix  }}{% endcapture %}
       <li class="header-nav_item {% if page.title == 'Home' %}active{% endif %}">
-          <a class="header-nav_item_link" href="{{ domain_with_lang_prefix }}/"> {% t 'menu.about' %} </a>
+          <a class="header-nav_item_link" href="{{ domain_with_lang_prefix }}/#start"> {% t 'menu.about' %} </a>
       </li>
       <li class="header-nav_item {% if page.permalink contains '/rohstoffgewinnung/' %}active{% endif %}">
           <a class="header-nav_item_link" href="{{ domain_with_lang_prefix }}/rohstoffgewinnung/"> {% t 'menu.how-it-work' %} </a>
