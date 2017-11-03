@@ -59,7 +59,15 @@
             </span>
             <p class="footer-social">Twitter</p>
           </a>
-          <a target="_blank" class="footer-link_social" href="https://www.d-eiti.de/kontakt-newsletter-abonnieren/">
+          <a target="_blank" class="footer-link_social"
+            href="
+              {% if site.lang == "en" %}
+                https://www.d-eiti.de/en/kontakt-newsletter-abonnieren/
+              {% else %}
+                https://www.d-eiti.de/kontakt-newsletter-abonnieren/
+              {% endif %}
+
+              ">
             <span class="fa-stack">
               <icon class="fa fa-circle fa-stack-2x"></icon>
               <icon class="fa fa-envelope-o fa-stack-1x fa-inverse"></icon>
