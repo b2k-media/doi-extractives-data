@@ -2,11 +2,11 @@
 
   <div class="header-left">
     <a href="
-    {% if site.lang == "de" %}
-    {{ site.baseurl_root }}/
-    {% elsif site.lang == "en" %}
-    {{ site.baseurl_root }}/en/
-    {% endif %}
+      {% if site.lang == "de" %}
+        {{ site.baseurl_root }}/
+      {% elsif site.lang == "en" %}
+        {{ site.baseurl_root }}/en/
+      {% endif %}
     ">
       <img class="header-image" src="{{ site.baseurl_root }}/img/RT-D-EITI-Logo.png" alt="Deiti logo">
     </a>
@@ -14,9 +14,9 @@
 
   <nav class="header-nav header-right">
     {% if site.lang == "de" %}
-    {% capture link1 %} {{ site.baseurl_root }}/en{{page.url}}{% endcapture %}
+      {% capture link1 %} {{ site.baseurl_root }}/en{{page.url}}{% endcapture %}
     {% elsif site.lang == "en" %}
-    {% capture link2 %}{{ site.baseurl_root }}{{page.url}}{% endcapture %}
+      {% capture link2 %}{{ site.baseurl_root }}{{page.url}}{% endcapture %}
     {% endif %}
 
     <ul class="header-nav_top">
@@ -60,11 +60,11 @@
       </li>
       <li class="header-nav_item">
         <a class="header-nav_item_link" href="
-        {% if site.lang == "en" %}
-        https://www.d-eiti.de/en/
-        {% else %}
-        https://www.d-eiti.de/
-        {% endif %}
+          {% if site.lang == "en" %}
+            https://www.d-eiti.de/en/
+          {% else %}
+            https://www.d-eiti.de/
+          {% endif %}
         " target="_blank">{% t 'menu.back' %}</a>
       </li>
 

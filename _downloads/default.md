@@ -377,11 +377,11 @@ permalink: /downloads/
     <p>
       {% t downloads.daten-zum-deiti-bericht.p1 %}
       <a target="_blank" href="
-      {% if site.lang == "en" %}
-      https://www.d-eiti.de/wp-content/uploads/2016/12/2016-10-21-D-EITI-Open-Data-Konzept-finale-Version_EN.pdf
-      {% else %}
-      https://www.d-eiti.de/wp-content/uploads/2016/12/10_TOP-6a_2016-09-21-D-EITI-Open-Data-Konzept-finale-Version.pdf
-      {% endif %}
+        {% if site.lang == "en" %}
+          https://www.d-eiti.de/wp-content/uploads/2016/12/2016-10-21-D-EITI-Open-Data-Konzept-finale-Version_EN.pdf
+        {% else %}
+          https://www.d-eiti.de/wp-content/uploads/2016/12/10_TOP-6a_2016-09-21-D-EITI-Open-Data-Konzept-finale-Version.pdf
+        {% endif %}
        ">{% t downloads.daten-zum-deiti-bericht.link1 %}</a>
       {% t downloads.daten-zum-deiti-bericht.p2 %}
       <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/deed.de">{% t downloads.daten-zum-deiti-bericht.link2 %}</a>
