@@ -2,6 +2,16 @@
 layout: default
 title: Home
 ---
+<script>
+  console.log()
+
+  if (window.location.href.indexOf("#start") == -1){
+      if(window.location.href.indexOf("en") != -1)
+        window.location.replace("/en/rohstoffgewinnung/");
+      else
+        window.location.replace("/rohstoffgewinnung/");
+  }
+</script>
 
 <section class="slab-delta">
   <div class="container-outer landing-section_top">
@@ -17,9 +27,9 @@ title: Home
     </div>
     <iframe
       {% if site.lang == "en" %}
-      src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEITIDeutschland%2Fvideos%2F257273064785804%2F&width=600&show_text=false&height=343&appId"
+        src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEITIDeutschland%2Fvideos%2F289706468209130%2F&width=600&show_text=false&height=343&appId"
       {% else %}
-      src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEITIDeutschland%2Fvideos%2F263195100860267%2F&width=600&show_text=false&height=343&appId"
+        src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEITIDeutschland%2Fvideos%2F263195100860267%2F&width=600&show_text=false&height=343&appId"
       {% endif %}
 
       width="600"
