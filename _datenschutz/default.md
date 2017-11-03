@@ -15,11 +15,11 @@ permalink: /datenschutz/
         <p class="hero-description">
         {% t 'datenschutz.description-3' %}
         <a target="_blank" href="
-        {% if site.lang == "en" %}
-        https://www.d-eiti.de/en/kontakt-kontakformular/  
-        {% else %}
-        https://www.d-eiti.de/kontakt-kontakformular/
-        {% endif %}
+          {% if site.lang == "en" %}
+            https://www.d-eiti.de/en/kontakt-kontakformular/  
+          {% else %}
+            https://www.d-eiti.de/kontakt-kontakformular/
+          {% endif %}
         ">{% t 'datenschutz.link' %}</a>
         </p>
 

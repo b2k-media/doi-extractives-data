@@ -132,7 +132,11 @@ breadcrumb:
                 </a>
               </div>
             </td>
-            <td rowspan="2" class="berg-img">
+            {% if site.lang == "en" %}
+              <td rowspan="2" class="berg-img-en">
+            {% else %}
+              <td rowspan="2" class="berg-img">
+            {% endif %}
             </td>
             <td>
               <div class="explanation">
