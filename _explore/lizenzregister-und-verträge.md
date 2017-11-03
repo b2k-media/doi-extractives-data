@@ -93,7 +93,7 @@ breadcrumb:
         <p>{% t lizenzregister_und_verträge.verträge.p3 %}</p>
         <p>
           {% t lizenzregister_und_verträge.verträge.p4 %}
-          <a target="_blank" href="{{ site.baseurl_root }}/rohstoffgewinnung/lizenzregister-und-vertraege/#lizenzregister">
+          <a href="{{ site.baseurl }}/rohstoffgewinnung/lizenzregister-und-vertraege/#lizenzregister">
             {% t lizenzregister_und_verträge.verträge.p4_link %}
           </a>
           {% t lizenzregister_und_verträge.verträge.p4_2 %}
