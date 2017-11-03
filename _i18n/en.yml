@@ -1625,7 +1625,7 @@ explore-data:
 
     production:
       heading-1: Commodity production in Germany
-      sub-heading-1: Interactive Resource Card
+      sub-heading-1: Interactive natural resource map
       description-1: For the first time ever commodities production data at the provincial level in an interactive resource card are available.
       sub-heading-2: Resource extraction in Germany
       description-2: Inform about which <span class="term" data-term="raw materials" title="Click to define" tabindex="0">raw materials<icon class="icon-book"></icon></span> are to promote in Germany.
@@ -3524,11 +3524,11 @@ about:
     description-2: Come back soon to stay up to date on transparency in the extractive industries in Germany.
 
 federal-production:
-    heading-1: Interactive Resource Card
-    description-1: In this interactive resource card, you can select information on individual commodities and the provinces.
-    description-2: For this, use the filter (top right).
-    description-3: "For more information about data sources and links to the original data can be viewed here:"
-    icon: Show Data
+    heading-1: Interactive natural resource map
+    description-1: In this map you can select Information on the individual natural resources as well as on the federal states.
+    description-2: To do so, please use the filter option (top right).
+    description-3: "Find more information on the sources as well as links to the original data here."
+    icon: View Data
 
     filter-container:
       show-filter: Show filters
