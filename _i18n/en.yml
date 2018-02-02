@@ -3663,18 +3663,52 @@ states:
   Thüringen: Thuringia
 
 datenschutz:
-  title: Data protection
-  sub-heading: Data protection
-  description-1: On this website, the piwik open source software is used for statistical purposes and to improve the offer. No other use or transfer to third parties takes place.
-  description-2: Every time a user accesses the Internet site www.d-eiti.de and every time a file is downloaded, data about this process is temporarily stored and processed in a log file. Before storing, each record is anonymized by changing the IP address.
-  description-3: Your trust is important to us. Therefore, we would like to answer your questions regarding the processing of your personal data. In addition, you have a right to free information about your stored data as well as a right to rectification, blocking or deletion of this data under the Federal Data Protection Act. You may also at any time revoke the consent granted to us for data collection and use without giving reasons. If you have any questions that could not be answered by this data protection declaration, or if you would like more detailed information, please contact
-  link: us.
-
+  title: "Data privacy statement"
+  datenschutzerklaerung:
+    title: "Privacy"
+    description-1: "For statistical purposes and to improve our service, this website uses technology provided by piwik, an open source web analytics software, which evaluates and then deletes data. No other use is made of the data, and the data is not passed on to third parties."
+    description-2: "Every time you visit a page on this website and every time you download a file, information about the activity is processed and stored in a temporary protocol file. Before it is stored, each data set is rendered anonymous by altering the IP address."
+    description-3: "The following information is stored for each page you view and each file you download:"
+    list:
+      li1: "the computer’s address (IP address), in abbreviated form,"
+      li2: "the page on which the file was requested,"
+      li3: "the name of the downloaded file,"
+      li4: "the date and time of your query,"
+      li5: "the amount of data transferred,"
+      li6: "the access status (file transferred, file not found, etc.), and"
+      li7: "a description of the browser type used."
+    description-4: "This data is analysed solely for the purpose of improving our service and will not be traced back to you."
+    description-5: "Temporary session cookies are used each time you view an individual page, to make navigation easier. Cookies are small text files that are stored locally in your browser cache. Session cookies do not include any personal data and expire at the end of each session. We do not use methods such as Java applets or ActiveX controls that make it possible to track your browsing behaviour."
+    description-6: "Another cookie stores the language in which you last viewed the www.rohstofftransparenz.de website. This cookie is used to be able to offer the appropriate language for your next visit. This cookie expires one year after your visit."
+  analyse:
+    title: "Website Analytics"
+    description-1: "Our website uses Piwik, a web analytics software. Piwik is using “cookies”, small text files, that are stored on your computer and are used for the purposes of analyzing website traffic. The data stored in the cookie (including an abbreviated IP address) is transfered to and stored on our server for the purpose of analyzing traffic, which is in turn helping us optimize our website."
+    description-2: "Your IP address is anonymized immediately, so that you remain anonymous as a user. The cookie information will not be shared with thrid parties. You can deactivate the usage of cookies directly inside your browser. Though, by deactivating cookies in general, it may be that you will not be able to use all of the functionality offered by our website."
+    description-3: "If you don’t want the data of your visit to be stored and analyzed, you may opt-out at any time by clicking the checkbox below. In case the opt-out option is clicked, a so-called opt-out cookie is stored in your browser, which tells Piwik not to collect any session data from your visit."
+    description-4: "WARNING: In case you are deleting your cookies, you will also delete your opt-out-cookie. Therefore, if you visit our website again, you may have to check the opt-out option again, to avoid the tracking of your session."
+    description-5: " "
+  aufrufbarkeit:
+    title: "Availability of the data privacy statement"
+    description-1: "You can access the data privacy statement at any time from any page of this website under the ‘Disclaimer’ link. Please note that changes to the website, statutory and legal changes and any points not covered in the provisions which are identified later may require amendment of this data privacy statement."
+  fragen:
+    title: "Questions and right to information "
+    description-1: "We value your trust, which is why we welcome any question you may have about how your personal data is processed. Under the Federal Data Protection Act, you also have a right to free information on what data is stored on you, and if applicable, a right to the correction, blocking or deletion of this data. You can also revoke your consent to our collecting and using your data at any time and without specifying any reason. If you have any questions that this data privacy statement does not answer or you require further information on a specific point, please contact the"
+    link: "D-EITI Sekretariat."
+  haftung:
+    title: "Disclaimer"
+    description-1: "This website has been compiled with the utmost care. Nevertheless, D-EITI Secretariat gives no guarantee that the information provided is current, accurate, complete or error-free. D-EITI accepts no liability for damage or loss arising directly or indirectly from the use of this website, provided it has not been caused intentionally or by gross negligence."
+    description-2: "D-EITI Secretariat expressly reserves the right to modify, append and delete the website in part on in whole without prior notice, or to halt publication completely or for a limited period."
+    description-3: "Cartographic presentations in no way constitute recognition under international law of boundaries and territories."
+    description-4: "Links to this homepage may be created, provided the www.rohstofftransparenz.de website opened is then the sole content of the browser window."
+    description-5: "Unless otherwise stated, all pages on this website, and specifically all text, images and graphics, are subject to copyright. Reproduction, publication or other use of such pages in part or full in electronic or printed publications, including on the internet or for commercial purposes, is permitted provided that the source is cited. This applies to all content, irrespective of file format, and to all forms of use."
+  haftung-links:
+    title: "Liability for links"
+    description-1: "Our website contains links to external third-party websites. We have no influence over the content of such websites. We accordingly cannot accept any liability for this third-party content. The content of linked websites is always the responsibility of the provider or operator of the sites. The linked websites were checked for possible violations of the law at the time links were posted, and no illegal content was apparent at that time. However, ongoing monitoring of the content of linked websites without concrete reason to suspect violation cannot reasonably be expected. If we become aware of any legal violations, we will delete such links immediately."
 impressum:
   title: Registration Information
   secretary:
     title: D-EITI Secretariat
-    address: (Deutschland – Extractive Industries Transparency Initiative)
+    address: " "
     strasee: Reichpietschufer 20
     city: 10785 Berlin
     tel: "Tel.: +49 30 – 72 614 – 202"
@@ -3682,20 +3716,21 @@ impressum:
     email: " "
     link: "E-Mail"
     web: "www.D-EITI.de"
+    p1: "GIZ GmbH acts as secretariat of the Multi-Stakeholder-Group of the German Extractive Industries transparency Initiative (D-EITI)"
   p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
   p2: "on behalf of the Federal Ministry for Economic Affairs and Energy (BMWi)"
 
   giz:
     text1_1: "Registered offices"
-    text1_2: "Bonn und Eschborn"
+    text1_2: "Bonn and Eschborn, Germany"
 
     text2_1: "Friedrich-Ebert-Allee 40"
-    text2_2: "53113 Bonn"
+    text2_2: "53113 Bonn, Germany"
     text2_3: "Telefon: +49 228 44 60-0"
     text2_4: "Fax: +49 228 44 60-17 66"
 
     text3_1: "Dag-Hammarskjöld-Weg 1-5"
-    text3_2: "65760 Eschborn"
+    text3_2: "65760 Eschborn, Germany"
     text3_3: "Telefon: +49 6196 79-0"
     text3_4: "Fax: +49 6196 79-11 15"
 
@@ -3717,10 +3752,14 @@ impressum:
     text8: "Management Board"
     text8_1: "Tanja Gönner (Chair of the Management Board)"
     text8_2: "Dr Christoph Beier (Vice-Chair of the Management Board)"
-    text8_3: "Dr. Hans-Joachim Preuß"
-    text8_4: "Cornelia Richter"
+    text8_3: "Dr Hans-Joachim Preuß"
+    text8_4: " "
 
     text9: "Webmaster"
     text9_1: "Please send any comments and suggestions for improvement"
-    link3: "here"
+    link3: "here."
+
+    disclaimer:
+      h1: "Disclaimer"
+      p1: "We have compiled and revised the presented contents with great care. However, we cannot guarantee that they are complete or up-to-date. We are not liable for external contents to which we provide a link."
 point: "."
