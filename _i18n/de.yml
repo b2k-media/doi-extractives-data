@@ -3708,11 +3708,12 @@ impressum:
     city: 10785 Berlin
     tel: "Tel.: +49 30 – 72 614 – 202"
     fax: "Fax: +49 30 – 72614 22 – 202"
-    email: "Sekretariat der D-EITI: "
-    link: "E-Mail"
+    email: "E-Mails: "
+    link: "D-EITI-Sekretariat"
     web: "www.D-EITI.de"
+    p1: "GIZ GmbH agiert als Sekretariat der Multi-Stakeholder-Gruppe der Deutschen Extractive Industries Transparency Initiative (D-EITI)"
   p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
-  p2: "im Auftrag des Bundesministeriums für Wirtschaft und Energie"
+  p2: "im Auftrag des Bundesministeriums für Wirtschaft und Energie (BMWi)"
 
   giz:
     text1_1: "Sitz der Gesellschaft"
@@ -3728,8 +3729,8 @@ impressum:
     text3_3: "Telefon: +49 6196 79-0"
     text3_4: "Fax: +49 6196 79-11 15"
 
-    text4_1: "E-Mail:"
-    link1: "info@giz.de"
+    text4_1: " "
+    link1: " "
     text4_2: "Internet:"
     link2: "www.giz.de"
 
@@ -3747,9 +3748,13 @@ impressum:
     text8_1: "Tanja Gönner (Vorstandssprecherin)"
     text8_2: "Dr. Christoph Beier (Stellvertretender Vorstandssprecher)"
     text8_3: "Dr. Hans-Joachim Preuß"
-    text8_4: "Cornelia Richter"
+    text8_4: " "
 
     text9: "Webmaster"
-    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge bitte an "
-    link3: "das D-EITI Sekretariat"
+    text9_1: "Technische Hinweise und redaktionelle Verbesserungsvorschläge bitte an das"
+    link3: "D-EITI Sekretariat"
+
+    disclaimer:
+      h1: " "
+      p1: " "
 point: "."
