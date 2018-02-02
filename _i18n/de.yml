@@ -3659,12 +3659,46 @@ states:
 
 datenschutz:
   title: Datenschutz
-  sub-heading: Datenschutzerklärung
-  description-1: Auf dieser Website werden mit der Open Source Software piwik Daten für statistische Zwecke und zur Verbesserung des Angebots ausgewertet und anschließend gelöscht. Eine andere Verwendung oder Weitergabe an Dritte erfolgt nicht.
-  description-2: Bei jedem Zugriff eines Nutzers auf das Internet-Angebot www.d-eiti.de und bei jedem Abruf einer Datei werden Daten über diesen Vorgang vorübergehend in einer Protokolldatei gespeichert und verarbeitet. Vor der Speicherung wird jeder Datensatz durch Veränderung der IP-Adresse anonymisiert.
-  description-3: Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Auch haben Sie nach dem Bundesdatenschutzgesetz ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Sie können außerdem jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenn Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden Sie sich bitte jederzeit an
-  link: das D-EITI Sekretariat.
-
+  datenschutzerklaerung:
+    title: Datenschutzerklärung
+    description-1: Auf dieser Website werden mit der Open Source-Software piwik Daten für statistische Zwecke und zur Verbesserung des Angebots ausgewertet und anschließend gelöscht. Eine andere Verwendung oder Weitergabe an Dritte erfolgt nicht.
+    description-2: Bei jedem Zugriff eines Nutzers auf das Internet-Angebot www.rohstofftransparenz.de und bei jedem Abruf einer Datei werden Daten über diesen Vorgang vorübergehend in einer Protokolldatei gespeichert und verarbeitet. Vor der Speicherung wird jeder Datensatz durch Veränderung der IP-Adresse anonymisiert.
+    description-3: "Im Einzelnen werden über jeden Zugriff/Abruf folgende Daten gespeichert:"
+    list:
+      li1: "der Rechneradresse (IP-Adresse) in gekürzter Form,"
+      li2: "der Seite, von der aus die Datei angefordert wurde,"
+      li3: "dem Namen der übertragenen Datei,"
+      li4: "dem Datum und der Uhrzeit der Abfrage,"
+      li5: "der übertragenen Datenmenge,"
+      li6: "dem Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.) und"
+      li7: "einer Beschreibung des Typs des verwendeten Webbrowsers."
+    description-4: "Diese Daten werden ausschließlich zur Verbesserung unseres Angebotes ausgewertet und wir ziehen daraus keine Rückschlüsse auf Ihre Person."
+    description-5: "Beim Aufruf einzelner Seiten werden so genannte temporäre Cookies verwendet, um die Navigation zu erleichtern. Cookies sind kleine Textdateien, die lokal im Zwischenspeicher des Internet-Browsers des Seitenbesuchers gespeichert werden. Diese Session Cookies beinhalten keine personenbezogenen Daten und verfallen nach Ablauf der Sitzung. Es werden keine Java Applets oder ActiveX Controls eingesetzt, die eine Analyse Ihres Browsingverhaltens ermöglichen."
+    description-6: " "
+  analyse:
+    title: "Webseiten Analyse"
+    description-1: "Diese Webseite nutzt die Web Analyse-Software Piwik. Piwik nutzt „Cookies“, kleine Textdateien, die auf Ihrem Computer gespeichert werden und zur Analyse der Webseitennutzung eingesetzt werden. Die in diesem Cookie gespeicherten Daten (u.a. eine verkürzte IP Adresse) werden zu unserem Server gesendet und gespeichert, um die Nutzung der Webseite zu analysieren und mit diesem Wissen unser Angebot zu verbessern."
+    description-2: "IP Adressen werden nur anonymisiert erfasst, so dass einzelne Nutzer nicht identifiziert werden können. Die so gewonnenen Daten werden nicht an Dritte weitergeleitet oder mit Dritten analysiert."
+    description-3: "Sie können in Ihrem Browser die Nutzung von Cookies generell oder für bestimmte Webseiten verbieten oder erlauben. Allerdings kann dies die Nutzung von Webseiten erschweren oder manche Funktionen können gar nicht genutzt werden."
+    description-4: "Wenn Sie nicht möchten, dass Ihre Daten in diese anonyme Nutzungsanalyse einfließen, können Sie dies jederzeit hier Einstellen („opt-out“). Wenn Sie den untenstehenden Haken entfernen, wird ein sogenanntes „opt-out-Cookie“ auf Ihrem Computer gespeichert. Daran erkennt Piwik, dass Ihre Besuche nicht erfasst werden."
+    description-5: "Achtung: Wenn Sie die Cookies in Ihrem Browser löschen, wird auch das opt-out-Cookie gelöscht. Daher müssen Sie in diesem Fall den opt-out erneut durchführen, damit Ihre Daten nicht erfasst werden."
+  aufrufbarkeit:
+    title: "Abrufbarkeit der Datenschutzerklärung"
+    description-1: "Sie können die Datenschutzerklärung jederzeit von jeder Seite dieses Internetangebots unter dem Link „Datenschutz“ abrufen. Bitte nehmen Sie zur Kenntnis, dass Änderungen des Angebots, gesetzliche und rechtliche Neuerungen sowie ggf. nachträglich erkannte Regelungslücken Änderungen dieser Datenschutzerklärung erforderlich werden lassen können."
+  fragen:
+    title: "Fragen und Auskunftsrecht"
+    description-1: "Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Auch haben Sie nach dem Bundesdatenschutzgesetz ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Sie können außerdem jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenn Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden Sie sich bitte jederzeit an das "
+    link: "D-EITI Sekretariat."
+  haftung:
+    title: "Haftungsausschluss"
+    description-1: "Diese Website wurde mit größtmöglicher Sorgfalt zusammengestellt. Wir übernehmen keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Jegliche Haftung für Schäden, die direkt oder indirekt aus der Benutzung dieser Website entstehen, wird ausgeschlossen, soweit diese nicht auf Vorsatz oder grober Fahrlässigkeit beruhen."
+    description-2: "Wir behalten es uns ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen."
+    description-3: "Kartographische Darstellungen beinhalten keine völkerrechtliche Anerkennung von Grenzen und Gebieten."
+    description-4: "Auf die Rohstofftransparenz-Webseite darf gelinkt werden, wenn die aufgerufene Rohstofftransparenz-Webseite alleiniger Inhalt des Browserfensters wird."
+    description-5: "Falls nicht anders angegeben, unterliegen alle Seiten des Web-Angebotes, insbesondere Texte, Bilder und Grafiken, dem Urheberrecht. Eine Vervielfältigung, Veröffentlichung oder sonstige Verwendung solcher Seiten, oder Teilen davon, in elektronischen oder gedruckten Publikationen, auch im Internet, oder zu unternehmerischen Zwecken ist bei Nennung der Quelle gestattet. Das gilt für alle Inhalte unabhängig vom Dateiformat und für alle Formen der Verwertung."
+  haftung-links:
+    title: "Haftung für Links"
+    description-1: "Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen."
 impressum:
   title: Impressum
   secretary:
