@@ -14,10 +14,8 @@ permalink: /impressum/
           <h3>{% t 'impressum.secretary.title' %}</h3>
           <p class="hero-description">{% t 'impressum.secretary.address' %}</p>
           <p class="hero-description">{% t 'impressum.secretary.strasee' %}</p>
-          <p class="hero-description">
-            {% t 'impressum.secretary.city' %}
-            {% t 'impressum.secretary.tel' %}
-          </p>
+          <p class="hero-description">{% t 'impressum.secretary.city' %}</p>
+          <p class="hero-description">{% t 'impressum.secretary.tel' %}</p>
           <p class="hero-description">{% t 'impressum.secretary.fax' %}</p>
           <p class="hero-description">
             {% t 'impressum.secretary.email' %}
@@ -30,7 +28,21 @@ permalink: /impressum/
             " class="blue_link">
             <font class="">{% t 'impressum.secretary.link' %}</font></a>
           </p>
-          <p class="hero-description">{% t 'impressum.secretary.web' %}</p>
+
+          <p class="hero-description">
+            <a target="_blank" href="
+            {% if site.lang == "en" %}
+            https://www.d-eiti.de/en/  
+            {% else %}
+            https://www.d-eiti.de/
+            {% endif %}
+            " class="blue_link">
+            <font class="">{% t 'impressum.secretary.web' %}</font></a>
+          </p>
+
+
+
+          <p class="hero-description">{% t 'impressum.secretary.p1' %}</p>
           <br/>
           <h3>{% t 'impressum.p1' %}</h3>
           <h3>{% t 'impressum.p2' %}</h3>
@@ -86,6 +98,8 @@ permalink: /impressum/
             " class="blue_link">
             <font class="">{% t 'impressum.giz.link3' %}</font></a>
           </p>
+          <h3>{% t 'impressum.giz.disclaimer.h1' %}</h3>
+          <p class="hero-description">{% t 'impressum.giz.disclaimer.p1' %}</p>
         </div>
       </div>
     </div>
