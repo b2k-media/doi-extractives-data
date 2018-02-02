@@ -3674,7 +3674,7 @@ impressum:
   title: Registration Information
   secretary:
     title: D-EITI Secretariat
-    address: (Deutschland – Extractive Industries Transparency Initiative)
+    address: " "
     strasee: Reichpietschufer 20
     city: 10785 Berlin
     tel: "Tel.: +49 30 – 72 614 – 202"
@@ -3682,20 +3682,21 @@ impressum:
     email: " "
     link: "E-Mail"
     web: "www.D-EITI.de"
+    p1: "GIZ GmbH acts as secretariat of the Multi-Stakeholder-Group of the German Extractive Industries transparency Initiative (D-EITI)"
   p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
   p2: "on behalf of the Federal Ministry for Economic Affairs and Energy (BMWi)"
 
   giz:
     text1_1: "Registered offices"
-    text1_2: "Bonn und Eschborn"
+    text1_2: "Bonn and Eschborn, Germany"
 
     text2_1: "Friedrich-Ebert-Allee 40"
-    text2_2: "53113 Bonn"
+    text2_2: "53113 Bonn, Germany"
     text2_3: "Telefon: +49 228 44 60-0"
     text2_4: "Fax: +49 228 44 60-17 66"
 
     text3_1: "Dag-Hammarskjöld-Weg 1-5"
-    text3_2: "65760 Eschborn"
+    text3_2: "65760 Eschborn, Germany"
     text3_3: "Telefon: +49 6196 79-0"
     text3_4: "Fax: +49 6196 79-11 15"
 
@@ -3717,10 +3718,14 @@ impressum:
     text8: "Management Board"
     text8_1: "Tanja Gönner (Chair of the Management Board)"
     text8_2: "Dr Christoph Beier (Vice-Chair of the Management Board)"
-    text8_3: "Dr. Hans-Joachim Preuß"
-    text8_4: "Cornelia Richter"
+    text8_3: "Dr Hans-Joachim Preuß"
+    text8_4: " "
 
     text9: "Webmaster"
     text9_1: "Please send any comments and suggestions for improvement"
-    link3: "here"
+    link3: "here."
+
+    disclaimer:
+      h1: "Disclaimer"
+      p1: "We have compiled and revised the presented contents with great care. However, we cannot guarantee that they are complete or up-to-date. We are not liable for external contents to which we provide a link."
 point: "."
