@@ -87,6 +87,9 @@ or simply:
 npm run lint-scss
 ```
 
+## Languages (DE/EN)
+Edit multilanguage strings [here] (/_i18n)
+
 ## Contributing
 Content and feature suggestions are welcome via [GitHub Issues](https://github.com/PfeffermindGames/doi-extractives-data/issues). Code contributions are welcome via [pull request](https://help.github.com/articles/using-pull-requests/), although of course we cannot guarantee your changes will be included in the site.
 
