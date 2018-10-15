@@ -3663,47 +3663,69 @@ states:
   Thüringen: Thuringia
 
 datenschutz:
-  title: "Data privacy statement"
+  title: Data privacy statement
   datenschutzerklaerung:
-    title: "Privacy"
-    description-1: "For statistical purposes and to improve our service, this website uses technology provided by piwik, an open source web analytics software, which evaluates and then deletes data. No other use is made of the data, and the data is not passed on to third parties."
-    description-2: "Every time you visit a page on this website and every time you download a file, information about the activity is processed and stored in a temporary protocol file. Before it is stored, each data set is rendered anonymous by altering the IP address."
-    description-3: "The following information is stored for each page you view and each file you download:"
-    list:
-      li1: "the computer’s address (IP address), in abbreviated form,"
-      li2: "the page on which the file was requested,"
-      li3: "the name of the downloaded file,"
-      li4: "the date and time of your query,"
-      li5: "the amount of data transferred,"
-      li6: "the access status (file transferred, file not found, etc.), and"
-      li7: "a description of the browser type used."
-    description-4: "This data is analysed solely for the purpose of improving our service and will not be traced back to you."
-    description-5: "Temporary session cookies are used each time you view an individual page, to make navigation easier. Cookies are small text files that are stored locally in your browser cache. Session cookies do not include any personal data and expire at the end of each session. We do not use methods such as Java applets or ActiveX controls that make it possible to track your browsing behaviour."
-    description-6: "Another cookie stores the language in which you last viewed the www.rohstofftransparenz.de website. This cookie is used to be able to offer the appropriate language for your next visit. This cookie expires one year after your visit."
+    title: Data processing 
+    description-1: Data processing is the responsibility of the
+    description-2: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+    description-3: "Postal adress:"
+    description-4: Friedrich-Ebert-Allee 36 + 40, 53113 Bonn
+    description-5: Dag-Hammarskjöld-Weg 1–5, 65760 Eschborn
+    description-6: "Contact:" 
+    link-1: "Sekretariat@d-eiti.de"
+    description-7: "Contact details of the data protection officer:"
+    link-2: "datenschutzbeauftragter@giz.de"
+    description-8: "The Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a public-benefit federal enterprise for international cooperation. We work as a federal enterprise under private law. Our aim is to achieve the development-policy objective of improving the living conditions of people worldwide and conserving the natural resources on which livelihoods depend." 
   analyse:
     title: "Website Analytics"
-    description-1: "Our website uses Piwik, a web analytics software. Piwik is using “cookies”, small text files, that are stored on your computer and are used for the purposes of analyzing website traffic. The data stored in the cookie (including an abbreviated IP address) is transfered to and stored on our server for the purpose of analyzing traffic, which is in turn helping us optimize our website."
-    description-2: "Your IP address is anonymized immediately, so that you remain anonymous as a user. The cookie information will not be shared with thrid parties. You can deactivate the usage of cookies directly inside your browser. Though, by deactivating cookies in general, it may be that you will not be able to use all of the functionality offered by our website."
-    description-3: "If you don’t want the data of your visit to be stored and analyzed, you may opt-out at any time by clicking the checkbox below. In case the opt-out option is clicked, a so-called opt-out cookie is stored in your browser, which tells Piwik not to collect any session data from your visit."
-    description-4: "WARNING: In case you are deleting your cookies, you will also delete your opt-out-cookie. Therefore, if you visit our website again, you may have to check the opt-out option again, to avoid the tracking of your session."
-    description-5: " "
-  aufrufbarkeit:
+    description-1: "For statistical purposes and to improve our service, this website draws on the services of Matomo to analyse usage data. No other use is made of the data, and the data are not passed on to third parties."
+    description-2: "The following information is stored for each page you view and each file you download:"
+    list:
+      li1: "Anonymous IP address"
+      li2: "Page opened"
+      li3: "Name of the file downloaded"
+      li4: "Date and time"
+      li5: "Quantity of data transferred"
+      li6: "Notification of whether viewing or download was successful"
+      li7: "Technical details of the browser used"
+      
+    description-3: "This data is analysed solely for the purpose of improving our service and will not be traced back to you."
+    description-4: "You may disable analytics here:"
+    description-5: "Temporary session cookies are used each time you view an individual page, to make navigation easier. Cookies are small text files that are stored locally in your browser cache. Session cookies do not include any personal data and expire at the end of each session. We do not use methods such as Java applets or ActiveX controls that make it possible to track your browsing behaviour."
+    description-6: " "
+  newsletter:
+    title: "Newsletter"
+    description-1: "When signing up for our newsletter, the data you provide will be used exclusively for this purpose. Subscribers can also be informed about aspects, which are relevant to the service or the registry (for example changes in the newsletter service or technical issues). For an effective registration we need a valid email address. To verify that the registration was actually realized by the owner of an email address, we use the “double opt-in” method. To this end, we record the subscription to the newsletter, the sending of the confirmation email and the reception of the hereby requested response. Further data is not collected. The data will be used exclusively for sending newsletters and not shared with third parties. The consent to the storage of your personal data and their utilization for sending the newsletter can be revoked at any time. In each newsletter you will find a corresponding link. You can also cancel the newsletter by using the contact form."
+    description-2: "Once the newsletter is revoked all personal data will be deleted from the system."
+  kontaktformular:
+    title: "Contact forms"
+    description-1: "When you use the contact form, we process your name and email address. The data is processed based on Art. 6 paragraph 1 b) of the EU GDPR for the purpose of receiving the query formulated in the contact form. The data is not passed on to third parties. Data is transmitted to GIZ using an SSL-encrypted connection, which makes it significantly more difficult for unauthorised persons to intercept it. Similarly to queries sent to GIZ by email, queries transmitted using the contact form are deleted following 4 year retention period."    
+  dauer:
+    title: "Duration of data retention"
+    description-1: "Personal data are regularly deleted when they are no longer needed for contractual purposes (e.g. for employment, top-ups, rental, sale or service contracts), the individuals concerned have not given any separate authorisation or statutory data storage obligations and periods have expired."  
+  nutzerrechte:
+   title: "Reference to user rights"
+   description-1: "You are entitled to object to data processing, enquire about your personal data and its processing and to have this corrected if necessary, or to request restriction of processing or the erasure of the data."
+   description-2: "If you have any questions or complaints about this website, please contact the GIZ data protection officer (see contact information provided above). You also have the right to lodge a complaint with the responsible data protection supervisory authority. The responsible authority in this case is the"
+   link: "German Federal Commissioner for Data Protection and Freedom of Information (BfDI)."   
+  abrufbarkeit:
     title: "Availability of the data privacy statement"
-    description-1: "You can access the data privacy statement at any time from any page of this website under the ‘Disclaimer’ link. Please note that changes to the website, statutory and legal changes and any points not covered in the provisions which are identified later may require amendment of this data privacy statement."
+    description-1: "You can access the data privacy statement at any time from any page of this website under the ‘Legal notice’ link. Please note that changes to the website, statutory and legal changes and any points not covered in the provisions which are identified later may require amendment of this data privacy statement."  
   fragen:
-    title: "Questions and right to information "
-    description-1: "We value your trust, which is why we welcome any question you may have about how your personal data is processed. Under the Federal Data Protection Act, you also have a right to free information on what data is stored on you, and if applicable, a right to the correction, blocking or deletion of this data. You can also revoke your consent to our collecting and using your data at any time and without specifying any reason. If you have any questions that this data privacy statement does not answer or you require further information on a specific point, please contact the"
-    link: "D-EITI Sekretariat."
+    title: " "
+    description-1: " "
+    link: " "  
   haftung:
     title: "Disclaimer"
-    description-1: "This website has been compiled with the utmost care. Nevertheless, D-EITI Secretariat gives no guarantee that the information provided is current, accurate, complete or error-free. D-EITI accepts no liability for damage or loss arising directly or indirectly from the use of this website, provided it has not been caused intentionally or by gross negligence."
-    description-2: "D-EITI Secretariat expressly reserves the right to modify, append and delete the website in part on in whole without prior notice, or to halt publication completely or for a limited period."
+    description-1: "This website has been compiled with the utmost care. Nevertheless, D-EITI Secretariat gives no guarantee that the information provided is current, accurate, complete or error-free. D-EITI accepts no liability for damage or loss arising directly or indirectly from the use of this website, provided it has not been caused intentionally or by gross negligence."
+    description-2: "D-EITI Secretariat expressly reserves the right to modify, append and delete the website in part on in whole without prior notice, or to halt publication completely or for a limited period."
     description-3: "Cartographic presentations in no way constitute recognition under international law of boundaries and territories."
-    description-4: "Links to this homepage may be created, provided the www.rohstofftransparenz.de website opened is then the sole content of the browser window."
-    description-5: "Unless otherwise stated, all pages on this website, and specifically all text, images and graphics, are subject to copyright. Reproduction, publication or other use of such pages in part or full in electronic or printed publications, including on the internet or for commercial purposes, is permitted provided that the source is cited. This applies to all content, irrespective of file format, and to all forms of use."
+    description-4: "Links to the D-EITI homepage may be created, provided the D-EITI website opened is then the sole content of the browser window."
+    description-5: "Unless otherwise stated, all pages on this website, and specifically all text, images and graphics, are subject to copyright. Reproduction, publication or other use of such pages in part or full in electronic or printed publications, including on the internet or for commercial purposes, is permitted provided that the source is cited. This applies to all content, irrespective of file format, and to all forms of use."  
   haftung-links:
     title: "Liability for links"
     description-1: "Our website contains links to external third-party websites. We have no influence over the content of such websites. We accordingly cannot accept any liability for this third-party content. The content of linked websites is always the responsibility of the provider or operator of the sites. The linked websites were checked for possible violations of the law at the time links were posted, and no illegal content was apparent at that time. However, ongoing monitoring of the content of linked websites without concrete reason to suspect violation cannot reasonably be expected. If we become aware of any legal violations, we will delete such links immediately."
+
 impressum:
   title: Registration Information
   secretary:
@@ -3711,32 +3733,35 @@ impressum:
     address: " "
     strasee: Reichpietschufer 20
     city: 10785 Berlin
-    tel: "Tel.: +49 30 – 72 614 – 202"
-    fax: "Fax: +49 30 – 72614 22 – 202"
-    email: " "
-    link: "E-Mail"
+    tel: "Tel.: +49 30 – 72 614 – 319"
+    fax: "Fax: +49 30 – 72614 22 – 319"
+    email: "E-Mail: "
+    link-1: "Sekretariat@d-eiti.de"
+    link: "D-EITI-Sekretariat"
     web: "www.D-EITI.de"
-    p1: "GIZ GmbH acts as secretariat of the Multi-Stakeholder-Group of the German Extractive Industries transparency Initiative (D-EITI)"
-  p1: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
-  p2: "on behalf of the Federal Ministry for Economic Affairs and Energy (BMWi)"
+       
+    p1: "Verantwortlich:"
+    p1_2: "Boris Raeder, Leiter des D-EITI Sekretariats (GIZ)"
 
+    p2: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+    
   giz:
     text1_1: "Registered offices"
     text1_2: "Bonn and Eschborn, Germany"
 
-    text2_1: "Friedrich-Ebert-Allee 40"
-    text2_2: "53113 Bonn, Germany"
+    text2_1: "Friedrich-Ebert-Allee 36 + 40"
+    text2_2: "53113 Bonn"
     text2_3: "Telefon: +49 228 44 60-0"
     text2_4: "Fax: +49 228 44 60-17 66"
 
     text3_1: "Dag-Hammarskjöld-Weg 1-5"
-    text3_2: "65760 Eschborn, Germany"
+    text3_2: "65760 Eschborn"
     text3_3: "Telefon: +49 6196 79-0"
     text3_4: "Fax: +49 6196 79-11 15"
 
-    text4_1: "E-Mail:"
+    text4_1: "E"
     link1: "info@giz.de"
-    text4_2: "Internet:"
+    text4_2: "I"
     link2: "www.giz.de"
 
     text5: "Registered at"
@@ -3746,13 +3771,10 @@ impressum:
     text6: "VAT no."
     text6_1: "DE 113891176"
 
-    text7: "Chairman of the Supervisory Board"
-    text7_1: "Dr Friedrich Kitschelt, State Secretary"
-
     text8: "Management Board"
-    text8_1: "Tanja Gönner (Chair of the Management Board)"
-    text8_2: "Dr Christoph Beier (Vice-Chair of the Management Board)"
-    text8_3: "Dr Hans-Joachim Preuß"
+    text8_1: "Tanja Gönner (Vorstandssprecherin)"
+    text8_2: "Dr. Christoph Beier (Stellvertretender Vorstandssprecher)"
+    text8_3: " "
     text8_4: " "
 
     text9: "Webmaster"
@@ -3760,6 +3782,6 @@ impressum:
     link3: "here."
 
     disclaimer:
-      h1: "Disclaimer"
-      p1: "We have compiled and revised the presented contents with great care. However, we cannot guarantee that they are complete or up-to-date. We are not liable for external contents to which we provide a link."
+      h1: " "
+      p1: " "
 point: "."
