@@ -16,6 +16,11 @@ breadcrumb:
     <div class="container-left-9">
       <p>
         {% t einnahmen.p1_1 %}
+        <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
+          {% t einnahmen.link %}
+        </a>
+        {% t einnahmen.p1_1_2 %}
+
         <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">
           {% t einnahmen.link %}
         </a>

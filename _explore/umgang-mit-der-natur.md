@@ -274,6 +274,7 @@ breadcrumb:
           <a target="_blank" href="http://www4.lubw.baden-wuerttemberg.de/servlet/is/225385/">
             {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.link1 %}
           </a>
+          {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.p3_1_2 %}
           <a target="_blank" href="http://www4.lubw.baden-wuerttemberg.de/servlet/is/225375/">
             {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.link2 %}
           </a>

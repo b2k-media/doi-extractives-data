@@ -69,6 +69,14 @@ breadcrumb:
           </p>
           </div>
         </section>
+
+        <p style="font-size: 0.75rem" >
+          <sup id="sup-1">{% t bip.sup1.title %}</sup>
+          {% t bip.sup1.text %}
+          <a href= "{% t bip.sup1.link%}">
+          {% t bip.sup1.link %}</a> {% t bip.sup1.text2 %}
+        </p>
+
       </section>
     </div>
     <div class="sticky sticky_nav container-right-3">

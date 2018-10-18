@@ -74,7 +74,7 @@ breadcrumb:
       <br/>
       <p class="source">
         {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_pre %}
-        <a href="{{site.baseurl}}/downloads/#steuern">
+        <a href="{{site.baseurl}}/downloads/#anpassungsgeld">
           <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px" ></icon>
           {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen %}
         </a>
@@ -117,10 +117,6 @@ breadcrumb:
           {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_post %}
         </p>
 
-        <a target="_blank" href="{{site.baseurl}}/downloads/#anpassungsgeld">
-          <icon class="fa fa-file-text-o u-padding-right"></icon>
-          {% t einnahmen.steuern.daten_einsehen %}
-        </a>
         <br/>
         <h3 id="begünstigungen">
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.title %}

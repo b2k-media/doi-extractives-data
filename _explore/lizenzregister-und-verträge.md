@@ -86,21 +86,9 @@ breadcrumb:
         </section>
         <br/>
       </section>
-      <section id="verträge" style="position: relative;">
-        <h2>{% t lizenzregister_und_verträge.verträge.title %}</h2>
-        <p>{% t lizenzregister_und_verträge.verträge.p1 %}</p>
-        <p>{% t lizenzregister_und_verträge.verträge.p2 %}</p>
-        <p>{% t lizenzregister_und_verträge.verträge.p3 %}</p>
-        <p>
-          {% t lizenzregister_und_verträge.verträge.p4 %}
-          <a href="{{ site.baseurl }}/rohstoffgewinnung/lizenzregister-und-vertraege/#lizenzregister">
-            {% t lizenzregister_und_verträge.verträge.p4_link %}
-          </a>
-          {% t lizenzregister_und_verträge.verträge.p4_2 %}
-        </p>
-        <p>{% t lizenzregister_und_verträge.verträge.p5 %}</p>
-        <p>{% t lizenzregister_und_verträge.verträge.p6 %}</p>
-      </section>
+
+
+
     </div>
 
     <div class="sticky sticky_nav container-right-3">
