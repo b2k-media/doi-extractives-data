@@ -62,7 +62,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a target="_blank" href="http://www.regierung.oberbayern.bayern.de/aufgaben/wirtschaft/bergamt/">
+                <a target="_blank" href="https://www.regierung.oberbayern.bayern.de/aufgaben/wirtschaft/bergamt/">
                   {% t rechtlicher-rahmen.grid.bayern.link1 %}
                 </a>
 
@@ -137,7 +137,7 @@ breadcrumb:
                 </span>
               </div>
               <div>
-                <a target="_blank" href="https://rp-darmstadt.hessen.de/irj/RPDA_Internet?cid=bd0bc0dafb5c5d10c47c461eafdaaaef">
+                <a target="_blank" href="https://rp-darmstadt.hessen.de/%C3%BCber-uns/beh%C3%B6rdenleitung/abteilungsleitungen/abteilung-iv-arbeitsschutz-und-umwelt-darmstadt">
                   {% t rechtlicher-rahmen.grid.hessen.link %}
                 </a>
               </div>

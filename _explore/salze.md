@@ -41,13 +41,14 @@ breadcrumb:
         <p>
           {% t salze.geschichte.p2 %}
         </p>
+        <p>
+          {% t salze.geschichte.p3 %}
+        </p>
       </section>
       <section id="wirtschaftliche-bedeutung" style="position: relative;">
         <h3>{% t salze.wirtschaftliche-bedeutung.title %}</h3>
         <p>
-          {% t salze.wirtschaftliche-bedeutung.p1_1 %}
-          K<sub style="font-size: small">2</sub>O
-          {% t salze.wirtschaftliche-bedeutung.p1_2 %}
+          {% t salze.wirtschaftliche-bedeutung.p1 %}
         </p>
       </section>
       <section id="gewinnung" style="position: relative;">

@@ -3,18 +3,18 @@
   "title_en": "Minesite and extraction royalties",
   "data": [
   	[
-  		["Pachtzahlungen: 360.455,06 € (0,09%)",  360455.06],
-  		["Körperschaftsteuer: 70.993.101,82 € (17,51%)", 70993101.82],
-  		["Gewerbesteuer: 98.444.944,39 € (24,51%)", 98444944.39],
-  		["Feldes-/Förderabgabe: 231.812.141,45 € (57,72%)", 231812141.45]
+  		["Pachtzahlungen: 360.455,06 € (0,15%)",  646677.99],
+  		["Körperschaftsteuer: 70.993.101,82 € (18,58%)", 77314863.82],
+  		["Gewerbesteuer: 98.444.944,39 € (25,56%)", 106353975.11],
+  		["Feldes-/Förderabgabe: 231.812.141,45 € (55,71%)", 231812141.45]
   	]
   ],
   "data_en": [
   	[
-  		["Lease payments: 0.36 Mio € (0,09%)",  360455.06],
-  		["Corporate tax: 70.99 Mio € (17,51%)", 70993101.82],
-  		["Trade tax: 98.44 Mio € (24,51%)", 98444944.39],
-  		["Minesite and extraction royalties: 231,81 Mio € (57,72%)", 231812141.45]
+  		["Lease payments: 0.36 Mio € (0,15%)",  646677.99],
+  		["Corporate tax: 70.99 Mio € (18,58%)", 77314863.82],
+  		["Trade tax: 98.44 Mio € (25,56%)", 106353975.11],
+  		["Minesite and extraction royalties: 231,81 Mio € (55,71%)", 231812141.45]
   	]
   ],
   "color": ["#28467a", "#4682be", "#d9edf6", "#66a3ff"]

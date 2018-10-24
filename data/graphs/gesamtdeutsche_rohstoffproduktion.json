@@ -3,36 +3,36 @@
 	"title_en": "",
 	"data": [
 		[
-			[0.44, "Naturwerksteine"],
-			[1.1, "Kaolin"],
-			[2.41, "Erdöl"],
-			[5.75, "Kalisalz"],
-			[6.22 , "Steinkohle*"],
-			[6.40, "Spezialton"],
-			[7.29, "Kali- und Kalisalzprodukte"],
-			[9.7, "Quarzkies und -sand"],
-			[13.67, "Steinsalz und Industriesole"],
-			[48.9, "Kalk-/Mergel-/Dolomitstein"],
-			[178.1, "Braunkohle"],
-			[210, "Gebrochene Natursteine"],
-			[239, "Kies und Sand"]
+			[0.4, "Naturwerksteine"],
+			[1.0, "Kaolin"],
+			[2.3, "Erdöl"],
+			["Keine Angabe", "Kalisalz"],
+			[3.8 , "Steinkohle*"],
+			[5.4, "Spezialton"],
+			[6.2, "Kali- und Kalisalzprodukte"],
+			[9.9, "Quarzkies und -sand"],
+			[13.4 , "Steinsalz und Industriesole"],
+			[53.2, "Kalk-/Mergel-/Dolomitstein"],
+			[171.5, "Braunkohle"],
+			[218, "Gebrochene Natursteine"],
+			[247, "Kies und Sand"]
 		]
 	],
 	"data_en": [
 		[
-			[0.44, "Ashlar"],
-			[1.1, "China clay"],
-			[2.41, "Crude oil"],
-			[5.75, "Potash salt"],
-			[6.22 , "Hard coal*"],
-			[6.40, "Special clay"],
-			[7.29, "Potash and potash salt products"],
-			[9.7, "Quartz gravel and sand"],
-			[13.67, "Rock salt and industrial brine"],
-			[48.9, "Limestone/marlstone/dolomite"],
-			[178.1, "Lignite"],
-			[210, "Broken natural stone"],
-			[239, "Gravel and sand"]
+			[0.4, "Ashlar"],
+			[1.0, "China clay"],
+			[2.3, "Crude oil"],
+			["No information available", "Potash salt"],
+			[3.8 , "Hard coal*"],
+			[5.4, "Special clay"],
+			[6.2, "Potash and potash salt products"],
+			[9.9, "Quartz gravel and sand"],
+			[13.4, "Rock salt and industrial brine"],
+			[53.2, "Limestone/marlstone/dolomite"],
+			[171.5, "Lignite"],
+			[218, "Broken natural stone"],
+			[247, "Gravel and sand"]
 		]
 	],
 	"color": ["#28467a"],
@@ -46,12 +46,12 @@
 	"title_en": "",
 	"data": [
 		[
-			[9387.6, "Erdgas**"]
+			[8673, "Erdgas**"]
 		]
 	],
 	"data_en": [
 		[
-			[9387.6, "Natural gas**"]
+			[8673, "Natural gas**"]
 		]
 	],
 	"color": ["#28467a"],
@@ -66,37 +66,37 @@
 	"data": [
 		[
 			["Keine Angabe",	 "Kalisalz"],
-			[52,	 "Naturwerksteine"],
-			[119,	 "Kaolin"],
-			[148,	 "Spezialton"],
-			[205.5,  "Quarzkies und -sand"],
-			[423,	 "Steinkohle*"],
-			[576,	 "Steinsalz und Industriesole"],
-			[719,	 "Kalk-/Mergel-/Dolomitstein"],
-			[859,	 "Erdöl"],
-			[1439,	 "Gebrochene Natursteine"],
-			[1510,	 "Kies und Sand"],
-			[2064,	 "Erdgas**"],
-			[2156,	 "Kali- und Kalisalzprodukte"],
-			[2431,	 "Braunkohle"]
+			[42,	 "Naturwerksteine"],
+			[78,	 "Kaolin"],
+			[123,	 "Spezialton"],
+			[212,  "Quarzkies und -sand"],
+			[258,	 "Steinkohle*"],
+			[279,	 "Steinsalz und Industriesole"],
+			[760,	 "Kalk-/Mergel-/Dolomitstein"],
+			[677,	 "Erdöl"],
+			[1500,	 "Gebrochene Natursteine"],
+			[1587,	 "Kies und Sand"],
+			[1445,	 "Erdgas**"],
+			[1652,	 "Kali- und Kalisalzprodukte"],
+			[2330,	 "Braunkohle"]
 		]
 	],
-	"data": [
+	"data_en": [
 		[
 			["No information available",	 "Potash salt"],
-			[52,	 "Ashlar"],
-			[119,	 "China clay"],
-			[148,	 "Special clay"],
-			[205.5,  "Quartz gravel and sand"],
-			[423,	 "Hard coal*"],
-			[576,	 "Rock salt and industrial brine"],
-			[719,	 "Limestone/marlstone/dolomite"],
-			[859,	 "Crude oil"],
-			[1439,	 "Broken natural stone"],
-			[1510,	 "Gravel and sand"],
-			[2064,	 "Natural gas** "],
-			[2156,	 "Potash and potash salt products"],
-			[2431,	 "Lignite"]
+			[42,	 "Ashlar"],
+			[78,	 "China clay"],
+			[123,	 "Special clay"],
+			[212,  "Quartz gravel and sand"],
+			[258,	 "Hard coal*"],
+			[279,	 "Rock salt and industrial brine"],
+			[760,	 "Limestone/marlstone/dolomite"],
+			[677,	 "Crude oil"],
+			[1500,	 "Broken natural stone"],
+			[1587,	 "Gravel and sand"],
+			[1445,	 "Natural gas** "],
+			[1652,	 "Potash and potash salt products"],
+			[2330,	 "Lignite"]
 		]
 	],
 	"color": ["#28467a"],

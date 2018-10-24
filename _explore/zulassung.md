@@ -42,6 +42,17 @@ breadcrumb:
         </ul>
         <p>{% t genehmigung-zulassung.betriebsplans.p3 %}</p>
         <br/>
+        <p>{% t genehmigung-zulassung.betriebsplans.p4 %}</p>
+        <br/>
+        <p>
+        {% t genehmigung-zulassung.betriebsplans.p5 %}
+        <a href="{{site.baseurl}}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/zulassung/">
+          {% t genehmigung-zulassung.betriebsplans.link2 %}
+        </a>
+        {% t genehmigung-zulassung.betriebsplans.p6 %}
+        </p>
+
+        <br/>
         <h1 id="umweltverträglichkeitsprüfung">
           {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.title %}
         </h1>
@@ -55,15 +66,39 @@ breadcrumb:
             {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.link2 %}
           </a>
           {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.p1_3 %}
-          <a target="_blank" href="http://www.gesetze-im-internet.de/bundesrecht/uvpbergbv/gesamt.pdf">
-            {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.link3 %}
-          </a>
+          <br/>
+          <br/>
           {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.p1_4 %}
-          <a target="_blank" href="http://www.gesetze-im-internet.de/bundesrecht/uvpg/gesamt.pdf">
-            {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.link4 %}
-          </a>
-            {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.p1_5 %}
         </p>
+        <table>
+          <tbody>
+          <tr>
+            <td><strong>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.head.h1 %}</strong></td>
+            <td><strong>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.head.h2 %}</strong></td>
+            <td><strong>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.head.h3 %}</strong></td>
+          </tr>
+          <tr>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row1.p1 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row1.p2 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row1.p3 %}</td>
+          </tr>
+          <tr>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row2.p1 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row2.p2 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row2.p3 %}</td>
+          </tr>
+          <tr>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row3.p1 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row3.p2 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row3.p3 %}</td>
+          </tr>
+          <tr>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row4.p1 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row4.p2 %}</td>
+            <td>{% t genehmigung-zulassung.umweltverträglichkeitsprüfung.table.row4.p3 %}</td>
+          </tr>
+          </tbody>
+        </table>
         <p>
           {% t genehmigung-zulassung.umweltverträglichkeitsprüfung.p2_1 %}
           <span class="term term_end" data-term="{% t glossary_data-term.planfeststellungsverfahren %}" title="Click to define" tabindex="0">

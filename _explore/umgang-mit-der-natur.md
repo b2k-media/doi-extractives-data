@@ -83,7 +83,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td5 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td6 %}
-                <a target="_blank" href="http://www4.lubw.baden-wuerttemberg.de/servlet/is/225375/">
+                <a target="_blank" href="https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/kompensationsverzeichnis">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.link %}
                 </a>
               </td>
@@ -131,7 +131,7 @@ breadcrumb:
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.link1 %}
                 </a>
                 {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td6_2 %}
-                <a target="_blank" href="https://www.gis.umwelt.bremen.de/nisviewer/htm/arcims/viewer.htm">
+                <a target="_blank" href="https://www.bauumwelt.bremen.de/umwelt/natur/gis_dienste___geodaten-48536">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.link2 %}
                 </a>
               </td>

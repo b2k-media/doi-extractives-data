@@ -3,26 +3,26 @@
 	"title_en": "Corporation tax",
 	"data": [
     [
-      [302377258 , "Zahlungsabgleich Gesamt"],
-      [231384156 , "Feldes- und Förderabgaben"],
-      [70993102 , "Körperschaftsteuer"]
+      [308699019.66 , "Zahlungsabgleich Gesamt"],
+      [231384155.84 , "Feldes- und Förderabgaben"],
+      [77314863.82 , "Körperschaftsteuer"]
 		],
     [
-      [302377258 , "Zahlungsabgleich Gesamt"],
-      [231384156 , "Feldes- und Förderabgaben"],
-      [70993102 , "Körperschaftsteuer"]
+      [309127005.27 , "Zahlungsabgleich Gesamt"],
+      [231812141.45 , "Feldes- und Förderabgaben"],
+      [77314863.82 , "Körperschaftsteuer"]
     ]
 	],
 	"data_en": [
     [
-      [302377258 , "Total payment flow"],
-      [231384156 , "Minesite and extraction royalties"],
-      [70993102 , "Corporation tax"]
+      [308699019.66 , "Total payment flow"],
+      [231384155.84 , "Minesite and extraction royalties"],
+      [77314863.82 , "Corporation tax"]
 		],
     [
-      [302377258 , "Total payment flow"],
-      [231384156 , "Minesite and extraction royalties"],
-      [70993102 , "Corporation tax"]
+      [309127005.27  , "Total payment flow"],
+      [231812141.45 , "Minesite and extraction royalties"],
+      [77314863.82 , "Corporation tax"]
     ]
 	],
 	"color": ["#28467a", "#4682be"],
@@ -37,16 +37,16 @@
     [
       [100 , "Braunkohle"],
       [96 , "Erdöl"],
-      [100 , "Erdgas"],
-      [98 , "Kali"],
-      [83 , "Salze"]
+      [99.7 , "Erdgas"],
+      [97.8 , "Kali"],
+      ["83.4" , "Salze (inkl Industriesole)"]
 		],
     [
-      [89 , "Braunkohle"],
+      [99.4 , "Braunkohle"],
       [96 , "Erdöl"],
       [100 , "Erdgas"],
       [98 , "Kali"],
-      ["kA**" , "Salze"]
+      ["kA" , "Salze (inkl Industriesole)"]
     ]
 	],
 	"data_en": [

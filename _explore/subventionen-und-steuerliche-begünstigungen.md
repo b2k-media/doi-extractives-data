@@ -110,7 +110,7 @@ breadcrumb:
         </div>
         <p style="margin-top: 10px" class="source">
           {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen_pre %}
-          <a href="{{site.baseurl}}/downloads/#steuern">
+          <a href="{{site.baseurl}}/downloads/#anpassungsgeld">
             <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px" ></icon>
             {% t subventionen-und-steuerliche-begünstigungen.daten_einsehen %}
           </a>

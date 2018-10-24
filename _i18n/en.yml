@@ -487,7 +487,7 @@ bergbauberechtigungen:
     - name: sonderfall1
       title: "Special case: Mining rights under the old laws"
     - name: sonderfall2
-      title: "Special case: Unique features in the ‘new’  German Federal States"
+      title: "Special case: Unique features in the ‘new’ German Federal States"
 
   p1: "Mining rights constitute the basis for the exploration and extraction of free-to-mine natural resources. Applications are made in the form of a permit, a license or proprietary mining rights."
   p2: "There are three different types of mining rights:"
@@ -512,7 +512,7 @@ bergbauberechtigungen:
     p: "The various forms of mining rights described above (permit, licence and proprietary mining rights) are also supplemented by older legal mining rights, which are described as old rights. These are mining rights that were granted before the current Federal Mining Act of 1982 came into force, e.g. for the lignite opencast mines in the Rhenish mining region. Under current law, these rights are still valid (see § 149(1), sentence 1 BBergG) if they were shown to the relevant mining authority during a phase-out period of three years after the Mining Law of 1982 came into force and if they were confirmed by mining inspection authorities. In contrast to mining rights under the new BBergG, rights under the old laws are not time-limited and neither extraction nor minesite royalties have to be paid. In practice, these old rights mainly apply to hard coal and lignite. An operating plan must be approved before these natural resources can be extracted."
 
   sonderfall2:
-    title: "Special case: Unique features in the ‘new’  German Federal States"
+    title: "Special case: Unique features in the ‘new’ German Federal States"
     p: "The mining rights system of the GDR only applied to the (communist) state-owned and other mineral resources. The state-owned natural resources mainly comprised free-to-mine and privately-owned resources and were the property of the communist state. Other natural resources primarily comprised landowners’ natural resources and were allocated to the land ownership category. The Bestowal Regulation of 15.08.1990 created the foundation for the conversion of mining rights for state-owned natural resources into free-to-mine resources, which were subsequently recognised by the legal system of the reunited Germany. The transferred mining rights are deemed to be proprietary mining rights. Like the mining rights under old law, the transferred rights are not time-restricted and are also exempt from minesite and extraction royalties (see § 149 and § 151 BBergG). In contrast to the Federal States of the former West Germany, the validity of the old rights (see section on mining rights under the old laws) in the ‘new’ Federal States does not only extend until 1980, but also applies to deposits explored up to and including 1990. These rights also apply to both free-to-mine and privately-owned natural resources. Exploration and extraction rights for privately-owned natural resources were also governed by GDR laws on state-awarded mining rights."
 
   tableHead: "Overview of old mining laws, mining laws in the GDR and modern mining laws"
@@ -654,7 +654,7 @@ wirtschaftlich_berechtigter:
 
   einsicht:
     title: "Obtaining information from the Transparency Register"
-    p: "Access to the information about beneficial owners in the Transparency Register is provided to certain governmental authorities within the scope of their statutory tasks, to persons and bodies legally obliged to combat money laundering in the performance of their due diligence obligations, and any other person or body with a legitimate interest in viewing the Register (e.g. NGOs or journalists) (§ 23(1) of the GwG). Such interest particularly exists when a connection can be established (in a comprehensible manner) to the prevention and combating of terrorist financing and money laundering, as well as their associated predicate offenses such as corruption. On July 2, 2014, the Federal Government decided to initiate the candidacy of Germany with the international ‘Initiative for Transparency in the Extractive Industries Transparency Initiative’ (EITI). With the implementation of the EITI in Germany (D-EITI), the Federal Government is strengthening international efforts to combat corruption in the context of natural resources business transactions.  This stated objective establishes the D-EITI’s legitimate interest in gaining access to the Transparency Register."
+    p: "Access to the information about beneficial owners in the Transparency Register is provided to certain governmental authorities within the scope of their statutory tasks, to persons and bodies legally obliged to combat money laundering in the performance of their due diligence obligations, and any other person or body with a legitimate interest in viewing the Register (e.g. NGOs or journalists) (§ 23(1) of the GwG). Such interest particularly exists when a connection can be established (in a comprehensible manner) to the prevention and combating of terrorist financing and money laundering, as well as their associated predicate offenses such as corruption. On July 2, 2014, the Federal Government decided to initiate the candidacy of Germany with the international ‘Initiative for Transparency in the Extractive Industries Transparency Initiative’ (EITI). With the implementation of the EITI in Germany (D-EITI), the Federal Government is strengthening international efforts to combat corruption in the context of natural resources business transactions. This stated objective establishes the D-EITI’s legitimate interest in gaining access to the Transparency Register."
 
 anfallende_zahlungen:
   title: Revenues generated
@@ -711,7 +711,7 @@ anfallende_zahlungen:
       title: Lease payments
       p1: In Germany, the extraction of natural resources is governed by the BBergG, if the resources concerned are free-to-mine or privately-owned natural resources. As per § 3(3), BBergG, free-to-mine natural resources include metals, salts and fossil fuels such as hydrocarbons, lignite and hard coal. The ownership of a property does not extend to free-to-mine natural resources, so in this respect the property rights of the landowner are limited. Privately-owned natural resources, however, are the property of the landowner, who may carry out prospecting and extract them if found, without the need for any additional special legal title in addition to the operating permit and other required public-law permits. Its inclusion in the scope of validity of the BBergG aims to make their extraction subject to a uniform legal framework throughout Germany and (in particular) to uniformly regulate natural resource extraction in underground mining and ensure uniformity in the management of mine inspection authorities.
       p2: In addition to privately-owned natural resources, there are the so-called ‘landowner’s natural resources’. These are bulk raw materials, such as gravel and sands, which are predominantly used as building materials and are extracted through opencast mining. Like the privately-owned natural resources, these are also the property of the landowner, but they are neither subject to mining law nor to mining inspection.
-      p3: "A company does not have to own the land to extract privately-owned natural resources and landowners’ natural resources. If the owner of the land simply makes it available to the company on the basis of a legal private contract (e.g. through a lease agreement) – and this is often the case – that alone suffices. Such contractual arrangements may include fixed payments or payments that depend on the quantity extracted, or a combination of both variants.  On the Federal state side, official bodies including local authorities (e.g. counties or municipalities) and forestry offices may have the roles of landowners and landlords. The revenues from the leaseholds are therefore transferred to municipal budgets or state budgets, thus making it possible to finance statutory tasks (et alia)."
+      p3: "A company does not have to own the land to extract privately-owned natural resources and landowners’ natural resources. If the owner of the land simply makes it available to the company on the basis of a legal private contract (e.g. through a lease agreement) – and this is often the case – that alone suffices. Such contractual arrangements may include fixed payments or payments that depend on the quantity extracted, or a combination of both variants. On the Federal state side, official bodies including local authorities (e.g. counties or municipalities) and forestry offices may have the roles of landowners and landlords. The revenues from the leaseholds are therefore transferred to municipal budgets or state budgets, thus making it possible to finance statutory tasks (et alia)."
     verbrauchsteuern:
       title: Excise duties
       p1: Energy and electricity taxes are particularly relevant for companies in the natural resources sector, within the framework of excise duties. Like the other excise duties, energy and electricity taxes are explicitly excluded from the reporting obligation within the framework of the legal commercial (corporation) payment report, as per the EU Accounting Directive and its implementation in § 341r no. 3 b of the HGB (German Commercial Code).
@@ -1554,19 +1554,19 @@ subventionen-und-steuerliche-begünstigungen:
         td4: "€160 million"
         td5: "€160 million"
       row2:
-        td1: "General tax relief  (§ 9b StromStG)"
+        td1: "General tax relief (§ 9b StromStG)"
         td2: "€975 million"
         td3: "€1,038 million"
         td4: "€1,000 million"
         td5: "€1,000 million"
       row3:
-        td1: "Peak balancing  (§ 55 EnergieStG)"
+        td1: "Peak balancing (§ 55 EnergieStG)"
         td2: "€167 million"
         td3: "€197 million"
         td4: "€180 million"
         td5: "€180 million"
       row4:
-        td1: "Peak balancing  (§ 10 StromStG)"
+        td1: "Peak balancing (§ 10 StromStG)"
         td2: "€1,870 million"
         td3: "€1,911 million"
         td4: "€1,900 million"
@@ -2257,7 +2257,7 @@ zahlungsströme:
 
   organschaftsverhältnissen:
     title: "Particularities with regard to recording the tax payments of consolidated tax groups"
-    p1: "German tax law has specific special arrangements in the case of trade tax and corporation tax for corporate groups. Under certain conditions, a so-called ‘consolidated tax group’ may exist.  In constellations like this, the incorporated companies (subsidiary organisations), which are themselves limited companies do not usually pay tax; the payment of taxes levied on the financial result of all the companies incorporated in the consolidated tax group is carried out entirely and exclusively by the parent company. The parent company in turn pays taxes on its own income and on the income of its subsidiaries, which may not exclusively result from activities related to the extraction of natural resources."
+    p1: "German tax law has specific special arrangements in the case of trade tax and corporation tax for corporate groups. Under certain conditions, a so-called ‘consolidated tax group’ may exist. In constellations like this, the incorporated companies (subsidiary organisations), which are themselves limited companies do not usually pay tax; the payment of taxes levied on the financial result of all the companies incorporated in the consolidated tax group is carried out entirely and exclusively by the parent company. The parent company in turn pays taxes on its own income and on the income of its subsidiaries, which may not exclusively result from activities related to the extraction of natural resources."
     p2: "For the purposes of the (consolidated group) payment report under German commercial law, the following differentiations are made at the level of the parent company:"
     item1: "If the consolidated tax group is mainly active in the extractive industry pursuant to § 341r No. 1 of the HGB, reporting can be carried out for the total amount of the taxes paid by the parent company. There is no obligation to allocate the tax payments to activities within or outside the scope of § 341r No. 1 of the HGB."
     item2: "If, on the other hand, the consolidated tax group is not mainly active in the extractive industry as set down in §341r No. 1 of the HGB, the tax payments made by the parent company may be allocated on a voluntary basis. Otherwise, details of the tax payments made by the parent company will be omitted."
@@ -2284,7 +2284,7 @@ zahlungsströme:
   wesentlichkeit:
     title: "Materiality of payments"
     p1: "The commercial regulations for the preparation of (consolidated group) payment reports stipulate that the companies concerned must report payments of €100,000 and upwards made to individual government agencies per reporting year (cf. § 341t(4) of the HGB). A government agency to which less than €100,000 has been paid during the reporting period does not have to be included. "
-    p2: "The MSG has decided to adopt these rules for the first D-EITI report.  If payments made during reporting year 2016 amounted to less than €100,000 per government agency, the data collection templates require relevant proof of the existence of payments, but without mentioning any specific amounts."
+    p2: "The MSG has decided to adopt these rules for the first D-EITI report. If payments made during reporting year 2016 amounted to less than €100,000 per government agency, the data collection templates require relevant proof of the existence of payments, but without mentioning any specific amounts."
 
 unternehmen-und-zahlungsströme:
     title: "Companies and payment reconciliation"
@@ -2592,10 +2592,20 @@ unternehmen-und-zahlungsströme:
           p6: "0.00"
           p7: "0.00"
           p8: "0.00"
-        subhead4:
-          i: "10"
-          title: "RWE - Gruppe:"
         row20:
+          i: "10"
+          p1: "JTSD Braunkohlenwerke GmbH, Zeitz (Mibrag)"
+          p2: "5.636.850,00"
+          p3: "5.636.850,00"
+          p4: "0,00"
+          p5: "0,00"
+          p6: "0,00"
+          p7: "0,00"
+          p8: "0,00"
+        subhead4:
+          i: "11"
+          title: "RWE - Gruppe:"
+        row21:
           p1: "Rheinische Baustoffwerke GmbH, Bergheim"
           p2: "k.A."
           p3: " "
@@ -2604,7 +2614,7 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row21:
+        row22:
           p1: "RWE Power AG, Essen"
           p2: "k.A."
           p3: " "
@@ -2613,9 +2623,19 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row22:
-          i: "11"
-          p1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
+        row23:
+          i: "12"
+          p1: "Sibelco Deutschland GmbH, Ransbach-Baumbach"
+          p2: "684.912,00"
+          p3: "684.912,00 "
+          p4: "0,00 "
+          p5: "0,00 "
+          p6: "0,00 "
+          p7: "0,00 "
+          p8: "0,00 "
+        row24:
+          i: "13"
+          p1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld"
           p2: "---"
           p3: " "
           p4: " "
@@ -2623,8 +2643,8 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row23:
-          i: "12"
+        row25:
+          i: "14"
           p1: "Wintershall Holding GmbH, Celle"
           p2: "k.A."
           p3: " "
@@ -2633,15 +2653,15 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row24:
+        row26:
           p1: " "
-          p2: "70,993,101.82"
-          p3: "70,993,101.82"
-          p4: "0.00"
-          p5: "0.00"
-          p6: "0.00"
-          p7: "0.00"
-          p8: "0.00"
+          p2: "77.314.863,82"
+          p3: "77.314.863,82"
+          p4: "0,00"
+          p5: "0,00"
+          p6: "0,00"
+          p7: "0,00"
+          p8: "0,00"
     differenzen:
       title: "Payments and differences in the cash flow of minesite and extraction royalties"
       p: "The payments and differences in the cash flow of minesite and extraction royalties are shown as follows for each company:"
@@ -2853,61 +2873,82 @@ unternehmen-und-zahlungsströme:
           td9: "0.0"
         row10:
           td0: "10"
-          td1: "RWE - Gruppe"
-        row10_1:
-          td1: "Rheinische Baustoffwerke GmbH, Bergheim "
-          td2: "Quarried natural resources"
-          td3: "0.00"
-          td4: "0.00"
-          td5: "0.00"
-          td6: "0.0"
-          td7: "0.00"
-          td8: "0.00"
-          td9: "0.0"
-        row10_2:
-          td1: "RWE Power AG, Essen "
-          td2: "Lignite"
-          td3: "0.00"
-          td4: "0.00"
-          td5: "0.00"
-          td6: "0.0"
-          td7: "0.00"
-          td8: "0.00"
-          td9: "0.0"
-
+          td1: "JTSD Braunkohlenwerke GmbH, Zeitz (Mibrag) "
+          td2: "Braunkohle"
+          td3: "0,00"
+          td4: "0,00"
+          td5: "0,00"
+          td6: "0,0"
+          td7: "0,00"
+          td8: "0,00"
+          td9: "0,0"
         row11:
           td0: "11"
-          td1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
-          td2: "Crude oil and natural gas"
-          td3: "2,114,465.01"
-          td4: "2,011,648.60"
-          td5: "102,816.41"
-          td6: "4.9"
-          td7: "-102,816.41"
-          td8: "-0.00"
-          td9: "-0.0"
+          td1: "RWE - Gruppe"
+        row11_1:
+          td1: "Rheinische Baustoffwerke GmbH, Bergheim "
+          td2: "Steine und Erden"
+          td3: "0,00"
+          td4: "0,00"
+          td5: "0,00"
+          td6: "0,0"
+          td7: "0,00"
+          td8: "0,00"
+          td9: "0,0"
+        row11_2:
+          td1: "RWE Power AG, Essen "
+          td2: "Braunkohle"
+          td3: "0,00"
+          td4: "0,00"
+          td5: "0,00"
+          td6: "0,0"
+          td7: "0,00"
+          td8: "0,00"
+          td9: "0,0"
         row12:
           td0: "12"
-          td1: "Wintershall Holding GmbH, Celle"
-          td2: "Crude oil and natural gas"
-          td3: "40,832,665.00"
-          td4: "40,695,620.69"
-          td5: "137,044.31"
-          td6: "0.3"
-          td7: "-137,044.13"
-          td8: "0.18"
-          td9: "0.0"
+          td1: "Sibelco Deutschland GmbH, Ransbach Baumbach "
+          td2: "Steine und Erden"
+          td3: "0,00"
+          td4: "0,00"
+          td5: "0,00"
+          td6: ""
+          td7: "0,00"
+          td8: "0,00"
+          td9: ""
         row13:
+          td0: "13"
+          td1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
+          td2: "Erdöl und Erdgas"
+          td3: "2.114.465,01"
+          td4: "2.011.648,60"
+          td5: "102.816,41"
+          td6: "4,9"
+          td7: "-102.816,41"
+          td8: "-0,00"
+          td9: "-0,0"
+        row14:
+          td0: "14"
+          td1: "Wintershall Holding GmbH, Celle"
+          td2: "Erdöl und Erdgas"
+          td3: "40.832.665,00"
+          td4: "40.695.620,69"
+          td5: "137.044,31"
+          td6: "0,3"
+          td7: "-137.044,13"
+          td8: "0,18"
+          td9: "0,0"
+        row15:
           td0: " "
           td1: " "
           td2: " "
-          td3: "231,812,141.45"
-          td4: "231,384,155.84"
-          td5: "427,985.61"
-          td6: "0.2"
-          td7: "-427,985.64"
-          td8: "-0.03"
-          td9: "-0.0"
+          td3: "231.812.141,45"
+          td4: "231.384.155,84"
+          td5: "427.985,61"
+          td6: "0,2"
+          td7: "-427.985,64"
+          td8: "-0,03"
+          td9: "-0,0"
     sub0:
       title: "*)"
       text: "Payments made in the crude oil and natural gas sector relate to the own production share from the economic exploitation of the respective mining rights."
@@ -3665,17 +3706,17 @@ states:
 datenschutz:
   title: Data privacy statement
   datenschutzerklaerung:
-    title: Data processing 
+    title: Data processing
     description-1: Data processing is the responsibility of the
     description-2: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
     description-3: "Postal adress:"
     description-4: Friedrich-Ebert-Allee 36 + 40, 53113 Bonn
     description-5: Dag-Hammarskjöld-Weg 1–5, 65760 Eschborn
-    description-6: "Contact:" 
+    description-6: "Contact:"
     link-1: "Sekretariat@d-eiti.de"
     description-7: "Contact details of the data protection officer:"
     link-2: "datenschutzbeauftragter@giz.de"
-    description-8: "The Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a public-benefit federal enterprise for international cooperation. We work as a federal enterprise under private law. Our aim is to achieve the development-policy objective of improving the living conditions of people worldwide and conserving the natural resources on which livelihoods depend." 
+    description-8: "The Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH is a public-benefit federal enterprise for international cooperation. We work as a federal enterprise under private law. Our aim is to achieve the development-policy objective of improving the living conditions of people worldwide and conserving the natural resources on which livelihoods depend."
   analyse:
     title: "Website Analytics"
     description-1: "For statistical purposes and to improve our service, this website draws on the services of Matomo to analyse usage data. No other use is made of the data, and the data are not passed on to third parties."
@@ -3688,7 +3729,7 @@ datenschutz:
       li5: "Quantity of data transferred"
       li6: "Notification of whether viewing or download was successful"
       li7: "Technical details of the browser used"
-      
+
     description-3: "This data is analysed solely for the purpose of improving our service and will not be traced back to you."
     description-4: "You may disable analytics here:"
     description-5: "Temporary session cookies are used each time you view an individual page, to make navigation easier. Cookies are small text files that are stored locally in your browser cache. Session cookies do not include any personal data and expire at the end of each session. We do not use methods such as Java applets or ActiveX controls that make it possible to track your browsing behaviour."
@@ -3699,29 +3740,29 @@ datenschutz:
     description-2: "Once the newsletter is revoked all personal data will be deleted from the system."
   kontaktformular:
     title: "Contact forms"
-    description-1: "When you use the contact form, we process your name and email address. The data is processed based on Art. 6 paragraph 1 b) of the EU GDPR for the purpose of receiving the query formulated in the contact form. The data is not passed on to third parties. Data is transmitted to GIZ using an SSL-encrypted connection, which makes it significantly more difficult for unauthorised persons to intercept it. Similarly to queries sent to GIZ by email, queries transmitted using the contact form are deleted following 4 year retention period."    
+    description-1: "When you use the contact form, we process your name and email address. The data is processed based on Art. 6 paragraph 1 b) of the EU GDPR for the purpose of receiving the query formulated in the contact form. The data is not passed on to third parties. Data is transmitted to GIZ using an SSL-encrypted connection, which makes it significantly more difficult for unauthorised persons to intercept it. Similarly to queries sent to GIZ by email, queries transmitted using the contact form are deleted following 4 year retention period."
   dauer:
     title: "Duration of data retention"
-    description-1: "Personal data are regularly deleted when they are no longer needed for contractual purposes (e.g. for employment, top-ups, rental, sale or service contracts), the individuals concerned have not given any separate authorisation or statutory data storage obligations and periods have expired."  
+    description-1: "Personal data are regularly deleted when they are no longer needed for contractual purposes (e.g. for employment, top-ups, rental, sale or service contracts), the individuals concerned have not given any separate authorisation or statutory data storage obligations and periods have expired."
   nutzerrechte:
    title: "Reference to user rights"
    description-1: "You are entitled to object to data processing, enquire about your personal data and its processing and to have this corrected if necessary, or to request restriction of processing or the erasure of the data."
    description-2: "If you have any questions or complaints about this website, please contact the GIZ data protection officer (see contact information provided above). You also have the right to lodge a complaint with the responsible data protection supervisory authority. The responsible authority in this case is the"
-   link: "German Federal Commissioner for Data Protection and Freedom of Information (BfDI)."   
+   link: "German Federal Commissioner for Data Protection and Freedom of Information (BfDI)."
   abrufbarkeit:
     title: "Availability of the data privacy statement"
-    description-1: "You can access the data privacy statement at any time from any page of this website under the ‘Legal notice’ link. Please note that changes to the website, statutory and legal changes and any points not covered in the provisions which are identified later may require amendment of this data privacy statement."  
+    description-1: "You can access the data privacy statement at any time from any page of this website under the ‘Legal notice’ link. Please note that changes to the website, statutory and legal changes and any points not covered in the provisions which are identified later may require amendment of this data privacy statement."
   fragen:
     title: " "
     description-1: " "
-    link: " "  
+    link: " "
   haftung:
     title: "Disclaimer"
     description-1: "This website has been compiled with the utmost care. Nevertheless, D-EITI Secretariat gives no guarantee that the information provided is current, accurate, complete or error-free. D-EITI accepts no liability for damage or loss arising directly or indirectly from the use of this website, provided it has not been caused intentionally or by gross negligence."
     description-2: "D-EITI Secretariat expressly reserves the right to modify, append and delete the website in part on in whole without prior notice, or to halt publication completely or for a limited period."
     description-3: "Cartographic presentations in no way constitute recognition under international law of boundaries and territories."
     description-4: "Links to the D-EITI homepage may be created, provided the D-EITI website opened is then the sole content of the browser window."
-    description-5: "Unless otherwise stated, all pages on this website, and specifically all text, images and graphics, are subject to copyright. Reproduction, publication or other use of such pages in part or full in electronic or printed publications, including on the internet or for commercial purposes, is permitted provided that the source is cited. This applies to all content, irrespective of file format, and to all forms of use."  
+    description-5: "Unless otherwise stated, all pages on this website, and specifically all text, images and graphics, are subject to copyright. Reproduction, publication or other use of such pages in part or full in electronic or printed publications, including on the internet or for commercial purposes, is permitted provided that the source is cited. This applies to all content, irrespective of file format, and to all forms of use."
   haftung-links:
     title: "Liability for links"
     description-1: "Our website contains links to external third-party websites. We have no influence over the content of such websites. We accordingly cannot accept any liability for this third-party content. The content of linked websites is always the responsibility of the provider or operator of the sites. The linked websites were checked for possible violations of the law at the time links were posted, and no illegal content was apparent at that time. However, ongoing monitoring of the content of linked websites without concrete reason to suspect violation cannot reasonably be expected. If we become aware of any legal violations, we will delete such links immediately."
@@ -3739,12 +3780,12 @@ impressum:
     link-1: "Sekretariat@d-eiti.de"
     link: "D-EITI-Sekretariat"
     web: "www.D-EITI.de"
-       
+
     p1: "Verantwortlich:"
     p1_2: "Boris Raeder, Leiter des D-EITI Sekretariats (GIZ)"
 
     p2: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
-    
+
   giz:
     text1_1: "Registered offices"
     text1_2: "Bonn and Eschborn, Germany"

@@ -195,12 +195,38 @@ breadcrumb:
           <p style="font-size: 0.75rem; ">
             {% t zahlungsabgleich.abdeckung.p4 %}
           </p>
+          <p style="font-size: 0.75rem; ">
+            {% t zahlungsabgleich.abdeckung.p5 %}
+          </p>
+          <p style="font-size: 0.75rem; ">
+            {% t zahlungsabgleich.abdeckung.p6 %}
+          </p>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.abdeckung.link2 %}
           </a>
           <br/><br/>
+          <p>
+            {% t zahlungsabgleich.abdeckung.p7 %}
+          </p>
+          <table>
+            <tbody style="font-size: 0.9rem;">
+              <tr>
+                <td><strong>{% t zahlungsabgleich.abdeckung.table.head.h1 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.abdeckung.table.head.h2 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.abdeckung.table.head.h3 %}</strong></td>
+              </tr>
+              <tr>
+                <td>{% t zahlungsabgleich.abdeckung.table.row1.p1 %}</td>
+                <td>{% t zahlungsabgleich.abdeckung.table.row1.p2 %}</td>
+                <td>{% t zahlungsabgleich.abdeckung.table.row1.p3 %}</td>
+              </tr>
+            </tbody>
+          </table>
+          <br/><br/>
         </section>
+        <br />
+
         <br />
         <section id="unternehmen" style="position: relative;">
           <h2>{% t zahlungsabgleich.unternehmen.title %}</h2>
@@ -510,20 +536,8 @@ breadcrumb:
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p1 %}</td>
-                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p2 %}
-                    <sup>
-                      <a href="#sub-3">
-                        {% t zahlungsabgleich.sub-3.title %}
-                      </a>
-                    </sup>
-                  </td>
-                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p3 %}
-                    <sup>
-                      <a href="#sub-3">
-                        {% t zahlungsabgleich.sub-3.title %}
-                      </a>
-                    </sup>
-                  </td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p3 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p6 %}</td>
@@ -552,43 +566,71 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row21.p1 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row21.p2 %}
                     <sup>
-                      <a href="#sub-1">
-                        {% t zahlungsabgleich.sub-1.title %}
+                      <a href="#sub-3">
+                        {% t zahlungsabgleich.sub-3.title %}
                       </a>
                     </sup>
                   </td>
-                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row21.p3 %}
+                    <sup>
+                      <a href="#sub-3">
+                        {% t zahlungsabgleich.sub-3.title %}
+                      </a>
+                    </sup>
+                  </td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row21.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row21.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row21.p6 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row22.p1 %}</td>
-                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p2 %}
-                    <sup>
-                      <a href="#sub-3">
-                        {% t zahlungsabgleich.sub-3.title %}
-                      </a>
-                    </sup>
-                  </td>
-                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p3 %}
-                    <sup>
-                      <a href="#sub-3">
-                        {% t zahlungsabgleich.sub-3.title %}
-                      </a>
-                    </sup>
-                  </td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row22.p3 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row22.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row22.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row22.p6 %}</td>
-              </tr>
+              </tr>  
               <tr>
-                  <td><strong>{% t zahlungsabgleich.unternehmen.table.row23.p1 %}</strong></td>
-                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row23.p2 %}
+                    <sup>
+                      <a href="#sub-1">
+                        {% t zahlungsabgleich.sub-1.title %}
+                      </a>
+                    </sup>
+                  </td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row23.p3 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row23.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row23.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row23.p6 %}</td>
+              </tr>
+              <tr>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row24.p1 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row24.p2 %}
+                    <sup>
+                      <a href="#sub-3">
+                        {% t zahlungsabgleich.sub-3.title %}
+                      </a>
+                    </sup>
+                  </td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row24.p3 %}
+                    <sup>
+                      <a href="#sub-3">
+                        {% t zahlungsabgleich.sub-3.title %}
+                      </a>
+                    </sup>
+                  </td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row24.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row24.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row24.p6 %}</td>
+              </tr>
+              <tr>
+                  <td><strong>{% t zahlungsabgleich.unternehmen.table.row25.p1 %}</strong></td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row25.p2 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row25.p3 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row25.p4 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row25.p5 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row25.p6 %}</td>
               </tr>
             </tbody>
           </table>
@@ -622,13 +664,27 @@ breadcrumb:
             </a>
             {% t zahlungsabgleich.unternehmen.p5 %}
           </p>
+          <p>
+            {% t zahlungsabgleich.unternehmen.p6 %}
+            <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
+              {% t zahlungsabgleich.unternehmen.link5 %}
+            </a>
+            {% t zahlungsabgleich.unternehmen.p7 %}
+          </p>
+          <p style="font-size: 0.75rem;">
+            {% t zahlungsabgleich.unternehmen.p8 %}
+            <a href="https://www.bundesanzeiger.de/">
+              {% t zahlungsabgleich.unternehmen.link6 %}
+            </a>
+            {% t zahlungsabgleich.unternehmen.p9 %}
+          </p>
         </section>
         <br />
         <section id="gewerbesteuer" style="position: relative;">
           <h2>{% t zahlungsabgleich.gewerbesteuer.title %}</h2>
           <p>
             {% t zahlungsabgleich.gewerbesteuer.p1 %}
-            <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/">
+            <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
               {% t zahlungsabgleich.gewerbesteuer.link1 %}
             </a>
             {% t zahlungsabgleich.gewerbesteuer.p2 %}
@@ -687,6 +743,34 @@ breadcrumb:
           </a>
 
 
+        </section>
+        <br />
+        <section id="gewerbesteuerEr" style="position: relative;">
+          <h2>{% t zahlungsabgleich.gewerbesteuerEr.title %}</h2>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuerEr.p1 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuerEr.p2 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuerEr.p3 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuerEr.p4 %}
+          </p>
+          <p>  
+            {% t zahlungsabgleich.gewerbesteuerEr.p5 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuerEr.p6 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuerEr.p7 %}
+          </p>
+          <p>
+            {% t zahlungsabgleich.gewerbesteuerEr.p8 %}
+          </p>
         </section>
     </div>
 

@@ -14,9 +14,9 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}/downloads/production.csv">
+            <a href="{{site.baseurl_root}}/downloads/17_Daten2016FuerInteraktiveRohstoffkarte.xlsx">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv, 2 KB)
+              {% t downloads.download_link %} (Excel)
             </a>
           </li>
         </ul>
@@ -31,17 +31,20 @@ permalink: /downloads/
         {% t downloads.link2_0 %}
       </a>
         {% t downloads.p2_1 %}
-        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="https://www.kohlenstatistik.de/files/lb_statistik_2016.pdf">
           {% t downloads.link2_1 %}
         </a>
         {% t downloads.p2_2 %}
+        <a target="_blank" href="http://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html">
+          {% t downloads.link2_2 %}
+        </a>
+        {% t downloads.p2_3 %}
+        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2016.pdf?__blob=publicationFile&v=4">
+          {% t downloads.link2_3 %}
+        </a>
+        {% t downloads.p2_4 %}
       </p>
       <p>
-        {% t downloads.p3_1 %}
-        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
-          {% t downloads.link3_0 %}
-        </a>
-        {% t downloads.p3_2 %}
       </p>
       <p>{% t downloads.p4 %}</p>
       <h3 id="steinkohle">
@@ -69,14 +72,10 @@ permalink: /downloads/
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_1 %}
-        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2016.pdf?__blob=publicationFile&v=4">
           {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_2 %}
-        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
-          {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link2 %}
-        </a>
-        {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_3 %}
       </p>
 
       <h3 id="spezialton">
@@ -94,7 +93,7 @@ permalink: /downloads/
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_1 %}
-        <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/Bergbaustatistiken/bergbau-in-der-brd-bergwirtschaft-statistik-2015.pdf%3Bjsessionid=B479891D825CE4A2B0A6B7B3EAC9DDE6?__blob=publicationFile&v=7">
+        <a target="_blank" href="https://www.bmwi.de/Redaktion/DE/Downloads/B/bergbau-in-der-brd-bergwirtschaft-statistik-2016.pdf?__blob=publicationFile&v=4">
           {% t gesamtdeutsche_rohstoffproduktion.kaolin.link %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_2 %}
@@ -106,8 +105,8 @@ permalink: /downloads/
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_1 %}
         <sup>
-          <a href="#sup-2">
-            {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.title %}
+          <a href="#sup-1">
+            {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup1.title %}
           </a>
         </sup>
         {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_2 %}
@@ -118,8 +117,8 @@ permalink: /downloads/
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.p %}
         <sup>
-          <a href="#sup-1">
-            {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}
+          <a href="#sup-2">
+            {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup2.title %}
           </a>
         </sup>
       </p>
@@ -135,23 +134,31 @@ permalink: /downloads/
       <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p %}</p>
       <h3>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2 %}</h3>
       <p>
-        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_1 %}
-        <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal/">
-          {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
-        </a>
-        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_2 %}
-        <a target="_blank" href="{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1_1 %}">
-          {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p2_3 %}
-        </a>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_1 %}
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_2 %}
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3 %}
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_4 %}
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_5 %}
+      <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal">
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
+      </a>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_6 %}
+      <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html">
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
+      </a>
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_7 %}
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_8 %}
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_9 %}
+      <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_10 %}
       </p>
-      <p>
-        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_1 %}
-        <a target="_blank" href="https://www.natursteinverband.de/">
-          {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
-        </a>
-      </p>
-      <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p4 %}</p>
-      <p>{% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p5 %}</p>
       <br/>
       <p class="downloads-download_links-intro">
         {% t downloads.download_label %}
@@ -159,7 +166,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}} {% t downloads.production_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv, 2 KB)
+              {% t downloads.download_link %} (Excel)
             </a>
           </li>
         </ul>
@@ -195,7 +202,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.beschäftigten_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv, 2 KB)
+              {% t downloads.download_link %} (Excel)
             </a>
           </li>
         </ul>
@@ -280,7 +287,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.steuereinnahmen_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv)
+              {% t downloads.download_link %} (Excel)
             </a>
           </li>
         </ul>
@@ -313,13 +320,13 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.einnahmen_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.förderabgaben.label2 %} (csv)
+              {% t downloads.förderabgaben.label2 %} (Excel)
             </a>
           </li>
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.einnahmen_2_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.förderabgaben.label1 %} (csv)
+              {% t downloads.förderabgaben.label1 %} (Excel)
             </a>
           </li>
         </ul>
@@ -340,7 +347,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.umsatz_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv)
+              {% t downloads.download_link %} (Excel)
             </a>
           </li>
         </ul>
