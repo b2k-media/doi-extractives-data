@@ -197,7 +197,11 @@ breadcrumb:
             {% t zahlungsabgleich.abdeckung.p5 %}
           </p>
           <p style="font-size: 0.75rem; ">
-            {% t zahlungsabgleich.abdeckung.p6 %}
+            {% t zahlungsabgleich.abdeckung.p6_1 %}
+            <a href="https://www.bveg.de/Der-BVEG/Publikationen/Jahresberichte">
+              {% t zahlungsabgleich.abdeckung.link3 %}
+            </a>
+            {% t zahlungsabgleich.abdeckung.p6_2 %}
           </p>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>

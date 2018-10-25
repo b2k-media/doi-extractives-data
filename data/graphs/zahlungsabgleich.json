@@ -36,17 +36,17 @@
 	"data": [
     [
       [100 , "Braunkohle"],
-      [96 , "Erdöl"],
+      [96 , "Erdöl***"],
       [99.7 , "Erdgas"],
       [97.8 , "Kali"],
-      ["83.4" , "Salze (inkl Industriesole)"]
+      [83.4 , "Salze (inkl Industriesole)**"]
 		],
     [
       [99.4 , "Braunkohle"],
-      [96 , "Erdöl"],
+      [96 , "Erdöl***"],
       [100 , "Erdgas"],
       [98 , "Kali"],
-      ["kA" , "Salze (inkl Industriesole)"]
+      ["kA" , "Salze (inkl Industriesole)**"]
     ]
 	],
 	"data_en": [
