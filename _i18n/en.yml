@@ -2386,7 +2386,7 @@ unternehmen-und-zahlungsströme:
           td3: "Lignite"
         row11:
           td1: "11"
-          td2: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
+          td2: "Vermilion Energy Germany GmbH & Co. KG, Schönefeld "
           td3: "Crude oil and natural gas"
         row12:
           td1: "12"
@@ -2635,7 +2635,7 @@ unternehmen-und-zahlungsströme:
           p8: "0,00 "
         row24:
           i: "13"
-          p1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld"
+          p1: "Vermilion Energy Germany GmbH & Co. KG, Schönefeld"
           p2: "---"
           p3: " "
           p4: " "
@@ -2918,7 +2918,7 @@ unternehmen-und-zahlungsströme:
           td9: ""
         row13:
           td0: "13"
-          td1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
+          td1: "Vermilion Energy Germany GmbH & Co. KG, Schönefeld "
           td2: "Erdöl und Erdgas"
           td3: "2.114.465,01"
           td4: "2.011.648,60"
@@ -3272,7 +3272,7 @@ zahlungsabgleich:
         p5: "0.00"
         p6: "0.00"
       row21:
-        p1: "Vermillion Energy Germany GmbH & Co. KG, Schönefeld "
+        p1: "Vermilion Energy Germany GmbH & Co. KG, Schönefeld "
         p2: "---"
         p3: "0.00"
         p4: "2,114,465.01"

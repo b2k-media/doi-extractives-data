@@ -57,6 +57,23 @@ breadcrumb:
           <h3>{% t wirtschaftlich_berechtigter.einsicht.title %}</h3>
           <p>{% t wirtschaftlich_berechtigter.einsicht.p %}</p>
         </section>
+        <section id="einsichtNeu" style="position: relative;">
+          <h3>{% t wirtschaftlich_berechtigter.einsichtNeu.title %}</h3>
+          <p>{% t wirtschaftlich_berechtigter.einsichtNeu.p1_1 %}
+          <sup>
+            <a href="#sup-5">
+              {% t wirtschaftlich_berechtigter.sup5.title %}
+            </a>
+          </sup>
+          {% t wirtschaftlich_berechtigter.einsichtNeu.p1_2 %}
+          <sup>
+            <a href="#sup-6">
+              {% t wirtschaftlich_berechtigter.sup6.title %}
+            </a>
+          </sup>
+          {% t wirtschaftlich_berechtigter.einsichtNeu.p1_3 %}
+          </p>
+        </section>
       </section>
       <br/>
       <p style="font-size: 0.75rem" >
@@ -79,7 +96,14 @@ breadcrumb:
         <a href= "{% t wirtschaftlich_berechtigter.sup4.link%}">{% t wirtschaftlich_berechtigter.sup4.linkText %}</a>
         {% t wirtschaftlich_berechtigter.sup4.text2 %}        
       </p>
-
+      <p style="font-size: 0.75rem">
+        <sup id="sup-5">{% t wirtschaftlich_berechtigter.sup5.title %}</sup>
+        {% t wirtschaftlich_berechtigter.sup5.text %}
+      </p>
+      <p style="font-size: 0.75rem">
+        <sup id="sup-6">{% t wirtschaftlich_berechtigter.sup6.title %}</sup>
+        {% t wirtschaftlich_berechtigter.sup6.text %}
+      </p>
     </div>
 
     <div class="sticky sticky_nav container-right-3">

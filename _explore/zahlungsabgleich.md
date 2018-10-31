@@ -63,9 +63,6 @@ breadcrumb:
         </p>
         <p>
           {% t zahlungsabgleich.p3.p9 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#gewerbesteuer">
-            {% t zahlungsabgleich.p3.link10 %}
-          </a>
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#pachtzahlungen">
             {% t zahlungsabgleich.p3.link10_1 %}
           </a>
@@ -761,9 +758,6 @@ breadcrumb:
               <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h1 %}</strong></td>
               <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h2 %}</strong></td>
               <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h3 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h4 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h5 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h6 %}</strong></td>
               <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h7 %}</strong></td>
               <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.head.h8 %}</strong></td>
             </tr>
@@ -774,9 +768,6 @@ breadcrumb:
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row2.p8 %}</td>
             </tr>
@@ -790,9 +781,6 @@ breadcrumb:
                   </a>
                 </sup>
               </td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row3.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row3.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row3.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row3.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row3.p8 %}</td>
             </tr>
@@ -800,9 +788,6 @@ breadcrumb:
               <td style="padding-left: 30px;">{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row4.p8 %}</td>
             </tr>
@@ -810,9 +795,6 @@ breadcrumb:
               <td style="padding-left: 30px;">{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row5.p8 %}</td>
             </tr>
@@ -823,9 +805,6 @@ breadcrumb:
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row7.p8 %}</td>
             </tr>
@@ -833,9 +812,6 @@ breadcrumb:
               <td style="padding-left: 30px;">{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row8.p8 %}</td>
             </tr>
@@ -846,9 +822,6 @@ breadcrumb:
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row10.p8 %}</td>
             </tr>
@@ -856,9 +829,6 @@ breadcrumb:
               <td style="padding-left: 30px;">{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row11.p8 %}</td>
             </tr>
@@ -866,9 +836,6 @@ breadcrumb:
               <td style="padding-left: 30px;">{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row12.p8 %}</td>
             </tr>
@@ -876,9 +843,6 @@ breadcrumb:
               <td style="padding-left: 30px;">{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row13.p8 %}</td>
             </tr>
@@ -886,9 +850,6 @@ breadcrumb:
               <td style="padding-left: 30px;">{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p1 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p2 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p6 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p7 %}</td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row14.p8 %}</td>
             </tr>
@@ -897,12 +858,9 @@ breadcrumb:
             </tr>
             <tr>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p1 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p2 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p4 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p5 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p6 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p7 %}</td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p2 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p3 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p7 %}</strong></td>
               <td>{% t zahlungsabgleich.gewerbesteuerEr.table.row16.p8 %}</td>
             </tr>
             </tbody>
@@ -911,24 +869,24 @@ breadcrumb:
             <sup>{% t zahlungsabgleich.sub-5.title %}</sup>
             {% t zahlungsabgleich.sub-5.text %}
           </p>
+        </section>
+        <section id="gewerbesteuerFa" style="position: relative;">
+          <h2>{% t zahlungsabgleich.gewerbesteuerFa.title %}</h2>
           <p>
-            {% t zahlungsabgleich.gewerbesteuerEr.p3 %}
-          </p>
-          <p>
-            {% t zahlungsabgleich.gewerbesteuerEr.p4 %}
-          </p>
-          <p>  
-            {% t zahlungsabgleich.gewerbesteuerEr.p5 %}
-          </p>
-          <p>
-            {% t zahlungsabgleich.gewerbesteuerEr.p6 %}
-          </p>
-          <p>
-            {% t zahlungsabgleich.gewerbesteuerEr.p7 %}
-          </p>
-          <p>
-            {% t zahlungsabgleich.gewerbesteuerEr.p8 %}
-          </p>
+          {% t zahlungsabgleich.gewerbesteuerFa.p1 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.gewerbesteuerFa.p2 %}
+        </p>
+        <p>  
+          {% t zahlungsabgleich.gewerbesteuerFa.p3 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.gewerbesteuerFa.p4 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.gewerbesteuerFa.p5 %}
+        </p>
         </section>
     </div>
 

@@ -46,7 +46,7 @@ breadcrumb:
         <br/>
         <p>
         {% t genehmigung-zulassung.betriebsplans.p5 %}
-        <a href="{{site.baseurl}}/rohstoffgewinnung/genehmigung-von-bergbauprojekten/zulassung/">
+        <a href="{{site.baseurl}}/daten/zahlungsabgleich/">
           {% t genehmigung-zulassung.betriebsplans.link2 %}
         </a>
         {% t genehmigung-zulassung.betriebsplans.p6 %}

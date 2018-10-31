@@ -172,7 +172,16 @@ permalink: /downloads/
         </ul>
       </p>
     </div>
-
+    <section id="explanation" style="position: relative;">
+      <p id="sup-1">
+        <sup>{% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup1.title %}</sup>
+        {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup1.text %}
+      </p>
+      <p id="sup-2">
+        <sup>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup2.title %}</sup>
+        {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup2.text %}
+      </p>
+    </section>
     <div id="bip">
       <h2 id="daten-zur-beitrag-zum-bip">{% t downloads.h3 %}</h2>
       <hr/>
@@ -407,16 +416,6 @@ permalink: /downloads/
       </ul>
     </p>
   </div>
-  <section id="explanation" style="position: relative;">
-    <p id="sup-1">
-      <sup>{% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.title %}</sup>
-      {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.sup1.text %}
-    </p>
-    <p id="sup-2">
-      <sup>{% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.title %}</sup>
-      {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup2.text %}
-    </p>
-  </section>
   </div>
 
   <div class="sticky sticky_nav container-right-3">

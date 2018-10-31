@@ -36,9 +36,6 @@ breadcrumb:
         </h2>
         <p>{% t einnahmen.steuern.p1 %}</p>
         <p>{% t einnahmen.steuern.p2 %}
-        <a href="{{site.baseurl}}/downloads/#daten-zur-beitrag-zum-bip">
-          {% t einnahmen.steuern.daten_einsehen %}
-        </a>
         {% t einnahmen.steuern.p3 %}
         <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">
           {% t einnahmen.steuern.link1 %}
@@ -72,6 +69,7 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th24 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th25 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th26 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.th2.th27 %}</td>
             </tr>
             <tr>
               <th></th><th></th><th></th>
@@ -86,6 +84,7 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row1.td8 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row2.td1 %}</td>
@@ -95,6 +94,7 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row2.td8 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row3.td1 %}</td>
@@ -104,6 +104,7 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row3.td8 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row4.td1 %}</td>
@@ -113,6 +114,7 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row4.td8 %}</td>
             </tr>
             <tr>
               <td><strong>{% t einnahmen.steuereinnahmen.row5.td1 %}</strong></td>
@@ -122,8 +124,10 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row5.td8 %}</td>
             </tr>
             <tr style="height: 25px">
+              <td></td>
               <td></td>
               <td></td>
               <td></td>
@@ -140,6 +144,7 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row6.td8 %}</td>
             </tr>
             <tr>
               <td><strong>{% t einnahmen.steuereinnahmen.row7.td1 %}</strong></td>
@@ -149,8 +154,10 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row7.td8 %}</td>
             </tr>
             <tr style="height: 25px">
+              <td></td>
               <td></td>
               <td></td>
               <td></td>
@@ -170,6 +177,7 @@ breadcrumb:
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td5 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td6 %}</td>
               <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td7 %}</td>
+              <td class="text-align-right">{% t einnahmen.steuereinnahmen.row9.td8 %}</td>
             </tr>
           </tbody>
         </table>

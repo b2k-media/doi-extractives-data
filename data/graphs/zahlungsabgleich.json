@@ -3,12 +3,12 @@
 	"title_en": "Corporation tax",
 	"data": [
     [
-      [308699019.66 , "Zahlungsabgleich Gesamt"],
-      [231384155.84 , "Feldes- und Förderabgaben"],
+      [309127005.30 , "Gesamt"],
+      [231812141.48 , "Feldes- und Förderabgaben"],
       [77314863.82 , "Körperschaftsteuer"]
 		],
     [
-      [309127005.27 , "Zahlungsabgleich Gesamt"],
+      [309127005.27 , "Gesamt"],
       [231812141.45 , "Feldes- und Förderabgaben"],
       [77314863.82 , "Körperschaftsteuer"]
     ]
