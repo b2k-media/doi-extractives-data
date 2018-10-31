@@ -3,7 +3,7 @@
 	"title_en": "Corporation tax",
 	"data": [
     [
-      [309127005.30 , "Gesamt"],
+      ["309127005.30" , "Gesamt"],
       [231812141.48 , "Feldes- und Förderabgaben"],
       [77314863.82 , "Körperschaftsteuer"]
 		],
