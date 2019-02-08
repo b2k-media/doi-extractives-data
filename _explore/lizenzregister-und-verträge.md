@@ -39,7 +39,7 @@ breadcrumb:
 
           <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2 %}
             <br>
-            <a href= "{% t downloads.uebersicht_bergbau_XLS %}">
+            <a href= "{% t downloads.uebersicht_neuerteilungen_XLSX %}">
             {% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2 %}</a>
           </p>          
 

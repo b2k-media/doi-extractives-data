@@ -32,7 +32,7 @@ breadcrumb:
           <p>
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p4 %}
             <a href= "{% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p4_link1 %}">
-              {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor p4_link1text %}
+              {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p4_link1text %}
             </a>
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p4_2 %}
           </p>
