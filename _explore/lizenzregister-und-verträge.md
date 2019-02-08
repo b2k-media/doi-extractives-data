@@ -36,6 +36,19 @@ breadcrumb:
             <li>{% t lizenzregister_und_verträge.rechtliche_grundlage.item4 %}</li>
             <li>{% t lizenzregister_und_verträge.rechtliche_grundlage.item5 %}</li>
           </ul>
+
+          <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2 %}
+            <br>
+            <a href= "{% t downloads.uebersicht_bergbau_XLS %}">
+            {% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2 %}</a>
+          </p>          
+
+          <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_3 %}
+            <br>
+            <a href="{% t downloads.uebersicht_bergbau_XLS %}">
+            {% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_3 %}</a>
+          </p>
+
           <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p4 %}</p>
           <p>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_1 %}

@@ -605,11 +605,15 @@ lizenzregister_und_verträge:
     item3: Datum der Beantragung und der Erteilung
     item4: Laufzeit
     item5: "Bodenschatz, auf den sich die Bergbauberechtigung bezieht"
+    p3_2: "Eine umfassende Liste mit Informationen zu Neuerteilungen, Änderungen und Löschungen bei den Bergbauberechtigungen in den Jahren 2015 - 2017 nach Bundesland kann hier eingesehen werden:"
+    linktext_p3_2: Daten einsehen
+    p3_3: "Eine umfassende Liste mit Informationen zu allen erteilten und aufrechterhaltenen Bergbauberechtigungen in Deutschland nach Bundesland kann hier eingesehen werden:"
+    linktext_p3_3: Daten einsehen
     p4: "Bewilligungen und Erlaubnisse zur bergbaulichen Exploration können durch die Gesetzesänderung ebenso eingesehen werden.
     Die zuständigen Behörden können die genannten Informationen auch direkt öffentlich zugänglich machen, was bereits seit längerem in einer Vielzahl der Bundesländer geschieht. So veröffentlichen einige Bundesländer übersichtliche Online-Lizenzkataster. Weitere Bundesländer planen den Aufbau entsprechender Systeme."
     p5_1: "Weiterhin werden alle Bergbauberechtigungen in Deutschland im Bereich Kohlenwasserstoffe in der jährlich erscheinenden Publikation"
-    linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
-    link_href: "https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html"
+    linkp: "Der Bergbau in der Bundesrepublik Deutschland"
+    link_href: "https://www.bmwi.de/Redaktion/DE/Downloads/B/bergbau-in-der-brd-bergwirtschaft-statistik-2016.pdf?__blob=publicationFile&v=4"
     p5_2: "veröffentlicht."
 
   beispiel:
@@ -827,6 +831,12 @@ offentliche-berichte:
     l3: Im Jahresdurchschnitt 250 Beschäftigte
     p2: Unabhängig von ihrer Größe werden zudem auch kapitalmarktorientierte Kapitalgesellschaften i.S.v. § 264d HGB sowie Kreditinstitute und Versicherungsunternehmen in der Rechtsform der Kapitalgesellschaft (einschließlich haftungsbeschränkter Personenhandelsgesellschaften) von der Berichtspflicht erfasst. Darüber hinaus werden in Konzernstrukturen auch (Tochter-)Gesellschaften in die Berichterstattung einbezogen, die in Kombination mit ihrer Muttergesellschaft die Größenkriterien und das Kriterium der Tätigkeit erfüllen. Auf die Größe und den Sitz der jeweiligen Tochtergesellschaft kommt es hierbei nicht an.
     p3: Die den gesetzlichen Vorschriften unterliegenden Unternehmen sind dazu verpflichtet, sämtliche in § 341r Nr. 3 HGB aufgeführten Zahlungen an staatliche Stellen ab einer „Wesentlichkeitsschwelle“ von 100.000 Euro je staatlicher Stelle offenzulegen, soweit diese Zahlungen unter einen der in § 341r Nr. 3 aufgeführten Zahlungsgründe fallen. Hierzu gehören neben Steuerzahlungen beispielsweise auch Lizenzen, Konzessionen und andere mit der Förderung von Rohstoffen in Verbindung stehende Vertragsverhältnisse. Die Angaben sind auf Projekte aufzuteilen, soweit im Berichtsjahr mehr als ein Projekt betrieben wurde.
+    p4: Die Zahlungsberichte entsprechend der gesetzlichen Berichtspflichten können unter
+    p4_link1: "https://www.bundesanzeiger.de/"
+    p4_link1text: "www.bundesanzeiger.de"
+    p4_2: " eingesehen werden."
+    p4_3: "Eine Übersicht der gesetzlichen Zahlungsberichte gemäß §§ 341q ff. HGB für 2016 sowie einen Vergleich dieser mit der Berichterstattung unter D-EITI für 2016 finden Sie hier:"
+    p4_link2text: Daten einsehen
 
   gemeinsamkeiten:
     title: Gemeinsamkeiten und Unterschiede zur Berichtspflicht nach EITI
@@ -851,12 +861,17 @@ verwendung-der-einnahmen:
     p1: Der föderale Staatsaufbau der Bundesrepublik Deutschland spiegelt sich in der Verteilung der Steuereinnahmen wieder. Welche Ebene die Ertragskompetenz hat, wie also die Steuererträge zwischen Bund, Ländern und Gemeinden verteilt werden, ist in Artikel 106 GG geregelt. Dabei wird zwischen Steuern, die den Gemeinden, Ländern oder dem Bund vollständig zufließen und den sog. Gemeinschaftssteuern unterschieden. Im Fall der Gemeinschaftssteuern werden die Einnahmen zwischen dem Bund und den Ländern aufgeteilt.
     p2: Im Hinblick auf die Rohstoffförderung relevante Beispiele für Gemeinschaftssteuern sind die Körperschaft- und Einkommensteuer. An den Einnahmen aus der Körperschaftsteuer werden der Bund und die Länder zu je 50 % beteiligt.
     p3: Die Gewerbesteuer hingegen stellt eine reine Gemeindesteuer dar. Somit steht sie als wichtigste Einnahmequellen der Kommunen den Gemeinden zu, in denen die betreffenden Betriebsstätten liegen. Bund und Länder werden durch eine Umlage am Aufkommen der Gewerbesteuer beteiligt.
-    p4: Eine Umverteilung zwischen Bund und Ländern erfolgt ebenso in Bezug auf die Einnahmen aus der Förderabgabe. Sie fließen in den Länderfinanzausgleich. Die Einnahmen aus der Stromsteuer und der Energiesteuer stehen dem Bund zu.
+    p4: Eine Umverteilung zwischen Bund und Ländern erfolgt ebenso in Bezug auf die Einnahmen aus der Förderabgabe. Sie fließen in den
+    p4_link1: "https://www.bundesfinanzministerium.de/Web/DE/Themen/Oeffentliche_Finanzen/Foederale_Finanzbeziehungen/Laenderfinanzausgleich/laenderfinanzausgleich.html"
+    p4_link1text: Länderfinanzausgleich
+    p4_2: . Die Einnahmen aus der Stromsteuer und der Energiesteuer stehen dem Bund zu.
     p5: Die Steueraufkommen aus der Rohstoffförderung sind gemäß § 3 der AO nicht zweckgebunden, d. h. über ihre Verwendung entscheiden der Bundeshaushalt sowie die Länder- und Kommunalhaushalte frei. Die Höhe und Verwendung der Einnahmen und Ausgaben werden jährlich detailliert offengelegt. Dazu verabschieden der Bund und die Länder Haushaltsgesetze und die Kommunen Haushaltssatzungen, die ihre Haushaltspläne beinhalten. Mit Veröffentlichung der Haushaltspläne erhalten alle Bürgerinnen und Bürger freien Zugang zu den darin enthaltenen Informationen.
     p6_1: Um der Öffentlichkeit einen Zugang zu Informationen über die Verwendung der Steuereinnahmen zu erleichtern, veröffentlicht das BMF Informationen zum Bundeshaushalt auf der Web-Plattform
-    link1: https://www.bundeshaushalt-info.de/
+    linktext1: "www.bundeshaushalt-info.de"
+    link1: "https://www.bundeshaushalt-info.de/"
     p6_2: ". Zudem können auf der Webseite"
-    link2: https://www.offenerhaushalt.de
+    linktext2: "www.offenerhaushalt.de"
+    link2: "https://www.offenerhaushalt.de"
     p6_3: weitere Haushalte eingesehen werden.
 
   landesrechtliche_regelungen:
@@ -3656,6 +3671,10 @@ downloads:
       title: Daten zu Beschäftigten
     - name: daten-zur-exporte
       title: Daten zu Exporten
+    - name: daten-gesetzl-zahlungsberichte
+      title: Daten der gesetzlichen Zahlungsberichte für 2016
+    - name: daten-bergbau-berechtigungen
+      title: Daten zu Bergbauberechtigungen
     - name: steuern
       title: Daten zu Staatseinnahmen durch Steuern
       subnav_items:
@@ -3687,6 +3706,11 @@ downloads:
   unabhaengiger_verwalter_PDF: "/downloads/Zahlungsabgleich_Empfehlungen.pdf"
   exports_CSV: "/downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
   production_CSV: "/downloads/17_Daten2016FuerInteraktiveRohstoffkarte.xlsx"
+  uebersicht_neuerteilungen_XLSX: "/downloads/Uebersicht_Neuerteilungen_Aenderungen_und_Loeschungen_Bergbauberechtigungen_2015-2017_nach_Bundesland.xls"
+  uebersicht_neuerteilungen_text: "Download der Bergbauberechtigungen 2015-2017 (Excel)"
+  uebersicht_bergbau_XLS: "/downloads/Uebersicht_Bergbauberechtigungen_in_Deutschland_nach_Bundesland.xlsx"
+  uebersicht_bergbau_text: "Download aller Bergbauberechtigungen (Excel)"
+  uebersicht_zahlungsberichte_XLSX: "/downloads/Uebersicht_Gesetzliche_Zahlungsberichte_gem_Paragraph_341qff_HGB_fuer_2016.xlsx"
 
   h1: Daten zur interaktiven Rohstoffkarte
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
@@ -3702,7 +3726,7 @@ downloads:
   p2_3: "entnommen. Die Zahlen zu Kali- und Kalisalzprodukte, Spezialton, Steinsalz, Siedesalz und Industriesole, Kaolin, Quarzkies und –sand, Kies und Sand, gebrochene Natursteine, Naturwerksteine sowie Kalk-, Mergel- und Dolomitstein basieren auf (BGR 2017)"
   link2_3: "„Deutschland – Rohstoffsituation 2016“."
   p2_4: "Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von mineralischen Rohstoffen und Energierohstoffen in Deutschland enthält."
-  p4: Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände oder verschiedene Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2016 (BGR 2017). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach Destatis), Steinsalz und Industriesole (Berechnung nach Destatis) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind ebenfalls aus [BGR 2017] entnommen. Die Werte der Produktion der Naturwerksteine sowie von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen.
+  p4: "Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände oder verschiedene Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2016 (BGR 2017). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach Destatis), Steinsalz und Industriesole (Berechnung nach Destatis) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind ebenfalls aus [BGR 2017] entnommen. Die Werte der Produktion der Naturwerksteine sowie von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen."
   h3: Daten zum Beitrag zum BIP
   p5:
     p1: Die Daten werden der aktuellen Volkswirtschaftlichen Gesamtrechnung (2017) des statistischen Bundesamtes entnommen (
@@ -3723,6 +3747,14 @@ downloads:
     p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
     link3: "BGR 2016"
     p4: " und BGR 2017, Tabellen 5, 28 und 29) entnommen."
+  daten_zberichte2016:
+    h1: Daten der gesetzlichen Zahlungsberichte für 2016
+    p1: Die Daten wurden den auf www.bundesanzeiger.de veröffentlichten Zahlungsberichten für das Jahr 2016 mit dem Stand 01.02.2019 entnommen.
+    link1text: Download der Daten
+  daten_bergbauberecht:
+    h1: Daten zu Bergbauberechtigungen
+    p1: Die Daten zu den Bergbauberechtigungen wurden mit dem Stand 01.02.2019 durch die Bergbehörden der Länder auf Grundlage der amtlichen Verzeichnisse bereitgestellt.
+    link1text: Download der Daten
   table_link:
     p1: Detaillierte Quellenangaben siehe
     link: "Daten einsehen."

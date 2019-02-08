@@ -31,21 +31,28 @@ breadcrumb:
           </p>
           <p>
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p4 %}
+            <a href= "{% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p4_link1 %}">
+              {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor p4_link1text %}
+            </a>
+            {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p4_2 %}
           </p>
           <p>
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p5 %}
           </p>
           <p>
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p6_1 %}
-            <a target="_blank" href="https://www.bundeshaushalt-info.de/">
-              {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.link1 %}
+
+            <a href = "{% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.link1 %}">
+              {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.linktext1 %}
             </a>
+
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p6_2 %}
-            <a target="_blank" href="https://www.offenerhaushalt.de">
-              {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.link2 %}
+            <a href="{% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.link2 %}">
+              {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.linktext2 %}
             </a>
             {% t verwendung-der-einnahmen.einnahmen_rohstoffsektor.p6_3 %}
           </p>
+
           <br/>
           <div>
             <a target="_blank" href="https://www.bundeshaushalt-info.de/#/2017/soll/einnahmen/einzelplan.html">

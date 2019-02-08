@@ -243,6 +243,53 @@ permalink: /downloads/
       </p>
     </div>
 
+    <div id= "daten-gesetzl-zahlungsberichte">
+    <h2 id="gesetzl-zahlungsberichte">{% t downloads.daten_zberichte2016.h1 %}</h2>
+    <hr/>
+    <p>
+      {% t downloads.daten_zberichte2016.p1 %}
+    </p>
+
+    <p class="downloads-download_links-intro">
+      {% t downloads.download_label %}
+      <ul class="downloads-download_links">
+        <li>
+          <a href="{{site.baseurl_root}}{% t downloads.uebersicht_zahlungsberichte_XLSX %}">
+            <icon class="icon-cloud icon-padded"></icon>
+            {% t downloads.download_link %} (Excel)
+          </a>
+        </li>
+      </ul>
+    </p>
+    </div>
+
+    <div id= "daten-bergbau-berechtigungen">
+    <h2 id="bergbau-berechtigungen">{% t downloads.daten_bergbauberecht.h1 %}</h2>
+    <hr/>
+    <p>
+      {% t downloads.daten_bergbauberecht.p1 %}
+    </p>
+    <p class="downloads-download_links-intro">
+      {% t downloads.download_label %}
+      <ul class="downloads-download_links">
+      <li>
+        <a href="{{site.baseurl_root}}{% t downloads.uebersicht_neuerteilungen_XLSX %}">
+          <icon class="icon-cloud icon-padded"></icon>
+          {% t downloads.uebersicht_neuerteilungen_text %}
+        </a>
+      </li>
+      
+        <li>
+          <a href="{{site.baseurl_root}}{% t downloads.uebersicht_bergbau_XLS %}">
+            <icon class="icon-cloud icon-padded"></icon>        
+              {% t downloads.uebersicht_bergbau_text %}
+          </a>
+        </li>
+
+      </ul>
+    </p>
+    </div>
+
     <div id="einnahmen">
       <h2 id="steuern">{% t downloads.steuern.title %}</h2>
       <hr/>

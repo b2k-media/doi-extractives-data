@@ -35,6 +35,18 @@ breadcrumb:
           <p>
             {% t offentliche-berichte.gesetzliche-berichtspflicht.p3 %}
           </p>
+          <p>
+            {% t offentliche-berichte.gesetzliche-berichtspflicht.p4 %}
+            <a href = "{% t offentliche-berichte.gesetzliche-berichtspflicht.p4_link1 %}">
+              {% t offentliche-berichte.gesetzliche-berichtspflicht.p4_link1text %}
+            </a> {% t offentliche-berichte.gesetzliche-berichtspflicht.p4_2 %}
+          </p>          
+          <p>
+            {% t offentliche-berichte.gesetzliche-berichtspflicht.p4_3 %}
+            <a href = "{% t downloads.uebersicht_zahlungsberichte_XLSX %}">
+              {% t offentliche-berichte.gesetzliche-berichtspflicht.p4_link2text %}
+            </a>
+          </p>
         </section>
         <br/>
         <section id="gemeinsamkeiten" style="position: relative;">
