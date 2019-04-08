@@ -759,8 +759,8 @@ breadcrumb:
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.gewerbesteuer.link2 %}
           </a>
+        </section>
 
-       
     </div>
 
     <div class="sticky sticky_nav container-right-3">
