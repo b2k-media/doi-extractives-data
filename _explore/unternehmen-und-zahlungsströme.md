@@ -963,8 +963,8 @@ breadcrumb:
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row15.td6 %}</td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row15.td7 %}
               <sup>
-                <a href="#sub3">
-                  {% t unternehmen-und-zahlungsströme.sub3.title %}
+                <a href="#sub2">
+                  {% t unternehmen-und-zahlungsströme.sub2.title %}
                 </a>
               </sup>
             </td>
@@ -979,7 +979,13 @@ breadcrumb:
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row16.td4 %}</td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row16.td5 %}</td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row16.td6 %}</td>
-            <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row16.td7 %}</td>
+            <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row16.td7 %}
+              <sup>
+                <a href="#sub3">
+                  {% t unternehmen-und-zahlungsströme.sub3.title %}
+                </a>
+              </sup>
+            </td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row16.td8 %}</td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row16.td9 %}</td>
           </tr>    
