@@ -1135,7 +1135,6 @@ breadcrumb:
         <table style="font-size: 0.75rem">
             <tr>
                 <td colspan="2"><strong>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row0.td0 %}</strong></td>
-                <td></td>
                 <td><strong>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row0.td2 %}</strong></td>
                 <td><strong>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row0.td3 %}</strong></td>
                 <td><strong>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row0.td4 %}</strong></td>
@@ -1176,6 +1175,28 @@ breadcrumb:
                 <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row3.td6 %}</td>
                 <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row3.td7 %}</td>
                 <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row3.td8 %}</td>
+              </tr>
+              <tr>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td0 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td1 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td2 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td3 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td4 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td5 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td6 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td7 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row4.td8 %}</td>
+              </tr>
+              <tr>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td0 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td1 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td2 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td3 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td4 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td5 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td6 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td7 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row5.td8 %}</td>
               </tr>   
         </table>
         <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
