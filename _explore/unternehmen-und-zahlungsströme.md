@@ -1128,13 +1128,11 @@ breadcrumb:
         </a>
         <br/>
       </section>
-
-        
-    <section id="behoerden" style="position: relative;">
+    
+       <section id="behoerden" style="position: relative;">
         <h2>{% t unternehmen-und-zahlungsströme.behoerden.title %}</h2>
         <p>{% t unternehmen-und-zahlungsströme.behoerden.p %}</p>
         <table style="font-size: 0.75rem">
-            <tbody>
             <tr>
                 <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td0 %}</strong></td>
                 <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td1 %}</strong></td>
@@ -1168,7 +1166,6 @@ breadcrumb:
                 <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td7 %}</td>
                 <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td8 %}</td>
               </tr>       
-            </tbody>
         </table>
         <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
         <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
@@ -1176,7 +1173,7 @@ breadcrumb:
           {% t unternehmen-und-zahlungsströme.daten_einsehen %}
         </a>
         <br/>
-      </section>    
+       </section>    
     </div>
 
     <div class="sticky sticky_nav container-right-3">

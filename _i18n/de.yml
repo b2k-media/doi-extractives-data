@@ -3104,7 +3104,6 @@ unternehmen-und-zahlungsströme:
     behoerden:
       title: "Feldes- Förderabgaben nach Bergbehörde"
       p: "Die Zahlungen und Differenzen für Feldes-/Förderabgaben entfallen auf die nachfolgend aufgeführten Bergbehörden: "
-
       table:
         row0:
           td0: "Gewerbesteuer (> 2.000.000 EUR je staatliche Stelle)"
