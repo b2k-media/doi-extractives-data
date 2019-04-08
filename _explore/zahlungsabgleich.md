@@ -601,7 +601,7 @@ breadcrumb:
               </tr>
               <!-- 14 -->
               <tr>
-                  <td><strong>{% t zahlungsabgleich.unternehmen.table.row24.p1 %}</strong></td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row24.p1 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row24.p2 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row24.p3 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row24.p4 %}</td>
