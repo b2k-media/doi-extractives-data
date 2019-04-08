@@ -2283,7 +2283,7 @@ regierungsstellen-steuergeheimnis:
       li1: "Körperschaftsteuer: die zuständigen Finanzämter am jeweiligen Sitz der Unternehmen"
       li2: "Feldes- und Förderabgabe: die jeweils zuständigen Bergbehörden der Bundesländer, in denen das Erlaubnis-/Bewilligungsfeld liegt"
       li3: "Gewerbesteuer: die Gemeinden, in deren Gebiet sich die steuerlich relevanten
-Betriebsstätten befinden (ohne Zahlungsabgleich)"
+Betriebsstätten befinden"
       li4: "Pachtzahlungen: die staatlichen Stellen, die aufgrund einzelvertraglicher Regelungen Einnahmen im Zusammenhang mit dem Rohstoffabbau erzielen (ohne Zahlungsabgleich)"
   steuergeheimnis:
     h: "Umgang mit dem Steuergeheimnis"
@@ -2474,6 +2474,10 @@ unternehmen-und-zahlungsströme:
           td3: "Braunkohle"
         row11:
           td1: "11"
+          td2: "Quarzwerke GmbH, Frechen"
+          td3: "Steine und Erden"
+        row12:
+          td1: "12"
           td2: "RWE - Gruppe"
         row11_1:
           td2: "Rheinische Baustoffwerke GmbH, Bergheim"
@@ -2481,18 +2485,20 @@ unternehmen-und-zahlungsströme:
         row11_2:
           td2: "RWE Power AG, Essen"
           td3: "Braunkohle"
-
-        row12:
-          td1: "12"
-          td2: "Sibelco Deutschland GmbH"
-          td3: "Steine und Erden"
-
         row13:
           td1: "13"
-          td2: "Vermilion Energy Germany GmbH & Co. KG, Schönefeld "
-          td3: "Erdöl und Erdgas"
+          td2: "Sibelco Deutschland GmbH"
+          td3: "Steine und Erden"
         row14:
           td1: "14"
+          td2: "Südwestdeutsche Salzwerke AG"
+          td3: "Kali und Salze"
+        row15:
+          td1: "15"
+          td2: "Vermilion Energy Germany GmbH & Co. KG, Schönefeld "
+          td3: "Erdöl und Erdgas"
+        row16:
+          td1: "16"
           td2: "Wintershall Holding GmbH, Celle"
           td3: "Erdöl und Erdgas"
 

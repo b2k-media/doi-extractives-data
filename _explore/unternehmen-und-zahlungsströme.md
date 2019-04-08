@@ -166,7 +166,16 @@ breadcrumb:
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row14.td2 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row14.td3 %}</td>
             </tr>
-
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row15.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row15.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row15.td3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row16.td1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row16.td2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row16.td3 %}</td>
+            </tr>
 
 
 
