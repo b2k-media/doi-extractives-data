@@ -2752,7 +2752,7 @@ unternehmen-und-zahlungsströme:
           p6: "0,00 "
           p7: "0,00 "
           p8: "0,00 "
-      row25:
+        row25:
           i: "14"
           p1: "Südwestdeutsche Salzwerke AG"
           p2: "7.498.629,63"
