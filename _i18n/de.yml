@@ -2711,10 +2711,20 @@ unternehmen-und-zahlungsströme:
           p6: "0,00"
           p7: "0,00"
           p8: "0,00"
-        subhead4:
-          i: "11"
-          title: "RWE - Gruppe:"
         row21:
+          i: "11"
+          p1: "JTSD Braunkohlenwerke GmbH, Zeitz (Mibrag)"
+          p2: "4.299.120,00"
+          p3: "4.299.120,00"
+          p4: "0,00"
+          p5: "0,00"
+          p6: "0,00"
+          p7: "0,00"
+          p8: "0,00"
+        subhead4:
+          i: "12"
+          title: "RWE - Gruppe:"
+        row22:
           p1: "Rheinische Baustoffwerke GmbH, Bergheim"
           p2: "k.A."
           p3: " "
@@ -2723,7 +2733,7 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row22:
+        row23:
           p1: "RWE Power AG, Essen"
           p2: "k.A."
           p3: " "
@@ -2732,8 +2742,8 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row23:
-          i: "12"
+        row24:
+          i: "13"
           p1: "Sibelco Deutschland GmbH, Ransbach-Baumbach"
           p2: "684.912,00"
           p3: "684.912,00 "
@@ -2742,8 +2752,18 @@ unternehmen-und-zahlungsströme:
           p6: "0,00 "
           p7: "0,00 "
           p8: "0,00 "
-        row24:
-          i: "13"
+      row25:
+          i: "14"
+          p1: "Südwestdeutsche Salzwerke AG"
+          p2: "7.498.629,63"
+          p3: "7.498.629,63 "
+          p4: "0,00 "
+          p5: "0,00 "
+          p6: "0,00 "
+          p7: "0,00 "
+          p8: "0,00 "
+        row26:
+          i: "15"
           p1: "Vermilion Energy Germany GmbH & Co. KG, Schönefeld"
           p2: "---"
           p3: " "
@@ -2752,8 +2772,8 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row25:
-          i: "14"
+        row27:
+          i: "16"
           p1: "Wintershall Holding GmbH, Celle"
           p2: "k.A."
           p3: " "
@@ -2762,10 +2782,10 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: " "
           p8: " "
-        row26:
+        row28:
           p1: " "
-          p2: "77.314.863,82"
-          p3: "77.314.863,82"
+          p2: "89.112.613,45"
+          p3: "89.112.613,45"
           p4: "0,00"
           p5: "0,00"
           p6: "0,00"

@@ -482,13 +482,7 @@ breadcrumb:
             <tr>
               <td></td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p1 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p2 %}
-                <sup>
-                  <a href="#sub-3">
-                    {% t unternehmen-und-zahlungsströme.sub-3.title %}
-                  </a>
-                </sup>
-              </td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p2 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p3 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p7 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p8 %}</td>
@@ -510,7 +504,13 @@ breadcrumb:
             <tr>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row23.i %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row23.p1 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row23.p2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row23.p2 %}
+                <sup>
+                  <a href="#sub-3">
+                    {% t unternehmen-und-zahlungsströme.sub-3.title %}
+                  </a>
+                </sup>
+              </td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row23.p3 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row23.p7 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row23.p8 %}</td>
@@ -518,13 +518,7 @@ breadcrumb:
             <tr>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row24.i %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row24.p1 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row24.p2 %}
-                <sup>
-                  <a href="#sub-1">
-                    {% t unternehmen-und-zahlungsströme.sub-1.title %}
-                  </a>
-                </sup>
-              </td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row24.p2 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row24.p3 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row24.p7 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row24.p8 %}</td>
@@ -532,24 +526,38 @@ breadcrumb:
             <tr>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.i %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p1 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p2 %}
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p2 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p3 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p7 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p8 %}</td>
+            </tr>
+            <tr>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.i %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p2 %}
+               <sup>
+                  <a href="#sub-1">
+                    {% t unternehmen-und-zahlungsströme.sub-1.title %}
+                  </a>
+                </sup>
+              </td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p3 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p7 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p8 %}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row27.p1 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row27.p2 %}</strong>
                 <sup>
                   <a href="#sub-3">
                     {% t unternehmen-und-zahlungsströme.sub-3.title %}
                   </a>
                 </sup>
               </td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p3 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p7 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row25.p8 %}</td>
-            </tr>
-            <tr>
-              <td></td>
-              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p1 %}</strong></td>
-              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p2 %}</strong></td>
-              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p3 %}</strong></td>
-              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p7 %}</strong></td>
-              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row26.p8 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row27.p3 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row27.p7 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row27.p8 %}</strong></td>
             </tr>
           </tbody>
         </table>
