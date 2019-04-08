@@ -1,16 +1,18 @@
 [{
-	"title": "Zahlungsabgleich Feldes- und Förderabgaben und Körperschaftsteuer",
+	"title": "Übersicht zum Zahlungsabgleich 2016",
 	"title_en": "Corporation tax",
 	"data": [
-    [
-      ["309127005.30" , "Gesamt"],
+    [ 
+      [379639095.45 , "Gesamt"],
+      [58714340,52 , "Gewerbesteuer"],
       [231812141.48 , "Feldes- und Förderabgaben"],
-      [77314863.82 , "Körperschaftsteuer"]
+      [89112613.45 , "Körperschaftsteuer"]
 		],
     [
-      [309127005.27 , "Gesamt"],
+      [379639095.42 , "Gesamt"],
+      [58714340,52 , "Gewerbesteuer"],
       [231812141.45 , "Feldes- und Förderabgaben"],
-      [77314863.82 , "Körperschaftsteuer"]
+      [89112613.45 , "Körperschaftsteuer"]
     ]
 	],
 	"data_en": [
