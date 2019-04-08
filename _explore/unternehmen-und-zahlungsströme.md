@@ -559,6 +559,14 @@ breadcrumb:
               <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row27.p7 %}</strong></td>
               <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row27.p8 %}</strong></td>
             </tr>
+             <tr>
+              <td></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row28.p1 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row28.p2 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row28.p3 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row28.p7 %}</strong></td>
+              <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row28.p8 %}</strong></td>
+            </tr>
           </tbody>
         </table>
         <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
