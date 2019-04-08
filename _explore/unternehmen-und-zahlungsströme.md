@@ -1129,6 +1129,54 @@ breadcrumb:
         <br/>
       </section>
 
+        
+    <section id="behoerden" style="position: relative;">
+        <h2>{% t unternehmen-und-zahlungsströme.behoerden.title %}</h2>
+        <p>{% t unternehmen-und-zahlungsströme.behoerden.p %}</p>
+        <table style="font-size: 0.75rem">
+            <tbody>
+            <tr>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td0 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td1 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td2 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td3 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td4 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td5 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td6 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td7 %}</strong></td>
+                <td><strong>{% t unternehmen-und-zahlungsströme.behoerden.table.row0.td8 %}</strong></td>
+              </tr>
+              <tr>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td0 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td1 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td2 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td3 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td4 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td5 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td6 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td7 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row1.td8 %}</td>
+              </tr>
+              <tr>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td0 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td1 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td2 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td3 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td4 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td5 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td6 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td7 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.behoerden.table.row2.td8 %}</td>
+              </tr>       
+            </tbody>
+        </table>
+        <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
+        <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+          <icon class="fa fa-file-text-o u-padding-right"></icon>
+          {% t unternehmen-und-zahlungsströme.daten_einsehen %}
+        </a>
+        <br/>
+      </section>    
     </div>
 
     <div class="sticky sticky_nav container-right-3">
