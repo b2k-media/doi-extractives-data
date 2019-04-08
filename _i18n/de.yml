@@ -2713,7 +2713,7 @@ unternehmen-und-zahlungsströme:
           p8: "0,00"
         row21:
           i: "11"
-          p1: "JTSD Braunkohlenwerke GmbH, Zeitz (Mibrag)"
+          p1: "Quarzwerke GmbH, Frechen"
           p2: "4.299.120,00"
           p3: "4.299.120,00"
           p4: "0,00"
@@ -2723,7 +2723,7 @@ unternehmen-und-zahlungsströme:
           p8: "0,00"
         subhead4:
           i: "12"
-          title: "RWE - Gruppe:"
+          title: "RWE - Gruppe"
         row22:
           p1: "Rheinische Baustoffwerke GmbH, Bergheim"
           p2: "k.A."
