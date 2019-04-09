@@ -92,7 +92,7 @@ breadcrumb:
               x : 'x',
               labels: true,
               columns: [
-                ['x', 'Körperschaftsteuer ', 'Feldes- und Förderabgaben', 'Zahlungsabgleich'],
+                ['x', 'Körperschaftsteuer', 'Feldes- und Förderabgaben', 'Gewerbesteuer','Gesamt'],
                 ['data1', 89112613, 231384156, 58714340, 379639095],
                 ['data2', 89112613, 231384156, 58714340, 379639095]
                 ],     
