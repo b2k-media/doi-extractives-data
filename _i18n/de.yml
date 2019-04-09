@@ -2393,7 +2393,7 @@ unternehmen-und-zahlungsströme:
       - name: feldes
         title: "Feldes- Förderabgaben nach Bergbehörde"
       - name: gewerbeStDiff
-        title: "Feldes- Förderabgaben nach Bergbehörde"    
+        title: "Zahlungen und Differenzen Gewerbesteuer"    
     daten_einsehen: "Daten einsehen"
     table_source: "Eigene Darstellung. Detaillierte Quellenangaben siehe:"
     zahlungsabgleich:
