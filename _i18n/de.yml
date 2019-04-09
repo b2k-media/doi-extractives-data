@@ -3254,7 +3254,10 @@ unternehmen-und-zahlungsströme:
           td5: ""
           td6: "-50.116,48"
           td7: ""
-          td8: "0"
+          td8: ""
+      sub1:
+        title: "1)"
+        text: "enthält EUR 50.116,48 Gewerbesteuernachzahlung 2007 für in Vorjahren abgegebene Organgesellschaft"
     sub0:
       title: "*)"
       text: "Zahlungen im Sektor 'Erdöl und Erdgas' betreffen den eigenen Förderanteil aus der wirtschaftlichen Nutzung der jeweiligen Bergbauberechtigung"
