@@ -1030,7 +1030,6 @@ breadcrumb:
           {% t unternehmen-und-zahlungsströme.sub4.text %}
         </p>
         <br/>
-
         <br/>
       </section>
       <br/>
@@ -1310,11 +1309,12 @@ breadcrumb:
           {% t unternehmen-und-zahlungsströme.daten_einsehen %}
         </a>
         <br/>
+        <br/>
         <p style="font-size: 0.75rem" id="sub5">
           <sup>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.sub1.title %}</sup>
           {% t unternehmen-und-zahlungsströme.gewerbeStDiff.sub1.text %}
         </p>
-       </section>    
+    </section>    
     </div>
 
     <div class="sticky sticky_nav container-right-3">
