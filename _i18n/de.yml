@@ -3370,7 +3370,7 @@ zahlungsabgleich:
     - name: title
       title: Seitenanfang
     - name: förderabgaben
-      title: "Zahlungsabgleich Körperschaftsteuer und Feldes- und Förderabgaben"
+      title: "Überblick zum Zahlungsabgleich 2016"
     - name: abdeckung
       title: "Abdeckung der Sektoren"
     - name: unternehmen
@@ -3387,9 +3387,9 @@ zahlungsabgleich:
     p2: "aus den"
     link2: "Sektoren"
     p3: "Braunkohle, Erdgas, Erdöl, Kali, Salze (inkl. Industriesohle) sowie Steine und Erden identifiziert und eingeladen sich an D-EITI zu beteiligen."
-    link3: "14 Unternehmensgruppen"
+    link3: "16 Unternehmensgruppen"
     p4: ", mit einer Abdeckung von über 95 % für die Sektoren Braunkohle, Erdgas, Erdöl und Kali, haben sich bisher beteiligt und zu folgenden Zahlungsströmen berichtet:"
-    link4: Körperschaftsteuer
+    link4: Körperschaftsteuer,
     link5: Feldes- und Förderabgaben,
     link6: Gewerbesteuer
     link7: und Pachtzahlungen.
