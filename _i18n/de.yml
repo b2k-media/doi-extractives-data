@@ -3117,6 +3117,9 @@ unternehmen-und-zahlungsströme:
           td6: "Differenzen vorläufig EUR"
           td7: ""
           td8: "Differenzen vorläufig %"
+          td9: "Klärung von Differenzen EUR"
+          td10: "ungeklärte Differenzen EUR"
+          td11: "ungeklärte Differenzen %"
         row1:
           td0: "1"
           td1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
@@ -3127,6 +3130,9 @@ unternehmen-und-zahlungsströme:
           td6: "-50.116,48"
           td7: ""
           td8: "0"
+          td9: "50.116,48"
+          td10: "0,00"
+          td11: "0"
         row2:
           td0: ""
           td1: "Kämmerei und Steueramt Stadt Hannover"
@@ -3137,6 +3143,9 @@ unternehmen-und-zahlungsströme:
           td6: "-50.116,48"
           td7: ""
           td8: "0"
+          td9: "50.116,48"
+          td10: "0,00"
+          td11: "0"
         row3:
           td0: ""
           td1: "Steueramt Gemeinde Großenkneten"
@@ -3147,6 +3156,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row4:
           td0: ""
           td1: "Steueramt Samtgemeinde Wathlingen/Nienhagen"
@@ -3157,6 +3169,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"    
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row5:
           td0: "2"
           td1: "ENGIE E&P Deutschland GmbH, Lingen"
@@ -3167,6 +3182,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row6:
           td0: ""
           td1: "Kassen- und Steueramt Stadt Lingen (Ems)"
@@ -3177,6 +3195,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row7:
           td0: "3"
           td1: "ExxonMobil Production Deutschland GmbH, Hannover"
@@ -3187,6 +3208,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row8:
           td0: ""
           td1: "Stadtkämmerei (FA für Großunternehmen) Hamburg"
@@ -3197,6 +3221,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"          
         row9:
           td0: ""
           td1: "Kämmerei und Steueramt Stadt Hannover"
@@ -3207,6 +3234,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"          
         row10:
           td0: ""
           td1: "Steuerkasse Stadt Köln"
@@ -3217,6 +3247,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row11:
           td0: ""
           td1: "Steueramt Gemeinde Großenkneten"
@@ -3227,6 +3260,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row12:
           td0: "4"
           td1: "Quarzwerke GmbH, Frechen"
@@ -3237,6 +3273,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row13:
           td0: ""
           td1: "Stadt Frechen"
@@ -3247,6 +3286,9 @@ unternehmen-und-zahlungsströme:
           td6: "0,00"
           td7: ""
           td8: "0"
+          td9: "0"
+          td10: "0,00"
+          td11: "0"
         row14:
           td0: ""
           td1: ""
@@ -3257,6 +3299,9 @@ unternehmen-und-zahlungsströme:
           td6: "-50.116,48"
           td7: ""
           td8: ""
+          td9: "50.116,48"
+          td10: "0,00"
+          td11: ""
       sub1:
         title: "1)"
         text: "enthält EUR 50.116,48 Gewerbesteuernachzahlung 2007 für in Vorjahren abgegebene Organgesellschaft"
