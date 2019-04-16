@@ -3,12 +3,14 @@
 	"title_en": "Corporation tax",
 	"data": [
     [ 
-    [379639095.45 , "Total payment flow"],
-      [58714340.52 , "Trade tax"],
-      [231812141.48 , "Minesite and extraction royalties"],
-      [89112613.45 , "Corporation tax"]
+      [379639095.45 , "Gesamt"],
+      [379639095.45 , "Gesamt"],
+      [58714340.52 , "Gewerbesteuer"],
+      [231812141.48 , "Feldes- und Förderabgaben"],
+      [89112613.45 , "Körperschaftsteuer"]
 		],
     [
+      [379639095.42 , "Gesamt"],
       [379639095.42 , "Gesamt"],
       [58714340.52 , "Gewerbesteuer"],
       [231812141.45 , "Feldes- und Förderabgaben"],
