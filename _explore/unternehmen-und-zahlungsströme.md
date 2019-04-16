@@ -1168,6 +1168,9 @@ breadcrumb:
                 </td>
                 <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row2.td6 %}</td>
                 <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row2.td8 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row2.td9 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row2.td10 %}</td>
+                <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row2.td11 %}</td>
             </tr>
             <tr>
                 <td>{% t unternehmen-und-zahlungsströme.gewerbeStDiff.table.row3.td0 %}</td>
