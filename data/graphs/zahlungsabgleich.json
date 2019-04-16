@@ -9,7 +9,7 @@
       [89112613.45 , "Körperschaftsteuer"]
 		],
     [
-      [379639095.45 , "Gesamt"],
+      [379639095.42 , "Gesamt"],
       [58714340.52 , "Gewerbesteuer"],
       [231812141.45 , "Feldes- und Förderabgaben"],
       [89112613.45 , "Körperschaftsteuer"]
@@ -32,7 +32,7 @@
 	"color": ["#28467a", "#4682be"],
 	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
 	"labels_en": ["Total payments according to the company", "Total payments according to the public authorities"],
-	"xAxis": [0, 100000000, 200000000, 300000000, 400000000],
+	"xAxis": [0, 100000000, 200000000, 300000000, 400000000,500000000],
 	"unit": "    €"
 }, {
 	"title": "Abdeckung der Sektoren*",
