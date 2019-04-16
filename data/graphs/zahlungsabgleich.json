@@ -7,7 +7,7 @@
       [58714340.52 , "Gewerbesteuer"],
       [231812141.48 , "Feldes- und Förderabgaben"],
       [89112613.45 , "Körperschaftsteuer"]
-    ],
+		],
     [
       [379639095.42 , "Gesamt"],
       [58714340.52 , "Gewerbesteuer"],
@@ -18,11 +18,13 @@
 	"data_en": [
     [
       [308699019.66 , "Total payment flow"],
+      [58714340.52 , "Gewerbesteuer"],
       [231384155.84 , "Minesite and extraction royalties"],
       [77314863.82 , "Corporation tax"]
     ],
     [
       [309127005.27  , "Total payment flow"],
+      [58714340.52 , "Gewerbesteuer"],
       [231812141.45 , "Minesite and extraction royalties"],
       [77314863.82 , "Corporation tax"]
     ]
