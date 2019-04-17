@@ -2808,7 +2808,7 @@ unternehmen-und-zahlungsströme:
           td6: "Differenzen vorläufig %"
           td7: "Klärung von Differenzen EUR"
           td8: "ungeklärte Differenzen EUR"
-          td9: "ungeklärte Differenzen"
+          td9: "ungeklärte Differenzen %"
         row1:
           td0: "1"
           td1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
