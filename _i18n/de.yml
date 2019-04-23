@@ -3298,10 +3298,10 @@ unternehmen-und-zahlungsströme:
           td5: ""
           td6: "-50.116,48"
           td7: ""
-          td8: ""
+          td8: "0,00"
           td9: "50.116,48"
           td10: "0,00"
-          td11: ""
+          td11: "0,00"
       sub1:
         title: "1)"
         text: "enthält EUR 50.116,48 Gewerbesteuernachzahlung 2007 für in Vorjahren abgegebene Organgesellschaft"
@@ -3758,7 +3758,7 @@ zahlungsabgleich:
         p5: " "
         p6: "0,00"
         p7: "0,00"
-        p8: " "
+        p8: "0,00"
   
   sub-1:
     title: "1"
