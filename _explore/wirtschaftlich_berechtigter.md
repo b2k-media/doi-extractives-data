@@ -81,22 +81,6 @@ breadcrumb:
         {% t wirtschaftlich_berechtigter.sup1.text %}
       </p>
       <p style="font-size: 0.75rem">
-        <sup id="sup-2">{% t wirtschaftlich_berechtigter.sup2.title %}</sup>
-        {% t wirtschaftlich_berechtigter.sup2.text %}
-      </p>
-
-      <p style="font-size: 0.75rem">
-        <sup id="sup-3">{% t wirtschaftlich_berechtigter.sup3.title %}</sup>
-        {% t wirtschaftlich_berechtigter.sup3.text %}
-      </p>
-
-      <p style="font-size: 0.75rem">
-        <sup id="sup-4">{% t wirtschaftlich_berechtigter.sup4.title %}</sup>
-        {% t wirtschaftlich_berechtigter.sup4.text1 %}
-        <a href= "{% t wirtschaftlich_berechtigter.sup4.link%}">{% t wirtschaftlich_berechtigter.sup4.linkText %}</a>
-        {% t wirtschaftlich_berechtigter.sup4.text2 %}        
-      </p>
-      <p style="font-size: 0.75rem">
         <sup id="sup-5">{% t wirtschaftlich_berechtigter.sup5.title %}</sup>
         {% t wirtschaftlich_berechtigter.sup5.text %}
       </p>

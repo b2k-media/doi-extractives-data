@@ -24,23 +24,23 @@ erdol-erdgas:
     title: Erdöl
     subtitle: Wissenswertes über Erdöl
     slides:
-       - Deutschland deckte im Jahr 2016 rund 2 % seines Erdölbedarfs aus heimischer Produktion.
-       - Das im Wattenmeer gelegene Erdölfeld Mittelplate/Dieksand umfasste im Jahr 2016 mit ca. 125 Mio. t fast die Hälfte der förderbaren deutschen Erdölreserven.
+       - Deutschland deckte im Jahr 2017 rund 2 % seines Erdölbedarfs aus heimischer Produktion.
+       - Das im Wattenmeer gelegene Erdölfeld Mittelplate/Dieksand umfasste im Jahr 2017 mit ca. 13 Mio. t fast die Hälfte der förderbaren deutschen Erdölreserven.
        - Erdöl entsteht aus Ablagerungen großer Mengen von Plankton.
        - Durchschnittlich lagern Erdölfelder in einer Tiefe von rund 1,5 km. Durch den technischen Fortschritt ist es heute möglich, auch Erdölfelder in 5.000 m Tiefe und darunter zu erschließen.
        - Seit Beginn der Erdöl- und Erdgasförderung in Deutschland wurden insgesamt mehr als 22.000 Bohrungen durchgeführt.
     geschichte:
       title: Geschichte
-      p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2016 betrug rund 2,3 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden zum 01.01.2016 auf rund 34 Mio. t geschätzt.
+      p: Seit über 150 Jahren wird Erdöl in Deutschland industriell gefördert. Die erste erfolgreiche Bohrung 1858/59 in Wietze bei Celle gilt als eine der ersten der Welt. Der Höhepunkt der Erdölförderung in Deutschland wurde 1968 mit einer Jahresproduktion von rund 8 Mio. t erreicht. Die Jahresproduktion 2017 betrug rund 2,2 Mio. t. Die sicheren und wahrscheinlichen deutschen Erdölreserven werden zum 01.01.2017 auf rund 31,8 Mio. t geschätzt.
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p: "Im Jahr 2016 betrug die aktuelle heimische Erdölförderung rund 2 % des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls lag für 2016 bei geschätzten 677 Mio. Euro. und damit rangierte Erdöl bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder rangierte Deutschland im Jahr 2016 auf dem 58. Platz (1970: 26. Platz). Zum Jahresende 2016 waren in der Erdöl- und Erdgasgewinnung in Deutschland 3.384 Mitarbeiter/innen beschäftigt"
+      p: "Im Jahr 2017 betrug die aktuelle heimische Erdölförderung rund 2 % des deutschen Jahresverbrauchs. Der Wert des geförderten Erdöls lag für 2017 bei geschätzten 778 Mio. Euro. und damit rangierte Erdöl bei der wirtschaftlichen Bedeutung hinter Erdgas und Braunkohle an dritter Stelle der in Deutschland geförderten fossilen Energierohstoffe. Im internationalen Vergleich der Erdöl produzierenden Länder rangierte Deutschland im Jahr 2017 auf dem 56. Platz (1970: 26. Platz). Zum Jahresende 2017 waren in der Erdöl- und Erdgasindustrie in Deutschland 8.385 Mitarbeiter/innen beschäftigt"
       sup1:
         title: "1"
-        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen."
+        text: ""
     gewinnung:
       title: Gewinnung
-      p1: Im Jahr 2016 wareng in Deutschland 50 Erdölfelder in Produktion. Auf ihnen wurde durch fast 1.000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Erdölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2016 zusammen fast 90 % der deutschen Gesamtproduktion. Die restliche Produktion verteilte sich vor allem auf Rheinland-Pfalz und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Erdölfeld ist Mittelplate/Dieksand, das sich im Nationalpark Schleswig-Holsteinisches Wattenmeer befindet. Es wird seit 1987 über eine Bohr- und Förderinsel sowie durch Bohrungen vom Festland aus erschlossen. Auf dieses Erdölfeld entfiel 2016 mehr als die Hälfte der gesamten deutschen Erdölfördermenge.
+      p1: Im Jahr 2017 waren in Deutschland 50 Erdölfelder in Produktion. Auf ihnen wurde durch fast 1.000 Fördersonden in Bohranlagen (onshore) bzw. auf Förderplattformen (offshore) Erdöl gefördert. Die Erdölfelder Schleswig-Holsteins und Niedersachsens erbrachten 2017 zusammen fast 91 % der deutschen Gesamtproduktion. Die restliche Produktion verteilte sich vor allem auf Rheinland-Pfalz sowie Bayern und zu sehr geringen Anteilen auf Bayern, Hamburg, Brandenburg und Mecklenburg-Vorpommern. Das größte deutsche Erdölfeld ist Mittelplate/Dieksand, das sich im Nationalpark Schleswig-Holsteinisches Wattenmeer befindet. Es wird seit 1987 über eine Bohr- und Förderinsel sowie durch Bohrungen vom Festland aus erschlossen. Auf dieses Erdölfeld entfiel 2017 mehr als die Hälfte der gesamten deutschen Erdölfördermenge.
       p2: Erdöl ist ein fossiler Energieträger und dient v.a. als Treibstoff für Verkehrs- und Transportmittel und zur Beheizung von Gebäuden. Zudem wird Erdöl in der chemischen Industrie z. B. zur Herstellung von Kunststoffen verwendet.
   erdgas:
     title: Erdgas
@@ -58,10 +58,10 @@ erdol-erdgas:
       p: "Im Vergleich aller Erdgasförderländer lag Deutschland im Jahr 2016 auf Platz 44. Der Anteil an der weltweiten Erdgasfördermenge betrug 2016 etwa 0,2 %. In Relation zu anderen in Deutschland geförderten Rohstoffen, wie Braunkohle, kommt Erdgas eine relativ große wirtschaftliche Bedeutung zu. Der Wert des geförderten Erdgases betrug im Jahr 2016 geschätzt 1,45 Mrd. Euro. Etwa 12,5% des Gesamtwertes der in Deutschland produzierten Rohstoffe entfiel im Jahr 2016 auf Erdgas. Zum Jahresende 2016 waren in der Erdöl- und Erdgasgewinnung in Deutschland 3.384 Mitarbeiter/innen beschäftigt"
       sup2:
         title: "2"
-        text: "Diese Daten enthalten ausschließlich Beschäftigungszahlen für Betriebe, die unter Bergrecht fallen"
+        text: ""
     gewinnung:
       title: Gewinnung
-      p: "Nahezu 95 % des deutschen Erdgases wurde 2016 in Niedersachsen gefördert. Andere Bundesländer (Sachsen-Anhalt, Schleswig-Holstein, Thüringen und Bayern) trugen nur marginal zur Gesamtfördermenge bei. Gefördert wurde das Erdgas auf 77 Erdgasfeldern mittels 469 Fördersonden. Das Erdgasfeld A6/B4 im sogenannten Entenschnabel, einer Wirtschaftszone in der deutschen Bucht (Nordsee), ist dabei das einzige deutsche Offshore Erdgasfeld. Wie auch Erdöl tritt Erdgas in unterirdischen Lagerstätten auf. Vergleichbar mit der Erkundung von Erdöl, findet die Exploration von Erdgas vor allem durch seismische Untersuchungen und Erkundungsbohrungen statt. Die Förderung erfolgt über ein mit Zement und Stahl stabilisiertes Bohrloch, in das ein Steigrohr eingebracht wird (Sonde)."
+      p: "Nahezu 95 % des deutschen Erdgases wurde 2017 in Niedersachsen gefördert. Andere Bundesländer (Sachsen-Anhalt, Schleswig-Holstein, Thüringen und Bayern) trugen nur marginal zur Gesamtfördermenge bei. Gefördert wurden das Erdgas auf 77 Erdgasfeldern mittels 449 Fördersonden. Das Erdgasfeld A6/B4 im sogenannten Entenschnabel, einer Wirtschaftszone in der deutschen Bucht (Nordsee), ist dabei das einzige deutsche Offshore Erdgasfeld. Wie auch Erdöl tritt Erdgas in unterirdischen Lagerstätten auf. Vergleichbar mit der Erkundung von Erdöl, findet die Exploration von Erdgas vor allem durch seismische Untersuchungen und Erkundungsbohrungen statt. Die Förderung erfolgt über ein mit Zement und Stahl stabilisiertes Bohrloch, in das ein Steigrohr eingebracht wird (Sonde)."
     verwendung:
       title: Verwendung
       p: "Als fossiler Energieträger wird Erdgas hauptsächlich für die Beheizung von Wohn- und Gewerberäumen, als Wärmelieferant für thermische Prozesse in Gewerbe und Industrie (z. B. in Großbäckereien, Ziegeleien, Zementwerken, Gießereien und Metallhütten), zur elektrischen Stromerzeugung sowie als Treibstoff für Schiffe und Kraftfahrzeuge verwendet. Hinzu kommen mengenmäßig bedeutsame Anwendungen als Reaktionspartner in chemischen Prozessen, wie beispielsweise der Ammoniaksynthese im Haber-Bosch-Verfahren (Stickstoffdüngemittel), der Eisenerzreduktion im Hochofenprozess oder der Herstellung von Wasserstoff."
@@ -124,14 +124,14 @@ kohle:
     title: Steinkohle
     subtitle: Wissenswertes über Steinkohle
     slides:
-      - Mit der Schließung der letzten verbliebenen Bergwerke in Bottrop und Ibbenbüren wird die subventionierte Steinkohleförderung in Deutschland zum 31. Dezember 2018 beendet.
+      - Mit der Schließung der letzten verbliebenen Bergwerke in Bottrop und Ibbenbüren wurde die subventionierte Steinkohleförderung in Deutschland zum 31. Dezember 2018 beendet.
       - Die Beendigung erfolgt auf gesetzlicher Grundlage und sozialverträglich.
-      - Mit einer Förderung von rund 3,8 Mio. t (2016) trug die deutsche Steinkohle im Jahr 2016 zu ca. 7 % zur Deckung des deutschen Steinkohlenbedarfs bei.
-      - Ca. 93 % der benötigten Steinkohle werden importiert, hauptsächlich aus der Russischen Föderation, Kolumbien, den USA und Australien.
+      - Mit einer Förderung von rund 3,7 Mio. t trug die deutsche Steinkohle im Jahr 2017 zu ca. 7 % zur Deckung des deutschen Steinkohlenbedarfs bei.
+      - Ca. 93 % der benötigten Steinkohle wurden importiert, hauptsächlich aus der Russischen Föderation, Kolumbien, den USA und Australien.
       - Im internationalen Vergleich ist der deutsche Steinkohlenbergbau durch ungünstige geologische Bedingungen (große Abbauteufen, geringmächtige Flöze, hoher Gebirgsdruck) und eine ausgedehnte, untertägige Infrastruktur gekennzeichnet.
     geschichte:
       title: Geschichte
-      p1: "Wirtschaftliche Bedeutung erlangte der Steinkohlenbergbau in Deutschland im Zuge der Industrialisierung im 19. und 20. Jahrhundert. Die Förderung stieg stetig und erreichte mit dem Beginn des Zweiten Weltkrieges einen ersten Höhepunkt mit über 200 Mio. t Jahresförderung. Nach dem Zweiten Weltkrieg wurde heimische Steinkohle in der Elektrizitätswirtschaft, der Stahlindustrie und bei der Wärmeversorgung eingesetzt. Mitte der 1950er Jahre wurden in rund 170 Bergwerken jährlich 150 Mio. t Steinkohle durch über 600.000 Arbeitnehmer gewonnen. Ende der 1950er Jahre wandelte sich die Situation. Die heimische Steinkohle war wegen ihrer hohen Förderkosten – die Gewinnung erfolgt ausschließlich im Tiefbau und erfordert bis heute eine Subventionierung durch die öffentliche Hand – auf dem Weltmarkt nicht mehr konkurrenzfähig. In den vergangenen Jahrzehnten ersetzten Importkohle und vor allem das billigere Erdöl die heimische Steinkohle."
+      p1: "Wirtschaftliche Bedeutung erlangte der Steinkohlenbergbau in Deutschland im Zuge der Industrialisierung im 19. und 20. Jahrhundert. Die Förderung stieg stetig und erreichte mit dem Beginn des Zweiten Weltkrieges einen ersten Höhepunkt mit über 200 Mio. t Jahresförderung. Nach dem Zweiten Weltkrieg wurde heimische Steinkohle in der Elektrizitätswirtschaft, der Stahlindustrie und bei der Wärmeversorgung eingesetzt. Mitte der 1950er Jahre wurden in rund 170 Bergwerken jährlich 150 Mio. t Steinkohle durch über 600.000 Arbeitnehmer/innen gewonnen. Ende der 1950er Jahre wandelte sich die Situation. Die heimische Steinkohle war wegen ihrer hohen Förderkosten – die Gewinnung erfolgt ausschließlich im Tiefbau und erfordert bis heute eine Subventionierung durch die öffentliche Hand – auf dem Weltmarkt nicht mehr konkurrenzfähig. In den vergangenen Jahrzehnten ersetzten Importkohle und vor allem das billigere Erdöl die heimische Steinkohle."
       p2: "Die heutige Situation des deutschen Steinkohlenbergbaus ist das Ergebnis eines kontinuierlichen Anpassungsprozesses. Seinen Anfang nahm er mit der Gründung der Ruhrkohle AG – einer Zusammenführung von 51 Bergwerken des Ruhrgebiets – im Jahr 1969."
     ausblick:
       title: Ausblick
@@ -140,14 +140,14 @@ kohle:
       p2: und steuerliche Begünstigungen.
     wirtschaftliche-bedeutung:
       title: Wirtschaftliche Bedeutung
-      p1: Im Jahr 2016 deckte Steinkohle in Deutschland 12,2 % (2016) des Primärenergieverbrauches ab und trug zu 17,1 % zur deutschen Stromerzeugung bei. Im Jahre 2016 entfielen auf die Kraftwerke etwa 78 % des Gesamtverbrauchs an Steinkohle, auf die Stahlindustrie weitere 20 % sowie auf das sonstige produzierende Gewerbe und auf den Hausbrand und Kleinverbraucher etwa 2 %. Die heimische Steinkohlenförderung belief sich im Jahr 2016 auf 3,8 Mio. t. Dies entspricht einem Wert von rund 258 Mio. Euro. Im Jahr 2016 wurden in Deutschland noch zwei Bergwerke (ein Bergwerk in Bottrop, ein Bergwerk in Ibbenbüren) mit 7.480 Beschäftigten betrieben. Angesichts dieser Entwicklung wurden im Jahr 2016 rund 93 % des Bedarfs an Steinkohle und Steinkohlenprodukten (55,6 Mio. t) durch Importe gedeckt.
+      p1: Im Jahr 2017 deckte Steinkohle in Deutschland 10,9 % des Primärenergieverbrauches ab und trug zu 14,1 % zur deutschen Stromerzeugung bei. Im Jahre 2017 entfielen auf die Kraftwerke etwa 61 % des Gesamtverbrauchs an Steinkohle, auf die Stahlindustrie weitere 36 % sowie auf das sonstige produzierende Gewerbe und auf den Hausbrand und Kleinverbraucher etwa 3 %. Die heimische Steinkohlenförderung belief sich im Jahr 2017 auf 3,7 Mio. t. Dies entspricht einem Wert von rund 337 Mio. Euro. Im Jahr 2017 wurden in Deutschland noch zwei Bergwerke (ein Bergwerk in Bottrop, ein Bergwerk in Ibbenbüren) mit 5.711 Beschäftigten betrieben. Angesichts dieser Entwicklung wurden im Jahr 2017 rund 93 % des Bedarfs an Steinkohle und Steinkohlenprodukten (50,3 Mio. t) durch Importe gedeckt.
   braunkohle:
     title: Braunkohle
     slides_title: Wissenswertes über Braunkohle
     slides:
-      - Mit einer Fördermenge von rund 178 Mio. t (2015) ist die Braunkohle zu knapp 12 %  am Primärenergieverbrauch in Deutschland beteiligt.
-      - Der Anteil der Braunkohle an der Bruttostromerzeugung liegt bei rund 24 %.
-      - In Deutschland wird aktuell in drei Braunkohlerevieren in zehn aktiven Tagebauen Braunkohle gefördert. Das Rheinische Revier ist das größte Braunkohlerevier Europas und Deutschland der weltweit größte Produzent von Braunkohle.
+      - Mit einer Fördermenge von rund 171,3 Mio. t (2017) ist die Braunkohle zu knapp 11,1 %  am Primärenergieverbrauch in Deutschland beteiligt.
+      - Der Anteil der Braunkohle an der Bruttostromerzeugung lag 20176 bei rund 22,53 %.
+      - In Deutschland wird aktuell in drei Braunkohlenrevieren in zehn aktiven Tagebauen Braunkohle gefördert. Das Rheinische Revier ist das größte Braunkohlenrevier Europas und Deutschland der weltweit größte Produzent von Braunkohle.
       - Deutschland deckt seinen Braunkohlebedarf zu 100 % aus heimischen Lagerstätten.
       - Rekultivierung und der Ausgleich für die Landinanspruchnahme durch den Bergbau sind wichtige Themen des deutschen Braunkohlebergbaus.
     geschichte:
@@ -155,10 +155,10 @@ kohle:
       p: Bereits im 17. Jahrhundert wurde in Deutschland Braunkohle als Ersatz für den knapper werdenden Brennstoff Holz gefördert. Mit der zunehmenden Industrialisierung und der Erschließung neuer Lagerstätten stieg die Braunkohleförderung im 19. Jahrhundert von 170.000 t (1840) auf 40 Mio. t (1900). Im 20. Jahrhundert setzte sich dieser Trend unverändert fort, bis 1985 der Höhepunkt der Förderung mit 433 Mio. t/Jahr erreicht wurde. Ein Großteil des Anstieges der gesamtdeutschen Fördermenge entfiel auf die ostdeutschen Braunkohlereviere. Im Zuge der Wiedervereinigung ging die Braunkohlenförderung der ostdeutschen Braunkohlereviere von 1989 bis 1994 um 67 % zurück, hervorgerufen insbesondere durch eine Änderung im Energieträgermix. Die Gesamtdeutsche Fördermenge sank in diesem Zeitraum von 410 Mio. t auf 207 Mio. t.
     gewinnung:
       title: Gewinnung
-      p: Braunkohle wird hauptsächlich in drei Revieren – dem Rheinischen, Lausitzer und Mitteldeutschen Revier – ausschließlich in Tagebauen, also oberflächennah, gefördert. Die Jahresförderung betrug 2016 rund 171,5 Mio. Tonnen und war in den letzten Jahren weitgehend konstant. Der Wert der 2016 in Deutschland geförderten Braunkohle betrug geschätzt 2,3 Mrd. Euro. Damit ist die Braunkohle der wertmäßig wichtigste in Deutschland geförderte Rohstoff. Mit dem Rückgang der Braunkohlenförderung im Zuge der deutschen Wiedervereinigung ist die Zahl der direkt im Braunkohlenbergbau Beschäftigten von 130.000 (1990) auf 14.693 (2016) gesunken.
+      p: Braunkohle wird hauptsächlich in drei Revieren – dem Rheinischen, Lausitzer und Mitteldeutschen Revier – ausschließlich in Tagebauen, also oberflächennah, gefördert. Die Jahresförderung betrug 2017 rund 171,3 Mio. Tonnen und war in den letzten Jahren weitgehend konstant. Der Wert der 2017 in Deutschland geförderten Braunkohle betrug geschätzt 2,3 Mrd. Euro. Damit war die Braunkohle  der wertmäßig wichtigste in Deutschland geförderte Rohstoff. Mit dem Rückgang der Braunkohlenförderung im Zuge der deutschen Wiedervereinigung ist die Zahl der direkt im Braunkohlenbergbau Beschäftigten von 130.000 (1990) auf 20.891 (2017) gesunken.
     verwendung:
       title: Verwendung
-      p: Braunkohle wird zu rund 90 % zur Strom- und Fernwärmeerzeugung eingesetzt. Die wirtschaftliche Nutzung erfolgt dabei lagerstättennah im Verbund von Tagebau und Kraftwerk. Rund 10 % der Braunkohlenförderung werden zu festen oder staubförmigen Brennstoffen (Braunkohlenbriketts, Braunkohlenstaub und Wirbelschichtbraunkohle, Braunkohlenkoks) veredelt – für eine gewerbliche Nutzung sowie für die privaten Haushalte. Braunkohle deckt in Deutschland 11,4 % (2016) des Primärenergieverbrauches und trägt zu 23,1 % (2016) zur Stromerzeugung in Deutschland bei. Dabei deckt die heimische Braunkohlenfördeung den jährlichen Verbrauch.
+      p: Braunkohle wird zu rund 90 % zur Strom- und Fernwärmeerzeugung eingesetzt. Die wirtschaftliche Nutzung erfolgt dabei lagerstättennah im Verbund von Tagebau und Kraftwerk. Rund 10 % der Braunkohlenförderung werden zu festen oder staubförmigen Brennstoffen (Braunkohlenbriketts, Braunkohlenstaub und Wirbelschichtbraunkohle, Braunkohlenkoks) veredelt – für eine gewerbliche Nutzung sowie für die privaten Haushalte. Braunkohle deckt in Deutschland 11,1 % (2017) des Primärenergieverbrauches und trägt zu 22,5 % (2017) zur Stromerzeugung in Deutschland bei. Dabei deckt die heimische Braunkohlenfördeung den jährlichen Verbrauch.
 salze:
   title: Salze
   nav_items:
@@ -191,13 +191,13 @@ salze:
     link1_1: hier
     p1_2: beschriebenen mineralischen Rohstoffen zu den Industriemineralien. Als Industrieminerale werden mineralische Rohstoffe bezeichnet, die aufgrund ihrer besonderen chemischen und physikalischen Eigenschaften sofort, d. h. ohne Stoffumwandlung, eine industrielle Verwendung finden. Bei den Salzen wird zwischen Steinsalz, Kali- und Magnesiumsalzen unterschieden.
     p2: In Deutschland gibt es große Salzlagerstätten, die besonders im norddeutschen Raum konzentriert sind. Über Jahrmillionen hinweg führten Ablagerungen von Salzen zu mehreren 100 m mächtigen Salzformationen. Ähnlich alt ist das Salz, das seit Jahrtausenden in den bayerischen und österreichischen Alpen gewonnen wird.
-    p3: Die Inbetriebnahme der ersten Kalifabrik der Welt in Staßfurt im Jahr 1861 begründete die bereits 150-jährige Tradition des deutschen Kalibergbaus. Die Salzgewinnung durch Aussolung, d.h. durch Salzlösung mittels über Bohrlöcher eingepressten Wassers oder im bergmännischen Abbau in Bergwerken hat eine lange Geschichte. Bereits im 12. Jahrhundert wurde im Raum Berchtesgaden nach Salz gegraben. Im 16. Jahrhundert erfolgte dort die Errichtung eines sich noch heute im Betrieb befindlichen Salzbergwerks.
+    p3: Die Inbetriebnahme der ersten Kalifabrik der Welt in Staßfurt im Jahr 1861 begründete die bereits 150-jährige Tradition des deutschen Kalibergbaus. Die Salzgewinnung durch Aussolung, d.h. durch Salzlösung mittels über Bohrlöcher eingepressten Wassers oder im bergmännischen Abbau in Bergwerken, hat eine lange Geschichte. Bereits im 12. Jahrhundert wurde im Raum Berchtesgaden nach Salz gegraben. Im 16. Jahrhundert erfolgte dort die Errichtung eines sich noch heute im Betrieb befindlichen Salzbergwerks.
   wirtschaftliche-bedeutung:
     title: Wirtschaftliche Bedeutung
-    p1: Im Jahr 2016 betrug die Fördermenge in Deutschland ca. 13,4 Mio. t Steinsalz (einschließlich Industriesole) und rund 36,2 Mio. t Kali und Kalisalzprodukte. Mit einem Anteil an der weltweiten Gesamtfördermenge von 5,3 % war Deutschland im Jahr 2016 der viertgrößte Steinsalzproduzent nach China, den USA und Indien und zugleich der fünftgrößte Kaliproduzent mit rund 7 % % der weltweiten Gesamtfördermenge. Im Kalibergbau in Deutschland waren 2016 insgesamt 7.864 Mitarbeiter direkt beschäftigt sowie im Salzbergbau weitere etwa 2.500 Personen.
+    p1: Im Jahr 2017 betrug die Fördermenge in Deutschland ca. 14,6 Mio. t Steinsalz (einschließlich Industriesole) und rund 6,7 Mio. t Kali und Kalisalzprodukte. Mit einem Anteil an der weltweiten Gesamtfördermenge von 5 % war Deutschland im Jahr 2017 der viertgrößte Steinsalzproduzent nach China, den USA und Indien und zugleich der fünftgrößte Kaliproduzent mit rund 7 % % der weltweiten Gesamtfördermenge. Im Kalibergbau in Deutschland waren 2017 insgesamt 8.260 Mitarbeiter/innen direkt beschäftigt sowie im Salzbergbau weitere etwa 2.438 Personen.
   gewinnung:
     title: Gewinnung
-    p: Der Abbau erfolgt in Deutschland in sechs Kalibergwerken (in Hessen, Niedersachsen, Sachsen-Anhalt und Thüringen), sieben Salzbergwerken (in Baden-Württemberg, Bayern, Niedersachsen, Nordrhein-Westfalen, Sachsen-Anhalt und Thüringen) und sieben Salinen (in Baden-Württemberg, Bayern, Mecklenburg-Vorpommern, Niedersachsen und Nordrhein-Westfalen). Der Salzabbau erfolgt in Bergwerken durch bergmännischen Abbau mittels Bohr-, Spreng- oder Schneidtechnik oder durch Aussolung von unterirdischen Lagerstätten. Beim Verfahren der Aussolung wird über Bohrlochsonden Süßwasser oder Halbsole in die Lagerstätte eingebracht, wodurch sich die Salze lösen. Die so entstehende Sole wird über eine Sonde abgepumpt und über Tage in Salinen zu Salz und weiteren Produkten verarbeitet.
+    p: Der Abbau erfolgt in Deutschland in sechs Kalibergwerken (in Hessen, Niedersachsen, Sachsen-Anhalt und Thüringen), sieben Salzbergwerken (in Baden-Württemberg, Bayern, Niedersachsen, Nordrhein-Westfalen, Sachsen-Anhalt und Thüringen) und sieben Salinen (in Baden-Württemberg, Bayern, Mecklenburg-Vorpommern, Niedersachsen und Nordrhein-Westfalen) sowie zehn Aussolungsbetrieben (Nordrhein-Westfalen, Schleswig-Holstein, Niedersachsen und Sachsen-Anhalt). Der Salzabbau erfolgt in Bergwerken durch bergmännischen Abbau mittels Bohr-, Spreng- oder Schneidtechnik oder durch Aussolung von unterirdischen Lagerstätten. Beim Verfahren der Aussolung wird über Bohrlochsonden Süßwasser oder Halbsole in die Lagerstätte eingebracht, wodurch sich die Salze lösen. Die so entstehende Sole wird über eine Sonde abgepumpt und über Tage in Salinen zu Salz und weiteren Produkten verarbeitet.
   verwendung:
     title: Verwendung
     p1: Stein- und Siedesalz wird als Industrie- und Gewerbesalz sowie als Speise- und Auftausalz verwendet. Salz ist ein unverzichtbarer Rohstoff für die chemische Industrie – z. B. bei der Erzeugung von Soda, Chlor und Natronlauge. Ohne Salz könnten weder Glas noch Kunststoff oder Aluminium hergestellt werden. Es findet Verwendung als Regeneriersalz in Wasserenthärtungsanlagen, in der Futtermittelindustrie, im Straßen- und Winterdienst sowie in der Lebensmittelindustrie. Besonders hohe Reinheitsanforderungen erfüllt Natriumchlorid als Pharmawirkstoff.
@@ -243,26 +243,30 @@ steine-und-erden:
     p: Der Abbau von Steinen und Erden ist seit Beginn der Menschheitsgeschichte überliefert. Bei den ältesten bekannten „Steinen aus Menschenhand“ handelt es sich nach den Erkenntnissen der Wissenschaft um aus dem 9. bis 8. Jahrtausend vor Christus stammende Bodenbefestigungen im Nahen Osten. Auch in Deutschland hat die Gewinnung von Steinen und Erden eine sehr lange Tradition. Während die Rohstoffe früher hauptsächlich manuell gewonnen wurden, nutzen Betriebe heute den Einsatz moderner Technik. Geophysik, GPS, intelligente Maschinen- und Anlagensteuerungen sowie weitgehend automatisierte Prozesse bestimmen die Rohstoffförderung.
   gewinnung:
     title: Gewinnung
-    p: Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Im Jahr 2016 zählten Kiese und Sande mengenmäßig mit rund 247 Mio. t und gebrochene Natursteine mit etwa 218 Mio. t zu den wichtigsten Rohstoffen der deutschen Rohstoffgewinnung. Die Branche der Kies-, Sand- und Natursteingewinnung besteht in Deutschland aus etwa 1.600 Unternehmen, die rund 3.100 Gewinnungsstätten betreiben.
+    p: Jährlich werden von der Baustoff-, Steine-und-Erden-Industrie insgesamt etwa 550 Mio. t Primärrohstoffe gefördert bzw. in der Produktion eingesetzt. Im Jahr 2017 waren Kiese und Sande mit rund 257 Mio. t und gebrochene Natursteine mit etwa 220 Mio. t die denmengenmäßig wichtigsten miniralischen Rohstoffen der deutschen Rohstoffgewinnung. Die Branche der Kies-, Sand- und Natursteingewinnung besteht in Deutschland aus etwa 1.600 Unternehmen, die rund 3.100 Gewinnungsstätten betreiben.
   verwendung:
     title: Verwendung
-    p: Rund 80 % der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20 % finden Einsatz in der Chemie-, Stahl- oder Glasindustrie. Neben den primär gewonnenen Steinen und Erden werden in der Baustoffindustrie jährlich fast 100 Mio. t Sekundärrohstoffe (mineralische Bauabfälle, Nebenprodukte aus industriellen Prozessen) eingesetzt. Diese entstehen zum Beispiel beim Abbruch von Gebäuden, der Produktion von Roheisen (Hochofenschlacken) oder bei der Stromerzeugung in konventionellen Kraftwerken (REA-Gips, Flugasche). Der Einsatz von Sekundärrohstoffen trägt zur Substitution primärer Rohstoffe bei. Die Substitutionsquote beträgt etwa 15 %.
+    p: Rund 80 % der Steine-Erden-Güter werden in die Bauwirtschaft geliefert – etwa 20 % finden Einsatz in der Chemie-, Stahl- oder Glasindustrie. Neben den primär gewonnenen Steinen und Erden werden in der Baustoffindustrie jährlich fast 100 Mio. t Sekundärrohstoffe (mineralische Bauabfälle, Nebenprodukte aus industriellen Prozessen) eingesetzt. Diese entstehen zum Beispiel beim Abbruch von Gebäuden, der Produktion von Roheisen (Hochofenschlacken) oder bei der Stromerzeugung in konventionellen Kraftwerken (REA-Gips, siehe Ausblick Gips; Flugasche). Der Einsatz von Sekundärrohstoffen trägt zur Substitution primärer Rohstoffe bei. Die Substitutionsquote beträgt etwa 15 %.
   industrieminerale:
     title: Industrieminerale
     geschichte:
       title: Geschichte
       p1: Als Industrieminerale werden mineralische Gesteine bezeichnet, die aufgrund ihrer besonderen chemischen und physikalischen Eigenschaften sofort, d. h. ohne Stoffumwandlung, eine industrielle Verwendung finden. Zu dieser Gruppe gehören neben den unter v. bereits genannten Salzen auch Kaolin (auch Porzellanerde genannt), Quarzsand, Quarzit, Feldspat, Klebsand, Bentonit, Spezialton, Kieselerde, Flussspat und Schwerspat.
-      p2: Industrieminerale werden in Deutschland seit mehreren hundert Jahren in sehr unterschiedlichem Umfang gefördert. Abgesehen von den Salzen, sind die beiden in Deutschland mengenmäßig am meisten geförderten Industrieminerale Quarz und Quarzsande sowie Spezialtone mit einer Fördermenge von rund 9,9 Mio. t. und 5,4 Mio. t.
+      p2: Industrieminerale werden in Deutschland seit mehreren hundert Jahren in sehr unterschiedlichem Umfang gefördert. Abgesehen von den Salzen, sind die beiden in Deutschland mengenmäßig am meisten geförderten Industrieminerale Quarzsand/-kies sowie Spezialtone mit einer Fördermenge von rund 10,3 Mio. t. und 6 Mio. t. im Jahr 2017.
     gewinnung:
       title: Gewinnung
       p1: Aufgrund natürlicher Gegebenheiten weist der Abbau von Industriemineralen in Deutschland eine hohe Regionalität auf. Während z. B. Kaolin und Kieselerde insbesondere in Bayern und Sachsen gefördert werden, konzentriert sich die Gewinnung von Spezialton vorwiegend auf Rheinland-Pfalz und Hessen.
-      p2: Abgesehen von den Salzen, werden Industrieminerale in Deutschland hauptsächlich von kleinen und mittelständischen Betrieben zumeist über Tage gefördert. Dagegen werden auch  Fluss- und Schwerspat unter Tage abgebaut. 2014 gab es insgesamt 627 aktive Förderstätten in Deutschland, von denen rund die Hälfte allein auf die Gewinnung von Quarzkiesen und Quarzsanden spezialisiert waren.
+      p2: Abgesehen von den Salzen, werden Industrieminerale in Deutschland hauptsächlich von kleinen und mittelständischen Betrieben zumeist über Tage gefördert. Dagegen werden auch  Fluss- und Schwerspat auch unter Tage abgebaut. 2014 gab es insgesamt 627 aktive Förderstätten in Deutschland, von denen rund die Hälfte allein auf die Gewinnung von Quarzkiesen und Quarzsanden spezialisiert waren.
     verwendung:
       title: Verwendung
-      p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie machen sich die Eigenschaften der Industrieminerale zunutze.
+      p: Industrieminerale finden aufgrund ihrer chemischen und physikalischen Eigenschaften insbesondere in der Papier-, Chemie-, Glas-, Keramik-, Feuerfest- sowie in der Gießerei- und Stahlindustrie Anwendung. Aber auch die Pharmabranche, das Umweltmanagement (Abgasreinigung, Kläranlagen, Solarpanel oder Windkraftanlagen) und die Automobilindustrie verwenden Industrieminerale.
   eisenerze:
     title: Eisenerze
-    p: "In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie. In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient größtenteils in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
+    p: "In Deutschland wird in Nordrhein-Westfalen und Sachsen Eisenerz abgebaut. Das hier geförderte Eisenerz wird jedoch nicht zu Eisen verhüttet, sondern dient in Form von Schotter, Splitt und Brechsanden als farbiger und eisenreicher Zuschlagstoff für die Beton- bzw. Zementindustrie."
+  infobox:
+    title: Ausblick Gips
+    p1: "Der Ausbau von erneuerbaren Energien im Zuge der Energiewende ist mit der Verringerung und künftigen Einstellung der Kohleverstromung verbunden. Dies hat für die Gipsindustrie große Auswirkungen, da sie ihre Produkte zu einem großen Teil auf Basis von REA-Gips aus Kohlekraftwerken herstellt. Beim REA-Gips handelt es sich um Gips, der in den Rauchgasentschwefelungsanlagen (REA) von Kohlekraftwerken bzw. Kraftwerken, die mit fossilen Brennstoffen betrieben werden, als Nebenprodukt entsteht."
+    p2: "Mit der Verringerung bzw. Einstellung der Kohleverstromung muss der Gipsbedarf deshalb zukünftig anderweitig gedeckt werden, beispielsweise durch Förderung von Naturgips oder Gipsrecycling."
 
 rechtlicher-rahmen:
   title: Wer ist zuständig? Gesetze und Zuständigkeiten staatlicher Stellen
@@ -599,7 +603,7 @@ lizenzregister_und_verträge:
     p1: In Deutschland wird allein für bergfreie Bodenschätze das Recht zur bergbaulichen Exploration und Gewinnung staatlich vergeben. Das Verfügungsrecht über einen bergfreien Bodenschatz wird als Bergbauberechtigung bezeichnet und kann bei den Bergbehörden der Bundesländer beantragt werden
     link1: (weitere Informationen siehe auch Genehmigung von Bergbauvorhaben).
     p2: Nach § 75 BBergG führen die Bergbehörden sogenannte Berechtsamsbücher und Berechtsamskarten, in denen die nach BBergG neu erteilten oder nach § 149 BBergG aufrechterhaltenen Bergbauberechtigungen (sogenannte Alte Rechte und Verträge) einzutragen sind.
-    p3: "Eine öffentliche Einsicht in die Berechtsamsbücher und –karten wurde im Rahmen der deutschen Umsetzung der D-EITI geschaffen. Seit dem 21.07.2017 können nach § 76 Abs. 3 BBergG auf Antrag bei den Bergbehörden folgende Angaben zu den erteilten und aufrechterhaltenen Bergbauberechtigungen, ohne Darlegung eines berechtigten Interesses, eingesehen werden:"
+    p3: "Eine öffentliche Einsicht in die Berechtsamsbücher und -karten wurde im Rahmen der deutschen Umsetzung der D-EITI geschaffen. Seit dem 21. Juli 2017 können nach § 76 Abs. 3 BBergG auf Antrag bei den Bergbehörden folgende Angaben zu den erteilten und aufrechterhaltenen Bergbauberechtigungen, ohne Darlegung eines berechtigten Interesses, eingesehen werden:"
     item1: Inhaber
     item2: Felder, auf die sich die Bergbauberechtigung bezieht
     item3: Datum der Beantragung und der Erteilung
@@ -612,8 +616,8 @@ lizenzregister_und_verträge:
     p4: "Bewilligungen und Erlaubnisse zur bergbaulichen Exploration können durch die Gesetzesänderung ebenso eingesehen werden.
     Die zuständigen Behörden können die genannten Informationen auch direkt öffentlich zugänglich machen, was bereits seit längerem in einer Vielzahl der Bundesländer geschieht. So veröffentlichen einige Bundesländer übersichtliche Online-Lizenzkataster. Weitere Bundesländer planen den Aufbau entsprechender Systeme."
     p5_1: "Weiterhin werden alle Bergbauberechtigungen in Deutschland im Bereich Kohlenwasserstoffe in der jährlich erscheinenden Publikation"
-    linkp: "Der Bergbau in der Bundesrepublik Deutschland"
-    link_href: "https://www.bmwi.de/Redaktion/DE/Downloads/B/bergbau-in-der-brd-bergwirtschaft-statistik-2016.pdf?__blob=publicationFile&v=4"
+    linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
+    link_href: "https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html"
     p5_2: "veröffentlicht."
 
   beispiel:
@@ -665,7 +669,7 @@ wirtschaftlich_berechtigter:
         - name: einsicht
           title: Einsicht in das Transparenzregister
         - name: einsichtNeu
-          title: Erweiterung der Einsichtnahmemöglichkeit im Zuge der Novellierung der Vierten Geldwäscherichtlinie (EU) 2015/849
+          title: Erweiterung der Einsichtnahmemöglichkeit in das Transparenzregister
   sup1:
     title: "1"
     text: "Eine Transaktion bezeichnet hierbei all jene Handlungen, die eine Geldbewegung oder eine sonstige Vermögensbewegung bezweckt oder bewirkt."
@@ -705,18 +709,18 @@ wirtschaftlich_berechtigter:
     p: "Die Informationen zu wirtschaftlich Berechtigten im Transparenzregister sind bestimmten staatlichen Behörden im Rahmen ihrer gesetzlichen Aufgaben, geldwäscherechtlich Verpflichteten im Rahmen der Erfüllung ihrer geldwäscherechtlichen Sorgfaltspflichten und jedem anderen, der ein berechtigtes Interesse an der Einsichtnahme darlegt (z. B. Nichtregierungsorganisationen (NRO’s) oder Journalisten), zugänglich (§ 23 Abs. 1 GwG). Ein derartiges Interesse besteht insbesondere, wenn ein Bezug zur Verhinderung und Bekämpfung von Terrorismusfinanzierung und Geldwäsche sowie deren Vortaten wie etwa Korruption nachvollziehbar vorgebracht wird. Die Bundesregierung hat am 2. Juli 2014 beschlossen, die Kandidatur Deutschlands bei der internationalen „Initiative für Transparenz in der Rohstoffwirtschaft“ (Extractive Industries Transparency Initiative – EITI) einzuleiten. Mit der Umsetzung in Deutschland (D-EITI) stärkt die Bundesregierung die internationalen Bemühungen bei der Bekämpfung von Korruption im Zusammenhang mit Rohstoffgeschäften. Dieses erklärte Ziel begründet ein berechtigtes Interesses von D-EITI zur Einsichtnahme in das Transparenzregister."
 
   einsichtNeu:
-    title: "Erweiterung der Einsichtnahmemöglichkeit im Zuge der Novellierung der Vierten Geldwäscherichtlinie (EU) 2015/849"
+    title: "Erweiterung der Einsichtnahmemöglichkeit in das Transparenzregister"
     p1_1: "Mit der am 9. Juli 2018 in Kraft getretenen Änderungsrichtlinie zur 4. Geldwäscherichtlinie (EU) 2018/843"
     p1_2: ", deren Regelungen zum Großteil von den Mitgliedsstaaten bis 10. Januar 2020 umzusetzen sind, muss der Zugang zum Register künftig öffentlich ausgestaltet werden, d. h. der bisher gestaffelt geregelte Zugang mit Nachweis eines berechtigten Interesses an der Einsichtnahme entfällt. Nur für bestimmte Trusts"
     p1_3: "gibt es die Ausnahme, dass ein gestaffelter Zugang gilt (wobei es den Mitgliedstaaten offen steht, auch hier weiter zu gehen). Bestehen bleibt auch die nach der aktuellen Rechtsgestaltung bereits vorgesehene Möglichkeit, dass wirtschaftlich Berechtigte die Einsichtnahmemöglichkeit in das Transparenzregister beschränken können, wenn sie darlegen, Opfer bestimmter Straftaten (z.B. Erpressung) zu werden drohen. Deutschland wird die EU-rechtlichen Vorgaben fristgerecht in nationales Recht umsetzen."
 
 erweiterung-einsichtnahme:
     title: "Erweiterung der Einsichtnahmemöglichkeit im Zuge der Novellierung der Vierten Geldwäscherichtlinie (EU) 2015/849"
-    p: "Mit der am 9. Juli 2018 in Kraft getretenen Änderungsrichtlinie zur 4. Geldwäscherichtlinie (EU) 2018/843, deren Regelungen zum Großteil von den Mitgliedsstaaten bis 10. Januar 2020 umzusetzen sind, muss der Zugang zum Register künftig öffentlich ausgestaltet werden, d. h. der bisher gestaffelt geregelte Zugang mit Nachweis eines berechtigten Interesses an der Einsichtnahme entfällt. Nur für bestimmte Trusts gibt es die Ausnahme, dass ein gestaffelter Zugang gilt (wobei es den Mitgliedstaaten offen steht, auch hier weiter zu gehen). Bestehen bleibt auch die nach der aktuellen Rechtsgestaltung bereits vorgesehene Möglichkeit, dass wirtschaftlich Berechtigte die Einsichtnahmemöglichkeit in das Transparenzregister beschränken können, wenn sie darlegen, Opfer bestimmter Straftaten (z.B. Erpressung) zu werden drohen. Deutschland wird die EU-rechtlichen Vorgaben fristgerecht in nationales Recht umsetzen."
+    p: "Mit der am 9. Juli 2018 in Kraft getretenen Änderungsrichtlinie zur 4. Geldwäscherichtlinie (EU) 2018/843 vom 30. Mai 2018, deren Regelungen zum Großteil von den Mitgliedsstaaten bis 10. Januar 2020 umzusetzen sind, muss der Zugang zum Register künftig öffentlich ausgestaltet werden, d. h. der bisher gestaffelt geregelte Zugang mit Nachweis eines berechtigten Interesses an der Einsichtnahme entfällt. Bestehen bleibt die nach der aktuellen Rechtsgestaltung bereits vorgesehene Möglichkeit, dass wirtschaftlich Berechtigte die Einsichtnahmemöglichkeit in das Transparenzregister beschränken können, wenn sie darlegen, Opfer bestimmter Straftaten (z.B. Erpressung) zu werden drohen. Deutschland wird die EU-rechtlichen Vorgaben fristgerecht in nationales Recht umsetzen und das Bundeskabinett hat am 31. Juli 2019 den Regierungsentwurf für eine entsprechende Anpassung des Rechtsrahmens beschlossen."
 
 sup3:
   title: "3"
-  text: "Richtlinie (EU) 2018/843 des Europäischen Parlamentes und des Rates vom 30. Mai 2018 zur Änderung der Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung und zur Änderung der Richtlinien 2009/138/EG und 2013/36/EU (ABl. L 156 vom 19.6.2018, S. 43)."
+  text: ""
 
 sup4:
   title: "4"
@@ -763,16 +767,16 @@ anfallende_zahlungen:
     feldes-und-förderabgaben:
       title: Feldes- und Förderabgaben
       p1: Unternehmen und Personen brauchen zum Aufsuchen von sogenannten bergfreien Bodenschätzen eine Erlaubnis (§ 7 BBergG). Die Inhaber einer solchen Erlaubnis müssen nach § 30 BBergG jährlich eine Feldesabgabe entrichten. Diese beträgt nach § 30 Abs. 3 Satz 1 BBergG grundsätzlich im ersten Jahr nach der Erteilung pro Quadratkilometer eines Erlaubnisfelds fünf Euro und steigt jährlich um fünf auf bis zu maximal 25 Euro an, wobei die Länder durch Rechtsverordnung abweichende Beiträge oder Befreiungen unter bestimmten Voraussetzungen vorsehen können (siehe § 32 Abs. 2 BBergG und
-      link1: Übersichtsdarstellung als Auszug aus dem D-EITI-Bericht für 2016, S. 35-45
+      link1: Übersichtsdarstellung als Auszug aus dem zweiten D-EITI-Bericht, S. 38-46
       p2: ). Die für die Aufsuchung gemachten Aufwendungen sind auf die Feldesabgabe anzurechnen. Die Feldesabgabe ist an das Land zu entrichten, in dem das Erlaubnisfeld liegt.
       p3: Werden Bodenschätze gefunden, ist eine Bewilligung für deren Abbau erforderlich. Eine Förderung ist allerdings erst möglich, wenn zusätzlich die erforderlichen Betriebsplangenehmigungen und eventuell weitere Genehmigungen, wie z. B. wasserrechtliche Genehmigungen vorliegen. Sofern die abgebauten Bodenschätze wirtschaftlich verwendet werden können, muss der Inhaber nach § 31 BBergG eine Förderabgabe auf die geförderten bergfreien Bodenschätze entrichten. Der Regelsatz der Förderabgabe liegt bei 10 % des Marktwertes der Bodenschätze (§ 31 Abs. 2 Satz 1 BBergG). Auch hiervon können die Länder in ihren jeweiligen Verordnungen für die Festsetzung der Feldes- und Förderabgaben unter Beachtung bestimmter Voraussetzungen abweichende Regelungen festlegen (siehe § 32 BBergG und
-      link2: Übersichtsdarstellung als Auszug aus dem D-EITI-Bericht für 2016, S. 35-45
-      p4: ). Feldes- und Förderabgaben fallen nur für die bergfreien Bodenschätze an. Während die Feldesabgaben in den jeweiligen Landeshaushalten vereinnahmt werden, fließen die Einnahmen aus der rabgabedem Länderfinanzausgleich zu. Feldes- und Förderabgabe werden von den Bergämtern der Bundesländer erhoben.
+      link2: Übersichtsdarstellung als Auszug aus dem zweiten D-EITI-Bericht, S. 38-46
+      p4: ). Feldes- und Förderabgaben fallen nur für die bergfreien Bodenschätze an. Während die Feldesabgaben in den jeweiligen Landeshaushalten vereinnahmt werden, fließen die Einnahmen aus der Förderabgabe dem Länderfinanzausgleich zu. Feldes- und Förderabgabe werden von den Bergämtern der Bundesländer erhoben.
     gewerbesteuer:
       title: Gewerbesteuer
-      p1: Für die Gewerbesteuer sind die Gemeinden zuständig. Sie wird von der Gemeinde erhoben, in deren Gebiet sich die Betriebsstätte befindet. Besteuert wird die objektive Ertragskraft eines Gewerbebetriebs, die im Unterschied zu der Körperschaftsteuer nicht an die wirtschaftliche Leistungsfähigkeit anknüpft. Hinzurechnungen und Kürzungen korrigieren den Ertrag des Gewerbebetriebs (§§ 8 und 9 GewStG). Für die Berechnung der Gewerbesteuer ermittelt das zuständige Finanzamt den Steuermessbetrag, der 3,5 % der objektiven Ertragskraft beträgt. Die zuständige Gemeinde setzt einheitlich für alle Unternehmen einen Hebesatz fest, der mindestens 200 % betragen muss (§ 16 Abs. 4 Satz 2 GewStG)  und berechnet die Gewerbesteuer auf der Grundlage des Steuermessbetrags und des Hebesatzes.
-      p2: Rohstoffgewinnende Unternehmen in der Rechtsform einer Personen- oder Kapitalgesellschaft sind gewerbesteuerpflichtig. Wenn sich die Betriebsstätte auf dem Gebiet mehrerer Gemeinden befindet oder in mehreren Gemeinden Betriebsstätten betrieben werden, wird die Bemessungsgrundlage der Gewerbesteuer auf die einzelnen Gemeinden aufgeteilt (sogenannte Zerlegung). Als Maßstab für die Zerlegung werden grundsätzlich die Arbeitslöhne in den einzelnen Betriebsstätten herangezogen. Dies bedeutet, dass jede betroffene Gemeinde ihren Anteil an der Gewerbesteuer eines Rohstoffunternehmens erheben kann.
-      p3: Eine Übersicht zu den Hebesätzen der Gemeinden in Deutschland finden Sie
+      p1: Für die Gewerbesteuer sind die Gemeinden zuständig. Sie wird von der Gemeinde erhoben, in deren Gebiet sich die Betriebsstätten befindet. Besteuert wird die objektive Ertragskraft eines Gewerbebetriebs, die im Unterschied zu der Körperschaftsteuer nicht an die wirtschaftliche Leistungsfähigkeit anknüpft. Hinzurechnungen und Kürzungen korrigieren den Ertrag des Gewerbebetriebs (§§ 8 und 9 GewStG). Für die Berechnung der Gewerbesteuer ermittelt das zuständige Finanzamt den Steuermessbetrag, der 3,5 % der objektiven Ertragskraft beträgt. Die zuständige Gemeinde setzt für alle in ihrem Gebiet ansässigen Unternehmen einen einheitlichen Hebesatz fest, der mindestens 200 % betragen muss (§ 16 Abs. 4 Satz 2 GewStG) und berechnet die Gewerbesteuer auf der Grundlage des vom Finanzamt ermittelten Steuermessbetrags und unter Anwendung des jeweiligen Hebesatzes.
+      p2: Rohstoffgewinnende Unternehmen in der Rechtsform einer Personen- oder Kapitalgesellschaft sind gewerbesteuerpflichtig. Wenn sich Betriebsstätten über das Gebiet mehrerer Gemeinden hinwegerstrecken oder in mehreren Gemeinden Betriebsstätten betrieben werden, wird die Bemessungsgrundlage der Gewerbesteuer (Steuermessbetrag) auf die einzelnen Gemeinden aufgeteilt (sogenannte Zerlegung). Als Maßstab für die Zerlegung werden grundsätzlich die Arbeitslöhne in den einzelnen Betriebsstätten herangezogen. Dies bedeutet, dass jede betroffene Gemeinde ihren Anteil an der Gewerbesteuer eines Rohstoffunternehmens erheben kann.
+      p3: Eine Übersicht zu den Hebesätzen (2018) der Gemeinden in Deutschland finden Sie
       link: hier.
       p4: Für die Gemeinden stellt die Gewerbesteuer – neben der Grundsteuer – die wesentliche Steuerquelle dar. Einen Teil der Gewerbesteuereinnahmen müssen die Gemeinden als Gewerbesteuerumlage an Bund und Länder abführen. Die den Gemeinden verbleibende Gewerbesteuer fließt in deren allgemeinen Haushalt ein und dient damit u. a. der Finanzierung der lokalen Infrastruktur sowie Bildungs- und Sozialeinrichtungen.
     pachtzahlungen:
@@ -783,20 +787,20 @@ anfallende_zahlungen:
     verbrauchsteuern:
       title: Verbrauchsteuern
       p1: Im Rahmen der Verbrauchsteuern sind für Unternehmen des Rohstoffsektors besonders die Energie- und die Stromsteuer relevant. Energie- und Stromsteuer sind wie die anderen Verbrauchsteuern explizit aus der Berichtspflicht im Rahmen des handelsrechtlichen (Konzern-)Zahlungsberichts nach EU-Bilanzrichtlinie und deren Umsetzung in § 341r Nr. 3 b) HGB ausgenommen.
-      p2: "Das Energie- und das Stromsteuergesetz beruht auf den harmonisierten Vorgaben der EU-Energiesteuerrichtlinie (RL 2003/96/EG des Rates v. 27.10.2003, ABl. EU Nr. L 283, S. 51). Im Rahmen des Gesetzes zum Einstieg in die ökologische Steuerreform wurden die Stromsteuer am 01.04.1999 in Deutschland eingeführt und die Steuersätze der Energiesteuer (damals noch: Mineralölsteuer) stufenweise erhöht. Damit wurden Anreize geschaffen, den Energieverbrauch zu reduzieren und ressourcenschonende Produkte und Produktionsverfahren zu entwickeln."
-      p3: Die Rechtsgrundlagen für die Erhebung der Stromsteuer sind das Stromsteuergesetz und die Stromsteuer-Durchführungsverordnung. Das Aufkommen der Stromsteuer steht dem Bund zu und lag im Jahr 2016 bei rund 6,6 Mrd. Euro. Die Einnahmen aus der Stromsteuer und die im Zusammenhang mit der ökologischen Steuerreform erzielten Mehreinnahmen durch die höhere Besteuerung von Kraft- und Heizstoffen tragen dazu bei, die Sozialversicherungsbeiträge auf einem tragbaren Niveau zu halten. Die Verwaltung und Erhebung erfolgen durch die Zollverwaltung.
+      p2: "Das Energie- und das Stromsteuergesetz beruhen auf den harmonisierten Vorgaben der EU-Energiesteuerrichtlinie (RL 2003/96/EG des Rates v. 27. Oktober 2003, ABl. EU Nr. L 283, S. 51). Im Rahmen des Gesetzes zum Einstieg in die ökologische Steuerreform wurden die Stromsteuer am 01. April 1999 in Deutschland eingeführt und wurden die Steuersätze der Energiesteuer (damals noch: Mineralölsteuer) stufenweise erhöht. Damit wurden Anreize geschaffen, den Energieverbrauch zu reduzieren und ressourcenschonende Produkte und Produktionsverfahren zu entwickeln."
+      p3: Die Rechtsgrundlagen für die Erhebung der Stromsteuer sind das Stromsteuergesetz und die Stromsteuer-Durchführungsverordnung. Das Aufkommen der Stromsteuer steht dem Bund zu und lag im Jahr 2017 bei rund 6,9 Mrd. Euro. Die Einnahmen aus der Stromsteuer und die im Zusammenhang mit der ökologischen Steuerreform erzielten Mehreinnahmen durch die höhere Besteuerung von Kraft- und Heizstoffen tragen dazu bei, die Sozialversicherungsbeiträge auf einem tragbaren Niveau zu halten. Die Verwaltung und Erhebung erfolgen durch die Zollverwaltung.
       p4: Die Stromsteuer fällt beim Verbrauch an, wird aber aus Praktikabilitätsgründen in der Regel als indirekte Steuer beim Versorger erhoben und über den Strompreis auf die Verbraucher abgewälzt. Damit werden auch Unternehmen der Rohstoffindustrie grundsätzlich mit Stromsteuer belastet. Der Regelsteuersatz beträgt 20,50 Euro je Megawattstunde. Für verschiedene Zwecke wie z. B. Schienenbahnstrom kommen reduzierte Steuersätze in Betracht, während insbesondere das Produzierende Gewerbe von Steuerentlastungen Gebrauch machen kann
       link3: "(siehe Subventionen und steuerliche Begünstigungen)."
       p5_1: Die Energiesteuer ist eine bundesgesetzlich geregelte Verbrauchsteuer auf Energieerzeugnisse. Mit ihr wird die Verwendung von Energieerzeugnissen als Kraft- oder Heizstoffe innerhalb des deutschen Steuergebiets besteuert. Als Energieerzeugnisse definiert das Energiesteuergesetz insbesondere Benzin, Dieselkraftstoff, leichtes und schweres Heizöl, Flüssiggas, Erdgas und Kohle sowie bei einer Bestimmung als Kraft- oder Heizstoff auch Biodiesel und Pflanzenöl und Energieerzeugnisse ähnlicher Beschaffenheit. Die Höhe der Steuer ist je nach Energieerzeugnis und Verwendungszweck unterschiedlich und im
       link1: Energiesteuergesetz
       p5_2: geregelt. Für bestimmte Energieerzeugnisse und Verwendungszwecke sind Steuerbegünstigungen im Energiesteuergesetz normiert.
       link4: "(siehe „Subventionen und steuerliche Begünstigungen)."
-      p5_3: Die Energiesteuer wird ebenso wie die Stromsteuer von der Zollverwaltung erhoben und die Einnahmen fließen dem Bund zu. 2016 lag das Energiesteueraufkommen bei ca. 40,1 Mrd. Euro. Das Aufkommen aus Energie- und Stromsteuer stellt nach Umsatzsteuer und Einkommensteuer die drittgrößte Einnahmequelle des Bundes dar.
+      p5_3: Die Energiesteuer wird ebenso wie die Stromsteuer von der Zollverwaltung erhoben und die Einnahmen fließen dem Bund zu. 2017 lag das Energiesteueraufkommen bei ca. 41,0 Mrd. Euro. Das Aufkommen aus Energie- und Stromsteuer stellt nach Umsatzsteuer und Einkommensteuer die drittgrößte Einnahmequelle des Bundes dar.
       p6_1: Der finanzielle Umfang der Strom- und Energiesteuerzahlungen von Unternehmen des Rohstoffsektors ist derzeit, wie auch der finanzielle Umfang der Strom- und Energiesteuerbegünstigungen
       link2: "(siehe Subventionen und steuerliche Begünstigungen),"
       p6_2: "nicht ohne unverhältnismäßig hohen bürokratischen Aufwand darstellbar. Entsprechende Statistiken, die nach einzelnen Wirtschaftssektoren unterscheiden, werden bislang nicht geführt"
       sup:
-        title: "3"
+        title: "1"
         text: In der MSG gab es keinen Konsens darüber, inwiefern die Energie- und Stromsteuerzahlungen zu den wesentlichen Zahlungsströmen gehören. Daher werden sie nicht in den Zahlungsabgleich aufgenommen.
 
 steuergeheimnis:
@@ -1562,7 +1566,7 @@ subventionen-und-steuerliche-begünstigungen:
   daten_einsehen_post: . Eigene Darstellung.
 
   p1:
-    p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlenbergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
+    p1: "Neben den Zahlungen, die rohstoffgewinnende Unternehmen an staatliche Stellen abführen, fördert der Staat die Unternehmen der Branche auch finanziell mit Subventionen und steuerlichen Begünstigungen. So werden beispielsweise Finanzhilfen für den Steinkohlenbergbau gewährt: zum einen Zuschüsse für den Absatz der Steinkohle und zum Ausgleich von Belastungen infolge von Kapazitätsanpassungen; zum anderen Anpassungsgeld (APG) für einen sozialverträglichen Personalabbau in der Branche. Zudem gewährt der Staat Begünstigungen bei der Energie- und Stromsteuer für Unternehmen des Produzierenden Gewerbes (s."
     k1: Begünstigungen für Strom- und Energiesteuer
     p2: "). Grundsätzlich gibt es sowohl auf internationaler als auch auf nationaler Ebene unterschiedliche Definitionen und methodische Ansätze zu der Frage, was eine Subvention ist und wie sie berechnet wird. Der hier verwendete Begriff beruht auf der Definition des Subventionsberichts der Bundesregierung. Demnach werden nur direkt budgetrelevante Subventionen des Bundes für private Unternehmen und Wirtschaftszweige erfasst. Subventionen der föderalen Ebene können über die Subventionsberichte der Bundesländer eingesehen werden (siehe hierzu Anlage 5 des Subventionsberichts der Bundesregierung)."
     chart1_source: "Quelle: Subventionsbericht der Bundesregierung, eigene Darstellung (siehe Endnote)"
@@ -1756,7 +1760,7 @@ gesamtdeutsche_rohstoffproduktion:
       title: Rohstoffgewinnung nach Menge
     - name: rohstoff-wert
       title: Rohstoffgewinnung nach Wert
-  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2016 auf.
+  p1: In Deutschland wird eine Vielzahl von unterschiedlichen mineralischen Rohstoffen und Energierohstoffen gefördert. Die nachfolgenden Diagramme listen die in Deutschland gewonnenen Rohstoffe nach Menge und geschätztem Wert im Jahr 2017 auf.
   p2: Weitere Informationen zu Datenquellen sowie Links zu Originaldaten sind hier einzusehen.
   daten_einsehen: Daten Einsehen
   steinkohle:
@@ -1820,99 +1824,99 @@ gesamtdeutsche_rohstoffproduktion:
     p3_9: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e. V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016“"
     p3_10: "[SDK 2017] – Statistik der Kohlenwirtschaft e.V. (2017): „Zur Lage des Kohlenbergbaus in der Bundesrepublik Deutschland 2017.“"
   table1:
-    h1: "Rohstoffgewinnung in Deutschland für 2016 (Menge)"
-    th1: Rohstoffgewinnung in Deutschland für 2016
+    h1: "Rohstoffgewinnung in Deutschland für 2017 (Menge)"
+    th1: Rohstoffgewinnung in Deutschland für 2017
     th2: (Menge)
     row1:
       td1: Steinkohle*
-      td2: 3,8 Mio.t
+      td2: 3,7 Mio.t
     row2:
       td1: Braunkohle
-      td2: 171,5 Mio. t
+      td2: 171,3 Mio. t
     row3:
       td1: Erdöl
-      td2: 2,3 Mio. t
+      td2: 2,2 Mio. t
     row4:
       td1: Erdgas**
-      td2: 8.673 Mio. m³
+      td2: 7,9 Mio. m³
     row5:
       td1: Kalisalz
-      td2: k.A.
+      td2: 35,97 Mio t
     row6:
       td1: Kali- und Kalisalzprodukte
-      td2: 6,2 Mio. t
+      td2: 6,7 Mio. t
     row7:
       td1: Spezialton
-      td2: 5,40 Mio. t
+      td2: 6,0 Mio. t
     row8:
       td1: Steinsalz und Industriesole
-      td2: 13,4 Mio. t NaCl Inhalt
+      td2: 14,6 Mio. t NaCl Inhalt
     row9:
       td1: Kaolin
-      td2: 1,0 Mio. t
+      td2: 1,1 Mio. t
     row10:
       td1: Quarzkies und -sand
-      td2: 9,9 Mio. t
+      td2: 10,3 Mio. t
     row11:
       td1: Kies und Sand
-      td2: 247,0 Mio. t
+      td2: 257,0 Mio. t
     row12:
       td1: Gebrochene Natursteine
-      td2: 218 Mio. t
+      td2: 220 Mio. t
     row13:
       td1: Naturwerksteine
-      td2: 0,4 Mio. t
+      td2: 0,5 Mio. t
     row14:
       td1: Kalk-/Mergel-/Dolomitstein
-      td2: 53,2 Mio. t
+      td2: 56,2 Mio. t
     star1: "*  verwertbare Förderung"
     star2: "** einschließlich Erdölbegleitgas"
   table2:
     h1: "Rohstoffgewinnung in Deutschland für 2016 (Wert)"
     th1: Rohstoff
-    th2: Wert Wert (2016) in Mio. €
+    th2: Wert Wert (2017) in Mio. €
     1:
       td1: Steinkohle*
-      td2: "258"
+      td2: "337"
     2:
       td1: Braunkohle
-      td2: "2.330"
+      td2: "2.259"
     3:
       td1: Erdöl
-      td2: "677"
+      td2: "778"
     4:
       td1: Erdgas**
-      td2: "1.445"
+      td2: "1.425"
     5:
       td1: Kalisalz
       td2: "k. A."
     6:
       td1: Kali- und Kalisalzprodukte
-      td2: "1.652"
+      td2: "1.726"
     7:
       td1: Spezialton
-      td2: "123"
+      td2: "141"
     8:
       td1: Steinsalz und Industriesole
-      td2: "279"
+      td2: "346"
     9:
       td1: Kaolin
-      td2: "78"
+      td2: "84"
     10:
       td1: Quarzkies und -sand
-      td2: "212"
+      td2: "219"
     11:
       td1: Kies und Sand
       td2: "1.587"
     12:
       td1: Gebrochene Natursteine
-      td2: "1.500"
+      td2: "1.529"
     13:
       td1: Naturwerksteine
-      td2: "42"
+      td2: "39"
     14:
       td1: Kalk-/Mergel-/Dolomitstein
-      td2: "760"
+      td2: "822"
     star1: "*  verwertbare Förderung"
     star2: "** einschließlich Erdölbegleitgas"
     note: "Die Wertangaben sind nur für Kali- und Kalisalzprodukte möglich"
@@ -1929,7 +1933,7 @@ einnahmen:
             title: Förder- und Feldesabgaben
       - name: umsatz
         title: "Umsatz"
-    p1_1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 490 Mio. Euro im Jahr 2016. Dies entspricht einem Anteil von 0,04 % an den Gesamteinnahmen des Staates. Die Abdeckung dieser Einnahmen durch den Zahlungsabgleich ist
+    p1_1: Der Rohstoffsektor generiert Einnahmen für den Staat auf den unterschiedlichen föderalen Ebenen. Die wichtigsten Einnahmen sind die Steuern der allgemeinen Unternehmensbesteuerung (Körperschaftssteuer und Einkommensteuer nebst Solidaritätszuschlag und Gewerbesteuer) sowie die rohstoffspezifischen Feldes- und Förderabgaben. Zusammen beliefen sich diese Einnahmen aus der rohstoffgewinnenden Industrie auf rund 555 Mio. Euro im Jahr 2017. Dies entspricht einem Anteil von 0,04 % an den Gesamteinnahmen des Staates. Die Abdeckung dieser Einnahmen durch den Zahlungsabgleich ist
     link0: hier
     p1_1_2: genauer dargelegt. Daneben gibt es weitere Zahlungen des rohstoffgewinnenden Sektors an den Staat wie zum Beispiel Pachten, Energie- und Stromsteuern (siehe
     link: „Einnahmen aus der rohstoffgewinnenden Industrie“
@@ -1938,7 +1942,7 @@ einnahmen:
     p1_3: ), die hier nicht dargestellt sind.
     steuern:
       title: Steuern
-      p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2016 davor genannte Steuern in Höhe von 260 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,02 %. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren deutlich zurückgegangen.
+      p1: Insgesamt wurden durch den rohstoffgewinnenden Sektor im Jahr 2017 davor genannte Steuern in Höhe von 300 Mio. Euro gezahlt. Dies entspricht einem Anteil an den Gesamteinnahmen des Staates in Höhe von rund 0,02 %. Die größten Steuereinnahmen werden über die Gewerbe- und Körperschaftsteuern erzielt. Insgesamt sind die Steuereinnahmen aus dem rohstoffgewinnenden Sektor in den letzten Jahren deutlich zurückgegangen.
       p2: In der nachstehenden Tabelle sind die geschätzten Einnahmen aus den genannten Steuern des rohstoffgewinnenden Sektors und deren Anteil am Gesamtsteueraufkommen dargestellt.
       p3: " "
       link1: " "
@@ -1972,189 +1976,190 @@ einnahmen:
       th1: Steuerart
       th2:
         title: Jahr
-        th21: "2010"
-        th22: "2011"
-        th23: "2012"
-        th24: "2013"
-        th25: "2014"
-        th26: "2015"
-        th27: "2016"
+        th21: "2011"
+        th22: "2012"
+        th23: "2013"
+        th24: "2014"
+        th25: "2015"
+        th26: "2016"
+        th27: "2017"
         th0: in Mio. €
       row1:
         td1: Körperschaftsteuer
-        td2: "132"
-        td3: "154"
-        td4: "173"
-        td5: "154"
-        td6: "147"
-        td7: "139"
-        td8: "105"
+        td2: "154"
+        td3: "173"
+        td4: "153"
+        td5: "98"
+        td6: "93"
+        td7: "83"
+        td8: "81"
       row2:
         td1: Gewerbesteuer
-        td2: "155"
-        td3: "248"
-        td4: "287"
-        td5: "160"
-        td6: "154"
-        td7: "145"
-        td8: "110"
+        td2: "248"
+        td3: "287"
+        td4: "160"
+        td5: "201"
+        td6: "190"
+        td7: "170"
+        td8: "166"
       row3:
         td1: Einkommensteuer
-        td2: "39"
-        td3: "34"
-        td4: "59"
-        td5: "53"
-        td6: "51"
-        td7: "48"
-        td8: "36"
+        td2: "34"
+        td3: "59"
+        td4: "54"
+        td5: "60"
+        td6: "57"
+        td7: "51"
+        td8: "45"
       row4:
         td1: Solidaritätszuschlag
-        td2: "9"
-        td3: "10"
-        td4: "13"
-        td5: "11"
-        td6: "11"
-        td7: "10"
-        td8: "8"
+        td2: "10"
+        td3: "13"
+        td4: "11"
+        td5: "9"
+        td6: "8"
+        td7: "7"
+        td8: "7"
       row5:
         td1: Summe
-        td2: "335"
-        td3: "446"
-        td4: "532"
-        td5: "378"
-        td6: "363"
-        td7: "343"
-        td8: "260"
+        td2: "446"
+        td3: "532"
+        td4: "378"
+        td5: "368"
+        td6: "347"
+        td7: "311"
+        td8: "299"
       row6:
         td1: Gesamteinnahmen des Staates
-        td2: 1.030.908
-        td3: 1.103.862
-        td4: 1.163.357
-        td5: 1.201.058
-        td6: 1.244.589
-        td7: 1.301.816
-        td8: 1.351.851
+        td2: 1.182.702
+        td3: 1.220.85
+        td4: 1.259.033
+        td5: 1.308.541
+        td6: 1.356.490
+        td7: 1.1415.506
+        td8: 1.473.847
       row7:
         td1: Anteil o.g. Steuern an Gesamteinnahmen
-        td2: 0,03 %
+        td2: 0,04 %
         td3: 0,04 %
-        td4: 0,05 %
+        td4: 0,03 %
         td5: 0,03 %
-        td6: 0,03 %
-        td7: 0,03 %
+        td6: 0,02 %
+        td7: 0,02 %
         td8: 0,02 %
       row8: "nachrichtlich:"
       row9:
         td1: Fortschreibungsfaktor
-        td4: 7,09 %
-        td5: -11,45 %
-        td6: -4,13 %
-        td7: -5,43 %
-        td8: -24,27 %
+        td6: -5,63 %
+        td7: -10,59 %
+        td8: -2,25 %
     förder_feldesabgaben:
       title: Förder- und Feldesabgaben
-      p1: Die Förderabgaben werden von den Bergämtern der Bundesländer erhoben und variieren stark, abhängig von der lokalen Bergbauaktivität und den festgelegten Abgabesätzen in den einzelnen Bundesländern. Insgesamt wurden 2016 in Deutschland 233 Mio. Euro Fördereinnahmen erhoben. Spitzenreiter war mit Abstand Niedersachsen, mit mehr als 172 Mio. Euro. Auf Rang zwei folgt Schleswig-Holstein mit rund 48 Mio. Euro, gefolgt von Rheinland-Pfalz mit rund 5 Mio. Euro. Bei einigen Bundesländern unterlag die Höhe der Einnahmen in den vergangenen Jahren signifikanten Schwankungen. Dies kann unterschiedliche Gründe haben, z. B. sinkende Weltmarktpreise für Rohstoffe oder Änderungen der Produktionsmengen.
+      p1: Die Förderabgaben werden von den Bergämtern der Bundesländer erhoben und variieren stark, abhängig von der lokalen Bergbauaktivität und den festgelegten Abgabesätzen in den einzelnen Bundesländern. Insgesamt wurden 2017 in Deutschland 255,9 Mio. Euro Fördereinnahmen erhoben. Spitzenreiter war mit Abstand Niedersachsen, mit mehr als 181 Mio. Euro. Auf Rang zwei folgte Schleswig-Holstein mit rund 62 Mio. Euro, gefolgt von Rheinland-Pfalz mit rund 4,6 Mio. Euro. Bei einigen Bundesländern unterlag die Höhe der Einnahmen in den vergangenen Jahren signifikanten Schwankungen. Dies kann unterschiedliche Gründe haben, z. B. sinkende Weltmarktpreise für Rohstoffe oder Änderungen der Produktionsmengen.
       daten_einsehen: Daten einsehen
-      p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 dargestellt:"
+      p2: "In der nachstehenden Tabelle sind die Einnahmen aus den Förderabgaben für das Jahr 2016 bis 2017 dargestellt:"
       table1:
-        title: "Einnahmen aus Feldesabgaben für das Jahr 2015"
-        th1: Förderabgabe in Euro
-        th2: "2015"
+        title: "Einnahmen aus Feldesabgaben für die Jahre 2016 bis 2017"
+        th1: Förderabgabe in Tausend Euro
+        th2: "201"
         th3: "2016"
         row1:
           td1: Bundesländer
           td2: " "
           td3: " "
         row2:
-          td1: Niedersachsen
-          td2: "295.865.995,20"
-          td3: "172.075.617,30"
-        row3:
-          td1: Schleswig-Holstein
-          td2: "75.966.953,81"
-          td3: "48.139.515,05"
-        row4:
-          td1: Rheinland-Pfalz
-          td2: "8.112.789,63"
-          td3: "5.191.731,39"
-        row5:
-          td1: Sachsen-Anhalt
-          td2: "1.363.756,74"
-          td3: "1.480.734,27"
-        row6:
-          td1: Bayern
-          td2: "479.125,65"
-          td3: "1.479.828,47"
-        row7:
-          td1: Thüringen
-          td2: "1.507.056,81"
-          td3: "1.454.320,91"
-        row8:
-          td1: Nordrhein-Westfalen
-          td2: "1.451.800,74"
-          td3: "666.541,61"
-        row9:
-          td1: Brandenburg
-          td2: "528.292,70"
-          td3: "536.917,05"
-        row10:
-          td1: Sachsen
-          td2: "335.156,57"
-          td3: "523.795,20"
-        row11:
-          td1: Hessen
-          td2: "455.052,77"
-          td3: "462.929,24"
-        row12:
-          td1: Mecklenburg-Vorpommern
-          td2: "466.322,01"
-          td3: "247.585,55"
-        row13:
           td1: Baden-Württemberg
-          td2: "117.387,84"
-          td3: "128.185,25"
-        row14:
-          td1: Hamburg
-          td2: "167.392,87"
-          td3: "86.573,83"
-        row15:
-          td1: Saarland
-          td2: "137.667,06"
-          td3: "33.121,21"
-        row16:
+          td2: "128"
+          td3: "211"
+        row3:
+          td1: Bayern
+          td2: "1.480"
+          td3: "503"
+        row4:
           td1: Berlin
-          td2: "0,00"
-          td3: "0,00"
-        row17:
+          td2: "0"
+          td3: "0"
+        row5:
+          td1: Brandenburg
+          td2: "537"
+          td3: "704"
+        row6:
           td1: Bremen
-          td2: "0,00"
-          td3: "0,00"
+          td2: "0"
+          td3: "0"
+        row7:
+          td1: Hamburg
+          td2: "87"
+          td3: "90"
+        row8:
+          td1: Hessen
+          td2: "463"
+          td3: "398"
+        row9:
+          td1: Mecklenburg-Vorpommern
+          td2: "248"
+          td3: "636"
+        row10:
+          td1: Niedersachsen
+          td2: "172.076"
+          td3: "180.737"
+        row11:
+          td1: Nordrhein-Westfalen
+          td2: "667"
+          td3: "683"
+        row12:
+          td1: Rheinland-Pfalz
+          td2: "5.192"
+          td3: "4.639"
+        row13:
+          td1: Saarland
+          td2: "33"
+          td3: "74"
+        row14:
+          td1: Sachsen
+          td2: "524"
+          td3: "1.728"
+        row15:
+          td1: Sachsen-Anhalt
+          td2: "1.478"
+          td3: "1.547"
+        row16:
+          td1: Schleswig-Holstein
+          td2: "48.140"
+          td3: "62.102"
+        row17:
+          td1: Thüringen
+          td2: "1.454"
+          td3: "1.851"
         row18:
           td1: Gesamtförderabgaben
-          td2: "387.954.750"
-          td3: "232.507.296"
+          td2: "232.505"
+          td3: "255.902"
         row19:
           td1: Gesamteinnahmen des Staates in Mio. Euro
-          td2: "1.301.816"
-          td3: "1.351.851"
+          td2: "1.415.506"
+          td3: "1.473.847"
         row20:
           td1: Anteil
-          td2: "0,03 %"
+          td2: "0,02 %"
           td3: "0,02 %"
       p3: "Die Feldeseinnahmen der Bundesländer werden nicht systematisch bundesweit zusammengestellt oder veröffentlicht. Ihre Höhe ist deutlich geringer als die Höhe der Fördereinnahmen und sie fallen überhaupt nur in einigen Bundesländern an (siehe nachfolgende Tabelle):"
       table2:
-        title: Feldesabgabe im Jahr 2016
+        title: Feldesabgabe in Tausend Euro
         th1: Bundesland
-        th2: "in Euro"
+        th2: ""
         row1:
-          td1: Niedersachsen
-          td2: "242.000"
-        row2:
           td1: Bayern
-          td2: "17.489"
-        row3:
+          td2: "17,5"
+          td3: "28,2"
+        row2:
           td1: Brandenburg
-          td2: "14.516"
+          td2: "14.5"
+          td3: "7,9"
+        row3:
+          td1: Niedersachsen
+          td2: "242"
+          td3: "560"
 
 bip:
     title: "BIP und Umsatz"
@@ -2169,22 +2174,22 @@ bip:
     bip:
       title: "BIP:  Wie groß ist der deutsche Rohstoffsektor?"
       p1_1: "Das"
-      p1_2: "Bruttoinlandsprodukt"
-      p1_3: "in Deutschland betrug im Jahr 2016 3.144,05 Milliarden Euro. Nach Angaben der Weltbank ist Deutschland damit die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
+      p1_2: "Bruttoinlandsprodukt (BIP)"
+      p1_3: "in Deutschland betrug im Jahr 2017 3.277,3 Milliarden Euro in jewiligen Preisen. Nach Angaben der Weltbank ist Deutschland damit die größte Volkswirtschaft Europas und die viertgrößte der Welt. Die"
       p1_4: "Bruttowertschöpfung"
-      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2016 3,59 Milliarden Euro, was einem Anteil von"
-      p1_6: "0,11 %"
+      p1_5: "des Wirtschaftszweigs „Bergbau und Gewinnung von Steinen und Erden“ betrug im Jahr 2017 3,27 Milliarden Euro, was einem Anteil von"
+      p1_6: "0,10 %"
       p1_7: "am BIP entspricht."
       daten: Daten Einsehen
       sup1:
         title: "1"
         text1: "Online unter:"
         link: "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?year_high_desc=true"
-        text2: "[Letzter Zugriff 19.12.2017]"
+        text2: "[Letzter Zugriff 22.01.2019]"
 
     umsatz:
       title: "Umsatz: Bergbau und Gewinnung von Steinen und Erden"
-      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2016 insgesamt einen Umsatz von rund 9,2 Mrd. Euro. Davon entfielen etwa 8,1 Mrd. Euro (rund 88 %) auf Inlandsumsätze und 1,1 Mrd. Euro (12 %) auf Umsätze aus Exporten.
+      p1: Die Unternehmen des Sektors „Bergbau und Gewinnung von Steinen und Erden“ erwirtschafteten im Jahr 2017 insgesamt einen Umsatz von rund 9,4 Mrd. Euro. Davon entfielen etwa 8,3 Mrd. Euro (rund 88 %) auf Inlandsumsätze und 1,2 Mrd. Euro (rund12 %) auf Umsätze aus Exporten.
       daten_einsehen: Daten einsehen
       star1:
         title: "*"

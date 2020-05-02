@@ -78,7 +78,7 @@ breadcrumb:
         </p>
         <p>
           {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.p3 %}
-          <a target="_blank"  href="https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/Steuern/Realsteuer/HebesaetzeRealsteuern8148001167005.xls;jsessionid=F8B702F7539AC8B7D3911A0D73876569.cae3?__blob=publicationFile">
+          <a target="_blank"  href="https://www.destatis.de/DE/Themen/Staat/Steuern/Hebesaetze.html">
             {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.link %}
           </a>
           {% t anfallende_zahlungen.zahlungen-industrie.gewerbesteuer.p4 %}

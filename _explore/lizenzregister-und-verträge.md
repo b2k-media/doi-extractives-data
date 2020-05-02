@@ -85,7 +85,7 @@ breadcrumb:
           <h3>{% t lizenzregister_und_verträge.handhabung.title %}</h3>
           <p>
             {% t lizenzregister_und_verträge.handhabung.p1_1 %}
-            <a target="_blank" href="http://www.maps.lgrb-bw.de">
+            <a target="_blank" href="https://maps.lgrb-bw.de/">
               {% t lizenzregister_und_verträge.handhabung.p1_2 %}
             </a>
             <a target="_blank" href="http://www.geo.brandenburg.de/lbgr/bergbau">
