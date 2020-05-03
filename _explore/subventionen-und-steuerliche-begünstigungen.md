@@ -132,83 +132,6 @@ breadcrumb:
         </p>
         <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p4 %}</p>
 
-        <div id="table" class="chart-title-style" style="padding-top: 15px; padding-bottom: 15px; line-height: 130%">
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.title1_1 %}
-          <sup>
-            <a href="#explanation-11">
-            {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup11.title %}
-            </a>
-          </sup>
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.title1_2 %}
-          <sup>
-            <a href="#explanation-12">
-            {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.title %}
-            </a>
-          </sup>
-        </div>
-
-        <table class="subventionen-und-steuerliche-begünstigungen_table">
-          <tbody>
-            <tr>
-              <th><strong>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.th1 %}</strong></th>
-              <th></th>
-              <th align="center"><strong>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.th2.title %}</strong></th>
-              <th></th>
-              <th></th>
-            </tr>
-            <tr>
-              <td></td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.th2.th2_1 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.th2.th2_2 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.th2.th2_3 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.th2.th2_4 %}</td>
-            </tr>
-            <tr>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row1.td1 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row1.td2 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row1.td3 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row1.td4 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row1.td5 %}</td>
-            </tr>
-            <tr>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row2.td1 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row2.td2 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row2.td3 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row2.td4 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row2.td5 %}</td>
-            </tr>
-            <tr>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row3.td1 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row3.td2 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row3.td3 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row3.td4 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row3.td5 %}</td>
-            </tr>
-            <tr>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row4.td1 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row4.td2 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row4.td3 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row4.td4 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row4.td5 %}</td>
-            </tr>
-            <tr>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row5.td1 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row5.td2 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row5.td3 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row5.td4 %}</td>
-              <td>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.row5.td5 %}</td>
-            </tr>
-          </tbody>
-        </table>
-        <p class="source">
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.source %}
-          <sup>
-            <a href="#explanation-13">
-            {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.title %}
-            </a>
-          </sup>
-        </p>
-        <br/>
         <p>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_1 %}
           <a target="_blank" href="https://webgate.ec.europa.eu/competition/transparency/public/search/home">
@@ -216,26 +139,19 @@ breadcrumb:
           </a>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_2 %}
         </p>
+        <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_3 %}</p>
+        <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_4 %}</p>
+        <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_5 %}</p>
       </section>
       <br/>
       <section id="explanation" style="position: relative;">
-        <p id="explanation-11">
-          <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup11.title %}</sup>
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup11.text %}
+        <p id="explanation-4">
+          <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.sup4.title %}</sup>
+          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.sup4.text %}
         </p>
-        <p id="explanation-12">
-          <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.title %}</sup>
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.text1 %}
-          <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VGR/Inlandsprodukt/Tabellen/BWSBereichen.html">
-            {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.link %}
-          </a>
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup12.text2 %}
-        </p>
-        <p id="explanation-13">
-          <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.title %}</sup>
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.text1 %}
-          <a target="_blank" href="{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}">{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.link %}</a>
-          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.table.sup13.text2 %}
+        <p id="explanation-5">
+          <sup>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.sup5.title %}</sup>
+          {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.sup5.text %}
         </p>
       </section>
     </div>

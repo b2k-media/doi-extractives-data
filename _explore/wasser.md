@@ -119,7 +119,11 @@ breadcrumb:
           </sup>
           {% t wasser.wasserentnahmeentgelte.p1_3 %}
         </p>
-        <p>{% t wasser.wasserentnahmeentgelte.p2 %}</p>
+        <p>{% t wasser.wasserentnahmeentgelte.p2 %}
+        <a target="_blank" href="http://rohstofftransparenz.de/daten/zahlungsabgleich/">
+          {% t wasser.wasserentnahmeentgelte.link2 %}</a>
+          {% t wasser.wasserentnahmeentgelte.p3 %}</p>
+
       </section>
       <br/>
       <section id="explanation" style="position: relative;">

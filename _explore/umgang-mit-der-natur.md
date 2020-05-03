@@ -126,11 +126,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td6_1 %}
-                <a target="_blank" href="http://www.bauumwelt.bremen.de/sixcms/detail.php?gsid=bremen213.c.48536.de">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.link1 %}
-                </a>
-                {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td6_2 %}
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td6_2 %}
                 <a target="_blank" href="https://www.bauumwelt.bremen.de/umwelt/natur/gis_dienste___geodaten-48536">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.link2 %}
                 </a>
@@ -143,7 +139,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td5 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td6 %}
-                <a target="_blank" href="http://www.geoportal-hamburg.de/Geoportal/geo-online/index.html">
+                <a target="_blank" href="https://geoportal-hamburg.de/geoportal/geo-online">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.link %}
                 </a>
               </td>
@@ -155,7 +151,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td5 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td6 %}
-                <a target="_blank" href="http://natureg.hessen.de/Main.html">
+                <a target="_blank" href="http://natureg.hessen.de/mapapps/resources/apps/natureg/index.html?lang=de">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.link %}
                 </a>
               </td>
@@ -247,7 +243,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td4 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td5 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td6 %}
-                <a target="_blank" href="http://www.lksh.de/forst/oekokonto/naturraume-mit-okokonten-in-sh/">
+                <a target="_blank" href="http://www.lksh.de/forst/oekokonto/">
                   {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.link %}
                 </a>
               </td>
@@ -271,13 +267,10 @@ breadcrumb:
         <p>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.p2 %}</p>
         <p>
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.p3_1 %}
-          <a target="_blank" href="http://www4.lubw.baden-wuerttemberg.de/servlet/is/225385/">
+          <a target="_blank" href="https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/oeffentlich-einsehbares-verzeichnis-eingriffskompensation">
             {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.link1 %}
           </a>
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.p3_1_2 %}
-          <a target="_blank" href="http://www4.lubw.baden-wuerttemberg.de/servlet/is/225375/">
-            {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.link2 %}
-          </a>
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.beispiel.p3_2 %}
           <br/>
           <ul>
