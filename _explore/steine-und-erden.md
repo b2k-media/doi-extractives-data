@@ -96,8 +96,10 @@ breadcrumb:
               <td colspan="2"><strong>{% t steine-und-erden.infobox.title %}</strong></td>
             </tr>
             <tr>
-              <td><strong>{% t steine-und-erden.eisenerze.infobox.table2.th1 %}</strong></td>
-              <td><strong>{% t steine-und-erden.eisenerze.infobox.table2.th2 %}</strong></td>
+              <td>
+                  <p>{% t steine-und-erden.infobox.p1 %}</p>
+                  <p>{% t steine-und-erden.infobox.p2 %}</p>
+              </td>
             </tr>
           </tbody>
         </table>
