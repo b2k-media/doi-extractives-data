@@ -89,6 +89,18 @@ breadcrumb:
         <p>
           {% t steine-und-erden.eisenerze.p %}
         </p>
+
+        <table class="steine-und-erden.eisenerze_table_1">
+          <tbody>
+            <tr>
+              <td colspan="2"><strong>{% t steine-und-erden.infobox.title %}</strong></td>
+            </tr>
+            <tr>
+              <td><strong>{% t steine-und-erden.eisenerze.infobox.table2.th1 %}</strong></td>
+              <td><strong>{% t steine-und-erden.eisenerze.infobox.table2.th2 %}</strong></td>
+            </tr>
+          </tbody>
+        </table>
       </section>
     </div>
 
