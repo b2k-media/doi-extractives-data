@@ -91,17 +91,15 @@ breadcrumb:
         </p>
 
         <table class="steine-und-erden.eisenerze_table_1">
-          <tbody>
-            <tr>
-              <td colspan="2"><strong>{% t steine-und-erden.infobox.title %}</strong></td>
-            </tr>
-            <tr>
+          <tr>
+            <th colspan="2" align="center"><strong>{% t steine-und-erden.infobox.title %}</strong></th>
+          </tr>
+          <tr>
               <td>
                   <p>{% t steine-und-erden.infobox.p1 %}</p>
                   <p>{% t steine-und-erden.infobox.p2 %}</p>
               </td>
-            </tr>
-          </tbody>
+          </tr>
         </table>
       </section>
     </div>
