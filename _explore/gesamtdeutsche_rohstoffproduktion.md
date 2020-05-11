@@ -37,150 +37,15 @@ breadcrumb:
           </div>
         </div>
         <br>
-        <!-- <div class="explore-exploration slab-alpha">
-          <div class="regions container">
-            <div class="graph">
-              <div class="container chart-container">
-                <div id="chart2"></div>
-              </div>
-            </div>
-          </div>
-        </div>
--->
-        <!-- <table>
-          <tbody>
-            <tr>
-              <th><strong>{% t gesamtdeutsche_rohstoffproduktion.table1.th1 %}</strong></th>
-              <th><strong>{% t gesamtdeutsche_rohstoffproduktion.table1.th2 %}</strong></th>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row1.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row1.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row2.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row2.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row3.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row3.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row4.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row4.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row5.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row5.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row6.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row6.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row7.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row7.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row8.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row8.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row9.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row9.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row10.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row10.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row11.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row11.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row12.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row12.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row13.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row13.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row14.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table1.row14.td2 %}</td>
-            </tr>
-          </tbody>
-        </table> -->
+
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star1 %}</p>
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star2 %}</p>
         </section>
         <br/>
+
         <section style="position: relative;">
         <div class="chart-title-style" id="rohstoff-wert">{% t gesamtdeutsche_rohstoffproduktion.table2.h1 %}</div>
-        <!-- <table>
-          <tbody>
-            <tr>
-              <th><strong>{% t gesamtdeutsche_rohstoffproduktion.table2.th1 %}</strong></th>
-              <th><strong>{% t gesamtdeutsche_rohstoffproduktion.table2.th2 %}</strong></th>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.1.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.1.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.2.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.2.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.3.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.3.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.4.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.4.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.5.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.5.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.6.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.6.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.7.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.7.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.8.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.8.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.9.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.9.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.10.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.10.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.11.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.11.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.12.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.12.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.13.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.13.td2 %}</td>
-            </tr>
-            <tr>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.14.td1 %}</td>
-              <td>{% t gesamtdeutsche_rohstoffproduktion.table2.14.td2 %}</td>
-            </tr>
-          </tbody>
-        </table> -->
+
         <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
@@ -196,8 +61,6 @@ breadcrumb:
         <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star2 %}</p>
         </section>
 
-
-      </section>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
