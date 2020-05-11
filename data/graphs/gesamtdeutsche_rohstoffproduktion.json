@@ -6,7 +6,7 @@
 			[0.5, "Naturwerksteine"],
 			[1.1, "Kaolin"],
 			[2.2, "Erdöl"],
-			[7.9, "Erdgas**"]
+			[7.9, "Erdgas**"],
 			[35.97, "Kalisalz"],
 			[3.7 , "Steinkohle*"],
 			[6.0, "Spezialton"],
@@ -24,6 +24,7 @@
 			[0.5, "Ashlar"],
 			[1.1, "China clay"],
 			[2.2, "Crude oil"],
+			[7.9, "Natural gas**"],
 			[35.97, "Potash salt"],
 			[3.7, "Hard coal*"],
 			[6.0, "Special clay"],
