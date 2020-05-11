@@ -2022,10 +2022,10 @@ einnahmen:
       table1:
         title: "Einnahmen aus Feldesabgaben für die Jahre 2016 bis 2017"
         th1: Förderabgabe in Tausend Euro
-        th2: "201"
-        th3: "2016"
+        th2: "2016"
+        th3: "2017"
         row1:
-          td1: Bundesländer
+          td1: Bundesland
           td2: " "
           td3: " "
         row2:
@@ -2107,16 +2107,18 @@ einnahmen:
       p3: "Die Feldeseinnahmen der Bundesländer werden nicht systematisch bundesweit zusammengestellt oder veröffentlicht. Ihre Höhe ist deutlich geringer als die Höhe der Fördereinnahmen und sie fallen überhaupt nur in einigen Bundesländern an (siehe nachfolgende Tabelle):"
       table2:
         title: Feldesabgabe in Tausend Euro
+        title2: "2016"
+        title3: "2017"
         th1: Bundesland
         th2: ""
         row1:
           td1: Bayern
-          td2: "17,5"
-          td3: "28,2"
+          td2: "17.5"
+          td3: "28.2"
         row2:
           td1: Brandenburg
           td2: "14.5"
-          td3: "7,9"
+          td3: "7.9"
         row3:
           td1: Niedersachsen
           td2: "242"

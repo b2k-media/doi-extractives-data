@@ -59,6 +59,7 @@ breadcrumb:
               <th></th>
               <th align="center"><strong>{% t einnahmen.steuereinnahmen.th2.title %}</strong></th>
               <th></th>
+              <th></th>              
               <th></th>
             </tr>
             <tr>
@@ -330,22 +331,28 @@ breadcrumb:
           <tbody>
             <tr>
               <td colspan="2"><strong>{% t einnahmen.förder_feldesabgaben.table2.title %}</strong></td>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.title2 %}</strong></td>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.title3 %}</strong></td>
             </tr>
             <tr>
               <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th1 %}</strong></td>
               <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th2 %}</strong></td>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th3 %}</strong></td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row1.td1 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row1.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row1.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row2.td1 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row2.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row2.td3 %}</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row3.td1 %}</td>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row3.td2 %}</td>
+              <td>{% t einnahmen.förder_feldesabgaben.table2.row3.td3 %}</td>
             </tr>
           </tbody>
         </table>
