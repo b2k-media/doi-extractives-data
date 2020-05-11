@@ -336,8 +336,8 @@ breadcrumb:
             </tr>
             <tr>
               <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th1 %}</strong></td>
-              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th2 %}</strong></td>
-              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.th3 %}</strong></td>
+              <td colspan="2"></td>
+              <td><</td>
             </tr>
             <tr>
               <td>{% t einnahmen.förder_feldesabgaben.table2.row1.td1 %}</td>
