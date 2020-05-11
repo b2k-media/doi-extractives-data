@@ -31,8 +31,8 @@
 			[1814263, 2017]
 		]
 	],
-	"color": ["#66a3ff","#d9edf6","#4682be", "#28467a"],
-	"labels": ["Sonstige*","Kohlenbergbau","Gewinnung von Steinen und Erden, sonstiger Bergbau","Gewinnung von Erdöl und Erdgas"],
-	"labels_en": ["Other*","Coal mining","Quarrying, other mining","Extraction of crude oil and natural gas"],
+	"color": ["#66a3ff", "#d9edf6", "#4682be",  "#28467a"],
+	"labels": ["Sonstige*", "Kohlenbergbau", "Gewinnung von Steinen und Erden, sonstiger Bergbau", "Gewinnung von Erdöl und Erdgas"],
+	"labels_en": ["Other*", "Coal mining", "Quarrying, other mining", "Extraction of crude oil and natural gas"],
   "xAxis": [0, 2000000, 4000000, 6000000]
 }]
