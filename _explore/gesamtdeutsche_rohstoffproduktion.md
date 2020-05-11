@@ -26,41 +26,43 @@ breadcrumb:
 
         <br/><br/>
         <section style="position: relative;">
-        <div class="chart-title-style" id="rohstoff-menge">{% t gesamtdeutsche_rohstoffproduktion.table1.h1 %}</div>
-        <div class="explore-exploration slab-alpha">
-          <div class="regions container">
-            <div class="graph">
-              <div class="container chart-container">
-                <div id="chart1"></div>
+          <div class="chart-title-style" id="rohstoff-menge">{% t gesamtdeutsche_rohstoffproduktion.table1.h1 %}</div>
+          <div class="explore-exploration slab-alpha">
+            <div class="regions container">
+              <div class="graph">
+                <div class="container chart-container">
+                  <div id="chart1"></div>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <br>
+          <br>
 
-        <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star1 %}</p>
-        <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star2 %}</p>
+          <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star1 %}</p>
+          <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star2 %}</p>
         </section>
         <br/>
 
         <section style="position: relative;">
-        <div class="chart-title-style" id="rohstoff-wert">{% t gesamtdeutsche_rohstoffproduktion.table2.h1 %}</div>
+          <div class="chart-title-style" id="rohstoff-wert">{% t gesamtdeutsche_rohstoffproduktion.table2.h1 %}</div>
 
-        <div class="explore-exploration slab-alpha">
-          <div class="regions container">
-            <div class="graph">
-              <div class="container chart-container">
-                <div id="chart3"></div>
+          <div class="explore-exploration slab-alpha">
+            <div class="regions container">
+              <div class="graph">
+                <div class="container chart-container">
+                  <div id="chart3"></div>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <br />
-        <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.note %}</p>
-        <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star1 %}</p>
-        <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star2 %}</p>
+          <br />
+          <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.note %}</p>
+          <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star1 %}</p>
+          <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star2 %}</p>
         </section>
 
+
+      </section>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
