@@ -330,7 +330,7 @@ breadcrumb:
         <table class="einnahmen_table_2">
           <tbody>
             <tr>
-              <td colspan="2"><strong>{% t einnahmen.förder_feldesabgaben.table2.title %}</strong></td>
+              <td><strong>{% t einnahmen.förder_feldesabgaben.table2.title %}</strong></td>
               <td><strong>{% t einnahmen.förder_feldesabgaben.table2.title2 %}</strong></td>
               <td><strong>{% t einnahmen.förder_feldesabgaben.table2.title3 %}</strong></td>
             </tr>
