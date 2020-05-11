@@ -37,7 +37,7 @@ breadcrumb:
           </div>
         </div>
         <br>
-        <div class="explore-exploration slab-alpha">
+        <!-- <div class="explore-exploration slab-alpha">
           <div class="regions container">
             <div class="graph">
               <div class="container chart-container">
@@ -46,7 +46,7 @@ breadcrumb:
             </div>
           </div>
         </div>
-
+-->
         <!-- <table>
           <tbody>
             <tr>
