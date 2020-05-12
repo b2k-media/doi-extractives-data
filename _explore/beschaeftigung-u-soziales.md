@@ -17,7 +17,6 @@ breadcrumb:
     <h1 id="title">{% t beschaeftigung_u_soziales.title %}</h1>
     <div class="container-left-9">
       <section id="beschaeftigung_u_soziales" style="position: relative;">
-        <h1>{% t beschaeftigung_u_soziales.title %}</h1>
         <p>
           {% t beschaeftigung_u_soziales.p2 %}          
           <sup class="padding-right">
@@ -35,7 +34,7 @@ breadcrumb:
               {% t beschaeftigung_u_soziales.sup2.title %}
             </a>
           </sup>
-          {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3_3 %}
+          {% t beschaeftigung_u_soziales.p3_3 %}
         </p>
 
         <h2 id="rolle_des_gesetzgebers">
@@ -43,8 +42,13 @@ breadcrumb:
         </h2>
         <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p1 %}</p>
         <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p2 %}</p>
-        <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3 %}</p>
-
+        <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3 %}
+        <sup class="padding-right">
+          <a href="#sub-3">
+            {% t beschaeftigung_u_soziales.sup3.title %}
+          </a>
+        </sup>
+        {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3_1 %}</p>
         <h2 id="rolle_und_zusammenarbeit_der_sozialpartner">
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.headline %}
         </h2>
@@ -180,17 +184,17 @@ breadcrumb:
       <br/>
       <section id="explanation" style="position: relative;">
         <p id="sub-1">
-          <sup>{% t wasser.wasserentnahme.sup1.title %}</sup>
-          {% t wasser.wasserentnahme.sup1.text %}
-          <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltoekonomischeGesamtrechnungen/MaterialEnergiefluesse/Tabellen/EntnahmeWasser.html">
-            {% t wasser.wasserentnahme.sup1.link %}
+          <sup>{% t beschaeftigung_u_soziales.sup1.title %}</sup>
+          {% t beschaeftigung_u_soziales.sup1.text %}
+          <a target="_blank" href="https://statistik.arbeitsagentur.de/nn_31966/SiteGlobals/Forms/Rubrikensuche/Rubrikensuche_Form.html?view=processForm&resourceId=210368&input_=&pageLocale=de&topicId=746698&year_month=201712&year_month.GROUP=1&search=Suchen">
+            {% t beschaeftigung_u_soziales.sup1.link %}
           </a>
         </p>
         <p id="sub-2">
-          <sup>{% t wasser.wasserentnahme.sup2.title %}</sup>
-          {% t wasser.wasserentnahme.sup2.text %}
-          <a target="_blank" href="https://www.statistik.sachsen.de/download/100_Berichte-Q/Q_I_2_3j_13_SN.pdf">
-            {% t wasser.wasserentnahme.sup2.link %}
+          <sup>{% t beschaeftigung_u_soziales.sup2.title %}</sup>
+          {% t beschaeftigung_u_soziales.sup2.text %}
+          <a target="_blank" href="www.boeckler.de/pdf/p_study_hbs_315.pdf">
+            {% t beschaeftigung_u_soziales.sup2.link %}
           </a>
         </p>
         <p id="sub-3">
