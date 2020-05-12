@@ -45,7 +45,7 @@ breadcrumb:
         <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3 %}
         <sup class="padding-right">
           <a href="#sub-3">
-            {% t beschaeftigung_u_soziales.sup3.title %}
+            {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup3.title %}
           </a>
         </sup>
         {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3_1 %}</p>
