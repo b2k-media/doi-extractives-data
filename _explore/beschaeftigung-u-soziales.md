@@ -14,37 +14,99 @@ breadcrumb:
   <section class="container" style="position: relative;">
 
     {% include breadcrumb.html %}
-    <h1 id="title">{% t beschaeftigung-u-soziales.title %}</h1>
+    <h1 id="title">{% t beschaeftigung_u_soziales.title %}</h1>
     <div class="container-left-9">
-      <section id="wasserentnahme" style="position: relative;">
-        <h2>{% t wasser.wasserentnahme.title %}</h2>
+      <section id="beschaeftigung_u_soziales" style="position: relative;">
+        <h1>{% t beschaeftigung_u_soziales.title %}</h1>
         <p>
-          {% t wasser.wasserentnahme.p1_1 %}
+          {% t beschaeftigung_u_soziales.p2 %}          
           <sup class="padding-right">
             <a href="#sub-1">
-              {% t wasser.wasserentnahme.sup1.title %}
+              {% t beschaeftigung_u_soziales.sup1.title %}
             </a>
           </sup>
-          {% t wasser.wasserentnahme.p1_2 %}
+
+          {% t point %}
+          {% t beschaeftigung_u_soziales.p2_1 %}
+        </p>
+
+        <p>
+          {% t beschaeftigung_u_soziales.p3_1 %}
         </p>
         <p>
-          {% t wasser.wasserentnahme.p2_1 %}
+          {% t beschaeftigung_u_soziales.p3_2 %}
           <sup class="padding-right">
             <a href="#sub-2">
-              {% t wasser.wasserentnahme.sup2.title %}
+              {% t beschaeftigung_u_soziales.sup2.title %}
             </a>
           </sup>
-          {% t wasser.wasserentnahme.p2_2 %}
+          {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3_22 %}
+          {% t point %}
         </p>
 
-        <h3 id="verwendung_des_wasser">
-          {% t wasser.wasserentnahme.verwendung_des_wasser.title %}
+        <h2 id="rolle_des_gesetzgebers">
+          {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.title %}
+        </h2>
+        <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p1 %}</p>
+        <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p2 %}</p>
+        <p>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3 %}</p>
+
+        <h2 id="rolle_und_zusammenarbeit_der_sozialpartner">
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.headline %}
+        </h2>
+        <h3 id="rolle_und_zusammenarbeit_der_sozialpartner">
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.title %}
         </h3>
-        <p>{% t wasser.wasserentnahme.verwendung_des_wasser.p1 %}</p>
-        <p>{% t wasser.wasserentnahme.verwendung_des_wasser.p2 %}</p>
+        <p>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1 %}</p>
+        <p>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p2 %}</p>
+        <p>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p3 %}</p>
+
+        <h3 id="tarifbindung">
+          {% t beschaeftigung_u_soziales.tarifbindung.title %}
+        </h3>
+        <p>{% t beschaeftigung_u_soziales.tarifbindung.p1 %}</p>
+
+        <h2 id="ausbildung">
+          {% t beschaeftigung_u_soziales.ausbildung.title %}
+        </h2>
+        <p>{% t beschaeftigung_u_soziales.ausbildung.p1 %}</p>
+
+        <h2 id="einkommensniveau">
+          {% t beschaeftigung_u_soziales.einkommensniveau.title %}
+        </h2>
+        <p>{% t beschaeftigung_u_soziales.einkommensniveau.p1 %}</p>
+        <p>{% t beschaeftigung_u_soziales.einkommensniveau.p2 %}</p>
+        <p>{% t beschaeftigung_u_soziales.einkommensniveau.p3 %}</p>
+
+        <h2 id="diversitaet_und_chancengleichheit">
+          {% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.title %}
+        </h2>
+        <p>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.p1 %}</p>
+        <p>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.p2 %}</p>
+        <p>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.p3 %}</p>
+        <p>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.p4 %}</p>
+
+
+        <h2 id="klimapolitik_und_strukturwandel">
+          {% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.title %}
+        </h2>
+        <p>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.p1 %}</p>
+        <p>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.p2 %}</p>
+        <p>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.p3 %}</p>
+        <p>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.p4 %}</p>
+
+
+        <h2 id="unternehmerische_verantwortung">
+          {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.title %}
+        </h2>
+        <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p1 %}</p>
+        <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p2 %}</p>
+        <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3 %}</p>
+
+
 
         <br/>
-        <div class="chart-title-style">{% t wasser.chart-title %}</div>
+        <div class="chart-title-style">{% t beschaeftigung_u_soziales.chart-title %}</div>
         <div>
           <img style="width: 100%" src="{{ site.baseurl_root }}{% t wasser.chart-src %}" alt="KAchel Wasser_Bild">
         </div>
