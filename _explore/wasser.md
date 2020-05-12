@@ -102,9 +102,11 @@ breadcrumb:
         <p>{% t wasser.wasserentnahme.ausgestaltung.p3 %}
           <sup class="padding-right">
             <a href="#sub-6">
-              {% t wasser.wasserentnahmeentgelte.sup6.title %}
+              {% t wasser.wasserentnahme.ausgestaltung.sup6.title %}
             </a>
           </sup>
+        </p>
+        <p>{% t wasser.wasserentnahme.ausgestaltung.p4 %}          
         </p>
       </section>
       <br/>
