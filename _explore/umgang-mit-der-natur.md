@@ -137,7 +137,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td4 %}</td>
-              <td class="link"><a target="_blank" href="https://www.kompensationsflaechen-mv.de/wiki/index.php/Hauptseite">https://www.kompensationsflaechen-mv.de/wiki/index.php/Hauptseite</a><br>
+              <td class="link"><a target="_blank" href="https://www.kompensationsflaechen-mv.de/wiki/index.php/Hauptseite">https://www.kompensationsflaechen-mv.de/wiki/index.php/Hauptseite</a><br><br>
               <a target="_blank" href="https://www.umweltkarten.mv-regierung.de/atlas/script/index.php">https://www.umweltkarten.mv-regierung.de/atlas/script/index.php</a></td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td6 %}</td>
             </tr>
@@ -146,7 +146,7 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td4 %}</td>
-              <td> class="link"<a target="_blank" href="https://cuxland-gis.landkreis-cuxhaven.de/internet/kompensationsflaechen">https://cuxland-gis.landkreis-cuxhaven.de/internet/kompensationsflaechen</a></td>
+              <td> class="link"><a target="_blank" href="https://cuxland-gis.landkreis-cuxhaven.de/internet/kompensationsflaechen">https://cuxland-gis.landkreis-cuxhaven.de/internet/kompensationsflaechen</a></td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td6 %}</td>
             </tr>
             <tr>
