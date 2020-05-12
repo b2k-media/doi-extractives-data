@@ -95,9 +95,12 @@ table.jqplot-table-legend {
     max-width: 80px;
 }
 .verwendung_der_einnahmen_table td:nth-child(5){
-  max-width: 200px;
+  width: 540px;
 }
 
+.verwendung_der_einnahmen_table td:nth-child(6){
+  width: 270px;
+}
 .verwendung_der_einnahmen_table .link{
   /* These are technically the same, but use both */
    overflow-wrap: break-word;
