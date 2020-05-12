@@ -103,83 +103,11 @@ breadcrumb:
 
         <h1>STOP</h1>
 
-        <br/>
-        <div class="chart-title-style">{% t beschaeftigung_u_soziales.chart-title %}</div>
-        <div>
-          <img style="width: 100%" src="{{ site.baseurl_root }}{% t wasser.chart-src %}" alt="KAchel Wasser_Bild">
-        </div>
-        <br/>
 
-        <h3 id="beispiel">
-          {% t wasser.wasserentnahme.beispiel.title %}
-        </h3>
-        <p>{% t wasser.wasserentnahme.beispiel.p1 %}</p>
-
-        <!-- <div class="explore-exploration slab-alpha">
-          <div class="regions container">
-            <div class="graph">
-              <div class="container chart-container">
-                <div id="chart1"></div>
-              </div>
-            </div>
-          </div>
-        </div> -->
-        <h3 id="rechtlicher">
-          {% t wasser.wasserentnahme.rechtlicher.title %}
-        </h3>
-        <p>
-          {% t wasser.wasserentnahme.rechtlicher.p1_1 %}
-          <sup class="padding-right">
-            <a href="#sub-3">
-              {% t wasser.wasserentnahme.rechtlicher.sup3.title %}
-            </a>
-          </sup>
-          {% t wasser.wasserentnahme.rechtlicher.p1_2 %}
-        </p>
-        <p>{% t wasser.wasserentnahme.rechtlicher.p2 %}</p>
-
-        <h3 id="ausgestaltung">
-          {% t wasser.wasserentnahme.ausgestaltung.title %}
-        </h3>
-        <p>
-          {% t wasser.wasserentnahme.ausgestaltung.p1 %}
-          <sup class="padding-right">
-            <a href="#sub-4">
-              {% t wasser.wasserentnahme.ausgestaltung.sup4.title %}
-            </a>
-          </sup>
-          {% t point %}
-        </p>
-        <p>
-          {% t wasser.wasserentnahme.ausgestaltung.p2 %}
-          <sup class="padding-right">
-            <a href="#sub-5">
-              {% t wasser.wasserentnahme.ausgestaltung.sup5.title %}
-            </a>
-          </sup>
-          {% t point %}
-        </p>
-        <p>{% t wasser.wasserentnahme.ausgestaltung.p3 %}</p>
       </section>
       <br/>
       <section id="wasserentnahmeentgelte" style="position: relative;">
-        <h3>{% t wasser.wasserentnahmeentgelte.title %}</h3>
-        <p>
-          {% t wasser.wasserentnahmeentgelte.p1_1 %}
-          <sup class="padding-right">
-            <a href="#sub-6">
-              {% t wasser.wasserentnahmeentgelte.sup6.title %}
-            </a>
-          </sup>
-          {% t wasser.wasserentnahmeentgelte.p1_2 %}
-          <sup class="padding-right">
-            <a href="#sub-7">
-              {% t wasser.wasserentnahmeentgelte.sup7.title %}
-            </a>
-          </sup>
-          {% t wasser.wasserentnahmeentgelte.p1_3 %}
-        </p>
-        <p>{% t wasser.wasserentnahmeentgelte.p2 %}</p>
+
       </section>
       <br/>
       <section id="explanation" style="position: relative;">
