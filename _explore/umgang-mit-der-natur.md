@@ -22,7 +22,7 @@ breadcrumb:
         <p>
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.p2_1 %}
           <a
-          target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">
+          target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf;jsessionid=8465D6DB8FD67419EDB9379BC0E34D38.2_cid292?__blob=publicationFile&v=3">
             {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.link1 %}
           </a>
           {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.p2_2 %}
@@ -81,36 +81,24 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td6 %}
-                <a target="_blank" href="https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/kompensationsverzeichnis">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/kompensationsverzeichnis">https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/kompensationsverzeichnis</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row1.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.td1 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.td6 %}
-                <a target="_blank" href="https://www.lfu.bayern.de/natur/oefka_oeko/index.htm">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="https://www.lfu.bayern.de/natur/oefka_oeko/index.htm">https://www.lfu.bayern.de/natur/oefka_oeko/index.htm</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row2.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td1 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td6 %}
-                <a target="_blank" href="http://fbinter.stadt-berlin.de/fb/index.jsp">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="http://fbinter.stadt-berlin.de/fb/index.jsp">http://fbinter.stadt-berlin.de/fb/index.jsp</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row3.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row4.td1 %}</td>
@@ -125,12 +113,8 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td6_2 %}
-                <a target="_blank" href="https://www.bauumwelt.bremen.de/umwelt/natur/gis_dienste___geodaten-48536">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.link2 %}
-                </a>
-              </td>
+              <td><a target="_blank" href="https://www.bauumwelt.bremen.de/umwelt/natur/gis_dienste___geodaten-48536">https://www.bauumwelt.bremen.de/umwelt/natur/gis_dienste___geodaten-48536</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row5.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td1 %}</td>

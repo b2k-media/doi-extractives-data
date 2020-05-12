@@ -1273,31 +1273,28 @@ umgang-mit-der-natur:
       th3: Zentral für das Bundes-land
       th4: Umfassende Informationen zur Eingriffsfläche und Kompensationsart
       th5: Weblink
-      th6: ""
+      th6: "Informationen zu Ersatzzahlungen"
       row1:
         td1: Baden-Württemberg
         td2: Ja
         td3: Nein
         td4: Ja
-        td5: Onlinearchive der
+        td5:
         td6: Liste der Ersatzgeldzahlungen kann bei der Stiftung Naturschutzfonds angefordert werden.
-        link: Landkreise
       row2:
         td1: Bayern
         td2: Ja
         td3: Ja
         td4: Ja
-        td5: Daten-
+        td5:
         td6: Listen der Ersatzzahlungen können auf Ebene der Kreisverwaltungsbehörden angefordert werden.
-        link: Download
       row3:
         td1: Berlin
         td2: Ja
         td3: Ja
         td4: Nein
-        td5: Browserbasierter
+        td5: 
         td6: Listen der Ersatzzahlungen können auf Bezirksebene angefordert werden.
-        link:  Kartendienst
       row4:
         td1: Brandenburg
         td2: Nein
