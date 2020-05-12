@@ -99,7 +99,13 @@ breadcrumb:
           </sup>
           {% t point %}
         </p>
-        <p>{% t wasser.wasserentnahme.ausgestaltung.p3 %}</p>
+        <p>{% t wasser.wasserentnahme.ausgestaltung.p3 %}
+          <sup class="padding-right">
+            <a href="#sub-6">
+              {% t wasser.wasserentnahmeentgelte.sup6.title %}
+            </a>
+          </sup>
+        </p>
       </section>
       <br/>
       <section id="wasserentnahmeentgelte" style="position: relative;">
@@ -107,14 +113,14 @@ breadcrumb:
         <p>
           {% t wasser.wasserentnahmeentgelte.p1_1 %}
           <sup class="padding-right">
-            <a href="#sub-6">
-              {% t wasser.wasserentnahmeentgelte.sup6.title %}
+            <a href="#sub-7">
+              {% t wasser.wasserentnahmeentgelte.sup7.title %}
             </a>
           </sup>
           {% t wasser.wasserentnahmeentgelte.p1_2 %}
           <sup class="padding-right">
-            <a href="#sub-7">
-              {% t wasser.wasserentnahmeentgelte.sup7.title %}
+            <a href="#sub-8">
+              {% t wasser.wasserentnahmeentgelte.sup8.title %}
             </a>
           </sup>
           {% t wasser.wasserentnahmeentgelte.p1_3 %}
