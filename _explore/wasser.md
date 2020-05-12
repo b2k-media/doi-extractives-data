@@ -170,15 +170,19 @@ breadcrumb:
         <p id="sub-6">
           <sup>{% t wasser.wasserentnahmeentgelte.sup6.title %}</sup>
           {% t wasser.wasserentnahmeentgelte.sup6.text %}
-          <a target="_blank" href="https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx">
-            {% t wasser.wasserentnahmeentgelte.sup6.link %}
-          </a>
         </p>
         <p id="sub-7">
           <sup>{% t wasser.wasserentnahmeentgelte.sup7.title %}</sup>
           {% t wasser.wasserentnahmeentgelte.sup7.text %}
-          <a target="_blank" href="https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1">
+          <a target="_blank" href="https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx">
             {% t wasser.wasserentnahmeentgelte.sup7.link %}
+          </a>
+        </p>
+        <p id="sub-8">
+          <sup>{% t wasser.wasserentnahmeentgelte.sup8.title %}</sup>
+          {% t wasser.wasserentnahmeentgelte.sup8.text %}
+          <a target="_blank" href="https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1">
+            {% t wasser.wasserentnahmeentgelte.sup8.link %}
           </a>
         </p>
       </section>
