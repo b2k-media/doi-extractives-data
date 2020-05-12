@@ -25,23 +25,17 @@ breadcrumb:
               {% t beschaeftigung_u_soziales.sup1.title %}
             </a>
           </sup>
-
-          {% t point %}
           {% t beschaeftigung_u_soziales.p2_1 %}
-        </p>
-
-        <p>
+        <br>
           {% t beschaeftigung_u_soziales.p3_1 %}
-        </p>
-        <p>
+        <br>
           {% t beschaeftigung_u_soziales.p3_2 %}
           <sup class="padding-right">
             <a href="#sub-2">
               {% t beschaeftigung_u_soziales.sup2.title %}
             </a>
           </sup>
-          {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3_22 %}
-          {% t point %}
+          {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.p3_3 %}
         </p>
 
         <h2 id="rolle_des_gesetzgebers">
@@ -57,9 +51,11 @@ breadcrumb:
         <h3 id="rolle_und_zusammenarbeit_der_sozialpartner">
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.title %}
         </h3>
-        <p>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1 %}</p>
-        <p>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p2 %}</p>
-        <p>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p3 %}</p>
+        <p>
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1 %}<br>
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p2 %}<br>
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p3 %}
+        </p>
 
         <h3 id="tarifbindung">
           {% t beschaeftigung_u_soziales.tarifbindung.title %}
@@ -86,7 +82,6 @@ breadcrumb:
         <p>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.p3 %}</p>
         <p>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.p4 %}</p>
 
-
         <h2 id="klimapolitik_und_strukturwandel">
           {% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.title %}
         </h2>
@@ -95,7 +90,6 @@ breadcrumb:
         <p>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.p3 %}</p>
         <p>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.p4 %}</p>
 
-
         <h2 id="unternehmerische_verantwortung">
           {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.title %}
         </h2>
@@ -103,7 +97,7 @@ breadcrumb:
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p2 %}</p>
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3 %}</p>
 
-
+        <h1>STOP</h1>
 
         <br/>
         <div class="chart-title-style">{% t beschaeftigung_u_soziales.chart-title %}</div>
