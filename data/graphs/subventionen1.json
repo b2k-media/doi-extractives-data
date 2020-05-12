@@ -30,7 +30,7 @@
 	"xAxis": [0, 200, 400, 600, 800, 1000, 1200, 1400]
 }, {
 	"title": "Anpassungsgeld 2014-17  (Anteil Bund)",
-	"title_en": "Adaption Payment (Anpassungsgeld) 2014-17 (Federal Governments amounts)",
+	"title_en": "Adaption Payment (Anpassungsgeld) 2014-2017 (Federal Governments amounts)",
 	"data": [
 		[
       [116.9, 2014],
