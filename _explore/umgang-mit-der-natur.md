@@ -121,52 +121,33 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td6 %}
-                <a target="_blank" href="https://geoportal-hamburg.de/geoportal/geo-online">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="https://geoportal-hamburg.de/geoportal/geo-online">https://geoportal-hamburg.de/geoportal/geo-online</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row6.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td1 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td6 %}
-                <a target="_blank" href="http://natureg.hessen.de/mapapps/resources/apps/natureg/index.html?lang=de">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="http://natureg.hessen.de/mapapps/resources/apps/natureg/index.html?lang=de">http://natureg.hessen.de/mapapps/resources/apps/natureg/index.html?lang=de</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row7.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td1 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td5 %}</td>
-              <td>
-                <a target="_blank" href="https://www.kompensationsflaechen-mv.de/wiki/index.php/Hauptseite">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.link1 %}
-                </a>
-                {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td6 %}
-                <a target="_blank" href="https://www.umweltkarten.mv-regierung.de/atlas/script/index.php">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.link2 %}
-                </a>
-              </td>
+              <td><a target="_blank" href="https://www.kompensationsflaechen-mv.de/wiki/index.php/Hauptseite">https://www.kompensationsflaechen-mv.de/wiki/index.php/Hauptseite</a><br>
+              <a target="_blank" href="https://www.umweltkarten.mv-regierung.de/atlas/script/index.php">https://www.umweltkarten.mv-regierung.de/atlas/script/index.php</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row8.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td1 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td6 %}
-                <a target="_blank" href="https://cuxland-gis.landkreis-cuxhaven.de/internet/kompensationsflaechen">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="https://cuxland-gis.landkreis-cuxhaven.de/internet/kompensationsflaechen">https://cuxland-gis.landkreis-cuxhaven.de/internet/kompensationsflaechen</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row9.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row10.td1 %}</td>
@@ -181,12 +162,8 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td5 %}</td>
-              <td>
-                <a target="_blank" href="http://www.naturschutz.rlp.de/?q=kartendienst,">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="http://www.naturschutz.rlp.de/?q=kartendienst">http://www.naturschutz.rlp.de/?q=kartendienst</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row11.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row12.td1 %}</td>
@@ -201,36 +178,24 @@ breadcrumb:
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td5 %}</td>
-              <td>
-                <a target="_blank" href="https://www.umwelt.sachsen.de/umwelt/natur/15205.htm">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="https://www.umwelt.sachsen.de/umwelt/natur/15205.htm">https://www.umwelt.sachsen.de/umwelt/natur/15205.htm</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row13.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td1 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td5 %}</td>
-              <td>
-                <a target="_blank" href="http://ekis.geolock.de/">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="http://ekis.geolock.de/">http://ekis.geolock.de/</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row14.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td1 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td2 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td3 %}</td>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td4 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td5 %}</td>
-              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td6 %}
-                <a target="_blank" href="http://www.lksh.de/forst/oekokonto/">
-                  {% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.link %}
-                </a>
-              </td>
+              <td><a target="_blank" href="http://www.lksh.de/forst/oekokonto/">http://www.lksh.de/forst/oekokonto/</a></td>
+              <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row15.td6 %}</td>
             </tr>
             <tr>
               <td>{% t umgang-mit-der-natur.naturschutzrechtliche_eingriffsregelungen.table.row16.td1 %}</td>
