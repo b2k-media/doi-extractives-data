@@ -198,8 +198,8 @@ breadcrumb:
           </a>
         </p>
         <p id="sub-3">
-          <sup>{% t wasser.wasserentnahme.rechtlicher.sup3.title %}</sup>
-          {% t wasser.wasserentnahme.rechtlicher.sup3.text %}
+          <sup>{% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup3.title %}</sup>
+          {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup3.text %}
         </p>
         <p id="sub-4">
           <sup>{% t wasser.wasserentnahme.ausgestaltung.sup4.title %}</sup>
