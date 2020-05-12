@@ -91,7 +91,9 @@ table.jqplot-table-legend {
     font-size: 0.85em !important;
   }
 }
-
-.verwendung_der_einnahmen_table .link{
+.verwendung_der_einnahmen_table tr td:nth-child(2) {
+    max-width: 80px;
+}
+.verwendung_der_einnahmen_table td:nth-child(5){
   max-width: 200px;
 }
