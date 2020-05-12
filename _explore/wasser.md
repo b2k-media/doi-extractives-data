@@ -163,13 +163,16 @@ breadcrumb:
         <p id="sub-5">
           <sup>{% t wasser.wasserentnahme.ausgestaltung.sup5.title %}</sup>
           {% t wasser.wasserentnahme.ausgestaltung.sup5.text %}
-          <a target="_blank"  href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_natuerlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
+          <a target="_blank"  href="https://www.vku.de/fileadmin/user_upload/Verbandsseite/Sparten/Wasser_Abwasser/180409_VKU-Grafik_Wasserentnahmeentgelte_2018.pdf">
             {% t wasser.wasserentnahme.ausgestaltung.sup5.link %}
           </a>
         </p>
         <p id="sub-6">
-          <sup>{% t wasser.wasserentnahmeentgelte.sup6.title %}</sup>
-          {% t wasser.wasserentnahmeentgelte.sup6.text %}
+          <sup>{% t wasser.wasserentnahmeentgelte.ausgestaltung.sup6.title %}</sup>
+          {% t wasser.wasserentnahmeentgelte.ausgestaltung.sup6.text %}
+          <a target="_blank" href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_natuerlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
+            {% t wasser.wasserentnahmeentgelte.ausgestaltung.sup6.link %}
+          </a>
         </p>
         <p id="sub-7">
           <sup>{% t wasser.wasserentnahmeentgelte.sup7.title %}</sup>
