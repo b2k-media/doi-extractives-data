@@ -14,7 +14,7 @@
   "labels_en": ["Adaption payment (Federal)", "Subsidies for sales and closures(Federal)"],
 	"xAxis": [0, 200, 400, 600, 800, 1000, 1200, 1400]
 }, {
-	"title": "Zuschüsse für den Absatz und Stilllegung deutscher Steinkohle 2014 – 17 (Anteil Bund)",
+	"title": "Zuschüsse für den Absatz und Stilllegung deutscher Steinkohle 2014 – 2017 (Anteil Bund)",
 	"title_en": "Subsidies for the sale and closure of German hard coal from 2014 to 2017 (Federal Government amounts)",
 	"data": [
 		[
@@ -29,7 +29,7 @@
   "labels_en": ["Adaption payment (Federal)"],
 	"xAxis": [0, 200, 400, 600, 800, 1000, 1200, 1400]
 }, {
-	"title": "Anpassungsgeld 2014-17  (Anteil Bund)",
+	"title": "Anpassungsgeld 2014-2017  (Anteil Bund)",
 	"title_en": "Adaption Payment (Anpassungsgeld) 2014-2017 (Federal Governments amounts)",
 	"data": [
 		[
