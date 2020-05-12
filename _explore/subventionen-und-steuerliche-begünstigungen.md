@@ -139,18 +139,20 @@ breadcrumb:
           </a>
           {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_2 %}
         </p>
-        <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_3 %}</p>
+        <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_3 %}
         <sup>
           <a href="#sup-4">
             {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.sup4.title %}
           </a>
         </sup>
-        <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_4 %}</p>
+        </p>
+        <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_4 %}
         <sup>
           <a href="#sup-5">
             {% t subventionen-und-steuerliche-begünstigungen.begünstigungen.sup5.title %}
           </a>
         </sup>
+        </p>
         <p>{% t subventionen-und-steuerliche-begünstigungen.begünstigungen.p5_5 %}</p>
       </section>
       <br/>
