@@ -1272,131 +1272,127 @@ umgang-mit-der-natur:
       th2: Öffentlich einsehbar
       th3: Zentral für das Bundes-land
       th4: Umfassende Informationen zur Eingriffsfläche und Kompensationsart
-      th5: Erfasst mögliche  Ersatzzahlungen
-      th6: Weblink
+      th5: Weblink
+      th6: ""
       row1:
         td1: Baden-Württemberg
         td2: Ja
         td3: Nein
         td4: Ja
-        td5: Nein
-        td6: Onlinearchive der
+        td5: Onlinearchive der
+        td6: Liste der Ersatzgeldzahlungen kann bei der Stiftung Naturschutzfonds angefordert werden.
         link: Landkreise
       row2:
         td1: Bayern
         td2: Ja
         td3: Ja
         td4: Ja
-        td5: Nein
-        td6: Daten-
+        td5: Daten-
+        td6: Listen der Ersatzzahlungen können auf Ebene der Kreisverwaltungsbehörden angefordert werden.
         link: Download
       row3:
         td1: Berlin
         td2: Ja
         td3: Ja
         td4: Nein
-        td5: Nein
-        td6: Browserbasierter
+        td5: Browserbasierter
+        td6: Listen der Ersatzzahlungen können auf Bezirksebene angefordert werden.
         link:  Kartendienst
       row4:
         td1: Brandenburg
         td2: Nein
         td3: Ja
         td4: Nein
-        td5: Nein
-        td6: Im Aufbau
+        td5: Liste der Ersatzzahlungen kann bei der Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwicklung und Wohnungsbau angefordert werden.
+        td6: Nein
       row5:
         td1: Bremen
         td2: Ja
         td3: Ja
         td4: Ja
-        td5: Nein
-        td6_1: Daten
-        link1: -Download;
-        td6_2: Browserbasierter
-        link2: Kartendienst
+        td5: ""
+        td6: Liste der Ersatzzahlungen kann bei der Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwicklung und Wohnungsbau angefordert werden.
       row6:
         td1: Hamburg
         td2: Ja
         td3: Ja
         td4: Nein
-        td5: Nein
-        td6: Browserbasierter.
+        td5: Browserbasierter.
+        td6: Gesamtbetrag der Ersatzzahlungen ist über die Jahresbilanz des Sondervermögens für Naturschutz öffentlich einsehbar.
         link: Kartendienst
       row7:
         td1: Hessen
         td2: Ja
         td3: Ja
         td4: Ja
-        td5: Nein
-        td6: Browserbasierter.
+        td5: Browserbasierter.
+        td6: Ersatzzahlungen sind nicht öffentlich einsehbar.
         link: Kartendienst
       row8:
         td1: Mecklenburg-Vorpommern
         td2: Ja
         td3: Ja
         td4: Ja
-        td5: Nein
+        td5: Browserbasierter
         link1: Download;
-        td6: Browserbasierter
+        td6: Ersatzzahlungen sind nicht öffentlich einsehbar.
         link2: Kartendienst
       row9:
         td1: Niedersachsen
         td2: Teilweise
         td3: Nein
         td4: Teilweise (s. Bsp. Landkreis Cuxhaven)
-        td5: Nein
-        td6: Browserbasierter Kartendienst am Bsp. LK.
+        td5: Browserbasierter Kartendienst am Bsp. LK.
+        td6: Ersatzzahlungen sind nicht öffentlich einsehbar.
         link: Cuxhaven
       row10:
         td1: Nordrhein-Westfalen
         td2: Geplant
         td3: Nein
         td4: Ja
-        td5: Nein
-        td6: "-"
+        td5: "-"
+        td6: Listen der Ersatzzahlungen können auf Ebene der Kreisverwaltungsbehörden angefordert werden.
       row11:
         td1: Rheinland-Pfalz
         td2: Ja
         td3: Ja
         td4: Ja
-        td5: Nein
+        td6: Liste von Ersatzgeldzahlungen kann bei der Stiftung Natur und Umwelt angefordert werden.
         link: Kartendienst
       row12:
         td1: Saarland
         td2: Nein
         td3: Nein
         td4: Nein
-        td5: Nein
-        td6: "-"
+        td5: "-"
+        td6: Ökokontomaßnahmen können über das Geoportal des Saarlandes (www.geoportal.saarland.de) eingesehen werden.
       row13:
         td1: Sachsen
         td2: Nein
         td3: Ja
         td4: Nein
-        td5: Nein
+        td6: Listen der Ersatzzahlungen können auf Ebene der Kreisverwaltungsbehörden angefordert werden.
         link: Beschreibung
       row14:
         td1: Sachsen-Anhalt
         td2: "Teilweise (Ökokonten: Ja, Kompensationsverzeichnis: Nein)"
         td3: Ja
         td4: Nein
-        td5: Nein
+        td6: Ersatzzahlungen sind nicht öffentlich einsehbar.
         link: Login
       row15:
         td1: Schleswig-Holstein
         td2: Ja
         td3: Nein
         td4: Nein
-        td5: Nein
-        td6: Browserbasierter
-        link: Kartendienst
+        td5: Browserbasierter
+        td6: Liste der Ersatzzahlungen kann beim Ministerium für Energiewende, Landwirtschaft, Umwelt, Natur und Digitalisierung angefordert werden.
       row16:
         td1: Thüringen
         td2: Nein
         td3: Ja
         td4: Ja
-        td5: Nein
+        td5: "-"
         td6: "-"
     table_source: "Quelle: eigene Darstellung, Stand: Dezember 2019"
 
@@ -1418,7 +1414,7 @@ umgang-mit-der-natur:
       p4: "Für die Ökokontomaßnahmen sind weiterhin folgende Informationen einsehbar:"
       list2:
         item1: Maßnahmenkomplex,
-        item2: Status,s
+        item2: Status,
         item3: Naturraum,
         item4: Lage der Maßnahme,
         item5: Ökopunkte.
