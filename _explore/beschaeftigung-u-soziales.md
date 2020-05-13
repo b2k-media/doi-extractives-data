@@ -100,10 +100,6 @@ breadcrumb:
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p1 %}</p>
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p2 %}</p>
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3 %}</p>
-
-        <h1>STOP</h1>
-
-
       </section>
       <br/>
       <section id="wasserentnahmeentgelte" style="position: relative;">
