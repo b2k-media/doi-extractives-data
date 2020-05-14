@@ -214,7 +214,7 @@ breadcrumb:
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3 %}</p>
         <sup class="padding-right">
           <a href="#sub-21">
-            {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup20.title %}
+            {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup21.title %}
           </a>
         </sup>
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3_1 %}
@@ -263,6 +263,67 @@ breadcrumb:
         <p id="sub-7">
           <sup>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup7.title %}</sup>
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup7.text %}
+        </p>
+        <p id="sub-8">
+          <sup>{% t beschaeftigung_u_soziales.tarifbindung.sup8.title %}</sup>
+          {% t beschaeftigung_u_soziales.tarifbindung.sup8.text %}
+        </p>
+        <p id="sub-9">
+          <sup>{% t beschaeftigung_u_soziales.tarifbindung.sup9.title %}</sup>
+          {% t beschaeftigung_u_soziales.tarifbindung.sup9.text %}
+        </p>
+        <p id="sub-10">
+          <sup>{% t beschaeftigung_u_soziales.ausbildung.sup10.title %}</sup>
+          {% t beschaeftigung_u_soziales.ausbildung.sup10.text %}
+        </p>
+        <p id="sub-11">
+          <sup>{% t beschaeftigung_u_soziales.ausbildung.sup11.title %}</sup>
+          {% t beschaeftigung_u_soziales.ausbildung.sup11.text %}
+        </p>
+        <p id="sub-12">
+          <sup>{% t beschaeftigung_u_soziales.ausbildung.sup12.title %}</sup>
+          {% t beschaeftigung_u_soziales.ausbildung.sup12.text %}
+        </p>
+        <p id="sub-13">
+          <sup>{% t beschaeftigung_u_soziales.einkommensniveau.sup13.title %}</sup>
+          {% t beschaeftigung_u_soziales.einkommensniveau.sup13.text %}
+        </p>
+        <p id="sub-14">
+          <sup>{% t beschaeftigung_u_soziales.einkommensniveau.sup14.title %}</sup>
+          {% t beschaeftigung_u_soziales.einkommensniveau.sup14.text %}
+        </p>
+        <p id="sub-15">
+          <sup>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.sup15.title %}</sup>
+          {% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.sup15.text %}
+        </p>
+        <p id="sub-16">
+          <sup>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.sup16.title %}</sup>
+          {% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.sup17
+            6.text %}
+        </p>
+        <p id="sub-17">
+          <sup>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup17.title %}</sup>
+          {% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup17.text %}
+        </p>
+        <p id="sub-18">
+          <sup>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup18.title %}</sup>
+          {% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup18.text %}
+        </p>
+        <p id="sub-19">
+          <sup>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup19.title %}</sup>
+          {% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup19.text %}
+        </p>
+        <p id="sub-20">
+          <sup>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup20.title %}</sup>
+          {% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup20.text %}
+        </p>
+        <p id="sub-21">
+          <sup>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup21.title %}</sup>
+          {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup21.text %}
+        </p>
+        <p id="sub-22">
+          <sup>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup22.title %}</sup>
+          {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup22.text %}
         </p>
       </section>
     </div>
