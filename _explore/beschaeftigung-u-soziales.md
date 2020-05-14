@@ -126,42 +126,30 @@ breadcrumb:
           {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup3.text %}
         </p>
         <p id="sub-4">
-          <sup>{% t wasser.wasserentnahme.ausgestaltung.sup4.title %}</sup>
-          {% t wasser.wasserentnahme.ausgestaltung.sup4.text %}
-          <a target="_blank" href="https://www.ostwestfalen.ihk.de/fileadmin/_migrated/content_uploads/WEE_Wasserentnahmeentgelte_der_Laender_Broschure-1.pdf">
-            {% t wasser.wasserentnahme.ausgestaltung.sup4.link %}
-          </a>
+          <sup>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup4.title %}</sup>
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup4.text %}
         </p>
         <p id="sub-5">
-          <sup>{% t wasser.wasserentnahme.ausgestaltung.sup5.title %}</sup>
-          {% t wasser.wasserentnahme.ausgestaltung.sup5.text %}
-          <a target="_blank"  href="https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/3_Umwelt/Schutz_natuerlicher_Lebensgrundlagen/Wasser/Rechtsvorschriften/WEE/160630_Endbericht_WEE_UFZ.pdf">
-            {% t wasser.wasserentnahme.ausgestaltung.sup5.link %}
-          </a>
+          <sup>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup5.title %}</sup>
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup5.text %}
         </p>
         <p id="sub-6">
-          <sup>{% t wasser.wasserentnahmeentgelte.sup6.title %}</sup>
-          {% t wasser.wasserentnahmeentgelte.sup6.text %}
-          <a target="_blank" href="https://www.umweltbundesamt.de/sites/default/files/medien/2466/dokumente/tabelle_wasserentnahmeentgelte_im_rohstoffsektor_uba_neu.docx">
-            {% t wasser.wasserentnahmeentgelte.sup6.link %}
-          </a>
+          <sup>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup6.title %}</sup>
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup6.text %}
         </p>
         <p id="sub-7">
-          <sup>{% t wasser.wasserentnahmeentgelte.sup7.title %}</sup>
-          {% t wasser.wasserentnahmeentgelte.sup7.text %}
-          <a target="_blank" href="https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/oekonomische-fragen#textpart-1">
-            {% t wasser.wasserentnahmeentgelte.sup7.link %}
-          </a>
+          <sup>{% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup7.title %}</sup>
+          {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup7.text %}
         </p>
       </section>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
-        <div class="nav-title">{% t wasser.title %}</div>
+        <div class="nav-title">{% t beschaeftigung_u_soziales.title %}</div>
       </h3>
       <nav>
-        {% assign nav_items = site.translations[site.lang]['wasser'].nav_items %}
+        {% assign nav_items = site.translations[site.lang]['beschaeftigung_u_soziales'].nav_items %}
         {% include case-studies/_nav-list.html nav_items=nav_items %}
         {% include layout/share-buttons.html %}
       </nav>
