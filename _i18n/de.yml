@@ -1770,7 +1770,7 @@ beschaeftigung_u_soziales:
     sup20:
       title: "20"
       text: "Im Steinkohlesektor betreffen Beschäftigung ab dem Jahr 2019 ausschließlich die Verstromung von (importierter) Steinkohle, da Ende 2018 die Förderung von Steinkohle in Deutschland eingestellt wurde. Insgesamt liegt die direkte Beschäftigung des Steinkohlesektors in den Steinkohlekraftwerken bei 5,7 Tsd."
-      link: Siehe: https://www.bmwi.de/Redaktion/DE/Publikationen/Studien/strukturdaten-der-kommission-wachstum-strukturwandel-und-beschaeftigung.pdf?__blob=publicationFile&v=4"
+      link: "Siehe: https://www.bmwi.de/Redaktion/DE/Publikationen/Studien/strukturdaten-der-kommission-wachstum-strukturwandel-und-beschaeftigung.pdf?__blob=publicationFile&v=4"
   unternehmerische_verantwortung:
     title: "Unternehmerische Verantwortung"
     p1: "Deutsche Unternehmen sind eng eingebunden in globale Liefer- und Wertschöpfungsketten. Daraus folgt eine besondere Verantwortung für die Unternehmen, nicht nur national, sondern auch international die Bedingungen, unter denen Rohstoffe abgebaut werden, in den Blick zu nehmen und wirtschaftlichen Erfolg mit sozialer Gerechtigkeit und ökologischer Verträglichkeit zu verbinden. Dies gilt gerade im Bereich des internationalen Bergbaus, der mit hohen menschenrechtlichen sowie sozialen und ökologischen Risiken verbunden sein kann. Diesen Herausforderungen begegnen der Gesetzgeber, die Bundesregierung und Unternehmen auf mehreren Ebenen."
@@ -1783,6 +1783,7 @@ beschaeftigung_u_soziales:
     sup22:
       title: "22"
       text: "https://www.zement-verbindet-nachhaltig.de/"
+
 explore-data:
     title: "Daten"
     introduction-first: |
