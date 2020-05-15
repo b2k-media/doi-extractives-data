@@ -225,9 +225,7 @@ breadcrumb:
         </sup></p>
       </section>
       <br/>
-      <section id="wasserentnahmeentgelte" style="position: relative;">
-
-      </section>
+    
       <br/>
       <section id="explanation" style="position: relative;">
         <p id="sub-1">
