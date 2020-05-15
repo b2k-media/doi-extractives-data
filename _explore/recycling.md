@@ -28,6 +28,8 @@ breadcrumb:
           </a>        
         </sup>
         {% t recycling.bedeutung.p1_1 %}
+        {% t recycling.bedeutung.p2 %}
+        {% t recycling.bedeutung.p3 %}
       </p>
 
       <h2 id="rolle_des_gesetzgebers">
