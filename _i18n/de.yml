@@ -1669,6 +1669,7 @@ beschaeftigung_u_soziales:
       title: Unternehmerische Verantwortung
   chart-title: "Sozialversicherungspflichtige Beschäftigung nach Wirtschaftszweigen"
   chart-src: "/img/beschaeftigung_u_soziales/chart.png"
+  chart-note: "Detaillierte Quellenangaben siehe Daten Einsehen Eigene Darstellung."
   p1: Beschäftigung und Soziales
   p2: "Die rohstoffgewinnende Industrie bietet in einer Vielzahl unterschiedlicher Berufe und Tätigkeiten gute Industriearbeitsplätze. Zum Jahresende 2017 waren knapp 67.000 Menschen"
   sup1:
