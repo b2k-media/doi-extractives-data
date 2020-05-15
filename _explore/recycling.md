@@ -24,7 +24,7 @@ breadcrumb:
         {% t recycling.bedeutung.p1 %}          
         <sup class="padding-right">
           <a href="#sub-1">
-            {% t recycling.sup1.title %}
+            {% t recycling.bedeutung.sup1.title %}
           </a>        
         </sup>
         {% t recycling.bedeutung.p1_1 %}
@@ -48,7 +48,7 @@ breadcrumb:
         {% t recycling.abfallaufkommen_und_verwertung.p1 %}
         <sup class="padding-right">
           <a href="#sub-2">
-            {% t recycling.sup1.title %}
+            {% t recycling.abfallaufkommen_und_verwertung.sup1.title %}
           </a>
         </sup>          
         {% t recycling.abfallaufkommen_und_verwertung.p1_1 %}  
