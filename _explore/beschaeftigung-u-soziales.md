@@ -52,7 +52,7 @@ breadcrumb:
         <h2 id="rolle_und_zusammenarbeit_der_sozialpartner">
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.headline %}
         </h2>
-        <h3 id="rolle_und_zusammenarbeit_der_sozialpartner">
+        <h3 id="mitbestimmung">
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.title %}
         </h3>
         <p>
@@ -211,21 +211,23 @@ breadcrumb:
         </h2>
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p1 %}</p>
         <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p2 %}</p>
-        <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3 %}</p>
-        <sup class="padding-right">
-          <a href="#sub-21">
-            {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup21.title %}
-          </a>
-        </sup>
-        <p>{% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3_1 %}
-        <sup class="padding-right">
-          <a href="#sub-22">
-            {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup22.title %}
-          </a>
-        </sup></p>
+        <p>
+          {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3 %}
+          <sup class="padding-right">
+            <a href="#sub-21">
+              {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup21.title %}
+            </a>
+          </sup>
+          {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.p3_1 %}
+          <sup class="padding-right">
+            <a href="#sub-22">
+              {% t beschaeftigung_u_soziales.unternehmerische_verantwortung.sup22.title %}
+            </a>
+          </sup>
+        </p>
       </section>
       <br/>
-    
+
       <br/>
       <section id="explanation" style="position: relative;">
         <p id="sub-1">
@@ -296,8 +298,7 @@ breadcrumb:
         </p>
         <p id="sub-16">
           <sup>{% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.sup16.title %}</sup>
-          {% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.sup17
-            6.text %}
+          {% t beschaeftigung_u_soziales.diversitaet_und_chancengleichheit.sup16.text %}
         </p>
         <p id="sub-17">
           <sup>{% t beschaeftigung_u_soziales.klimapolitik_und_strukturwandel.sup17.title %}</sup>

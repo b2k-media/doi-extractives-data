@@ -1648,6 +1648,27 @@ beschaeftigung_u_soziales:
   nav_items:
     - name: title
       title: Seitenanfang
+    - name: rolle_des_gesetzgebers
+      title: Rolle des Gesetzgebers
+    - name: rolle_und_zusammenarbeit_der_sozialpartner
+      title: Rolle und Zusammenarbeit der Sozialpartner
+      subnav_items:
+        - name: mitbestimmung
+          title: Mitbestimmung
+        - name: tarifbindung
+          title: Tarifbindung
+    - name: ausbildung
+      title: Ausbildung
+    - name: einkommensniveau
+      title: Einkommensniveau
+    - name: diversitaet_und_chancengleichheit
+      title: Diversität und Chancengleichheit
+    - name: klimapolitik_und_strukturwandel
+      title: Klimapolitik und Strukturwandel
+    - name: unternehmerische_verantwortung
+      title: Unternehmerische Verantwortung
+
+
   p1: Beschäftigung und Soziales
   p2: "Die rohstoffgewinnende Industrie bietet in einer Vielzahl unterschiedlicher Berufe und Tätigkeiten gute Industriearbeitsplätze. Zum Jahresende 2017 waren knapp 67.000 Menschen"
   sup1:
