@@ -41,7 +41,7 @@ breadcrumb:
         <div class="chart-title-style">{% t beschaeftigung_u_soziales.chart-title %}</div>
         <div>
           <img style="width: 100%" src="{{ site.baseurl_root }}{% t beschaeftigung_u_soziales.chart-src %}" alt="Sozialversicherungspflichtige Beschäftigung nach Wirtschaftszweigen"><br>
-          {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.chart-note %}
+          {% t beschaeftigung_u_soziales.chart-note %}
         </div>
         <br/>
 
