@@ -132,10 +132,11 @@
   &.disabled::after { background-image: url('../img/tiles/24-lupe_waage-i.png') }
 }
 .tile-recycling {
-  &::after { background-image: url('../img/tiles/25_recycling-h.png') }
+  &::after { background-image: url('../img/tiles/25_recycling-h.png'); background-size: 190px; background-position: center; background-repeat: no-repeat; }
   &.disabled::after { background-image: url('../img/tiles/25_recycling-i.png') }
 }
 .tile-beschaeftigung-u-soziales {
-  &::after { background-image: url('../img/tiles/26_beschaeftigung-u-soziales-h.png') }
+  &::after { background-image: url('../img/tiles/26_beschaeftigung-u-soziales-h.png'); background-size: 190px;
+    background-position: center; background-repeat: no-repeat; }
   &.disabled::after { background-image: url('../img/tiles/26_beschaeftigung-u-soziales-i.png') }
 }
