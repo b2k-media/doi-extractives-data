@@ -65,7 +65,7 @@ breadcrumb:
       </p>
 
       <h2 id="beispielefuer_recycling_und_einsatzquoten">
-        {% t beschaeftigung_u_soziales.beispielefuer_recycling_und_einsatzquoten.title %}
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.title %}
         <sup class="padding-right">
           <a href="#sub-4">
             {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup4.title %}
@@ -107,7 +107,8 @@ breadcrumb:
           </a>
         </sup>
         {% t recycling.beispielefuer_recycling_und_einsatzquoten.p2_2%}
-      </p>
+
+      <br>
 
       <ul>
         <li>{% t recycling.beispielefuer_recycling_und_einsatzquoten.li1%}</li>
