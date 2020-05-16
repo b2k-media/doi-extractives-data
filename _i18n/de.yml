@@ -1842,19 +1842,86 @@ recycling:
     sup2:
       title: "2"
       text: "Unter stofflicher Verwertung (Recycling) ist gem. § 3 Absatz 25 KrWG jedes Verwertungsverfahren zu verstehen, durch das Abfälle zu Erzeugnissen, Materialien oder Stoffen entweder für den ursprünglichen Zweck oder für andere Zwecke aufbereitet werden; es schließt die Aufbereitung organischer Materialien ein, nicht aber die energetische Verwertung. Die energetische Verwertung meint hingegen die Aufbereitung von Abfällen für die thermische Verwertung durch Verbrennung. Ein Teil der Abfälle wird aber auch verbrannt, um sie zu beseitigen."
-    p1_1: " . Die Verwertungsquote ist in den letzten zehn Jahren bei gleichzeitigem Anstieg der Abfallmenge kontinuierlich von 74,3 % (2006) auf inzwischen 81 % (2017) angestiegen . Die Verwertungsquote bemisst den Anteil (Input) der gesammelten Abfälle, der einem stofflichen oder energetischen Verwertungsverfahren zugeführt wird."
+    p1_1: " . Die Verwertungsquote ist in den letzten zehn Jahren bei gleichzeitigem Anstieg der Abfallmenge kontinuierlich von 74,3 % (2006) auf inzwischen 81 % (2017) angestiegen"
+    sup3:
+      title: "3"
+      text: "Destatis, Abfallbilanz 2017, Stand 2019."
+    p1_2: " . Die Verwertungsquote bemisst den Anteil (Input) der gesammelten Abfälle, der einem stofflichen oder energetischen Verwertungsverfahren zugeführt wird."
     p2: "Für das Recycling und die stoffliche Verwertung von Abfällen ist in Deutschland ein flächendeckendes Netz von 15.500 Vorbehandlungs-, Behandlungs-, Sortier- und Aufbereitungsanlagen aufgebaut worden, das neben chemisch-physikalischen, biologischen und mechanischen Behandlungs- auch Bodenbehandlungsanlagen, Bauschuttaufbereitungsanlagen, Sortier- sowie Demontageanlagen etc. umfasst."
   beispielefuer_recycling_und_einsatzquoten:
     title: "Beispiele für Recycling- und Einsatzquoten"
-    p1: "Die Recyclingquote bei Stahl lag 2016 bei rund 95 % . Rund 20 Mio. Tonnen Stahlschrotte wurden bei der Stahlproduktion eingesetzt. Das entspricht einer Einsatzquote von 43 % . 2017 wurden rund 2,6 Mio. Tonnen Nichteisenmetalle (wie z. B. Kupfer, Aluminium, Zink, Bronze, Blei, Messing) produziert. Die Einsatzquote dieser recycelten Materialien lag mit rund 1,4 Mio. Tonnen bei 53 % ."
-    p2: "Die Recyclingquoten von Aluminium reichen von 90 bis 95 % je nach Sektor. Der Energieeinsatz für das Recycling von Aluminium ist bis zu 95 % niedriger im Vergleich zur Primärherstellung . Die Einsatzquote betrug 2016 57 %. Bei Kupfer liegt die Recyclingquote bei ca. 45 %. Bei der Kupferproduktion werden 41 % recyceltes Kupfer  eingesetzt. Hohe Recycling- und Einsatzquoten weisen auch Papier und Glas auf, das Kunststoffrecycling bedarf noch zusätzlicher Anstrengungen:"
+    sup4:
+      title: "4"
+      text: "Die Recyclingquote (errechnet nach dem Gewicht der in Recyclinganlagen eingebrachten Abfälle) unterscheidet sich von der Einsatzquote (Anteil der tatsächlich recycelten Materialien sowie ihrem tatsächlichen Einsatz in der Produktion)."
+    p1: "Die Recyclingquote bei Stahl lag 2016 bei rund 95 %"
+    sup5:
+      title: "5"
+      text: "Die Recyclingquote (errechnet nach dem Gewicht der in Recyclinganlagen eingebrachten Abfälle) unterscheidet sich von der Einsatzquote (Anteil der tatsächlich recycelten Materialien sowie ihrem tatsächlichen Einsatz in der Produktion)."
+    p1_1: ". Rund 20 Mio. Tonnen Stahlschrotte wurden bei der Stahlproduktion eingesetzt. Das entspricht einer Einsatzquote von 43 %"
+    sup6:
+      title: "6"
+      text: "Stahlschrottbilanzen des bvse und BDSV."
+    p1_2: ". 2017 wurden rund 2,6 Mio. Tonnen Nichteisenmetalle (wie z. B. Kupfer, Aluminium, Zink, Bronze, Blei, Messing) produziert. Die Einsatzquote dieser recycelten Materialien lag mit rund 1,4 Mio. Tonnen bei 53 %"
+    sup7:
+      title: "7"
+      text: "Wirtschaftsvereinigung Metalle - Metallstatistik 2017."
+    p1_3: "."
+    p2: "Die Recyclingquoten von Aluminium reichen von 90 bis 95 % je nach Sektor. Der Energieeinsatz für das Recycling von Aluminium ist bis zu 95 % niedriger im Vergleich zur Primärherstellung"
+    sup8:
+      title: "8"
+      text: "Gesamtverband der Aluminiumindustrie."
+    p2_1: " . Die Einsatzquote betrug 2016 57 %. Bei Kupfer liegt die Recyclingquote bei ca. 45 %. Bei der Kupferproduktion werden 41 % recyceltes Kupfer"
+    sup9:
+      title: "9"
+      text: "BGR und Statusbericht der deutschen Kreislaufwirtschaft."
+    p2_2: " eingesetzt. Hohe Recycling- und Einsatzquoten weisen auch Papier und Glas auf, das Kunststoffrecycling bedarf noch zusätzlicher Anstrengungen:"
     li1: "Papier/Pappe/Kartonagen, die überwiegend getrennt gesammelt werden, erreichen eine Recyclingquote von nahezu 100 %. Die Einsatzquote von Altpapier liegt bei 75 %. Durch die Rückgewinnung werden Primärrohstoffe wie Holz, Kaolin und Kalk, aber auch Wasser und Energie eingespart. Allerdings ist Papier nicht unbegrenzt recyclingfähig, da die Fasern beim Recyceln immer kürzer werden. "
-    li2: "Bei Glas liegt die Recyclingquote bei ebenfalls nahezu 100 % . Dies gilt jedoch nur für entsprechend sortiertes Glas. Jede Glasverpackung besteht heute aus bis zu 60 % Recyclingglas, bei Grünglas liegt der Anteil sogar bei einer Einsatzquote von 90 % . Durch die Rückgewinnung des Glases wird die Nachfrage nach dem Primärrohstoff Quarzsand gesenkt."
-    li3: "Rund 46 % des Plastikabfalls (6,15 Mio. Tonnen) gingen 2017 in das stoffliche Recyclingverfahren ein, der Rest wurde energetisch verwertet, deponiert bzw. exportiert. Nach den Vereinbarungen im Rahmen des Basler Abfallübereinkommens  soll der freie Export künftig nur noch für störstofffreie, gut recycelbare Plastikabfälle erlaubt werden. Für Gemische wird eine Export- und Einfuhrerlaubnis der beteiligten Länder erforderlich. Der Exportgefährlicher oder nicht verwertbarer Abfälle aus der EU in Entwicklungsländer soll ab 2021 untersagt werden. "
-    p3: "Im Bausektor geht es weniger um die Recycling- als um die Verwertungsquote, denn nicht alle Bau- und Abbruchabfälle müssen für eine Verwertung aufbereitet werden. Von den 214,6 Mio. Tonnen (2016) angefallenen Bau- und Abbruchabfällen wurden 192,6 Mio. Tonnen bzw. 89,8 % verwertet . Durch die Aufbereitung von mineralischen Bauabfällen konnten 72,2 Mio. Tonnen Recycling-Baustoffe hergestellt werden. Diese wurden zu 52,8 % im Straßenbau, zu 22 % im Erdbau, zu 4,2 % in sonstigen Anwendungen (v. a. Deponiebau) und zu 21 % als Gesteinskörnungen in der Asphalt- und Betonherstellung eingesetzt. Die Bau- und Entsorgungswirtschaft leistet damit einen wichtigen Beitrag zu einer nachhaltigen und ressourceneffizienten Gesellschaft. Sie erfüllt mit der Sammlung, Sortierung und werkstofflichen bzw. energetischen Verwertung von Abfällen nicht nur eine wichtige ökologische Funktion, sondern versorgt auch unsere Wirtschaft mit Rohstoffen. Insgesamt stellt sie mittlerweile gut 15 % der in Deutschland benötigten Rohstoffe bereit . Dadurch werden jährlich Rohstoffimporte im Wert von 10 Mrd. Euro eingespart . Die Recyclingwirtschaft trägt zudem maßgeblich zur wirtschaftlichen Leistungsfähigkeit Deutschlands bei. Sie bietet rund 290.000 Beschäftigten in rund 10.800 kommunalen und privaten Betrieben einen Arbeitsplatz und erzielt einen Umsatz von etwa 76 Mrd. Euro. Die Bruttowertschöpfung beträgt 21,5 Mrd. Euro . Mit der Substitution von Primär- durch Sekundärrohstoffen sind häufig auch signifikante Einspareffekte z. B. beim Energieverbrauch verbunden ."
+    li2: "Bei Glas liegt die Recyclingquote bei ebenfalls nahezu 100 %"
+    sup10:
+      title: "10"
+      text: "Destatis, Abfallbilanz 2017, Stand 2019."
+    li2_1: ". Dies gilt jedoch nur für entsprechend sortiertes Glas. Jede Glasverpackung besteht heute aus bis zu 60 % Recyclingglas, bei Grünglas liegt der Anteil sogar bei einer Einsatzquote von 90 %"
+    sup11:
+      title: "11"
+      text: "Bundesverband Glasindustrie."
+    li2_2: " . Durch die Rückgewinnung des Glases wird die Nachfrage nach dem Primärrohstoff Quarzsand gesenkt."
+    li3: "Rund 46 % des Plastikabfalls (6,15 Mio. Tonnen) gingen 2017 in das stoffliche Recyclingverfahren ein, der Rest wurde energetisch verwertet, deponiert bzw. exportiert. Nach den Vereinbarungen im Rahmen des Basler Abfallübereinkommens"
+    sup12:
+      title: "12"
+      text: "Änderung des Basler Übereinkommens über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung am 5. Mai 2019."
+    li3_1: " soll der freie Export künftig nur noch für störstofffreie, gut recycelbare Plastikabfälle erlaubt werden. Für Gemische wird eine Export- und Einfuhrerlaubnis der beteiligten Länder erforderlich. Der Exportgefährlicher oder nicht verwertbarer Abfälle aus der EU in Entwicklungsländer soll ab 2021 untersagt werden. "
+    p3: "Im Bausektor geht es weniger um die Recycling- als um die Verwertungsquote, denn nicht alle Bau- und Abbruchabfälle müssen für eine Verwertung aufbereitet werden. Von den 214,6 Mio. Tonnen (2016) angefallenen Bau- und Abbruchabfällen wurden 192,6 Mio. Tonnen bzw. 89,8 % verwertet"
+    sup13:
+      title: "13"
+      text: "Kreislaufwirtschaft Bau, Mineralische Bauabfälle – Monitoring 2016."
+    p3_1: " . Durch die Aufbereitung von mineralischen Bauabfällen konnten 72,2 Mio. Tonnen Recycling-Baustoffe hergestellt werden. Diese wurden zu 52,8 % im Straßenbau, zu 22 % im Erdbau, zu 4,2 % in sonstigen Anwendungen (v. a. Deponiebau) und zu 21 % als Gesteinskörnungen in der Asphalt- und Betonherstellung eingesetzt. Die Bau- und Entsorgungswirtschaft leistet damit einen wichtigen Beitrag zu einer nachhaltigen und ressourceneffizienten Gesellschaft. Sie erfüllt mit der Sammlung, Sortierung und werkstofflichen bzw. energetischen Verwertung von Abfällen nicht nur eine wichtige ökologische Funktion, sondern versorgt auch unsere Wirtschaft mit Rohstoffen. Insgesamt stellt sie mittlerweile gut 15 % der in Deutschland benötigten Rohstoffe bereit"
+    sup14:
+      title: "14"
+      text: "Bundesverband Baustoffe – Steine und Erden e. V. (bbs), Studie „Die Nachfrage nach Primär- und Sekundärrohstoffen der Steine-und-Erden-Industrie bis 2035 in Deutschland“."
+    p3_2: ". Dadurch werden jährlich Rohstoffimporte im Wert von 10 Mrd. Euro eingespart"
+    sup15:
+      title: "15"
+      text: "Recycling in Deutschland – Studie Wuppertal Institut."
+    p3_3: ". Die Recyclingwirtschaft trägt zudem maßgeblich zur wirtschaftlichen Leistungsfähigkeit Deutschlands bei. Sie bietet rund 290.000 Beschäftigten in rund 10.800 kommunalen und privaten Betrieben einen Arbeitsplatz und erzielt einen Umsatz von etwa 76 Mrd. Euro. Die Bruttowertschöpfung beträgt 21,5 Mrd. Euro"
+    sup16:
+      title: "16"
+      text: "Statusbericht der deutschen Kreislaufwirtschaft 2018."
+    p3_4: ". Mit der Substitution von Primär- durch Sekundärrohstoffen sind häufig auch signifikante Einspareffekte z. B. beim Energieverbrauch verbunden"
+    sup17:
+      title: "17"
+      text: "Studie des UBA „Stoffstromorientierte Ermittlung des Beitrags der Sekundärrohstoffwirtschaft zur Schonung von Primärrohstoffen und Steigerung der Ressourcenproduktivität“, April 2019."
+    p3_5: "."
   ausblick:
-    title: "Zukünftige Herausforderungen/Ausblick"
-    p1: "Deutschland hat eine Reihe von Anstrengungen unternommen, um Stoffkreisläufe besser zu schließen und ressourcenschonender zu wirtschaften. Dennoch gibt es verschiedene Bereiche, in denen Potential für Verbesserungen besteht. Beispielsweise werden derzeit hauptsächlich die schweren, leicht rückgewinnbaren Rohstoffe bzw. Massenmetalle wie Eisen, Stahl, Kupfer, Aluminium oder sehr werthaltige Edelmetalle recycelt. Dies liegt neben dem ökonomischen Aufwand auch an der Systematik der bestehenden Recyclingquoten, die zu einer Vernachlässigung der Rückgewinnung gering konzentrierter Sonderelemente beiträgt. Hier besteht Handlungs- bzw. Nachholbedarf insbesondere im Hinblick auf die für neue Entwicklungen benötigten strategisch wichtigen Rohstoffe, deren Gewinnung unter ökologischen und menschenrechtlichen Gesichtspunkten zuweilen problematisch ist. Sie werden teils in sehr geringen Mengen z. B. in Elektrogeräten, Handys, Computern, Solarpanels und Leiterplatten eingesetzt. Auch wenn eine Rückgewinnung oftmals technisch möglich und zum Teil ökologisch sinnvoll wäre, lässt sie sich wirtschaftlich oft noch nicht darstellen. Mit dem Elektro- und Elektronikgerätegesetz (ElektroG) soll gewährleistet werden, dass in Deutschland künftig deutlich mehr wertvolle Rohstoffe aus Elektro- und Elektronik-Altgeräten zurückgewonnen werden und die von der EU ab 2019 vorgegebene Sammelquote von 65 % erreicht wird . Dies soll durch spezifizierte Anforderungen an die Behandlung dieser Altgeräte sichergestellt werden. Mit der Rücknahmepflicht von Elektroaltgeräten durch den Großhandel ab einer Ladenfläche von 400 m² wird das Sammelnetz verdichtet, damit Verbraucherinnen und Verbraucher Elektro- und Elektronik-Altgeräte leichter entsorgen können und diese frühzeitig vom unsortierten Siedlungsabfall getrennt werden. Ein besonderes Problem in diesem Kontext ist der illegale Export von Elektroaltgeräten beispielsweise nach Afrika oder Asien. Insbesondere durch unsachgemäße Behandlung der Altgeräte können massive Gefahren für Mensch und Umwelt entstehen. Dem soll durch das ElektroG, das strenge Kriterien für die Abgrenzung von gebrauchten Geräten und Elektroaltgeräten vorsieht, Einhalt geboten werden. Danach dürfen grundsätzlich nur überprüfte, funktionsfähige Gebrauchtgeräte, die angemessen vor Beschädigung bei der Beförderung geschützt sind, mit entsprechenden Nachweisen als Nicht-Abfall exportiert werden. Die Nachweispflicht liegt beim Exporteur. Mit dem Kreislaufwirtschaftspaket der EU von 2018 werden die Mitgliedstaaten zu einer Vielzahl weiterer Schritte zur Stärkung der Abfallhierarchie verpflichtet. Die Mitgliedstaaten müssen z. B. Maßnahmen treffen, um die Wiederverwendung von Produkten zu fördern. Zudem soll die Verfügbarkeit von Ersatzteilen, Bedienungsanleitungen und technischen Informationen verbessert werden."
+    title: "Zukünftige Herausforderungen/Ausblicks"
+    p1: "Deutschland hat eine Reihe von Anstrengungen unternommen, um Stoffkreisläufe besser zu schließen und ressourcenschonender zu wirtschaften. Dennoch gibt es verschiedene Bereiche, in denen Potential für Verbesserungen besteht. Beispielsweise werden derzeit hauptsächlich die schweren, leicht rückgewinnbaren Rohstoffe bzw. Massenmetalle wie Eisen, Stahl, Kupfer, Aluminium oder sehr werthaltige Edelmetalle recycelt. Dies liegt neben dem ökonomischen Aufwand auch an der Systematik der bestehenden Recyclingquoten, die zu einer Vernachlässigung der Rückgewinnung gering konzentrierter Sonderelemente beiträgt. Hier besteht Handlungs- bzw. Nachholbedarf insbesondere im Hinblick auf die für neue Entwicklungen benötigten strategisch wichtigen Rohstoffe, deren Gewinnung unter ökologischen und menschenrechtlichen Gesichtspunkten zuweilen problematisch ist"
+    sup18:
+      title: "18"
+      text: "Hierzu zählen die 17 Metalle der Gruppe der Seltenen Erden wie Neodym, aber auch Konfliktrohstoffe wie Zinn, Tantal (Coltan), Wolfram oder auch Platin und Lithium."
+    p1_1: ". Sie werden teils in sehr geringen Mengen z. B. in Elektrogeräten, Handys, Computern, Solarpanels und Leiterplatten eingesetzt. Auch wenn eine Rückgewinnung oftmals technisch möglich und zum Teil ökologisch sinnvoll wäre, lässt sie sich wirtschaftlich oft noch nicht darstellen. Mit dem Elektro- und Elektronikgerätegesetz (ElektroG) soll gewährleistet werden, dass in Deutschland künftig deutlich mehr wertvolle Rohstoffe aus Elektro- und Elektronik-Altgeräten zurückgewonnen werden und die von der EU ab 2019 vorgegebene Sammelquote von 65 % erreicht wird"
+    su19:
+      title: "19"
+      text: "Mit einer Sammelquote von rund 45 % lag Deutschland 2017 noch unter dem EU-Durchschnitt von rund 49 %. Im Jahresschnitt wurden so eine Mio. Tonnen Elektroaltgeräte in Deutschland nicht oder unsachgemäß gesammelt."
+    p1_2: ". Dies soll durch spezifizierte Anforderungen an die Behandlung dieser Altgeräte sichergestellt werden. Mit der Rücknahmepflicht von Elektroaltgeräten durch den Großhandel ab einer Ladenfläche von 400 m² wird das Sammelnetz verdichtet, damit Verbraucherinnen und Verbraucher Elektro- und Elektronik-Altgeräte leichter entsorgen können und diese frühzeitig vom unsortierten Siedlungsabfall getrennt werden. Ein besonderes Problem in diesem Kontext ist der illegale Export von Elektroaltgeräten beispielsweise nach Afrika oder Asien. Insbesondere durch unsachgemäße Behandlung der Altgeräte können massive Gefahren für Mensch und Umwelt entstehen. Dem soll durch das ElektroG, das strenge Kriterien für die Abgrenzung von gebrauchten Geräten und Elektroaltgeräten vorsieht, Einhalt geboten werden. Danach dürfen grundsätzlich nur überprüfte, funktionsfähige Gebrauchtgeräte, die angemessen vor Beschädigung bei der Beförderung geschützt sind, mit entsprechenden Nachweisen als Nicht-Abfall exportiert werden. Die Nachweispflicht liegt beim Exporteur. Mit dem Kreislaufwirtschaftspaket der EU von 2018 werden die Mitgliedstaaten zu einer Vielzahl weiterer Schritte zur Stärkung der Abfallhierarchie verpflichtet. Die Mitgliedstaaten müssen z. B. Maßnahmen treffen, um die Wiederverwendung von Produkten zu fördern. Zudem soll die Verfügbarkeit von Ersatzteilen, Bedienungsanleitungen und technischen Informationen verbessert werden."
 
 explore-data:
     title: "Daten"
