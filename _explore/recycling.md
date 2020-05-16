@@ -200,7 +200,7 @@ breadcrumb:
         </p>
         <p id="sub-2">
           <sup>{% t recycling.abfallaufkommen_und_verwertung.sup2.title %}</sup>
-          {% t recycling.abfallaufkommen_und_verwertung.sup2.text
+          {% t recycling.abfallaufkommen_und_verwertung.sup2.text %}
         </p>
         <p id="sub-3">
           <sup>{% t recycling.abfallaufkommen_und_verwertung.sup3.title %}</sup>
