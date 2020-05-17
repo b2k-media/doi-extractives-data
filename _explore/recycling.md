@@ -33,7 +33,7 @@ breadcrumb:
         {% t recycling.bedeutung.p3 %}
       </p>
 
-      <h2 id="rolle_des_gesetzgebers">
+      <h2 id="rechtliche_grundlagen">
       {% t recycling.rechtliche_grundlagen.title %}
       </h2>
 
@@ -137,7 +137,7 @@ breadcrumb:
         </li>
       </ul>
       <br>
-      {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3%}
+      <p>{% t recycling.beispielefuer_recycling_und_einsatzquoten.p3%}</p>
       <sup class="padding-right">
         <a href="#sub-13">
           {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.title %}
@@ -169,7 +169,7 @@ breadcrumb:
       </sup>
       </p>
 
-      <h2 id="rolle_des_gesetzgebers">
+      <h2 id="ausblick">
         {% t recycling.ausblick.title %}
       </h2>
         <p>{% t recycling.ausblick.p1 %}
