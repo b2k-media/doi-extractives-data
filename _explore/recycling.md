@@ -137,7 +137,7 @@ breadcrumb:
         </li>
       </ul>
       <br>
-      <p>{% t recycling.beispielefuer_recycling_und_einsatzquoten.p3%}</p>
+      {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3%}
       <sup class="padding-right">
         <a href="#sub-13">
           {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.title %}
