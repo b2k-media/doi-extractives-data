@@ -17,10 +17,10 @@ breadcrumb:
     <h1 id="title">{% t recycling.title %}</h1>
     <div class="container-left-9">
 
-    <section id="recycling" style="position: relative;">
-    <h2 id="bedeutung">
-      {% t recycling.bedeutung.title %}
-    </h2>
+      <section id="recycling" style="position: relative;">
+      <h2 id="bedeutung">
+        {% t recycling.bedeutung.title %}
+      </h2>
       <p>
         {% t recycling.bedeutung.p1 %}          
         <sup class="padding-right">
@@ -108,7 +108,7 @@ breadcrumb:
           </a>
         </sup>
         {% t recycling.beispielefuer_recycling_und_einsatzquoten.p2_2%}
-
+      </p>
       <br>
 
       <ul>
@@ -137,42 +137,43 @@ breadcrumb:
         </li>
       </ul>
       <br>
-      {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3%}
-      <sup class="padding-right">
-        <a href="#sub-13">
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.title %}
-        </a>
-      </sup>
-      {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_1%}
-      <sup class="padding-right">
-        <a href="#sub-14">
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup14.title %}
-        </a>
-      </sup>
-      {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_2%}
-      <sup class="padding-right">
-        <a href="#sub-15">
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup15.title %}
-        </a>
-      </sup>
-      {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_3%}
-      <sup class="padding-right">
-        <a href="#sub-16">
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup16.title %}
-        </a>
-      </sup>
-      {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_4%}
-      <sup class="padding-right">
-        <a href="#sub-17">
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup17.title %}
-        </a>
-      </sup>
+      <p>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3%}
+        <sup class="padding-right">
+          <a href="#sub-13">
+            {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.title %}
+          </a>
+        </sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_1%}
+        <sup class="padding-right">
+          <a href="#sub-14">
+            {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup14.title %}
+          </a>
+        </sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_2%}
+        <sup class="padding-right">
+          <a href="#sub-15">
+            {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup15.title %}
+          </a>
+        </sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_3%}
+        <sup class="padding-right">
+          <a href="#sub-16">
+            {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup16.title %}
+          </a>
+        </sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.p3_4%}
+        <sup class="padding-right">
+          <a href="#sub-17">
+            {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup17.title %}
+          </a>
+        </sup>
       </p>
 
       <h2 id="ausblick">
         {% t recycling.ausblick.title %}
       </h2>
-        <p>{% t recycling.ausblick.p1 %}
+      <p>{% t recycling.ausblick.p1 %}
         <sup class="padding-right">
           <a href="#sub-18">
             {% t recycling.ausblick.sup18.title %}
@@ -185,107 +186,106 @@ breadcrumb:
           </a>
         </sup>
         {% t recycling.ausblick.p1_2 %}
-        </p>
+      </p>
 
-      </section>
-      <br/>
+    </section>
+    <br/>
+    <br/>
+    <section id="explanation" style="position: relative;">
+      <p id="sub-1">
+        <sup>{% t recycling.bedeutung.sup1.title %}</sup>
+        {% t recycling.bedeutung.sup1.text %}
+        <a target="_blank" href="https://statistik.arbeitsagentur.de/nn_31966/SiteGlobals/Forms/Rubrikensuche/Rubrikensuche_Form.html?view=processForm&resourceId=210368&input_=&pageLocale=de&topicId=746698&year_month=201712&year_month.GROUP=1&search=Suchen">
+          {% t recycling.bedeutung.sup1.link %}
+        </a>
+        {% t recycling.bedeutung.sup1.text2 %}
+      </p>
+      <p id="sub-2">
+        <sup>{% t recycling.abfallaufkommen_und_verwertung.sup2.title %}</sup>
+        {% t recycling.abfallaufkommen_und_verwertung.sup2.text %}
+      </p>
+      <p id="sub-3">
+        <sup>{% t recycling.abfallaufkommen_und_verwertung.sup3.title %}</sup>
+        {% t recycling.abfallaufkommen_und_verwertung.sup3.text %}
+      </p>
+      <p id="sub-4">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup4.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup4.text %}
+      </p>
+      <p id="sub-5">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup5.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup5.text %}
+      </p>
+      <p id="sub-6">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup6.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup6.text %}
+      </p>
+      <p id="sub-7">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup7.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup7.text %}
+      </p>
+      <p id="sub-8">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup8.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup8.text %}
+      </p>
+      <p id="sub-9">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup9.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup9.text %}
+      </p>
+      <p id="sub-10">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup10.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup10.text %}
+      </p>
+      <p id="sub-11">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup11.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup11.text %}
+      </p>
+      <p id="sub-12">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup12.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup12.text %}
+      </p>
+      <p id="sub-13">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.text %}
+      </p>
+      <p id="sub-14">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup14.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup14.text %}
+      </p>
+      <p id="sub-15">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup15.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup15.text %}
+      </p>
+      <p id="sub-16">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup16.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup16.text %}
+      </p>
+      <p id="sub-17">
+        <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup17.title %}</sup>
+        {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup17.text %}
+      </p>
+      <p id="sub-18">
+        <sup>{% t recycling.ausblick.sup18.title %}</sup>
+        {% t recycling.ausblick.sup18.text %}
+      </p>
+      <p id="sub-19">
+        <sup>{% t recycling.ausblick.sup19.title %}</sup>
+        {% t recycling.ausblick.sup19.text %}
+      </p>
+    </section>
+  </div>
 
-      <br/>
-      <section id="explanation" style="position: relative;">
-        <p id="sub-1">
-          <sup>{% t recycling.bedeutung.sup1.title %}</sup>
-          {% t recycling.bedeutung.sup1.text %}
-          <a target="_blank" href="https://statistik.arbeitsagentur.de/nn_31966/SiteGlobals/Forms/Rubrikensuche/Rubrikensuche_Form.html?view=processForm&resourceId=210368&input_=&pageLocale=de&topicId=746698&year_month=201712&year_month.GROUP=1&search=Suchen">
-            {% t recycling.bedeutung.sup1.link %}
-          </a>
-          {% t recycling.bedeutung.sup1.text2 %}
-        </p>
-        <p id="sub-2">
-          <sup>{% t recycling.abfallaufkommen_und_verwertung.sup2.title %}</sup>
-          {% t recycling.abfallaufkommen_und_verwertung.sup2.text %}
-        </p>
-        <p id="sub-3">
-          <sup>{% t recycling.abfallaufkommen_und_verwertung.sup3.title %}</sup>
-          {% t recycling.abfallaufkommen_und_verwertung.sup3.text %}
-        </p>
-        <p id="sub-4">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup4.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup4.text %}
-        </p>
-        <p id="sub-5">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup5.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup5.text %}
-        </p>
-        <p id="sub-6">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup6.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup6.text %}
-        </p>
-        <p id="sub-7">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup7.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup7.text %}
-        </p>
-        <p id="sub-8">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup8.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup8.text %}
-        </p>
-        <p id="sub-9">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup9.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup9.text %}
-        </p>
-        <p id="sub-10">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup10.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup10.text %}
-        </p>
-        <p id="sub-11">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup11.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup11.text %}
-        </p>
-        <p id="sub-12">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup12.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup12.text %}
-        </p>
-        <p id="sub-13">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup13.text %}
-        </p>
-        <p id="sub-14">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup14.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup14.text %}
-        </p>
-        <p id="sub-15">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup15.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup15.text %}
-        </p>
-        <p id="sub-16">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup16.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup16.text %}
-        </p>
-        <p id="sub-17">
-          <sup>{% t recycling.beispielefuer_recycling_und_einsatzquoten.sup17.title %}</sup>
-          {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup17.text %}
-        </p>
-        <p id="sub-18">
-          <sup>{% t recycling.ausblick.sup18.title %}</sup>
-          {% t recycling.ausblick.sup18.text %}
-        </p>
-        <p id="sub-19">
-          <sup>{% t recycling.ausblick.sup19.title %}</sup>
-          {% t recycling.ausblick.sup19.text %}
-        </p>
-      </section>
-    </div>
-
-    <div class="sticky sticky_nav container-right-3">
-      <h3 class="state-page-nav-title container">
-        <div class="nav-title">{% t recycling.title %}</div>
-      </h3>
-      <nav>
-        {% assign nav_items = site.translations[site.lang]['recycling'].nav_items %}
-        {% include case-studies/_nav-list.html nav_items=nav_items %}
-        {% include layout/share-buttons.html %}
-      </nav>
-    </div>
-  </section>
+  <div class="sticky sticky_nav container-right-3">
+    <h3 class="state-page-nav-title container">
+      <div class="nav-title">{% t recycling.title %}</div>
+    </h3>
+    <nav>
+      {% assign nav_items = site.translations[site.lang]['recycling'].nav_items %}
+      {% include case-studies/_nav-list.html nav_items=nav_items %}
+      {% include layout/share-buttons.html %}
+    </nav>
+  </div>
+</section>
 </main>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
