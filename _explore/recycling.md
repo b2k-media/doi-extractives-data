@@ -16,10 +16,11 @@ breadcrumb:
     {% include breadcrumb.html %}
     <h1 id="title">{% t recycling.title %}</h1>
     <div class="container-left-9">
-    <h2 id="rolle_des_gesetzgebers">
+
+    <section id="recycling" style="position: relative;">
+    <h2 id="bedeutung">
       {% t recycling.bedeutung.title %}
     </h2>
-    <section id="bedeutung" style="position: relative;">
       <p>
         {% t recycling.bedeutung.p1 %}          
         <sup class="padding-right">
