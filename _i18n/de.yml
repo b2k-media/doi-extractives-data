@@ -1718,8 +1718,8 @@ beschaeftigung_u_soziales:
   tarifbindung:
     title: "Tarifbindung"
     p1: "Vereinigungsfreiheit und das Recht auf Kollektivverhandlungen sind in Deutschland durch das Grundgesetz in Art. 9 GG garantiert. Tarifverträge werden von einem oder mehreren Arbeitgeber/innen oder Arbeitgeberverbänden mit einer oder mehreren Gewerkschaften abgeschlossen. Sie sind ausschließlich für ihre Mitglieder bindend (Tarifbindung). Es ist allerdings gängige Praxis von tarifgebundenen Arbeitgeber/innen, durch individualvertragliche Bezugnahmen der Tarifverträge auch gewerkschaftlich unorganisierte Arbeitnehmer/innen an dem tarifvertraglich Vereinbarten teilhaben zu lassen. Zudem orientieren sich viele nicht tariflich gebundene Unternehmen an bestehenden Tarifverträgen. Im Jahr 2014"
-    p1_1: "waren 30 % der Unternehmen der Rohstoffbranche"
-    p1_2: "tariflich gebunden; 27 % im Rahmen eines Flächentarifvertrages und 3 % mit einem Firmentarifvertrag. Allerdings gelten die tariflichen Vereinbarungen für nahezu zwei Drittel (62 %) der Beschäftigten der Branche, wobei 46 % den Bedingungen eines Flächentarifs unterliegen und 16 % denen eines Firmentarifvertrages."
+    p1_1: "&nbsp;waren 30 % der Unternehmen der Rohstoffbranche"
+    p1_2: "&nbsp;tariflich gebunden; 27 % im Rahmen eines Flächentarifvertrages und 3 % mit einem Firmentarifvertrag. Allerdings gelten die tariflichen Vereinbarungen für nahezu zwei Drittel (62 %) der Beschäftigten der Branche, wobei 46 % den Bedingungen eines Flächentarifs unterliegen und 16 % denen eines Firmentarifvertrages."
     sup8:
       title: "8"
       text: "Drittelbeteiligungs-Gesetz von 2004"

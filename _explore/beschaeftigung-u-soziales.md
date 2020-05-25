@@ -67,7 +67,7 @@ breadcrumb:
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1 %}
           <sup class="padding-right">
             <a href="#sub-4">
-              {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup4.title %}
+              {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup4.title %}
             </a>
           </sup>
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1_1 %}

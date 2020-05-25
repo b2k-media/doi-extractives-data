@@ -56,8 +56,8 @@ breadcrumb:
         </sup>          
         {% t recycling.abfallaufkommen_und_verwertung.p1_1 %}  
         <sup class="padding-right">
-          <a href="#sub-2">
-            {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup3.title %}
+          <a href="#sub-3">
+            {% t recycling.abfallaufkommen_und_verwertung.sup3.title %}
           </a>
         </sup>
         {% t recycling.abfallaufkommen_und_verwertung.p1_2 %}  
@@ -168,6 +168,7 @@ breadcrumb:
             {% t recycling.beispielefuer_recycling_und_einsatzquoten.sup17.title %}
           </a>
         </sup>
+        {% t point %}
       </p>
 
       <h2 id="ausblick">
