@@ -80,6 +80,10 @@ breadcrumb:
         <sup id="sup-1">{% t wirtschaftlich_berechtigter.sup1.title %}</sup>
         {% t wirtschaftlich_berechtigter.sup1.text %}
       </p>
+      <p style="font-size: 0.75rem" >
+        <sup id="sup-1">{% t wirtschaftlich_berechtigter.sup2.title %}</sup>
+        {% t wirtschaftlich_berechtigter.sup2.text %}
+      </p>
       <p style="font-size: 0.75rem">
         <sup id="sup-5">{% t wirtschaftlich_berechtigter.sup5.title %}</sup>
         {% t wirtschaftlich_berechtigter.sup5.text %}
