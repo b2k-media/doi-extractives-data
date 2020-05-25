@@ -34,11 +34,6 @@ breadcrumb:
           <h3>{% t wirtschaftlich_berechtigter.deutsches_transparenzregister.title %}</h3>
           <p>
             {% t wirtschaftlich_berechtigter.deutsches_transparenzregister.p1_1 %}
-            <sup>
-              <a href="#sup-2">
-                {% t wirtschaftlich_berechtigter.sup2.title %}
-              </a>
-            </sup>
             {% t wirtschaftlich_berechtigter.deutsches_transparenzregister.p1_2 %}
           </p>
           <p>{% t wirtschaftlich_berechtigter.deutsches_transparenzregister.p2 %}
@@ -79,10 +74,6 @@ breadcrumb:
       <p style="font-size: 0.75rem" >
         <sup id="sup-1">{% t wirtschaftlich_berechtigter.sup1.title %}</sup>
         {% t wirtschaftlich_berechtigter.sup1.text %}
-      </p>
-      <p style="font-size: 0.75rem" >
-        <sup id="sup-1">{% t wirtschaftlich_berechtigter.sup2.title %}</sup>
-        {% t wirtschaftlich_berechtigter.sup2.text %}
       </p>
       <p style="font-size: 0.75rem">
         <sup id="sup-5">{% t wirtschaftlich_berechtigter.sup5.title %}</sup>
