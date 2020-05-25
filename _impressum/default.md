@@ -40,7 +40,7 @@ permalink: /impressum/
             " class="blue_link">
             <font class="">{% t 'impressum.secretary.web' %}</font></a>
           </p>
-		
+
 		  <br>
 		  {% t 'impressum.secretary.p1' %}
           <p class="hero-description">{% t 'impressum.secretary.p1_2' %} </p>
@@ -48,7 +48,7 @@ permalink: /impressum/
 		  {% t 'impressum.secretary.p2' %}<br><br>
 
 		  {% t 'impressum.giz.text1_1' %}<br>
-		  		  
+
 		  <p class="hero-description">
 		  {% t 'impressum.giz.text1_2' %}<br><br>
           {% t 'impressum.giz.text2_1' %}<br>
@@ -61,7 +61,7 @@ permalink: /impressum/
           {% t 'impressum.giz.text3_2' %}<br>
           {% t 'impressum.giz.text3_3' %}<br>
           {% t 'impressum.giz.text3_4' %}</p>
-          
+
           <p class="hero-description">
             {% t 'impressum.giz.text4_1' %}
             <a href="mailto:info@giz.de" class="blue_link">
@@ -78,11 +78,13 @@ permalink: /impressum/
           {% t 'impressum.giz.text6' %}
           <p class="hero-description">{% t 'impressum.giz.text6_1' %}</p>
 
+          {% t 'impressum.giz.text7' %}
+          <p class="hero-description">{% t 'impressum.giz.text7_1' %}</p>
+          <p class="hero-description">{% t 'impressum.giz.text7_2' %}</p>
+
           {% t 'impressum.giz.text8' %}
           <p class="hero-description">{% t 'impressum.giz.text8_1' %}</p>
-          <p class="hero-description">{% t 'impressum.giz.text8_2' %}</p>
           <p class="hero-description">{% t 'impressum.giz.text8_3' %}</p>
-          <p class="hero-description">{% t 'impressum.giz.text8_4' %}</p>
 
           {% t 'impressum.giz.text9' %}
           <p class="hero-description">

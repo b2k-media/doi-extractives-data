@@ -73,13 +73,13 @@ breadcrumb:
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1_1 %}
           <sup class="padding-right">
             <a href="#sub-5">
-              {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup5.title %}
+              {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup5.title %}
             </a>
           </sup>
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1_2 %}
           <sup class="padding-right">
             <a href="#sub-6">
-              {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup6.title %}
+              {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup6.title %}
             </a>
           </sup>
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p1_3 %}
@@ -87,7 +87,7 @@ breadcrumb:
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p2 %}
           <sup class="padding-right">
             <a href="#sub-7">
-              {% t beschaeftigung_u_soziales.rolle_des_gesetzgebers.sup7.title %}
+              {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.sup7.title %}
             </a>
           </sup>
           {% t beschaeftigung_u_soziales.rolle_und_zusammenarbeit_der_sozialpartner.p2_1 %}
