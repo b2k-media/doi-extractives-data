@@ -107,12 +107,8 @@ breadcrumb:
 
       <section id="explanation" style="position: relative;">
         <p id="explanation-1">
-          <sup>{% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.sup1.title %}</sup>
+          <sup>{% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.sup1.title %}, {% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.sup2.title %}</sup>
           {% t erdol-erdgas.erdöl.wirtschaftliche-bedeutung.sup1.text %}
-        </p>
-        <p id="explanation-2">
-          <sup>{% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.sup2.title %}</sup>
-          {% t erdol-erdgas.erdgas.wirtschaftliche-bedeutung.sup2.text %}
         </p>
       </section>
     </div>

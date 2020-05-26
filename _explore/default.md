@@ -63,9 +63,6 @@ permalink: /daten/
     <a href="{{ site.lang | url_lang_prefix  }}/daten/einnahmen" class="tile tile-einnahmen-rohstoff">
       <span>{% t 'explore-data.economic-impact.item2' %}</span>
     </a>
-    <a href="{{ site.lang | url_lang_prefix  }}/daten/employment" class="tile tile-beschaeftigung">
-      <span>{% t 'explore-data.economic-impact.item3' %}</span>
-    </a>
     <a href="{{ site.lang | url_lang_prefix  }}/daten/exporte" class="tile tile-export">
       <span>{% t 'explore-data.economic-impact.item4' %}</span>
     </a>
