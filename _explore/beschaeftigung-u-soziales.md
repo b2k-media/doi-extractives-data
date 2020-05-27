@@ -116,7 +116,13 @@ breadcrumb:
               </tr>                        
             </tbody>
           </table>
-          {% t beschaeftigung_u_soziales.chart-source %}
+
+          <section id="explanation" style="position: relative;">
+            <p>{% t beschaeftigung_u_soziales.chart-source %}</p>
+            <p id="star"><small>
+              {% t beschaeftigung_u_soziales.table.star %}
+            </small></p>
+          </section>
           <p style="font-size: 0.75rem">{% t beschaeftigung_u_soziales.chart-note-1 %}
               <a href="{{site.baseurl}}/downloads/#beschäftigten">
                 <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
@@ -124,12 +130,6 @@ breadcrumb:
               </a>
               {% t beschaeftigung_u_soziales.chart-note-2 %}
           </p>
-
-          <section id="explanation" style="position: relative;">
-            <p id="star"><small>
-              {% t beschaeftigung_u_soziales.table.star %}
-            </small></p>
-          </section>
         </div>
         <br/>
 
