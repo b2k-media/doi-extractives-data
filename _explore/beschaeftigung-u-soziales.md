@@ -43,13 +43,13 @@ breadcrumb:
           <table>
             <tbody>
               <tr>
-                <th></th>
-                <th colspan="3">
+                <td></td>
+                <td colspan="3">
                   <strong>{% t beschaeftigung_u_soziales.table.th2 %}</strong>
-                </th>
-                <th colspan="3" >
+                </td>
+                <td colspan="3" >
                   <strong>{% t beschaeftigung_u_soziales.table.th3 %}</strong>
-                </th>
+                </td>
               </tr>
               <tr>
                 <td></td>
@@ -116,7 +116,7 @@ breadcrumb:
               </tr>                        
             </tbody>
           </table>
-          {% t beschaeftigung_u_soziales.table.chart-source %}
+          {% t beschaeftigung_u_soziales.chart-source %}
           <p style="font-size: 0.75rem">{% t beschaeftigung_u_soziales.chart-note-1 %}
               <a href="{{site.baseurl}}/downloads/#beschäftigten">
                 <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
