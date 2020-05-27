@@ -21,7 +21,7 @@ breadcrumb:
         </p>
         <br/>
         <div class="chart-title-style">
-          {% t genehmigung-von-bergbauprojekten.subtitle %}
+          {% t genehmigung-von-bergbauprojekten.subtitle %}<a href="{% t genehmigung-von-bergbauprojekten.subtitle_link %}">{% t genehmigung-von-bergbauprojekten.subtitle_2 %}</a>
         </div>
         <br/>
         <div class="tabs" id="Bergfreie">
