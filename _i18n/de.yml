@@ -1670,7 +1670,7 @@ beschaeftigung_u_soziales:
   chart-title: "Sozialversicherungspflichtige Beschäftigung nach Wirtschaftszweigen"
   chart-src: "/img/beschaeftigung_u_soziales/chart.png"
   chart-note-1: "Detaillierte Quellenangaben siehe"
-  chart-source: "Quelle: Bundesagentur für Arbeit 2017. Detaillierte Quellenangabe siehe Endnote"
+  chart-source: "Quelle: Bundesagentur für Arbeit 2017."
   daten_einsehen: "Daten Einsehen"
   chart-note-2: "Eigene Darstellung."
   table:
