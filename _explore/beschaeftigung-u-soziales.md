@@ -130,7 +130,6 @@ breadcrumb:
               {% t beschaeftigung_u_soziales.table.star %}
             </small></p>
           </section>
-          <br /><br />
         </div>
         <br/>
 
