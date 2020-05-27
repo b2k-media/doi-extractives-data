@@ -44,12 +44,12 @@ breadcrumb:
             <tbody>
               <tr>
                 <th></th>
-                <td>
+                <th colspan="3">
                   <strong>{% t beschaeftigung_u_soziales.table.th2 %}</strong>
-                </td>
-                <td class="text-align-right">
+                </th>
+                <th colspan="3" >
                   <strong>{% t beschaeftigung_u_soziales.table.th3 %}</strong>
-                </td>
+                </th>
               </tr>
               <tr>
                 <td>
