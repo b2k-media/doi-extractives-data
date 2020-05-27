@@ -39,6 +39,7 @@ breadcrumb:
 
         <br/>
         <div class="chart-title-style">{% t beschaeftigung_u_soziales.chart-title %}</div>
+        <br/>
         <div>
           <table>
             <tbody>
