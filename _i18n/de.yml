@@ -1674,8 +1674,8 @@ beschaeftigung_u_soziales:
   daten_einsehen: "Daten Einsehen"
   chart-note-2: "Eigene Darstellung."
   table:
-    th2: "Sozialversicherungspflichtig Beschäftigte am Stichtag 31. Dezemner 2017"
-    th3: "Darunter Auszubildende"
+    th2: "Sozialversicherungspflichtig Beschäftigte am Stichtag 31. Dezember 2017"
+    th3: "darunter Auszubildende"
     row0:
       td2: "Gesamt"
       td3: "Männer"
