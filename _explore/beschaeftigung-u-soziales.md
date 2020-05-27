@@ -52,8 +52,7 @@ breadcrumb:
                 </th>
               </tr>
               <tr>
-                <td>
-                </td>
+                <td></td>
                 <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td2 %}</strong></td>
                 <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td3 %}</strong></td>
                 <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td4 %}</strong></td>
@@ -67,7 +66,8 @@ breadcrumb:
                 <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td3 %}</strong></td>
                 <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td4 %}</strong></td>
                 <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td5 %}</strong></td>
-                <td></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td6 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td7 %}</strong></td>
               </tr>
               <tr>
                 <td><strong>{% t beschaeftigung_u_soziales.table.row2.td1 %}</strong></td>
@@ -76,6 +76,7 @@ breadcrumb:
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td4 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td5 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td6 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td7 %}</td>
               </tr>
               <tr>
                 <td><strong>{% t beschaeftigung_u_soziales.table.row3.td1 %}</strong></td>
@@ -84,6 +85,7 @@ breadcrumb:
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td4 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td5 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td6 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td7 %}</td>
               </tr>
               <tr>
                 <td><strong>{% t beschaeftigung_u_soziales.table.row4.td1 %}</strong></td>
@@ -92,6 +94,7 @@ breadcrumb:
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td4 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td5 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td6 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td7 %}</td>
               </tr>              
               <tr>
                 <td><strong>{% t beschaeftigung_u_soziales.table.row3.td1 %}</strong></td>
@@ -100,6 +103,7 @@ breadcrumb:
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td4 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td5 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td6 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td7 %}</td>
               </tr>
               <tr>
                 <td><strong>{% t beschaeftigung_u_soziales.table.row3.td1 %}</strong></td>
@@ -108,6 +112,7 @@ breadcrumb:
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td4 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td5 %}</td>
                 <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td6 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td7 %}</td>
               </tr>                        
             </tbody>
           </table>
