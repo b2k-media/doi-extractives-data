@@ -40,8 +40,92 @@ breadcrumb:
         <br/>
         <div class="chart-title-style">{% t beschaeftigung_u_soziales.chart-title %}</div>
         <div>
-          <img style="width: 100%" src="{{ site.baseurl_root }}{% t beschaeftigung_u_soziales.chart-src %}" alt="Sozialversicherungspflichtige Beschäftigung nach Wirtschaftszweigen"><br>
-          {% t beschaeftigung_u_soziales.chart-note %}
+          <table>
+            <tbody>
+              <tr>
+                <th></th>
+                <td>
+                  <strong>{% t beschaeftigung_u_soziales.table.th2 %}</strong>
+                </td>
+                <td class="text-align-right">
+                  <strong>{% t beschaeftigung_u_soziales.table.th3 %}</strong>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                </td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td2 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td3 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td4 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td2 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td3 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row0.td4 %}</strong></td>
+              </tr>
+              <tr>
+                <td><strong>{% t beschaeftigung_u_soziales.table.row1.td1 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td2 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td3 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td4 %}</strong></td>
+                <td class="text-align-right"><strong>{% t beschaeftigung_u_soziales.table.row1.td5 %}</strong></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>{% t beschaeftigung_u_soziales.table.row2.td1 %}</strong></td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td2 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td3 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td4 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td5 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row2.td6 %}</td>
+              </tr>
+              <tr>
+                <td><strong>{% t beschaeftigung_u_soziales.table.row3.td1 %}</strong></td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td2 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td3 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td4 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td5 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row3.td6 %}</td>
+              </tr>
+              <tr>
+                <td><strong>{% t beschaeftigung_u_soziales.table.row4.td1 %}</strong></td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td2 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td3 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td4 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td5 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row4.td6 %}</td>
+              </tr>              
+              <tr>
+                <td><strong>{% t beschaeftigung_u_soziales.table.row3.td1 %}</strong></td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td2 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td3 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td4 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td5 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row5.td6 %}</td>
+              </tr>
+              <tr>
+                <td><strong>{% t beschaeftigung_u_soziales.table.row3.td1 %}</strong></td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td2 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td3 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td4 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td5 %}</td>
+                <td class="text-align-right">{% t beschaeftigung_u_soziales.table.row6.td6 %}</td>
+              </tr>                        
+            </tbody>
+          </table>
+          {% t beschaeftigung_u_soziales.table.chart-source %}
+          <p style="font-size: 0.75rem">{% t beschaeftigung_u_soziales.chart-note-1 %}
+              <a href="{{site.baseurl}}/downloads/#beschäftigten">
+                <icon class="fa fa-file-text-o u-padding-right" style="padding-left: 5px"></icon>
+                {% t beschaeftigung_u_soziales.daten_einsehen %}
+              </a>
+              {% t beschaeftigung_u_soziales.chart-note-2 %}
+          </p>
+
+          <section id="explanation" style="position: relative;">
+            <p id="star"><small>
+              {% t beschaeftigung_u_soziales.table.star %}
+            </small></p>
+          </section>
+          <br /><br />
         </div>
         <br/>
 
