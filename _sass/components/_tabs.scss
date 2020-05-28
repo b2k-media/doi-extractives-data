@@ -203,10 +203,10 @@
 
     a {
       color: #435159;
-      text-decoration: none;
+      text-decoration: underline;
     }
     a:hover {
-      text-decoration: underline !important;
+      text-decoration: none;
     }
     p {
       &:first-child {
