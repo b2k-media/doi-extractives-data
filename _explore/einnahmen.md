@@ -17,7 +17,7 @@ breadcrumb:
       <p>
         {% t einnahmen.p1_1 %}
         <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
-          {% t einnahmen.link %}
+          {% t einnahmen.link0 %}
         </a>
         {% t einnahmen.p1_1_2 %}
 

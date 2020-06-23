@@ -38,8 +38,7 @@ breadcrumb:
         <p>
           {% t salze.geschichte.p1_1 %}
           <a href="{{site.baseurl}}/rohstoffgewinnung/steine-und-erden/#industrieminerale">
-            {% t salze.geschichte.link1_1 %}
-          </a>
+            {% t salze.geschichte.link1_1 %}</a>
           {% t salze.geschichte.p1_2 %}
         </p>
         <p>

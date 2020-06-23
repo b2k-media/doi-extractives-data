@@ -88,9 +88,6 @@ breadcrumb:
               {% t wasser.wasserentnahme.ausgestaltung.sup4.title %}
             </a>
           </sup>
-          {% t point %}
-        </p>
-        <p>
           {% t wasser.wasserentnahme.ausgestaltung.p2 %}
           <sup class="padding-right">
             <a href="#sub-5">
