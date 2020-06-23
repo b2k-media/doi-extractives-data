@@ -6,6 +6,14 @@ permalink: /downloads/
 <section class="container" style="position: relative;">
   <div class="container-left-9">
     <h1 id="title">{% t downloads.title %}</h1>
+    <p>{% t downloads.p0 %}
+        <a href="{% t downloads.link0_src %}">
+              {% t downloads.link0 %}</a> 
+        {% t downloads.p0_1 %}
+        <a href="{% t downloads.link0_2_src %}">
+              {% t downloads.link0_2 %}</a>
+        {% t point %} 
+    </p>
     <div id="federal_production">
       <h2 id="production-title-1">{% t downloads.h1 %}</h2>
       <hr/>
@@ -22,7 +30,6 @@ permalink: /downloads/
         </ul>
       </p>
     </div>
-
     <div id="production_chart">
       <h2 id="chart-title-1">{% t downloads.h2 %}</h2>
       <hr/>
@@ -51,67 +58,48 @@ permalink: /downloads/
         {% t gesamtdeutsche_rohstoffproduktion.steinkohle.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.steinkohle.p %}</p>
-
       <h3 id="braunkohle">
         {% t gesamtdeutsche_rohstoffproduktion.braunkohle.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.braunkohle.p %}</p>
-
       <h3 id="erdöl">
         {% t gesamtdeutsche_rohstoffproduktion.erdöl.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.erdöl.p %}</p>
-
       <h3 id="erdgas">
         {% t gesamtdeutsche_rohstoffproduktion.erdgas.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.erdgas.p %}</p>
-
       <h3 id="kalisalz">
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.title %}
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_1 %}
-        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2016.pdf?__blob=publicationFile&v=4">
+        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Energie/Downloads/energiestudie_2018.pdf?__blob=publicationFile&v=10">
           {% t gesamtdeutsche_rohstoffproduktion.kalisalz.link1 %}
         </a>
         {% t gesamtdeutsche_rohstoffproduktion.kalisalz.p1_2 %}
       </p>
-
       <h3 id="spezialton">
         {% t gesamtdeutsche_rohstoffproduktion.spezialton.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.spezialton.p %}</p>
-
       <h3 id="steinsalz">
         {% t gesamtdeutsche_rohstoffproduktion.steinsalz.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.steinsalz.p %}</p>
-
       <h3 id="kaolin">
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.title %}
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_1 %}
-        <a target="_blank" href="https://www.bmwi.de/Redaktion/DE/Downloads/B/bergbau-in-der-brd-bergwirtschaft-statistik-2016.pdf?__blob=publicationFile&v=4">
-          {% t gesamtdeutsche_rohstoffproduktion.kaolin.link %}
-        </a>
-        {% t gesamtdeutsche_rohstoffproduktion.kaolin.p1_2 %}
       </p>
-
       <h3 id="quarzkies_und_sand">
         {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.title %}
       </h3>
       <p>
         {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_1 %}
-        <sup>
-          <a href="#sup-1">
-            {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.sup1.title %}
-          </a>
-        </sup>
-        {% t gesamtdeutsche_rohstoffproduktion.quarzkies_und_sand.p1_2 %}
       </p>
-
       <h3 id="kies_und_sand">
         {% t gesamtdeutsche_rohstoffproduktion.kies_und_sand.title %}
       </h3>
@@ -122,12 +110,10 @@ permalink: /downloads/
           </a>
         </sup>
       </p>
-
       <h3 id="naturwerkstein">
         {% t gesamtdeutsche_rohstoffproduktion.naturwerkstein.title %}
       </h3>
       <p>{% t gesamtdeutsche_rohstoffproduktion.naturwerkstein.p %}</p>
-
       <h3 id="kalk_mergel">
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.title %}
       </h3>
@@ -139,25 +125,23 @@ permalink: /downloads/
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_2 %}
       <br/><br/>
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3 %}
+      <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal">
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
+      </a>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3_1 %} 
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3 %}
+      <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html">
+        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
+      </a>      
       <br/><br/>
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_4 %}
       <br/><br/>
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_5 %}
-      <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal">
-        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
-      </a>
+      <br/><br/>
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_6 %}
-      <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html">
-        {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
-      </a>
       <br/><br/>
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_7 %}
       <br/><br/>
-      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_8 %}
-      <br/><br/>
-      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_9 %}
-      <br/><br/>
-      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_10 %}
       </p>
       <br/>
       <p class="downloads-download_links-intro">
@@ -188,22 +172,27 @@ permalink: /downloads/
       <p>
         {% t downloads.p5.p1 %}
         <a target="_blank"
- href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigPDF_2180140.pdf?__blob=publicationFile">PDF</a>
+ href="https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-vgr.pdf?__blob=publicationFile">
+            {% t downloads.p5.p1_linktext %}
+          </a>
+        {% t downloads.p5.p1_1 %}</br>
+        {% t downloads.p5.p1_2 %}
         {% t downloads.p5.p2 %}
+        {% t downloads.p5.p3 %}
         <a target="_blank"
  href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>
         {% t downloads.p5.p3 %}
+        <ul><li><a target="_blank" href="/downloads/Bruttowertschoepfung_Bergbau_Steine und Erden 2016-2017.xls"><icon class="icon-cloud icon-padded"></icon>{% t downloads.p5.P3_linktext %}</a>
+            </li>
+        </ul>
       </p>
-      <p>{% t downloads.p5.p4 %}</p>
-      <p>{% t downloads.p5.p5 %}</p>
     </div>
-
     <div id="beschäftigten">
       <h2 id="daten-zur-beschaftigten">{% t downloads.h5 %}</h2>
       <hr/>
       <p>
         {% t downloads.p7.p1 %}
-        <a target="_blank" href="https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201606/iiia6/beschaeftigung-sozbe-wz-heft/wz-heft-d-0-201606-xlsx.xlsx">{% t downloads.p7.link %}</a>.
+        <a target="_blank" href="https://statistik.arbeitsagentur.de/Statistikdaten/Detail/201712/iiia6/beschaeftigung-sozbe-wz-heft/wz-heft-d-0-201712-xlsx.xlsx">{% t downloads.p7.link %}</a>.
       </p>
       <p class="downloads-download_links-intro">
         {% t downloads.download_label %}
@@ -217,7 +206,6 @@ permalink: /downloads/
         </ul>
       </p>
     </div>
-
     <div id="daten-zur-exporte">
       <h2 id="daten-zur-exporte-nach-menge">{% t downloads.exporte.h1 %}</h2>
       <hr/>
@@ -242,14 +230,12 @@ permalink: /downloads/
         </ul>
       </p>
     </div>
-
     <div id= "daten-gesetzl-zahlungsberichte">
     <h2 id="gesetzl-zahlungsberichte">{% t downloads.daten_zberichte2016.h1 %}</h2>
     <hr/>
     <p>
       {% t downloads.daten_zberichte2016.p1 %}
     </p>
-
     <p class="downloads-download_links-intro">
       {% t downloads.download_label %}
       <ul class="downloads-download_links">
@@ -262,7 +248,6 @@ permalink: /downloads/
       </ul>
     </p>
     </div>
-
     <div id= "daten-bergbau-berechtigungen">
     <h2 id="bergbau-berechtigungen">{% t downloads.daten_bergbauberecht.h1 %}</h2>
     <hr/>
@@ -277,19 +262,16 @@ permalink: /downloads/
           <icon class="icon-cloud icon-padded"></icon>
           {% t downloads.uebersicht_neuerteilungen_text %}
         </a>
-      </li>
-      
+      </li> 
         <li>
           <a href="{{site.baseurl_root}}{% t downloads.uebersicht_bergbau_XLS %}">
             <icon class="icon-cloud icon-padded"></icon>        
               {% t downloads.uebersicht_bergbau_text %}
           </a>
         </li>
-
       </ul>
     </p>
     </div>
-
     <div id="einnahmen">
       <h2 id="steuern">{% t downloads.steuern.title %}</h2>
       <hr/>
@@ -306,13 +288,11 @@ permalink: /downloads/
         {% t einnahmen.steuern.körperschaftsteuer.title %}
       </h3>
       <p>{% t einnahmen.steuern.körperschaftsteuer.p %}</p>
-
       <h3 id="gewerbesteuer">
         {% t einnahmen.steuern.gewerbesteuer.title %}
       </h3>
       <p>{% t einnahmen.steuern.gewerbesteuer.p1 %}</p>
       <p>{% t einnahmen.steuern.gewerbesteuer.p2 %}</p>
-
       <h3 id="einkommensteuer">
         {% t einnahmen.steuern.einkommensteuer.title %}
       </h3>
@@ -320,7 +300,6 @@ permalink: /downloads/
       <p>{% t einnahmen.steuern.einkommensteuer.p2 %}</p>
       <p>{% t einnahmen.steuern.einkommensteuer.p3 %}</p>
       <p>{% t einnahmen.steuern.einkommensteuer.p4 %}</p>
-
       <h3 id="solidaritätszuschlag">
         {% t einnahmen.steuern.solidaritätszuschlag.title %}
       </h3>
@@ -369,7 +348,6 @@ permalink: /downloads/
           {% t downloads.förderabgaben.link3 %}
         </a>
       </p>
-
       <p class="downloads-download_links-intro">
         {% t downloads.download_label_förderabgaben %}
         <ul class="downloads-download_links">
@@ -388,7 +366,6 @@ permalink: /downloads/
         </ul>
       </p>
     </div>
-
     <div id="umsatz">
       <h2 id="umsatz">{% t downloads.umsatz.title %}</h2>
       <hr/>
@@ -409,7 +386,6 @@ permalink: /downloads/
         </ul>
       </p>
     </div>
-
     <div id="anpassungsgeld">
       <h2 id="anpassungsgeld">{% t downloads.anpassungsgeld.title %}</h2>
       <hr/>
