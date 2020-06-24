@@ -36,10 +36,8 @@ breadcrumb:
         <h3>{% t salze.geschichte.title %}</h3>
         <p></p>
         <p>
-          {% t salze.geschichte.p1_1 %}
-          <a href="{{site.baseurl}}/rohstoffgewinnung/steine-und-erden/#industrieminerale">
-            {% t salze.geschichte.link1_1 %}</a>
-          {% t salze.geschichte.p1_2 %}
+          {% t salze.geschichte.p1_1 %}<a href="{{site.baseurl}}/rohstoffgewinnung/steine-und-erden/#industrieminerale">
+            {% t salze.geschichte.link1_1 %}</a>{% t salze.geschichte.p1_2 %}
         </p>
         <p>
           {% t salze.geschichte.p2 %}
