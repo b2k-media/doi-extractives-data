@@ -3781,7 +3781,7 @@ impressum:
     link: "D-EITI-Sekretariat"
     web: "www.D-EITI.de"
 
-    p1: "Verantwortlich:"
+    p1: "Responsible:"
     p1_2: "Boris Raeder, Leiter des D-EITI Sekretariats (GIZ)"
 
     p2: "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
@@ -3790,7 +3790,7 @@ impressum:
     text1_1: "Registered offices"
     text1_2: "Bonn and Eschborn, Germany"
 
-    text2_1: "Friedrich-Ebert-Allee 36 + 40"
+    text2_1: "Friedrich-Ebert-Allee 32 + 36"
     text2_2: "53113 Bonn"
     text2_3: "Telefon: +49 228 44 60-0"
     text2_4: "Fax: +49 228 44 60-17 66"
@@ -3811,11 +3811,15 @@ impressum:
 
     text6: "VAT no."
     text6_1: "DE 113891176"
-
+    
+    text7: "Chairperson of the Supervisory Board"
+    text7_1: "Martin Jäger"
+    text7_2: "State Secretary at the Federal Ministry for Economic Cooperation and Development"
+    
     text8: "Management Board"
-    text8_1: "Tanja Gönner (Vorstandssprecherin)"
-    text8_2: "Dr. Christoph Beier (Stellvertretender Vorstandssprecher)"
-    text8_3: " "
+    text8_1: "Tanja Gönner (Chair of the Management Board)"
+    text8_2: ""
+    text8_3: "Thorsten Schäfer-Gümbel"
     text8_4: " "
 
     text9: "Webmaster"
