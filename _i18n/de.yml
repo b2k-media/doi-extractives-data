@@ -14,7 +14,7 @@ glossary_data-term:
   beschaeftigungswirkung: "Beschäftigungswirkung"
   sozialpartnerschaft: "Sozialpartnerschaft"
   unternehmensgruppen: "Unternehmensgruppen"
-  primaer- und Sekundaerrohstoffe: "Primär- und Sekundärrohstoffe"
+  primaer- und-sekundaerrohstoffe: "Primär- und Sekundärrohstoffe"
   stoffliche-und-energetische-verwertung: "Stoffliche und energetische Verwertung"
   elektrog: "Elektro- und Elektronikgerätegesetz – ElektroG"
   recycling-und-einsatzquoten: "Recycling- und Einsatzquoten"
@@ -22,7 +22,7 @@ glossary_data-term:
   verwertungsquote: "Verwertungsquote"
   msg: "MSG"
   d-eitibericht: "D-EITI Bericht"
-  unabhängiger-verwalter: "Unabhängiger Verwalter"
+  unabhaengiger-verwalter: "Unabhängiger Verwalter"
 menu:
     back: "D-EITI Initiative"
     about: "Start"
