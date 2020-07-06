@@ -68,7 +68,46 @@ breadcrumb:
           <p>
             {% t offentliche-berichte.gemeinsamkeiten.p3 %}
           </p>
+          <table>
+          <tbody>
+          <tr>
+            <td><strong>{% t offentliche-berichte.gemeinsamkeiten.table.head.h1 %}</strong></td>
+            <td><strong>{% t offentliche-berichte.gemeinsamkeiten.table.head.h2 %}</strong></td>
+            <td><strong>{% t offentliche-berichte.gemeinsamkeiten.table.head.h3 %}</strong></td>
+          </tr>
+          <tr>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row1.p1 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row1.p2 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row1.p3 %}</td>
+          </tr>
+          <tr>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p1 %}<sup id="sup-1">{% t offentliche-berichte.gemeinsamkeiten.table.row2.sup1.title  %}</sup></td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p2 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p3 %}</td>
+          </tr>
+          <tr>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row3.p1 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row3.p2 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeitentable.row3.p3 %}</td>
+          </tr>
+          <tr>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row4.p1 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row4.p2 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row4.p3 %}</td>
+          </tr>
+          <tr>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row5.p1 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row5.p2 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row5.p3 %}</td>
+          </tr>
+          </tbody>
+        </table>
+          
         </section>
+        <p style="font-size: 0.75rem" >
+            <sup id="sup-1">{% t offentliche-berichte.gemeinsamkeiten.table.row2.sup1.title %}</sup>
+            {% t offentliche-berichte.gemeinsamkeiten.table.row2.sup1.text %}
+        </p>        
       </section>
     </div>
 
