@@ -4138,7 +4138,7 @@ downloads:
     - name: daten-zur-exporte
       title: Daten zu Exporten
     - name: daten-gesetzl-zahlungsberichte
-      title: Daten der gesetzlichen Zahlungsberichte für 2016
+      title: Daten der gesetzlichen Zahlungsberichte
     - name: daten-bergbau-berechtigungen
       title: Daten zu Bergbauberechtigungen
     - name: steuern
