@@ -301,7 +301,7 @@ rechtlicher-rahmen:
       link: Regierungspräs. Freiburg,<br/> Landesamt für Geologie,<br/> Rohstoffe und Bergbau
     bayern:
       title: Bayern
-      descr: Staatsmin. für Wirtschaft, Landesentwicklung <br/> und Energie. 
+      descr: Staatsmin. für Wirtschaft,<br/>Landesentwicklung und Energie. 
 
       link1: Regierung von Oberbayern, <br /> Bergamt Südbayern
       link2: Regierung von Oberfranken, <br /> Bergamt Nordbayern
@@ -351,7 +351,7 @@ rechtlicher-rahmen:
       link: Oberbergamt
     sachsen-anhalt:
       title: Sachsen-Anhalt
-      descr: Min. für Wirtschaft,<br/> Wissenschaft <br/>und Digitalisierung
+      descr: Min. für Wirtschaft,<br/> Wissenschaft und Digitalisierung
       link: Landesamt für Geologie<br/> und Bergwesen
     schleswig-holstein:
       title: Schleswig-Holstein
