@@ -2072,14 +2072,15 @@ gesamtdeutsche_rohstoffproduktion:
     p2: "Quellenverzeichnis"
     p3_1: "[AGEB 2018]: - AG Energiebilanzen e.V. (2018): „Energieverbrauch in Deutschland im Jahr 2017. “"
     p3_2: "[BGR 2018] – Bundesanstalt für Geowissenschaften und Rohstoffe (2018): „Deutschland – Rohstoffsituation 2017“"
-    p3_3: "[Destatis] – Statistisches Bundesamt (versch. Jg. a): Erhebungsportal. – URL: "
+    p3_3: "[Destatis] – Statistisches Bundesamt (versch. Jg. a): Erhebungsportal. – URL: </br>"
     link1: "https://erhebungsportal.estatistik.de/Erhebungsportal"
-    p3_3_1: " sowie (versch. Jg. b): Produzierendes Gewerbe. – URL :" 
+    p3_3_1: " sowie (versch. Jg. b): Produzierendes Gewerbe. – URL : </br>" 
     link2: "https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html"
     p3_4: "[IM 2017] – Industrial Materials (2017): IM Price Database"
     p3_5: "[LBEG 2018] –Landesamt für Bergbau, Energie und Geologie (2018): Erdöl und Erdgas in der Bundesrepublik Deutschland 2017"
     p3_6: "[MIRO 2018] – Bundesverband Mineralische Rohstoffe e. V. (2018): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2017/2018“"
     p3_7: "[SDK 2018] – Statistik der Kohlenwirtschaft e.V. (2018): „Der Kohlenbergbau in der Energiewirtschaft der Bundesrepublik Deutschland 2017.“"
+    p3_8: "Die Produktionsstatistiken vom Statistischen Bundesamt umfassen in diesen Berechnungen die Bereiche „Kohle“ (GP09-05), „Erdöl und Erdgas“ (GP09-06), „Erze“ (GP09-07) und „Steine und Erden, sonstiger Bergbau“ (GP09-08). Die Daten der Exporte von 2012 – 2017 wurden der Genesis-Online-Datenbank von Destatis entnommen. Die Daten für 2017 sind auf der Website des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind aus BGR 2018."
   table1:
     h1: "Rohstoffgewinnung in Deutschland für 2017 (Menge)"
     th1: Rohstoffgewinnung in Deutschland für 2017
@@ -2207,11 +2208,11 @@ einnahmen:
       link2: " "
       körperschaftsteuer:
         title: Körperschaftsteuer
-        p: Ausgewertet wurden statistische Daten der Jahre 2010 bis 2012. Für die Schätzung wurden die festgesetzten Körperschaftsteuern unbeschränkt und beschränkt Körperschaftsteuerpflichtiger vor Anrechnung von Kapitalertragsteuer o.Ä. berücksichtigt. Die Fortschreibung für die Jahre 2013 bis 2016 erfolgte anhand der Entwicklung der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“.
+        p: Ausgewertet wurden statistische Daten der Jahre 2010 bis 2014. Für die Schätzung wurden die festgesetzten Körperschaftsteuern unbeschränkt und beschränkt Körperschaftsteuerpflichtiger vor Anrechnung von Kapitalertragsteuer o.Ä. berücksichtigt. Die Fortschreibung für die Jahre bis 2017 erfolgte anhand der Entwicklung der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“.
       gewerbesteuer:
         title: Gewerbesteuer
         p1: Die Gewerbesteuer wird in Deutschland von den über 11.000 Gemeinden nach individuell festgelegten und dadurch differierenden Hebesätzen erhoben. Ausgangsbasis für die Bemessung der Gewerbesteuer ist der Gewerbeertrag. Dies ist der nach Einkommensteuer- bzw. Körperschaftsteuerrecht zu bestimmende Gewinn, der ggf. um Hinzurechnungen und Kürzungen nach dem Gewerbesteuergesetz erhöht bzw. gemindert wird. Auf Grundlage des Gewerbeertrags wird deutschlandweit einheitlich ein Steuermessbetrag ermittelt und durch Anwendung des jeweiligen Hebesatzes der Gemeinde auf den Steuermessbetrag die vom Unternehmen zu zahlende Gewerbesteuer bestimmt. Der Gewerbesteuer unterliegen Körperschaften, Personengesellschaften und natürliche Personen mit ihren gewerblichen Einkünften.
-        p2: In der Gewerbesteuerstatistik sind nur die im Veranlagungsverfahren ermittelten Steuermessbeträge enthalten. Das Statistische Bundesamt hat in einer Sonderauswertung der Statistiken für die Jahre 2010 und 2011 den dort nachgewiesenen positiven Steuermessbeträgen der betrachteten Unternehmen die Hebesätze der entsprechenden Gemeinden zugeordnet. Damit konnte die Gewerbesteuer näherungsweise ermittelt werden.
+        p2: In der Gewerbesteuerstatistik sind nur die im Veranlagungsverfahren ermittelten Steuermessbeträge enthalten. Das Statistische Bundesamt hat in einer Sonderauswertung der Statistiken für die Jahre 2010 und 2014 den dort nachgewiesenen positiven Steuermessbeträgen der betrachteten Unternehmen die Hebesätze der entsprechenden Gemeinden zugeordnet. Damit konnte die Gewerbesteuer näherungsweise ermittelt werden.
       einkommensteuer:
         title: Einkommensteuer
         p1: Natürliche Personen können als Einzelunternehmer oder Beteiligte an einer Personengesellschaft ebenfalls Gewinne im rohstoffgewinnenden Sektor erzielen und sind mit diesen gewerbe- und einkommensteuerpflichtig. In der Einkommensteuerstatistik sind jedoch keine Untergliederungen nach Wirtschaftszweigen enthalten. Damit konnte diese Statistik für die vorliegende Untersuchung nicht genutzt werden. Die Statistik über Personengesellschaften wiederum ist zwar nach Wirtschaftszweigen gegliedert, sie dient jedoch nur der Feststellung der erzielten Einkünfte, die bei den Beteiligten (Mitunternehmern) der Besteuerung entweder bei der Körperschaftsteuer oder der Einkommensteuer unterliegen.
@@ -2221,7 +2222,7 @@ einnahmen:
       solidaritätszuschlag:
         title: Solidaritätszuschlag
         p1: Zur Einkommensteuer und zur Körperschaftsteuer wird ein Solidaritätszuschlag als Ergänzungsabgabe erhoben. Er beträgt grundsätzlich 5,5 % der festgesetzten Körperschaft- und Einkommensteuer (siehe vorhergehende Erläuterungen).
-        p2: Einkommensteuer und Solidaritätszuschlag sind nicht Teil des D-EITI Zahlungsabgleichs  (zur Begründung vgl. Kap. 9 / Annex).
+        p2: Einkommensteuer und Solidaritätszuschlag sind nicht Teil des D-EITI Zahlungsabgleichs.
         p3_1: Weitere Zahlungsströme, die in nachfolgender Tabelle unberücksichtigt sind, werden bei
         link1: "Anfallende Zahlungen"
         p3_2: und
@@ -4162,20 +4163,20 @@ downloads:
     - name: daten-zum-deiti-bericht
       title: "Daten zum 1. D-EITI-Bericht"
   beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_2017.csv"
-  steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor_2012-2016.xlsx"
-  einnahmen_CSV: "/downloads/Einnahmen_aus_Feldesabgaben_2016.xlsx"
-  einnahmen_2_CSV: "/downloads/Einnahmen_aus_Foerderabgaben_.csv"
-  umsatz_CSV: "/downloads/Umsatz_Steine_Erden_2012-2016.csv"
-  D-EITI_xlsx: "/downloads/D-EITI_Zahlungsabgleich.xlsx"
-  zipfile: "/downloads/DatenZum1.D-EITIBericht.zip"
-  unabhaengiger_verwalter_PDF: "/downloads/Zahlungsabgleich_Empfehlungen.pdf"
-  exports_CSV: "/downloads/Commodity_exports_weight_value_2012_2016_englisch.csv"
-  production_CSV: "/downloads/17_Daten2016FuerInteraktiveRohstoffkarte.xlsx"
+  steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor_2010-2017.xlsx"
+  einnahmen_CSV: "/downloads/Einnahmen_Feldesabgabe_2016-2019.csv"
+  einnahmen_2_CSV: "/downloads/Einnahmen aus Foerderabgaben 2015-2019.csv"
+  umsatz_CSV: "/downloads/Umsatz_und_Beschaeftigung_Bergbau_Steine_und_Erden_2016-2018.xls"
+  D-EITI_xlsx: "/downloads/Tabellen_Zahlungsabgleich_2017.xlsx"
+  zipfile: "/downloads/aggregierte_D-EITI_Daten.zip"
+  unabhaengiger_verwalter_PDF: "/downloads/Offengelegte_Zahlungsstroeme_und_Zahlungsabgleich_2017_und_Empfehlungen.pdf"
+  exports_CSV: "/downloads/Außenhandel_Bergbau_Steine und Erden_2016-2017.xls"
+  production_CSV: "/downloads/Rohstoffgewinnung in Deutschland 2017_Menge_Wert.xlsx"
   uebersicht_neuerteilungen_XLSX: "/downloads/Uebersicht_Neuerteilungen_Aenderungen_und_Loeschungen_Bergbauberechtigungen_2015-2017_nach_Bundesland.xls"
   uebersicht_neuerteilungen_text: "Download der Bergbauberechtigungen 2015-2017 (Excel)"
   uebersicht_bergbau_XLS: "/downloads/Uebersicht_Bergbauberechtigungen_in_Deutschland_nach_Bundesland.xlsx"
   uebersicht_bergbau_text: "Download aller Bergbauberechtigungen (Excel)"
-  uebersicht_zahlungsberichte_XLSX: "/downloads/Uebersicht_Gesetzliche_Zahlungsberichte_gem_Paragraph_341qff_HGB_fuer_2016.xlsx"
+  uebersicht_zahlungsberichte_XLSX: "/downloads/Uebersicht_gesetzliche_Zahlungsberichte_fuer_2016-2018.xlsx"
 
   h1: Daten zur interaktiven Rohstoffkarte
   p0: "Alle zur Verfügung gestellten Informationen und Daten basieren auf dem" 
@@ -4185,7 +4186,7 @@ downloads:
   link0_2: "hier"
   link0_2_src: "http://www.rohstofftransparenz.de/downloads/#daten-zum-deiti-bericht" 
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
-  download_label: Download der Produktionsdaten
+  download_label: Download der Daten
   download_link: Daten herunterladen
   download_label_förderabgaben: Download der Daten
   h2: Daten zur gesamtdeutschen Rohstoffproduktion
@@ -4197,7 +4198,7 @@ downloads:
   p2_3: "entnommen. Die Zahlen zu Kali- und Kalisalzprodukte, Spezialton, Steinsalz, Siedesalz und Industriesole, Kaolin, Quarzkies und –sand, Kies und Sand, gebrochene Natursteine, Naturwerksteine sowie Kalk-, Mergel- und Dolomitstein basieren auf (BGR 2018)"
   link2_3: "„Deutschland – Rohstoffsituation 2017“."
   p2_4: "Dabei handelt es sich um eine jährliche Publikation, die u. a. Informationen zur Gewinnung von mineralischen Rohstoffen und Energierohstoffen in Deutschland enthält."
-  p4: "Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände (hinsichtlich der Gesteinskörnungen insbesondere MIRO 2018) oder verschiedene Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2016 (BGR 2017). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach Destatis), Steinsalz und Industriesole (Berechnung nach Destatis) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind ebenfalls aus [BGR 2017] entnommen. Die Werte der Produktion der Naturwerksteine sowie von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen."
+  p4: "Die Angaben zum Wert der zugehörigen Produktionsmengen sind nicht in der amtlichen Statistik enthalten. Deshalb wird auf andere Publikationen zurückgegriffen, wie z. B. die Geschäftsberichte der Verbände (hinsichtlich der Gesteinskörnungen insbesondere MIRO 2018) oder verschiedene Publikationen des Statistischen Bundesamtes. Im Detail basieren die Werte der Produktion von Steinkohle, Braunkohle, Erdöl und Erdgas auf Schätzungen aus durchschnittlichen Grenzübergangspreisen 2016 (BGR 2018). Derselben Publikation sind auch die Werte für Kali und Kalisalzprodukte, Spezialton (Berechnung nach Destatis), Steinsalz und Industriesole (Berechnung nach Destatis) sowie Kaolin (Berechnung nach IM 2016) entnommen. Die Werte der Produktion für Quarzsand und -kies, Kies und Sand und gebrochenem Naturstein sind ebenfalls aus [BGR 2018] entnommen. Die Werte der Produktion der Naturwerksteine sowie von Kalk-, Mergel- und Dolomitstein entstammen den Angaben des Statistischen Bundesamtes. Die hier verwendeten Daten wurden keiner zusätzlichen gesonderten Überprüfung unterzogen."
   h3: Daten zum Beitrag zum BIP
   p5:
     p1: "Die Daten wurden der "
@@ -4214,16 +4215,12 @@ downloads:
     p2: Download der Daten (Excel)
   exporte:
     h1: "Daten zu Exporten"
-    p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt und umfassen in diesen Berechnungen die Bereiche „Kohle“ (GP09-05), „Erdöl und Erdgas“ (GP09-06), „Erze“ (GP09-07) und „Steine und Erden, sonstiger Bergbau“ (GP09-08). Die Daten der Exporte von 2012-2016 wurden der "
+    p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt und umfassen in diesen Berechnungen die Bereiche „Kohle“ (GP09-05), „Erdöl und Erdgas“ (GP09-06), „Erze“ (GP09-07) und „Steine und Erden, sonstiger Bergbau“ (GP09-08). Die Daten der Exporte von 2012-2017 wurden der "
     link1: "Genesis-Online-Datenbank"
-    p2: " von Destatis am 26.05.2017 entnommen. Die Daten für 2015 sind auf der "
-    link2: "Website"
-    p3: "des Statistischen Bundesamtes abrufbar. Die Aussagen zu den Re-Exporten von Erdgas sind ("
-    link3: "BGR 2016"
-    p4: " und BGR 2017, Tabellen 5, 28 und 29) entnommen."
+    p2: " von Destatis am 14.08.2019 entnommen. "
   daten_zberichte2016:
-    h1: Daten der gesetzlichen Zahlungsberichte für 2016
-    p1: Die Daten wurden den auf www.bundesanzeiger.de veröffentlichten Zahlungsberichten für das Jahr 2016 mit dem Stand 01.02.2019 entnommen.
+    h1: Daten der gesetzlichen Zahlungsberichte
+    p1: Die Daten wurden den auf www.bundesanzeiger.de veröffentlichten Zahlungsberichten für die Jahre 2016 bis 2018 entnommen.
     link1text: Download der Daten
   daten_bergbauberecht:
     h1: Daten zu Bergbauberechtigungen
@@ -4236,12 +4233,12 @@ downloads:
 
   steuern:
     title: Daten zu Staatseinnahmen durch Steuern
-    p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2012, der Gewerbesteuerstatistiken 2010 und 2011 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
+    p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2014, der Gewerbesteuerstatistiken 2010 und 2014 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 und 2014 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
     p2: Betrachtet wurde jeweils nur der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“. Er umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der „Klassifikation der Wirtschaftszweige“ des statistischen Bundesamts auf den Seiten 175-185.
-    p3: "Da die aktuellsten statistischen Daten die Jahre 2011 bzw. 2012 betreffen, wurden die Folgejahre bis 2016 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.)."
+    p3: "Da die aktuellsten statistischen Daten das Jahre 2014 betreffen, wurden die Folgejahre bis 2017 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.)."
     p4: Die für den rohstoffgewinnenden Sektor ausgewiesenen Steuerbeträge sind Beträge, die für das jeweils angegebene Jahr von den Unternehmen zu zahlen waren (sog. Veranlagungsjahr). Der statistische Zeitrahmen unterscheidet sich damit von dem für die Gesamteinnahmen des Staates, die im Jahr des Zuflusses verbucht werden (Kassenjahr).
     p5: "Die angegebenen Gesamteinnahmen des Staates sind der Kassenstatistik des Bundes (Öffentlicher Gesamthaushalt – ÖGH) entnommen. Die Gesamteinnahmen des Staates umfassen neben den Steuereinnahmen des Staates auch Einnahmen aus Sozialversicherungsbeiträgen, Veräußerungserlösen oder Vermögensanlagen (Staatsanleihen) sowie ferner auch Gebühren, Verwaltungseinnahmen oder etwa Gewinne aus Staatsunternehmen. Detaillierte Erläuterungen bzw. Definitionen zum Öffentlichen Gesamthaushalt (ÖGH) sind auf der Website des Statistischen Bundesamtes abrufbar:"
-    link: "https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/ThemaFinanzen.html"
+    link: "https://www.destatis.de/DE/Themen/Staat/Oeffentliche-Finanzen/fachbegriffe-finanz-personalstatistiken-pdf.pdf?__blob=publicationFile"
   förderabgaben:
     title: "Daten zu Feldes- und Förderabgaben"
     p1_1: "Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen
@@ -4259,7 +4256,7 @@ downloads:
     label2: "Download der Daten zu Feldesabgaben"
   umsatz:
     title: Daten zu Umsatz Steine und Erden
-    p: Die Daten wurden dem „Jahresbericht für Betriebe 2016“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
+    p: Die Daten wurden dem „Jahresbericht für Betriebe 2017“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
     link: (EXCEL).
   anpassungsgeld:
     title: Daten zu Anpassungsgeld
@@ -4274,14 +4271,14 @@ downloads:
     link2: "pdf"
     p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
   daten-zum-deiti-bericht:
-    title: Daten zum 1. D-EITI Bericht
+    title: Aggregierte Daten der D-EITI
     p1: "Die Multi-Stakeholder-Gruppe (MSG) der deutschen Initiative für Transparenz im rohstoffgewinnenden Sektor (D-EITI) hat sich für die Umsetzung des Prinzips offener Daten im Rahmen der D-EITI festgelegt."
     link1: "Das Open-Data-Konzept"
     p2: "kommt ausdrücklich nur für Daten und Informationen, die öffentlich sind bzw. deren Veröffentlichung im Rahmen der D-EITI durch die MSG beschlossen wurde, und nur im Rahmen der geltenden rechtlichen Grundlagen zur Anwendung. Alle Daten sind ohne Nutzungsbeschränkungen gemeinfrei verfügbar nach der"
     link2: "CC BY 4.0 Lizens"
     p3: "sowie"
     link3: "der Datenlizenz Deutschland Version 2.0."
-    p4: "Download der aggregierten Daten aus dem 1. D-EITI-Bericht"
+    p4: "Download der aggregierten D-EITI Daten"
 
 
 about:

@@ -38,15 +38,13 @@ permalink: /downloads/
         {% t downloads.link2_0 %}
       </a>
         {% t downloads.p2_1 %}
-        <a target="_blank" href="https://www.kohlenstatistik.de/files/lb_statistik_2016.pdf">
-          {% t downloads.link2_1 %}
-        </a>
+        {% t downloads.link2_1 %}
         {% t downloads.p2_2 %}
-        <a target="_blank" href="http://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html">
+        <a target="_blank" href="https://www.lbeg.niedersachsen.de/download/144280">
           {% t downloads.link2_2 %}
         </a>
         {% t downloads.p2_3 %}
-        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2016.pdf?__blob=publicationFile&v=4">
+        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Energie/Downloads/energiestudie_2018.pdf?__blob=publicationFile&v=10">
           {% t downloads.link2_3 %}
         </a>
         {% t downloads.p2_4 %}
@@ -142,6 +140,7 @@ permalink: /downloads/
       <br/><br/>
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_7 %}
       <br/><br/>
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_8 %}
       </p>
       <br/>
       <p class="downloads-download_links-intro">
@@ -179,9 +178,6 @@ permalink: /downloads/
         {% t downloads.p5.p1_2 %}
         {% t downloads.p5.p2 %}
         {% t downloads.p5.p3 %}
-        <a target="_blank"
- href="https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InlandsproduktsberechnungEndgueltigXLS_2180140.xlsx?__blob=publicationFile">EXCEL</a>
-        {% t downloads.p5.p3 %}
         <ul><li><a target="_blank" href="/downloads/Bruttowertschoepfung_Bergbau_Steine und Erden 2016-2017.xls"><icon class="icon-cloud icon-padded"></icon>{% t downloads.p5.P3_linktext %}</a>
             </li>
         </ul>
@@ -213,10 +209,6 @@ permalink: /downloads/
         {% t downloads.exporte.p1 %}
         <a target="_blank" href="https://www-genesis.destatis.de/">{% t downloads.exporte.link1 %}</a>
         {% t downloads.exporte.p2 %}
-        <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Tabellen/EinfuhrAusfuhrGueterabteilungen.html">{% t downloads.exporte.link2 %}</a>
-        {% t downloads.exporte.p3 %}
-        <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/Rohsit-2015.pdf?__blob=publicationFile&v=3">{% t downloads.exporte.link3 %}</a>
-        {% t downloads.exporte.p4 %}
       </p>
       <p class="downloads-download_links-intro">
         {% t downloads.download_label %}
@@ -255,7 +247,7 @@ permalink: /downloads/
       {% t downloads.daten_bergbauberecht.p1 %}
     </p>
     <p class="downloads-download_links-intro">
-      {% t downloads.download_label %}
+      {% t downloads.daten_bergbauberecht.link1text %}
       <ul class="downloads-download_links">
       <li>
         <a href="{{site.baseurl_root}}{% t downloads.uebersicht_neuerteilungen_XLSX %}">
@@ -370,7 +362,7 @@ permalink: /downloads/
       <h2 id="umsatz">{% t downloads.umsatz.title %}</h2>
       <hr/>
       <p>{% t downloads.umsatz.p %}
-        <a target="_blank" href="https://www.destatis.de/DE/Publikationen/Thematisch/IndustrieVerarbeitendesGewerbe/Strukturdaten/Jahresbericht5422701167005.html">
+        <a target="_blank" href="https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEHeft_derivate_00042257/2040421177004_endg.pdf">
           {% t downloads.umsatz.link %}
         </a>
       </p>
