@@ -284,7 +284,7 @@ steine-und-erden:
 
 rechtlicher-rahmen:
   title: Wer ist zuständig? Gesetze und Zuständigkeiten staatlicher Stellen
-  p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundesministerium für Wirtschaft und Energie. Die Bergbehörden der Bundesländer führen das Gesetz aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
+  p: "Die Rohstoffgewinnung wird in Deutschland vor allem durch das Bundesberggesetz (BBergG) geregelt, welches 1982 die alten Berggesetze der Bundesländer sowie zahlreiche bergrechtliche Nebengesetze des Bundes und der Länder abgelöst hat. Die Federführung für das Bergrecht innerhalb der Bundesregierung liegt beim Bundesministerium für Wirtschaft und Energie. Die Bergbehörden der Bundesländer (siehe untenstehendes Schaubild) führen das Gesetz aus und sind je nach Bodenschatz für die Genehmigung und Aufsicht der bergbaulichen Tätigkeit zuständig. Um den Besonderheiten ihrer Region gerecht zu werden, haben die Bundesländer teils eigene Bergverordnungen verabschiedet."
   subtitle: "Zuständige staatliche Stellen"
   nav_title: RECHTLICHER RAHMEN UND STAATLICHE STELLEN
   nav_items:
@@ -301,7 +301,8 @@ rechtlicher-rahmen:
       link: Regierungspräs. Freiburg,<br/> Landesamt für Geologie,<br/> Rohstoffe und Bergbau
     bayern:
       title: Bayern
-      descr: Staatsmin. für Wirtschaft und Medien,<br/> Energie und Technologie
+      descr: Staatsmin. für Wirtschaft, Landesentwicklung <br/> und Energie. 
+
       link1: Regierung von Oberbayern, <br /> Bergamt Südbayern
       link2: Regierung von Oberfranken, <br /> Bergamt Nordbayern
     berlin:
@@ -310,11 +311,11 @@ rechtlicher-rahmen:
       link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
     brandenburg:
       title: Brandenburg
-      descr: Min. für Wirtschaft<br/> und Energie
+      descr: Min. für Wirtschaft,<br/> Arbeit und Energie
       link: Landesamt für Bergbau,<br/>Geologie und Rohstoffe Brandenburg
     bremen:
       title: Bremen
-      descr: Senator für Wirtschaft,<br/> Arbeit und Häfen
+      descr: Senator für Wirtschaft,<br/> Arbeit und Europa
       link: Landesamt für Bergbau,<br/> Energie und Geologie
     hamburg:
       title: Hamburg
@@ -323,7 +324,7 @@ rechtlicher-rahmen:
     hessen:
       title: Hessen
       descr: Min. für Umwelt, Klimaschutz, <br/>Landwirtschaft und Verbraucherschutz
-      link: Regierungspräsidium Darmstadt<br/> Abt. Arbeitsschutz und Umwelt Wiesbaden
+      link: Regierungspräsidium Darmstadt<br/> Abt. Arbeitsschutz und Umwelt<br/>-Wiesbaden
     mecklenburg-vorpommern:
       title: Mecklenburg-Vorpommern
       descr: Min. für Energie, Infrastruktur<br/> und Landesentwicklung
@@ -338,7 +339,7 @@ rechtlicher-rahmen:
       link: Bezirksreg. Arnsberg<br/> Abteilung Bergbau und Energie <br /> in NRW, Dortmund
     rheinland-pfalz:
       title: Rheinland-Pfalz
-      descr: Min. für Wirtschaft, Klimaschutz, <br/> Energie und Landesplanung
+      descr: Min. für Wirtschaft, Verkehr, <br/> Landwirtschaft und Weinbau
       link: Landesamt für Geologie<br/> und Bergbau
     saarland:
       title: Saarland
@@ -354,11 +355,11 @@ rechtlicher-rahmen:
       link: Landesamt für Geologie<br/> und Bergwesen
     schleswig-holstein:
       title: Schleswig-Holstein
-      descr: Min. für Energiewende, Landwirtschaft<br/> Umwelt und ländliche Räume
+      descr: Min. für Energiewende, Landwirtschaft <br/>Umwelt, Natur und Digitalisierung 
       link: Landesamt für Bergbau, Energie und Geologie
     thuringen:
       title: Thüringen
-      descr: Min. für Landwirtschaft, Forsten, <br/>Umwelt und Naturschutz
+      descr: Min. für Umwelt, Energie <br/>und Naturschutz
       link: Landesbergamt
   rechtliche-regelung:
     title: Rechtliche Regelung
@@ -398,7 +399,7 @@ rechtlicher-rahmen:
         td3: "Diese Bodenschätze gehören dem Grundeigentümer. Ihre Nutzbarmachung steht dem Grundeigentümer zu."
       tr4:
         td1: "Art der rechtlichen Regelung"
-        td2: "Geregelt nach Bundesberggesetz § 3, Abs. 3          § 3, Abs. 4"
+        td2: "Geregelt nach Bundesberggesetz § 3 Abs. 3 § 3 Abs. 4 "
         td3:
           p1: "Geregelt nach anderen Rechtsgebieten, z. B. Baurecht (Abgrabungsgesetz),"
           k1: Wasserhaushaltsgesetz

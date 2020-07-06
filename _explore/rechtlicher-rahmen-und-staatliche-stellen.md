@@ -331,7 +331,7 @@ breadcrumb:
                 {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr2.td3 %}
               </td>
               <td>
-                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr2.td3 %}
+                {% t rechtlicher-rahmen.rechtliche-unterteilung.table.tr2.td4 %}
               </td>
             </tr>
             <tr>
