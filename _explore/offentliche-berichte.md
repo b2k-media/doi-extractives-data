@@ -88,7 +88,7 @@ breadcrumb:
           <tr>
             <td>{% t offentliche-berichte.gemeinsamkeiten.table.row3.p1 %}</td>
             <td>{% t offentliche-berichte.gemeinsamkeiten.table.row3.p2 %}</td>
-            <td>{% t offentliche-berichte.gemeinsamkeitentable.row3.p3 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row3.p3 %}</td>
           </tr>
           <tr>
             <td>{% t offentliche-berichte.gemeinsamkeiten.table.row4.p1 %}</td>
