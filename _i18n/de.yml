@@ -1653,7 +1653,7 @@ erneuerbare_energien:
     - name: title
       title: Seitenanfang
   chart_src: "/img/erneuerbare_energien/chart.png"
-  p1_1: Erneuerbare Energien
+  p1_1: "Erneuerbare Energien"
   sup1:
     title: "1"
     text1: "Quelle für die im Bericht genannten Zahlen: "
