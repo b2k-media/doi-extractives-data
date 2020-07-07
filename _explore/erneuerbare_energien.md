@@ -152,7 +152,6 @@ breadcrumb:
             </tr>
             <tr><td colspan="4"><h6>{% t erneuerbare_energien.table.quelle %}</h6></td></tr>
         </table>
-       
         <br/>
         <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline4 %}</h3>
@@ -163,6 +162,7 @@ breadcrumb:
                 <a target="_blank" href="{% t erneuerbare_energien.quelle.link %}"> {% t erneuerbare_energien.quelle.link_text %} </a>
             </p>
         </div>
+        <br/>
       </section>
       <section id="explanation" style="position: relative;">
         <p id="explanation-1">
