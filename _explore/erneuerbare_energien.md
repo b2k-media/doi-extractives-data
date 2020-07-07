@@ -148,8 +148,9 @@ breadcrumb:
                 <td>{% t erneuerbare_energien.table.row8.td3 %}</td>
                 <td>{% t erneuerbare_energien.table.row8.td4 %}</td>
             </tr>
+            <tr><td colspan="4"><h6>{% t erneuerbare_energien.table.quelle %}</h6></td></tr>
         </table>
-        <p>{% t erneuerbare_energien.table.quelle %}</p>  
+       
         <br/>
         <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline4 %}</h3>
