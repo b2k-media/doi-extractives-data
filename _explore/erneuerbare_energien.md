@@ -69,16 +69,26 @@ breadcrumb:
         <p>{% t erneuerbare_energien.p15 %}</p>
         <h3>{% t erneuerbare_energien.headline1 %}</h3>
         <h3>{% t erneuerbare_energien.headline2 %}</h3>
+        <sup class="padding-right">
+            <a href="#explanation-3">
+              {% t erneuerbare_energien.sup3.title %}
+            </a>
+        </sup>
         <p>{% t erneuerbare_energien.p16 %}</p>
-        <div style="background-color:#E7E6E6;">
+        <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline3 %}</h3>
             <p>{% t erneuerbare_energien.p17 %}</p>
+            <sup class="padding-right">
+                <a href="#explanation-4">
+                  {% t erneuerbare_energien.sup4.title %}
+                </a>
+            </sup>
+            <p>{% t erneuerbare_energien.p17_1 %}</p>
         </div>
-        <div style="background-color:#E7E6E6;">
+        <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline4 %}</h3>
             <p>{% t erneuerbare_energien.p18 %}</p>
-            </br>
-            </br>
+            <br/>
             <p>{% t erneuerbare_energien.quelle.text %}</p>
             <p> 
                 <a target="_blank" href="{% t erneuerbare_energien.quelle.link %}"> {% t erneuerbare_energien.quelle.link_text %} </a>
@@ -101,7 +111,7 @@ breadcrumb:
         <p id="explanation-3">
           <sup>{% t erneuerbare_energien.sup3.title %}</sup>
          <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup2.text %}</a>
-         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/studie_mineralische_rohstoffe_2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup2.text2 %}</a>
+         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/studie_mineralische_rohstoffe_2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup3.text2 %}</a>
         </p>
         <p id="explanation-4">
           <sup>{% t erneuerbare_energien.sup4.title %}</sup>
