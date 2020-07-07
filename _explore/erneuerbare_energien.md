@@ -12,7 +12,6 @@ breadcrumb:
 
 <main class="container-page-wrapper layout-state-pages">
   <section class="container" style="position: relative;">
-
     {% include breadcrumb.html %}
     <h1 id="title">{% t erneuerbare_energien.title %}</h1>
     <div class="container-left-9">
@@ -110,12 +109,12 @@ breadcrumb:
         </p>
         <p id="explanation-3">
           <sup>{% t erneuerbare_energien.sup3.title %}</sup>
-         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup2.text %}</a>
+         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup3.text %}</a>
          <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/studie_mineralische_rohstoffe_2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup3.text2 %}</a>
         </p>
         <p id="explanation-4">
           <sup>{% t erneuerbare_energien.sup4.title %}</sup>
-         <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup2.text %}</a>
+         <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup4.text %}</a>
         </p>
       </section>
     </div>
