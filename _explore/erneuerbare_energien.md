@@ -65,6 +65,25 @@ breadcrumb:
         <p>{% t erneuerbare_energien.p12 %}</p>
         <p>{% t erneuerbare_energien.p13 %}</p>
         <p>{% t erneuerbare_energien.p14 %}</p>
+        <h2>{% t erneuerbare_energien.a %}</h2>
+        <p>{% t erneuerbare_energien.p15 %}</p>
+        <h3>{% t erneuerbare_energien.headline1 %}</h3>
+        <h3>{% t erneuerbare_energien.headline2 %}</h3>
+        <p>{% t erneuerbare_energien.p16 %}</p>
+        <div style="background-color:#E7E6E6;">
+            <h3>{% t erneuerbare_energien.headline3 %}</h3>
+            <p>{% t erneuerbare_energien.p17 %}</p>
+        </div>
+        <div style="background-color:#E7E6E6;">
+            <h3>{% t erneuerbare_energien.headline4 %}</h3>
+            <p>{% t erneuerbare_energien.p18 %}</p>
+            </br>
+            </br>
+            <p>{% t erneuerbare_energien.quelle.text %}</p>
+            <p> 
+                <a target="_blank" href="{% t erneuerbare_energien.quelle.link %}"> {% t erneuerbare_energien.quelle.link_text %} </a>
+            </p>
+        </div>
       </section>
       <section id="explanation" style="position: relative;">
         <p id="explanation-1">
@@ -79,7 +98,15 @@ breadcrumb:
           <sup>{% t erneuerbare_energien.sup2.title %}</sup>
          <a target="_blank" href="https://www.umweltbundesamt.de/publikationen/erneuerbare-energien-in-deutschland-2017">{% t erneuerbare_energien.sup2.text %}</a>
         </p>
-
+        <p id="explanation-3">
+          <sup>{% t erneuerbare_energien.sup3.title %}</sup>
+         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup2.text %}</a>
+         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/studie_mineralische_rohstoffe_2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup2.text2 %}</a>
+        </p>
+        <p id="explanation-4">
+          <sup>{% t erneuerbare_energien.sup4.title %}</sup>
+         <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup2.text %}</a>
+        </p>
       </section>
     </div>
 
