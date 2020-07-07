@@ -77,13 +77,22 @@ breadcrumb:
         <p>{% t erneuerbare_energien.p16 %}</p>
         <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline3 %}</h3>
-            <p>{% t erneuerbare_energien.p17 %}</p>
-            <sup class="padding-right">
-                <a href="#explanation-4">
-                  {% t erneuerbare_energien.sup4.title %}
-                </a>
-            </sup>
-            <p>{% t erneuerbare_energien.p17_1 %}</p>
+            <p>
+                {% t erneuerbare_energien.p17 %}
+                <sup class="padding-right">
+                    <a href="#explanation-4">
+                      {% t erneuerbare_energien.sup4.title %}
+                    </a>
+                </sup>
+            </p>
+            <p>{% t erneuerbare_energien.p17_1 %}
+                <sup class="padding-right">
+                    <a href="#explanation-5">
+                      {% t erneuerbare_energien.sup5.title %}
+                    </a>
+                </sup>
+               {% t erneuerbare_energien.p17_2 %}
+            </p>
         </div>
         <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline4 %}</h3>
@@ -117,6 +126,11 @@ breadcrumb:
           <sup>{% t erneuerbare_energien.sup4.title %}</sup>
          {% t erneuerbare_energien.sup4.text %} 
             <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup4.link_text %}</a>
+        </p>
+        <p id="explanation-5">
+          <sup>{% t erneuerbare_energien.sup5.title %}</sup>
+         {% t erneuerbare_energien.sup5.text %} 
+            <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup5.link_text %}</a>
         </p>
       </section>
     </div>
