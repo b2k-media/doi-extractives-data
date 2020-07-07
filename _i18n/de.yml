@@ -1655,17 +1655,17 @@ erneuerbare_energien:
 
   chart_src: "/img/erneuerbare_energien/chart.png"
   p1_1: Erneuerbare Energien
-  sup14:
-    title: "18"
-    text1: "Quelle für die im Bericht genannten Zahlen:"
-    link: "BMWi (2016): Erneuerbare Energien in Zahlen,"
-    text2: " AGEE-Stat (2016): Entwicklung der erneuerbaren Energien in Deutschland im Jahr 2016."
+  sup1:
+    title: "1"
+    text1: "Quelle für die im Bericht genannten Zahlen: "
+    link: "BMWi (2018): Erneuerbare Energien in Zahlen"
+    text2: ", AGEE-Stat (2018): Entwicklung der erneuerbaren Energien in Deutschland im Jahr 2017."
   p1_2: "leisten einen großen und wachsenden Anteil an der Energieversorgung Deutschlands. 2017 betrug der Anteil erneuerbarer Energien 13,1 % am gesamten Primärenergieverbrauch."
   source: "Quelle: Arbeitsgemeinschaft Energiebilanzen - 03/2017"
   p2_1: "Besonders groß ist der Anteil im Stromsektor, mehr als 36,2 % des Bruttostromverbrauchs werden durch erneuerbare Quellen gedeckt (über 217.900 GWh). Die Bundesregierung hat sich zum Ziel gesetzt, die Energieversorgung bis 2050 nahezu vollständig zu dekarbonisieren und so die Treibhausgasemissionen zu reduzieren. Im Jahr 2017 gingen in Deutschland mehr als 85 % der Treibhausgasemissionen (756 Mt CO2-Äquivalente) auf die Verbrennung fossiler Energien zurück"
-  sup15:
-    title: "19"
-    text: "BMWi Energiedaten vom 16.03.2017, Treibhausgas-Emissionen nach Gasen und Quellkategorien."
+  sup2:
+    title: "2"
+    text: "https://www.umweltbundesamt.de/publikationen/erneuerbare-energien-in-deutschland-2017"
   p2_2: "Derzeit werden fossil betriebene Kraftwerke neben den erneuerbaren Energien benötigt, um dem Energiebedarf in Deutschland gerecht zu werden."
   p3: "Die Technologien der erneuerbaren Energien benötigen beispielsweise Stahl, Zement oder petrochemische Rohstoffe wie folgendes Beispiel zeigt: Bauteile einer Windkraftanlage bestehen zu etwa 45 % aus Erdöl und Produkten der petrochemischen Industrie. Ein Flügel einer Windturbine, der bei großen Windrädern 30 bis 50 Meter lang sein kann, enthält bis zu 12.000 kg petrochemische Erzeugnisse."
   p4: ""

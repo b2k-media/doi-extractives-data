@@ -20,8 +20,8 @@ breadcrumb:
         <p>
           {% t erneuerbare_energien.p1_1 %}
           <sup class="padding-right">
-            <a href="#explanation-14">
-              {% t erneuerbare_energien.sup14.title %}
+            <a href="#explanation-1">
+              {% t erneuerbare_energien.sup1.title %}
             </a>
           </sup>
           {% t erneuerbare_energien.p1_2 %}
@@ -47,8 +47,8 @@ breadcrumb:
         <p>
           {% t erneuerbare_energien.p2_1 %}
           <sup>
-            <a href="#explanation-15">
-              {% t erneuerbare_energien.sup15.title %}
+            <a href="#explanation-2">
+              {% t erneuerbare_energien.sup2.title %}
             </a>
           </sup><span class="padding-right">.</span>
           {% t erneuerbare_energien.p2_2 %}
@@ -67,17 +67,17 @@ breadcrumb:
         <p>{% t erneuerbare_energien.p14 %}</p>
       </section>
       <section id="explanation" style="position: relative;">
-        <p id="explanation-14">
-          <sup>{% t erneuerbare_energien.sup14.title %}</sup>
-          {% t erneuerbare_energien.sup14.text1 %}
-          <a target="_blank" href="http://www.bmwi.de/Redaktion/DE/Publikationen/Energie/erneuerbare-energien-in-zahlen-2015-09.html">
-            {% t erneuerbare_energien.sup14.link %}
+        <p id="explanation-1">
+          <sup>{% t erneuerbare_energien.sup1.title %}</sup>
+          {% t erneuerbare_energien.sup1.text1 %}
+          <a target="_blank" href="https://www.bmwi.de/Redaktion/DE/Publikationen/Energie/erneuerbare-energien-in-zahlen-2017.pdf?__blob=publicationFile&v=27">
+            {% t erneuerbare_energien.sup1.link %}
           </a>
-          {% t erneuerbare_energien.sup14.text2 %}
+          {% t erneuerbare_energien.sup1.text2 %}
         </p>
-        <p id="explanation-15">
-          <sup>{% t erneuerbare_energien.sup15.title %}</sup>
-          {% t erneuerbare_energien.sup15.text %}
+        <p id="explanation-2">
+          <sup>{% t erneuerbare_energien.sup2.title %}</sup>
+         <a target="_blank" href="https://www.umweltbundesamt.de/publikationen/erneuerbare-energien-in-deutschland-2017">{% t erneuerbare_energien.sup2.text %}</a>
         </p>
 
       </section>
