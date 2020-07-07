@@ -123,11 +123,7 @@ breadcrumb:
       <h3 class="state-page-nav-title container">
         <div class="nav-title">{% t erneuerbare_energien.title %}</div>
       </h3>
-      <nav>
-        {% assign nav_items = site.translations[site.lang]['erneuerbare_energien'].nav_items %}
-        {% include case-studies/_nav-list.html nav_items=nav_items %}
-        {% include layout/share-buttons.html %}
-      </nav>
+     
     </div>
   </section>
 </main>
