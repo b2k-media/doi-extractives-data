@@ -1649,9 +1649,6 @@ subventionen-und-steuerliche-begünstigungen:
 
 erneuerbare_energien:
   title: Erneuerbare Energien
-  nav_items:
-    - name: title
-      title: Seitenanfang      
   chart_src: "/img/erneuerbare_energien/chart.png"
   p1_1: "Erneuerbare Energien"
   sup1:
