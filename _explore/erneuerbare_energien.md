@@ -84,8 +84,6 @@ breadcrumb:
                 </sup>
                {% t erneuerbare_energien.p17_2 %}
             </p>
-
-        <br/>
         <h3>{% t erneuerbare_energien.table.title %}</h3>
         <table class="table-1" style="border-color:#aaa!important">
             <tr style="border-color:#aaa!important">
@@ -144,8 +142,6 @@ breadcrumb:
             </tr>
         </table>
        <p class="source">{% t erneuerbare_energien.table.quelle %}</p>
-        <br/>
-
             <h3>{% t erneuerbare_energien.headline4 %}</h3>
             <p>{% t erneuerbare_energien.p18 %}</p>
             <br/>
