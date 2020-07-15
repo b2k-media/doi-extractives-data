@@ -87,11 +87,11 @@ breadcrumb:
 
         <br/>
         <h3>{% t erneuerbare_energien.table.title %}</h3>
-        <table style="border-color:#ccc!important">
-            <tr>
-                <td>{% t erneuerbare_energien.table.th1 %}</td>
-                <td>{% t erneuerbare_energien.table.th2 %}</td>
-                <td>{% t erneuerbare_energien.table.th3 %}</td>
+        <table class="table-1" style="border-color:#ccc!important">
+            <tr style="border-color:#ccc!important">
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.th1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.th2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.th3 %}</td>
                 <td>{% t erneuerbare_energien.table.th4 %}</td>
             </tr>
             <tr>
