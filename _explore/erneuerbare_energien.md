@@ -71,11 +71,7 @@ breadcrumb:
             <h3>{% t erneuerbare_energien.headline3 %}</h3>
             <p>
                 {% t erneuerbare_energien.p17 %}
-                <sup class="padding-right">
-                    <a href="#explanation-3">
-                      {% t erneuerbare_energien.sup3.title %}
-                    </a>
-                </sup>
+                <sup class="padding-right"><a href="#explanation-3">{% t erneuerbare_energien.sup3.title %}</a></sup>{% t point %}
                 {% t erneuerbare_energien.p17_1 %}
                 <sup class="padding-right">
                     <a href="#explanation-5">
