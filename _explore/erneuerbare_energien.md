@@ -62,14 +62,10 @@ breadcrumb:
         <p>{% t erneuerbare_energien.p14 %}</p>
         <h2 id="rohstoffbedarf">{% t erneuerbare_energien.a %}</h2>
         <p>{% t erneuerbare_energien.p15 %}</p>
-        <h3>{% t erneuerbare_energien.headline1 %}</h3>
-        <h3>{% t erneuerbare_energien.headline2 %}
-            <sup class="padding-right">
-                <a href="#explanation-3">
-                  {% t erneuerbare_energien.sup3.title %}
-                </a>
-            </sup>
-          </h3>
+        <h5><a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile">
+        {% t erneuerbare_energien.headline1 %}</a></h5>
+        <h5><a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/studie_mineralische_rohstoffe_2017.pdf?__blob=publicationFile">
+        {% t erneuerbare_energien.headline2 %}</a</h5>
         <p>{% t erneuerbare_energien.p16 %}</p>
         <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline3 %}</h3>
@@ -88,7 +84,7 @@ breadcrumb:
                 </sup>
                {% t erneuerbare_energien.p17_2 %}
             </p>
-        </div>
+        
         <br/>
         <h3>{% t erneuerbare_energien.table.title %}</h3>
         <table>
@@ -149,7 +145,7 @@ breadcrumb:
         </table>
        <p class="source">{% t erneuerbare_energien.table.quelle %}</p>
         <br/>
-        <div style="background-color:#E7E6E6; padding: 15px;">
+
             <h3>{% t erneuerbare_energien.headline4 %}</h3>
             <p>{% t erneuerbare_energien.p18 %}</p>
             <br/>
@@ -175,18 +171,13 @@ breadcrumb:
         </p>
         <p id="explanation-3">
           <sup>{% t erneuerbare_energien.sup3.title %}</sup>
-         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup3.text %}</a>
-         <a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/studie_mineralische_rohstoffe_2017.pdf?__blob=publicationFile">{% t erneuerbare_energien.sup3.text2 %}</a>
+         {% t erneuerbare_energien.sup3.text %}
+            <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup3.link_text %}</a>
         </p>
         <p id="explanation-4">
           <sup>{% t erneuerbare_energien.sup4.title %}</sup>
          {% t erneuerbare_energien.sup4.text %}
             <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup4.link_text %}</a>
-        </p>
-        <p id="explanation-5">
-          <sup>{% t erneuerbare_energien.sup5.title %}</sup>
-         {% t erneuerbare_energien.sup5.text %}
-            <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup5.link_text %}</a>
         </p>
       </section>
     </div>
