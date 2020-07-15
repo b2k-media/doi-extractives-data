@@ -82,8 +82,8 @@ breadcrumb:
           </tr>
           <tr>
             <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p1 %}<sup id="sup-1">{% t offentliche-berichte.gemeinsamkeiten.table.row2.sup1.title  %}</sup></td>
-            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p2 %}</td>
-            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p3 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p2 %}<br/>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p2_1 %}</td>
+            <td>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p3 %}<br/>{% t offentliche-berichte.gemeinsamkeiten.table.row2.p3_1 %}</td>
           </tr>
           <tr>
             <td>{% t offentliche-berichte.gemeinsamkeiten.table.row3.p1 %}</td>
@@ -102,7 +102,7 @@ breadcrumb:
           </tr>
           </tbody>
         </table>
-          
+
         </section>
         <p style="font-size: 0.75rem" >
             <sup id="sup-1">{% t offentliche-berichte.gemeinsamkeiten.table.row2.sup1.title %}</sup>

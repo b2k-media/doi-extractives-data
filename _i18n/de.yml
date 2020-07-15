@@ -871,8 +871,10 @@ offentliche-berichte:
         sup1:
             title: "*"
             text: "Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei genannten Kriterien überschreiten (§ 267 Abs. 3 S. 1, Abs. 4 S. 1 HGB)."
-        p2: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio. &lt;br&gt;€ 250 Beschäftigte"
-        p3: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio.&lt;br&gt; € 250 Beschäftigte"
+        p2: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio. "
+        p2_1: "€ 250 Beschäftigte"
+        p3: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio."
+        p3_1: "€ 250 Beschäftigte"
      row3:
         p1: "Überblick über die Funktionsweisen des Rohstoffsektors"
         p2: "Über Kontextbericht"
