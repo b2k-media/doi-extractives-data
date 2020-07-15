@@ -87,7 +87,7 @@ breadcrumb:
 
         <br/>
         <h3>{% t erneuerbare_energien.table.title %}</h3>
-        <table>
+        <table style="border-color:#ccc!important">
             <tr>
                 <td>{% t erneuerbare_energien.table.th1 %}</td>
                 <td>{% t erneuerbare_energien.table.th2 %}</td>
