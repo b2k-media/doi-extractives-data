@@ -45,11 +45,7 @@ breadcrumb:
         <p class="source">{% t erneuerbare_energien.source %}</p>
         <p>
           {% t erneuerbare_energien.p2_1 %}
-          <sup>
-            <a href="#explanation-2">
-              {% t erneuerbare_energien.sup2.title %}
-            </a>
-          </sup>{% t point %}
+          <sup><a href="#explanation-2">{% t erneuerbare_energien.sup2.title %}</a></sup>{% t point %}
           {% t erneuerbare_energien.p2_2 %}
         </p>
         <p>{% t erneuerbare_energien.p3 %}</p>
