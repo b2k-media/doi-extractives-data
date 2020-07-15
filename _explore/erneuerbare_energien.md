@@ -87,60 +87,60 @@ breadcrumb:
 
         <br/>
         <h3>{% t erneuerbare_energien.table.title %}</h3>
-        <table class="table-1" style="border-color:#ccc!important">
-            <tr style="border-color:#ccc!important">
+        <table class="table-1" style="border-color:#aaa!important">
+            <tr style="border-color:#aaa!important">
                 <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.th1 %}</td>
                 <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.th2 %}</td>
                 <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.th3 %}</td>
-                <td>{% t erneuerbare_energien.table.th4 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.th4 %}</td>
+            </tr>
+            <tr style="border-color:#ccc!important">
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row1.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row1.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row1.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row1.td4 %}</td>
+            </tr>
+            <tr style="border-color:#ccc!important">
+                <td  style="border-color:#ccc!important">{% t erneuerbare_energien.table.row2.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row2.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row2.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row2.td4 %}</td>
+            </tr>
+            <tr style="border-color:#ccc!important">
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row3.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row3.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row3.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row3.td4 %}</td>
+            </tr>
+            <tr style="border-color:#ccc!important">
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row4.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row4.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row4.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row4.td4 %}</td>
+            </tr>
+            <tr style="border-color:#ccc!important">
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row5.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row5.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row5.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row5.td4 %}</td>
             </tr>
             <tr>
-                <td>{% t erneuerbare_energien.table.row1.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row1.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row1.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row1.td4 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row6.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row6.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row6.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row6.td4 %}</td>
             </tr>
-            <tr>
-                <td>{% t erneuerbare_energien.table.row2.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row2.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row2.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row2.td4 %}</td>
+            <tr style="border-color:#ccc!important">
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row7.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row7.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row7.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row7.td4 %}</td>
             </tr>
-            <tr>
-                <td>{% t erneuerbare_energien.table.row3.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row3.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row3.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row3.td4 %}</td>
-            </tr>
-            <tr>
-                <td>{% t erneuerbare_energien.table.row4.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row4.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row4.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row4.td4 %}</td>
-            </tr>
-            <tr>
-                <td>{% t erneuerbare_energien.table.row5.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row5.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row5.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row5.td4 %}</td>
-            </tr>
-            <tr>
-                <td>{% t erneuerbare_energien.table.row6.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row6.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row6.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row6.td4 %}</td>
-            </tr>
-            <tr>
-                <td>{% t erneuerbare_energien.table.row7.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row7.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row7.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row7.td4 %}</td>
-            </tr>
-            <tr>
-                <td>{% t erneuerbare_energien.table.row8.td1 %}</td>
-                <td>{% t erneuerbare_energien.table.row8.td2 %}</td>
-                <td>{% t erneuerbare_energien.table.row8.td3 %}</td>
-                <td>{% t erneuerbare_energien.table.row8.td4 %}</td>
+            <tr style="border-color:#ccc!important">
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row8.td1 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row8.td2 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row8.td3 %}</td>
+                <td style="border-color:#ccc!important">{% t erneuerbare_energien.table.row8.td4 %}</td>
             </tr>
         </table>
        <p class="source">{% t erneuerbare_energien.table.quelle %}</p>
