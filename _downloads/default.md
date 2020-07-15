@@ -8,11 +8,11 @@ permalink: /downloads/
     <h1 id="title">{% t downloads.title %}</h1>
     <p>{% t downloads.p0 %}
         <a href="{% t downloads.link0_src %}">
-              {% t downloads.link0 %}</a> 
+              {% t downloads.link0 %}</a>
         {% t downloads.p0_1 %}
         <a href="{% t downloads.link0_2_src %}">
               {% t downloads.link0_2 %}</a>
-        {% t point %} 
+        {% t point %}
     </p>
     <div id="federal_production">
       <h2 id="production-title-1">{% t downloads.h1 %}</h2>
@@ -126,9 +126,8 @@ permalink: /downloads/
       <a target="_blank" href="https://erhebungsportal.estatistik.de/Erhebungsportal">
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
       </a>
-      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3_1 %} 
-      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3 %}
-      <a target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html">
+      {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3_1 %}
+      <a style="word-wrap: break-word;" target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html">
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
       </a>      
       <br/><br/>
@@ -254,7 +253,7 @@ permalink: /downloads/
           <icon class="icon-cloud icon-padded"></icon>
           {% t downloads.uebersicht_neuerteilungen_text %}
         </a>
-      </li> 
+      </li>
         <li>
           <a href="{{site.baseurl_root}}{% t downloads.uebersicht_bergbau_XLS %}">
             <icon class="icon-cloud icon-padded"></icon>        

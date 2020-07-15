@@ -2173,9 +2173,9 @@ gesamtdeutsche_rohstoffproduktion:
     p2: "Quellenverzeichnis"
     p3_1: "[AGEB 2018]: - AG Energiebilanzen e.V. (2018): „Energieverbrauch in Deutschland im Jahr 2017. “"
     p3_2: "[BGR 2018] – Bundesanstalt für Geowissenschaften und Rohstoffe (2018): „Deutschland – Rohstoffsituation 2017“"
-    p3_3: "[Destatis] – Statistisches Bundesamt (versch. Jg. a): Erhebungsportal. – URL: "
+    p3_3: "[Destatis] – Statistisches Bundesamt (versch. Jg. a): Erhebungsportal.    – URL: "
     link1: "https://erhebungsportal.estatistik.de/Erhebungsportal"
-    p3_3_1: " sowie (versch. Jg. b): Produzierendes Gewerbe. – URL : "
+    p3_3_1: sowie (versch. Jg. b): Produzierendes Gewerbe. – <br/>URL :
     link2: "https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html"
     p3_4: "[IM 2017] – Industrial Materials (2017): IM Price Database"
     p3_5: "[LBEG 2018] –Landesamt für Bergbau, Energie und Geologie (2018): Erdöl und Erdgas in der Bundesrepublik Deutschland 2017"
@@ -4336,7 +4336,7 @@ downloads:
     title: Daten zu Staatseinnahmen durch Steuern
     p1: Die in der Tabelle dargestellten Steuerbeträge basieren auf Sonderauswertungen der Körperschaftsteuerstatistiken 2010 – 2014, der Gewerbesteuerstatistiken 2010 und 2014 und der Statistiken über die Personengesellschaften und Gemeinschaften 2010 – 2012 und 2014 sowie Schätzungen und Fortschreibungen des Bundesministeriums der Finanzen.
     p2: Betrachtet wurde jeweils nur der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“. Er umfasst die Gewinnung natürlich vorkommender fester (wie Kohle, Salz und Erze), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe. Eine detaillierte Auflistung findet sich in der „Klassifikation der Wirtschaftszweige“ des statistischen Bundesamts auf den Seiten 175-185.
-    p3: "Da die aktuellsten statistischen Daten das Jahre 2014 betreffen, wurden die Folgejahre bis 2017 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.)."
+    p3: "Da die aktuellsten statistischen Daten das Jahr 2014 betreffen, wurden die Folgejahre bis 2017 fortgeschrieben. Für die Fortschreibung wurde die Änderungsrate der Bruttowertschöpfung des Wirtschaftszweigs B „Bergbau und Gewinnung von Steinen und Erden“ laut den Volkswirtschaftlichen Gesamtrechnungen herangezogen (Quelle: VGR - Wichtige Zusammenhänge im Überblick Seite 20 f.)."
     p4: Die für den rohstoffgewinnenden Sektor ausgewiesenen Steuerbeträge sind Beträge, die für das jeweils angegebene Jahr von den Unternehmen zu zahlen waren (sog. Veranlagungsjahr). Der statistische Zeitrahmen unterscheidet sich damit von dem für die Gesamteinnahmen des Staates, die im Jahr des Zuflusses verbucht werden (Kassenjahr).
     p5: "Die angegebenen Gesamteinnahmen des Staates sind der Kassenstatistik des Bundes (Öffentlicher Gesamthaushalt – ÖGH) entnommen. Die Gesamteinnahmen des Staates umfassen neben den Steuereinnahmen des Staates auch Einnahmen aus Sozialversicherungsbeiträgen, Veräußerungserlösen oder Vermögensanlagen (Staatsanleihen) sowie ferner auch Gebühren, Verwaltungseinnahmen oder etwa Gewinne aus Staatsunternehmen. Detaillierte Erläuterungen bzw. Definitionen zum Öffentlichen Gesamthaushalt (ÖGH) sind auf der Website des Statistischen Bundesamtes abrufbar:"
     link: "https://www.destatis.de/DE/Themen/Staat/Oeffentliche-Finanzen/fachbegriffe-finanz-personalstatistiken-pdf.pdf?__blob=publicationFile"
@@ -4345,7 +4345,7 @@ downloads:
     p1_1: "Die Einnahmen der Bundesländer aus Förderabgaben werden von den Ländern dem BMF für Zwecke des Länderfinanzausgleichs im Rahmen der monatlichen
     Berichterstattung zu den Steuereinnahmen zur Verfügung gestellt. Sie werden in den Abrechnungen des Länderfinanzausgleichs auf der Internetseite des
     BMF veröffentlicht."
-    p1_2: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2016 liegen nur von drei Bundesländern einzeln aufgeführte Einnahmen aus den Feldesabgaben vor:"
+    p1_2: "Die Feldeseinnahmen werden nur vereinzelt in den Haushalten der Bundesländer veröffentlicht. Eine gesammelte Übersicht der Feldesabgaben liegt nicht vor. Die meisten Bundesländer veröffentlichen Feldes- und Fördereinnahmen akkumuliert in den Landeshaushalten. Für 2016 bis 2019 liegen nur von drei Bundesländern einzeln aufgeführte Einnahmen aus den Feldesabgaben vor:"
     link1: "Bayern, "
     link1_data: "https://www.stmflh.bayern.de/haushalt/staatshaushalt_2017/haushaltsplan/Haushaltsgesetz.pdf"
     link2: Brandenburg,
@@ -4368,7 +4368,7 @@ downloads:
     title: "Daten zum Zahlungsabgleich"
     p1_1: "Die Informationen zum Zahlungsabgleich finden Sie in dieser"
     link1: "Excel-Datei."
-    p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den ersten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
+    p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den zweiten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
     link2: "pdf"
     p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
   daten-zum-deiti-bericht:
