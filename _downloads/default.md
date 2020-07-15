@@ -169,11 +169,10 @@ permalink: /downloads/
       <hr/>
       <p>
         {% t downloads.p5.p1 %}
-        <a target="_blank"
- href="https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-vgr.pdf?__blob=publicationFile">
+        <a target="_blank" href="https://www.destatis.de/DE/Themen/Querschnitt/Jahrbuch/jb-vgr.pdf?__blob=publicationFile">
             {% t downloads.p5.p1_linktext %}
           </a>
-        {% t downloads.p5.p1_1 %}</br>
+        {% t downloads.p5.p1_1 %}<br/>
         {% t downloads.p5.p1_2 %}
         {% t downloads.p5.p2 %}
         {% t downloads.p5.p3 %}
