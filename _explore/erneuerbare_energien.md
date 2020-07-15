@@ -170,11 +170,6 @@ breadcrumb:
          {% t erneuerbare_energien.sup3.text %}
             <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup3.link_text %}</a>
         </p>
-        <p id="explanation-4">
-          <sup>{% t erneuerbare_energien.sup4.title %}</sup>
-         {% t erneuerbare_energien.sup4.text %}
-            <a target="_blank" href="https://www.netzentwicklungsplan.de/de/netzentwicklungsplaene/netzentwicklungsplan-2030-2019">{% t erneuerbare_energien.sup4.link_text %}</a>
-        </p>
       </section>
     </div>
 
