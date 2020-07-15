@@ -301,7 +301,7 @@ rechtlicher-rahmen:
       link: Regierungspräs. Freiburg,<br/> Landesamt für Geologie,<br/> Rohstoffe und Bergbau
     bayern:
       title: Bayern
-      descr: Staatsmin. für Wirtschaft,<br/>Landesentwicklung und Energie. 
+      descr: Staatsmin. für Wirtschaft,<br/>Landesentwicklung und Energie.
 
       link1: Regierung von Oberbayern, <br /> Bergamt Südbayern
       link2: Regierung von Oberfranken, <br /> Bergamt Nordbayern
@@ -355,7 +355,7 @@ rechtlicher-rahmen:
       link: Landesamt für Geologie<br/> und Bergwesen
     schleswig-holstein:
       title: Schleswig-Holstein
-      descr: Min. für Energiewende, Landwirtschaft <br/>Umwelt, Natur und Digitalisierung 
+      descr: Min. für Energiewende, Landwirtschaft <br/>Umwelt, Natur und Digitalisierung
       link: Landesamt für Bergbau, Energie und Geologie
     thuringen:
       title: Thüringen
@@ -727,8 +727,8 @@ wirtschaftlich_berechtigter:
   einsichtNeu:
     title: "Erweiterung der Einsichtnahmemöglichkeit in das Transparenzregister"
     p1_1: "Mit der am 9. Juli 2018 in Kraft getretenen Änderungsrichtlinie zur 4. Geldwäscherichtlinie (EU) 2018/843 vom 30. Mai 2018"
-    p1_2: ", deren Regelungen zum Großteil von den Mitgliedsstaaten bis 10. Januar 2020 umzusetzen sind, muss der Zugang zum Register künftig öffentlich ausgestaltet werden, d. h. der bisher gestaffelt geregelte Zugang mit Nachweis eines berechtigten Interesses an der Einsichtnahme entfällt. Nur für bestimmte Trusts"
-    p1_3: "&nbsp;gibt es die Ausnahme, dass ein gestaffelter Zugang gilt (wobei es den Mitgliedstaaten offen steht, auch hier weiter zu gehen). Bestehen bleibt auch die nach der aktuellen Rechtsgestaltung bereits vorgesehene Möglichkeit, dass wirtschaftlich Berechtigte die Einsichtnahmemöglichkeit in das Transparenzregister beschränken können, wenn sie darlegen, Opfer bestimmter Straftaten (z.B. Erpressung) zu werden drohen. Deutschland wird die EU-rechtlichen Vorgaben fristgerecht in nationales Recht umsetzen und das Bundeskabinett hat am 31. Juli 2019 den Regierungsentwurf für eine entsprechende Anpassung des Rechtsrahmens beschlossen."
+    p1_2: ", deren Regelungen zum Großteil von den Mitgliedsstaaten bis 10. Januar 2020 umzusetzen sind, muss der Zugang zum Register künftig öffentlich ausgestaltet werden, d. h. der bisher gestaffelt geregelte Zugang mit Nachweis eines berechtigten Interesses an der Einsichtnahme entfällt. "
+    p1_3: "Bestehen bleibt auch die nach der aktuellen Rechtsgestaltung bereits vorgesehene Möglichkeit, dass wirtschaftlich Berechtigte die Einsichtnahmemöglichkeit in das Transparenzregister beschränken können, wenn sie darlegen, Opfer bestimmter Straftaten (z.B. Erpressung) zu werden drohen. Deutschland wird die EU-rechtlichen Vorgaben fristgerecht in nationales Recht umsetzen und das Bundeskabinett hat am 31. Juli 2019 den Regierungsentwurf für eine entsprechende Anpassung des Rechtsrahmens beschlossen."
 
 erweiterung-einsichtnahme:
     title: "Erweiterung der Einsichtnahmemöglichkeit im Zuge der Novellierung der Vierten Geldwäscherichtlinie (EU) 2015/849"
@@ -868,7 +868,7 @@ offentliche-berichte:
         p3: "100.000 € pro Zahlung"
      row2:
         p1: "Kriterien zur Größe von Unternehmen"
-        sup1: 
+        sup1:
             title: "*"
             text: "Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei genannten Kriterien überschreiten (§ 267 Abs. 3 S. 1, Abs. 4 S. 1 HGB)."
         p2: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio. € 250 Beschäftigte"
@@ -1651,7 +1651,9 @@ erneuerbare_energien:
   title: Erneuerbare Energien
   nav_items:
     - name: title
-      title: Seitenanfang      
+      title: Seitenanfang
+    - name: rohstoffbedarf
+      title: Rohstoffbedarf im Bereich der erneuerbaren Energien
   chart_src: "/img/erneuerbare_energien/chart.png"
   p1_1: "Erneuerbare Energien"
   sup1:
@@ -1678,10 +1680,10 @@ erneuerbare_energien:
   p12: "Im Verkehrssektor kann Biomasse CO2-Emissionen mindern, insbesondere in Form von Biokraftstoffen wie Bioethanol, Biodiesel oder Biogas für Autos, Lastwagen, Züge, Schiffe und Flugzeuge. Auch Elektrofahrzeuge stellen eine Möglichkeit dar, CO2-Emissionen zu mindern. Im Jahr 2017 stellten die erneuerbaren Energien 5,2 % des Kraftstoffverbrauchs in Deutschland."
   p13: "Durch den flexiblen Einsatz sowohl im Strom-, Wärme- als auch im Verkehrssektor ist die Biomasse damit insgesamt der bedeutendste erneuerbare Energieträger. 54 % der gesamten Endenergie aus erneuerbaren Energiequellen wurde 2017 durch die verschiedenen energetisch genutzten Biomassen bereitgestellt."
   p14: "Der Ausbau erneuerbarer Energien trägt zur Vermeidung von Treibhausgasemissionen bei und reduziert die Verwendung fossiler, überwiegend importierter Energieträger. Trotz des Ausbaus der erneuerbaren Energien werden derzeit aber weiterhin konventionelle Kraftwerke benötigt. Da in Deutschland fossile Energieträger wie Mineralöl, Erdgas und Steinkohle zu einem hohen Anteil eingeführt werden, führen Einsparungen in diesem Bereich auch zu einer Senkung der deutschen Energieimporte: Erneuerbare Energien wie auch die Stromerzeugung auf Basis eigener Energierohstoffe können diese Importabhängigkeiten deutlich reduzieren und somit die Energiesicherheit erhöhen."
-  a: "a. Rohstoffbedarf im Bereich der erneuerbaren Energien"
-  p15: "Die MSG hat sich zum Ziel gesetzt, für den zweiten D-EITI-Bericht die Auswirkungen der erneuerbaren Energien auf die zukünftigen Rohstoffbedarfe sowie die damit inhergehenden sozioökonomischen Implikationen näher zu beleuchten. Mit der Umsetzung dieser Aufgabe wurde als externer Dienstleister das Prognos Institut beauftragt, das als Ergebnis die Studie „Rohstoffbedarf im Bereich der erneuerbaren Energien“ (2019) erstellt und der MSG vorgelegt hat. Die vollständige Studie steht über https://d-eiti.de/wp content/uploads/2020/02/Rohstoffbedarf-im-Bereich-der-erneuerbaren-Energien.Langfassung.pdf zur Verfügung. Die Studie hat sich nicht mit der Frage befasst, in welchem Ausmaß der zukünftige Bedarf an Basis- und Technologiemetallen für EE-Anlagen durch den Rohstoffabbau in Deutschland gedeckt werden kann. Informationen zu Vorkommen und Förderung dieser Rohstoffe in Deutschland finden sich in den Berichten der BGR:"
+  a: "Rohstoffbedarf im Bereich der erneuerbaren Energien"
+  p15: "Die MSG hat sich zum Ziel gesetzt, für den zweiten D-EITI-Bericht die Auswirkungen der erneuerbaren Energien auf die zukünftigen Rohstoffbedarfe sowie die damit inhergehenden sozioökonomischen Implikationen näher zu beleuchten. Mit der Umsetzung dieser Aufgabe wurde als externer Dienstleister das Prognos Institut beauftragt, das als Ergebnis die Studie „Rohstoffbedarf im Bereich der erneuerbaren Energien“ (2019) erstellt und der MSG vorgelegt hat. Die vollständige Studie steht über https://d-eiti.de/wp-content/uploads/2020/02/Rohstoffbedarf-im-Bereich-der-erneuerbaren-Energien.Langfassung.pdf zur Verfügung. Die Studie hat sich nicht mit der Frage befasst, in welchem Ausmaß der zukünftige Bedarf an Basis- und Technologiemetallen für EE-Anlagen durch den Rohstoffabbau in Deutschland gedeckt werden kann. Informationen zu Vorkommen und Förderung dieser Rohstoffe in Deutschland finden sich in den Berichten der BGR:"
   headline1: "BGR (2018): „Deutschland – Rohstoffsituation 2017“"
-  headline2: "BGR (2017): „Heimische mineralische Rohstoffe –Unverzichtbar für Deutschland!“" 
+  headline2: "BGR (2017): „Heimische mineralische Rohstoffe –Unverzichtbar für Deutschland!“"
   sup3:
     title: "3"
     text: "https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile"
@@ -1750,7 +1752,7 @@ erneuerbare_energien:
     quelle: "Quelle: eigene Berechnungen nach (OEKO 2019) und (OEKO/IZT 2019)"
   headline4: "Sozioökonomische Bedeutung der erneuerbaren Energien"
   p18: "Um die Energiewende anzustoßen, wurde bereits 1990 mit dem Stromeinspeisungsgesetz ein Fördermechanismus eingeführt, das Energieversorgungsunternehmen in Deutschland erstmals verpflichtet, elektrische Energie aus regenerativen Prozessen (Wind- und Wasserkraft sowie Solarenergie und Biomasse) abzunehmen und zu vergüten. Heute wird die Nutzung erneuerbarer Energien in Deutschland maßgeblich durch das Erneuerbare-Energien-Gesetz (EEG) finanziell gefördert. Das EEG konzipiert eine Umlage, die auf den Stromverbrauch (mit Ausnahmen für energieintensive gewerbliche Verbraucher) zusätzlichzum Strompreis erhoben wird. Für 2019 beträgt die EEG-Umlage 6,4 ct/kWh. Der voraussichtliche Umlagebetrag für 2019 beläuft sich auf 23 Milliarden Euro. Die Zahl der Erwerbstätigen im Leitmarkt „Umweltfreundliche Energieerzeugung, -transport und -speicherung“ belief sich im Jahr 2018 auf 284.000 Personen. Die Zahl der direkten sowie der induzierten Beschäftigung unterliegt Schwankungen und lag 2016 bei 338.500 Personen. Schwankungen in der Beschäftigung lassen sich unter anderem auf Schwankungen bei der Produktion von erneuerbaren Energieanlagen und Schwankungen bei der Anzahl der in Deutschland installierten Anlagen zurückführen. Ein ausgewiesenes Ziel der Bundesregierung ist die Erhöhung des Anteils des Bruttostromverbrauchs aus erneuerbaren Energiequellen auf 65 %. Derzeit liegt der Anteil der erneuerbaren Energien am Bruttostromverbrauch bei ca. 38 %. Um den angestrebten Anteil zu erreichen, muss die installierte Leistung von 2018 bis 2030 entsprechend ausgebaut werden. Diesen Ausbauzielen stehen zahlreiche Herausforderungen in der Erschließung von erneuerbaren Ressourcen gegenüber. Herausforderungen bestehen insbesondere in Bezug auf die Ausweisung von Eignungsgebieten sowie die gesellschaftliche Akzeptanzsicherung. Anhand einer regionalen Betrachtung veranschaulicht das Gutachten sodann die sozioökonomische Bedeutung der erneuerbaren Energien mit besonderer Berücksichtigung der unterschiedlichen Nutzungspotenziale der Energiequellen bzw. der zum Einsatz kommenden Technologien. Hierzu vorgestellt werden eine Norddeutsche Region (bestehend aus den Bundesländern Schleswig-Holstein, Mecklenburg-Vorpommern und Niedersachsen) mit Fokus auf Windenergie, eine Mitteldeutsche Region (Hessen, Sachsen-Anhalt und Thüringen) mit Bioenergienutzung sowie eine Süd-Ostdeutsche Region (Baden-Württemberg, Bayern und Brandenburg), wo eine ausgewiesene Solarenergienutzung stattfindet. In der norddeutschen Windregion waren im Jahr 2017 8.100 Unternehmen und 50.000 Erwerbstätige im Bereich der erneuerbaren Energien tätig. Die Bruttowertschöpfung lag 2018 bei etwa 5 Milliarden Euro. Im Bereich der Windenergie waren 2018 ca. 4.000 Unternehmen und rund 17.900 Erwerbstätige tätig, was etwa einer Verdoppelung gegenüber 2010 entspricht. Trotz des bisher starken Wachstums ist im Hinblick auf die weitere Entwicklung mit Schwankungen zu rechnen. So sind bei einem geringen Ausbau von Windkraftanlagen auch Beschäftigungseinbrüche zu erwarten. In der mitteldeutschen Bioenergieregion waren 2017 5.900 Unternehmen und etwa 37.000 Erwerbstätige im Bereich der erneuerbaren Energien tätig. Die Bruttowertschöpfung lag 2018 bei etwa 4,5 Milliarden Euro. Im Bereich der Bioenergie waren 2018 etwa 2.000 Unternehmen mit rund 7.600 Erwerbstätigen aktiv, was einem leichten Anstieg gegenüber den 5.100 Erwerbstätigen der Branche im Jahre 2010 entspricht. Der größte Unternehmenszuwachs vollzog sich in den Bereichen Betrieb und Wartung. In der südostdeutschen Solarregion waren 2017 16.700 Unternehmen und knapp 100.000 Erwerbstätige im Bereich der Erneuerbaren Energien tätig. Die Bruttowertschöpfung lag 2018 bei etwa 11 Milliarden Euro. Im Bereich der Solarenergie waren 2018 etwa 5.500 Unternehmen mit rund 20.100 Erwerbstätigen aktiv, was weniger als der Hälfte der 2010 aktiven Erwerbstätigen in der Branche entspricht. Zu den Gründen rückläufiger Beschäftigung und Wertschöpfung zählt die Verlagerung der Anlagenproduktion in das Ausland sowie eine abnehmende Installation neuer Anlagen gegenüber den hohen Installationszahlen während der Jahre 2010 bis 2012. Der Ausbau erneuerbarer Energien sieht sich auch Herausforderungen gegenüber. Dazu gehören Fragen der Volatilität und Versorgungssicherheit ebenso wie die gesellschaftliche Akzeptanz des Ausbaus. Während der Ausbau mehrheitlich grundsätzlich befürwortet wird, variiert diese Befürwortung je nach Art der Technologie und scheint abhängig vom Grad der unmittelbaren Betroffenheit zu sinken. Auch Fragen des Natur- und Artenschutzes sowie Lärm- und Geruchsemissionen führen zu Akzeptanzproblemen.“"
-  quelle: 
+  quelle:
     text: "Quelle: Prognos (2019): Rohstoffbedarf im Bereich der erneuerbaren Energien, im Auftrag des Bundesministeriums für Wirtschaft und Energie"
     link_text: "Download pdf Version"
     link: "https://d-eiti.de/wp-content/uploads/2020/02/Rohstoffbedarf-im-Bereich-der-erneuerbaren-Energien.Langfassung.pdf"
@@ -2151,9 +2153,9 @@ gesamtdeutsche_rohstoffproduktion:
     p: 2017 wurde in der Bundesrepublik in neun Bundesländern Erdgas (einschl. Erdölgas) in Höhe von 7,9 Mio. m³ gefördert. Wie bei Erdöl, hat die BGR aus den durchschnittlichen Grenzübergangspreisen für das Jahr 2017 den Wert der Erdgasproduktion auf 1.425 Mio. Euro abgeschätzt.
   kalisalz:
     title: Kalisalz
-    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2017 bei rund 6,7 Mio. t in Form von Kali- und Kalisalzprodukten 
+    p1_1: In Deutschland werden durch zwei Unternehmen Kali- und Magnesiumsalze gewonnen. Die verwertbare Förderung lag im Jahr 2017 bei rund 6,7 Mio. t in Form von Kali- und Kalisalzprodukten
     link1: (BGR2018).
-    p1_2: Der Wert der Kali- und Kalisalzprodukte betrug nach der Berechnung der BGR etwa 1.726 Mio. Euro. 
+    p1_2: Der Wert der Kali- und Kalisalzprodukte betrug nach der Berechnung der BGR etwa 1.726 Mio. Euro.
   spezialton:
     title: Spezialton
     p: Nach Angaben der deutschen Bergbehörden wurden im Jahr 2017 in Deutschland rund 6 Mio. t verwertbarer Menge an Spezialton gefördert. Dabei handelt es sich um hochwertigen Ton für die keramische Industrie und Feuerfesttone. Nach Angaben des Statistischen Bundesamtes hat die BGR den Wert dieser Menge auf 141 Mio. Euro berechnet.
@@ -2180,7 +2182,7 @@ gesamtdeutsche_rohstoffproduktion:
     p3_2: "[BGR 2018] – Bundesanstalt für Geowissenschaften und Rohstoffe (2018): „Deutschland – Rohstoffsituation 2017“"
     p3_3: "[Destatis] – Statistisches Bundesamt (versch. Jg. a): Erhebungsportal. – URL: </br>"
     link1: "https://erhebungsportal.estatistik.de/Erhebungsportal"
-    p3_3_1: " sowie (versch. Jg. b): Produzierendes Gewerbe. – URL : </br>" 
+    p3_3_1: " sowie (versch. Jg. b): Produzierendes Gewerbe. – URL : </br>"
     link2: "https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html"
     p3_4: "[IM 2017] – Industrial Materials (2017): IM Price Database"
     p3_5: "[LBEG 2018] –Landesamt für Bergbau, Energie und Geologie (2018): Erdöl und Erdgas in der Bundesrepublik Deutschland 2017"
@@ -4285,12 +4287,12 @@ downloads:
   uebersicht_zahlungsberichte_XLSX: "/downloads/Uebersicht_gesetzliche_Zahlungsberichte_fuer_2016-2018.xlsx"
 
   h1: Daten zur interaktiven Rohstoffkarte
-  p0: "Alle zur Verfügung gestellten Informationen und Daten basieren auf dem" 
+  p0: "Alle zur Verfügung gestellten Informationen und Daten basieren auf dem"
   link0: "D-EITI Bericht für 2017 (Dez. 2019)"
   link0_src: "https://d-eiti.de/wp-content/uploads/2019/12/2.-D-EITI-Bericht.pdf"
   p0_1: ". Der Berichtszeitraum ist das Jahr 2017. Zusätzlich zu den Daten des Berichtsjahres werden im Downloads-Bereich Daten anderer Jahre zur Verfügung gestellt. Die einzelnen Datensätze sind im Folgenden thematisch gruppiert. Eine Zusammenstellung der aggregierten D-EITI Daten finden Sie "
   link0_2: "hier"
-  link0_2_src: "http://www.rohstofftransparenz.de/downloads/#daten-zum-deiti-bericht" 
+  link0_2_src: "http://www.rohstofftransparenz.de/downloads/#daten-zum-deiti-bericht"
   p1: Die hier dargestellten Produktionsdaten beruhen u. a. auf der Publikation des Bundeswirtschaftsministeriums "Der Bergbau in der Bundesrepublik Deutschland"
   download_label: Download der Daten
   download_link: Daten herunterladen
@@ -4309,7 +4311,7 @@ downloads:
   p5:
     p1: "Die Daten wurden der "
     p1_linktext: "Volkswirtschaftlichen Gesamtrechnung"
-    p1_1: " (Stand August 2019) des Statistischen Bundesamtes entnommen. Der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“ umfasst die Gewinnung natürlich vorkommender fester (Kohle, Salz, Erze, Steine und Erden), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe." 
+    p1_1: " (Stand August 2019) des Statistischen Bundesamtes entnommen. Der Wirtschaftszweig „Bergbau und Gewinnung von Steinen und Erden“ umfasst die Gewinnung natürlich vorkommender fester (Kohle, Salz, Erze, Steine und Erden), flüssiger (Erdöl) und gasförmiger (Erdgas) mineralischer Rohstoffe."
     p1_2: "In der statistischen Klassifikation der Wirtschaftszweige (WZ 2008) umfasst der Sektor „Bergbau und Gewinnung von Steinen und Erden“ den gesamten Abschnitt B mit folgenden Subsektoren: Kohlenbergbau (WZ08-05); Gewinnung von Erdöl und Erdgas (WZ08-06); Erzbergbau (WZ08-07); Gewinnung von Steinen und Erden, sonstiger Bergbau (WZ08-08) sowie Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden (WZ08-09). Eine detaillierte Auflistung dieser Subsektoren findet sich in der Publikation „Klassifikation der Wirtschaftszweige“ des Statistischen Bundesamts auf den Seiten 175-185. Es gilt zu beachten, dass im Abschnitt B („Bergbau und Gewinnung von Steinen und Erden“) der Subsektor „Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden“ (WZ08-09) inkludiert ist. Dieser Bereich umfasst allerdings keine klassischen Gewinnungstätigkeiten."
     p2: "Daneben gibt es weitere rohstoffgewinnende Unternehmen, die aufgrund ihrer Haupttätigkeit einem anderen Wirtschaftszweig zugeordnet sind und deshalb im Folgenden nicht berücksichtigt sind."
     p3: Download der Daten

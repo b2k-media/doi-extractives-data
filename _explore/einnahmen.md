@@ -16,18 +16,12 @@ breadcrumb:
     <div class="container-left-9">
       <p>
         {% t einnahmen.p1_1 %}
-        <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
-          {% t einnahmen.link0 %}
-        </a>
+        <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">{% t einnahmen.link0 %}</a>
         {% t einnahmen.p1_1_2 %}
 
-        <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">
-          {% t einnahmen.link %}
-        </a>
+        <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">{% t einnahmen.link %}</a>
         {% t einnahmen.p1_2 %}
-        <a href="{{site.baseurl}}/rohstoffgewinnung/umgang-mit-der-natur/">
-          {% t einnahmen.link1 %}
-        </a>
+        <a href="{{site.baseurl}}/rohstoffgewinnung/umgang-mit-der-natur/">{% t einnahmen.link1 %}</a>
         {% t einnahmen.p1_3 %}
       </p>
       <section id="steuern" style="position: relative;">
@@ -37,13 +31,9 @@ breadcrumb:
         <p>{% t einnahmen.steuern.p1 %}</p>
         <p>{% t einnahmen.steuern.p2 %}
         {% t einnahmen.steuern.p3 %}
-        <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">
-          {% t einnahmen.steuern.link1 %}
-        </a>
+        <a href="{{site.baseurl}}/rohstoffgewinnung/anfallende-zahlungen/">{% t einnahmen.steuern.link1 %}</a>
         {% t einnahmen.steuern.p4 %}
-        <a href="{{site.baseurl}}/rohstoffgewinnung/umgang-mit-der-natur/">
-          {% t einnahmen.steuern.link2 %}
-        </a>
+        <a href="{{site.baseurl}}/rohstoffgewinnung/umgang-mit-der-natur/">{% t einnahmen.steuern.link2 %}</a>
         </p>
         <br/>
       </section>
