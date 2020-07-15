@@ -65,7 +65,7 @@ breadcrumb:
         <h5><a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/rohsit-2017.pdf?__blob=publicationFile">
         {% t erneuerbare_energien.headline1 %}</a></h5>
         <h5><a target="_blank" href="https://www.bgr.bund.de/DE/Themen/Min_rohstoffe/Downloads/studie_mineralische_rohstoffe_2017.pdf?__blob=publicationFile">
-        {% t erneuerbare_energien.headline2 %}</a</h5>
+        {% t erneuerbare_energien.headline2 %}</a></h5>
         <p>{% t erneuerbare_energien.p16 %}</p>
         <div style="background-color:#E7E6E6; padding: 15px;">
             <h3>{% t erneuerbare_energien.headline3 %}</h3>
@@ -84,7 +84,7 @@ breadcrumb:
                 </sup>
                {% t erneuerbare_energien.p17_2 %}
             </p>
-        
+
         <br/>
         <h3>{% t erneuerbare_energien.table.title %}</h3>
         <table>
