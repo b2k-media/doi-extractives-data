@@ -871,8 +871,8 @@ offentliche-berichte:
         sup1:
             title: "*"
             text: "Als „groß“ im gesetzlichen Sinne werden Unternehmen bezeichnet, die in zwei aufeinander folgenden Abschlussstichtagen mindestens zwei der drei genannten Kriterien überschreiten (§ 267 Abs. 3 S. 1, Abs. 4 S. 1 HGB)."
-        p2: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio. € 250 Beschäftigte"
-        p3: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio. € 250 Beschäftigte"
+        p2: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio. &lt;br&gt;€ 250 Beschäftigte"
+        p3: "Bilanzsumme: 20 Mio. € Nettoumsatzerlös: 40 Mio.&lt;br&gt; € 250 Beschäftigte"
      row3:
         p1: "Überblick über die Funktionsweisen des Rohstoffsektors"
         p2: "Über Kontextbericht"
@@ -2171,9 +2171,9 @@ gesamtdeutsche_rohstoffproduktion:
     p2: "Quellenverzeichnis"
     p3_1: "[AGEB 2018]: - AG Energiebilanzen e.V. (2018): „Energieverbrauch in Deutschland im Jahr 2017. “"
     p3_2: "[BGR 2018] – Bundesanstalt für Geowissenschaften und Rohstoffe (2018): „Deutschland – Rohstoffsituation 2017“"
-    p3_3: "[Destatis] – Statistisches Bundesamt (versch. Jg. a): Erhebungsportal. – URL: </br>"
+    p3_3: "[Destatis] – Statistisches Bundesamt (versch. Jg. a): Erhebungsportal. – URL: "
     link1: "https://erhebungsportal.estatistik.de/Erhebungsportal"
-    p3_3_1: " sowie (versch. Jg. b): Produzierendes Gewerbe. – URL : </br>"
+    p3_3_1: " sowie (versch. Jg. b): Produzierendes Gewerbe. – URL : "
     link2: "https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html"
     p3_4: "[IM 2017] – Industrial Materials (2017): IM Price Database"
     p3_5: "[LBEG 2018] –Landesamt für Bergbau, Energie und Geologie (2018): Erdöl und Erdgas in der Bundesrepublik Deutschland 2017"
