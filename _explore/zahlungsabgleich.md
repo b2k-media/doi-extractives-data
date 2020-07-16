@@ -50,22 +50,15 @@ breadcrumb:
             {% t zahlungsabgleich.p1.link5_4 %}
           </a>
           {% t zahlungsabgleich.p1.p2_1 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">
-            {% t zahlungsabgleich.p1.link5_5 %}
-          </a>
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link5_5 %}</a>
         </p>
         <p>
           {% t zahlungsabgleich.p1.p3 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">
-            {% t zahlungsabgleich.p1.link5_5 %}
-          </a>
-          {% t zahlungsabgleich.p1.p4 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link5_5 %}</a>{% t zahlungsabgleich.p1.p4 %}
         </p>
         <p>
           {% t zahlungsabgleich.p1.p5 %}
-          <a href="{{site.baseurl}}/rohstoffgewinnung/offentliche-berichte/ ">
-            {% t zahlungsabgleich.p1.link7 %}
-          </a>
+          <a href="{{site.baseurl}}/rohstoffgewinnung/offentliche-berichte/ ">{% t zahlungsabgleich.p1.link7 %}</a>
            {% t zahlungsabgleich.p1.p5_1 %}
         </p>
         <p>
