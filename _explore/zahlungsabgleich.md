@@ -57,17 +57,7 @@ breadcrumb:
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link6 %}</a>{% t zahlungsabgleich.p1.p4 %}
         </p>
 
-        <p>
-          {% t zahlungsabgleich.p1.p5 %}
-          <a href="{{site.baseurl}}/rohstoffgewinnung/offentliche-berichte/ ">{% t zahlungsabgleich.p1.link7 %}</a>
-           {% t zahlungsabgleich.p1.p5_1 %}
-        </p>
-        <p>
-          {% t zahlungsabgleich.p1.p6 %}
-          <a href="{{site.baseurl}}/downloads/offengelegte-zahlungsstroeme-und-zahlungsabgleich-2017-und-empfehlungen.pdf">
-            {% t zahlungsabgleich.p1.link8 %}
-          </a>{% t point %}
-        </p>
+
         <!-- Tabelle Start-->
 
         <table>
@@ -92,11 +82,30 @@ breadcrumb:
               <td>{% t zahlungsabgleich.p1.table.row3.p2 %}</td>
               <td>{% t zahlungsabgleich.p1.table.row3.p3 %}</td>
             </tr>
-
+            <tr>
+              <td>{% t zahlungsabgleich.p1.table.row4.p1 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row4.p2 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row4.p3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.p1.table.row5.p1 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row5.p2 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row5.p3 %}</td>
+            </tr>
           </tbody>
         </table>
         <!-- Tabelle Ende-->
-
+        <p>
+          {% t zahlungsabgleich.p1.p5 %}
+          <a href="{{site.baseurl}}/rohstoffgewinnung/offentliche-berichte/ ">{% t zahlungsabgleich.p1.link7 %}</a>
+           {% t zahlungsabgleich.p1.p5_1 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.p1.p6 %}
+          <a href="{{site.baseurl}}/downloads/offengelegte-zahlungsstroeme-und-zahlungsabgleich-2017-und-empfehlungen.pdf">
+            {% t zahlungsabgleich.p1.link8 %}
+          </a>{% t point %}
+        </p>
         <p>
           {% t zahlungsabgleich.p4.p11 %}
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
