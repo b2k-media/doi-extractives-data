@@ -54,7 +54,7 @@ breadcrumb:
         </p>
         <p>
           {% t zahlungsabgleich.p1.p3 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link5_5 %}</a>{% t zahlungsabgleich.p1.p4 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link6 %}</a>{% t zahlungsabgleich.p1.p4 %}
         </p>
         <p>
           {% t zahlungsabgleich.p1.p5 %}
@@ -63,6 +63,9 @@ breadcrumb:
         </p>
         <p>
           {% t zahlungsabgleich.p1.p6 %}
+          <a href="{{site.baseurl}}/downloads/offengelegte-zahlungsstroeme-und-zahlungsabgleich-2017-und-empfehlungen.pdf">
+            {% t zahlungsabgleich.p1.link8 %}
+          </a>
         </p>
         <p>
           {% t zahlungsabgleich.p4.p11 %}
@@ -75,7 +78,7 @@ breadcrumb:
           <h2>{% t zahlungsabgleich.förderabgaben.title %}</h2>
           <p>
             {% t zahlungsabgleich.förderabgaben.p1 %}
-            <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/ ">
               {% t zahlungsabgleich.förderabgaben.link1 %}
             </a>
           </p>
