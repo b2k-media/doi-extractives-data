@@ -3821,8 +3821,8 @@ zahlungsabgleich:
     p1_3: ". In Deutschland werden Zahlungsströme zu den folgenden "
     link4: "Sektoren"
     p1_4: " offengelegt:"
-    li_1: "Braunkohle" 
-    li_2: "Erdöl und Erdgas" 
+    li_1: "Braunkohle"
+    li_2: "Erdöl und Erdgas"
     Li_3: "Kali und Salze"
     li_4: "Steine und Erden"
     p2: "Zahlungsströme der Rohstoffwirtschaft sind gemäß EITI-Standard zu berücksichtigen, wenn sie als erheblich für eine vollständige Darstellung der Unternehmenszahlungen und Staatseinnahmen anzusehen sind. Die nachfolgenden Zahlungsströme werden im Rahmen des zweiten D-EITI-Berichts erfasst und zum Teil mit den Einnahmen der staatlichen Stellen abgeglichen (Zahlungsabgleich):"
@@ -3835,14 +3835,14 @@ zahlungsabgleich:
     p3: "Die Zahlungen für Körperschaftsteuer, Feldes- und Förderabgaben und Gewerbesteuer werden ab einer"
     link6: "Wesentlichkeitsschwelle"
     p4: " von 100.000 Euro je staatlicher Stelle bzw. von 2 Mio. Euro für die Gewerbesteuer dem Zahlungsabgleich unterworfen. Pachtzahlungen und Zahlungen für die Verbesserung der Infrastruktur werden nicht mit den Einnahmen der staatlichen Stellen abgeglichen."
-    p5: "Hinsichtlich der Auswahl der Unternehmen orientiert sich die D-EITI an den Vorgaben der EU- Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 (siehe 
+    p5: "Hinsichtlich der Auswahl der Unternehmen orientiert sich die D-EITI an den Vorgaben der EU- Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 (siehe"
     link7: "öffentliche Berichte"
     p5_1: ")."
     p6: "Detaillierte Informationen zur Vorgehensweise beim Zahlungsabgleich finden Sie"
     link8: "hier"
-  förderabgaben: 
+  förderabgaben:
     title: "Überblick zum Zahlungsabgleich 2017"
-    p1: "Für den zweiten D-EITI-Bericht haben sich " 
+    p1: "Für den zweiten D-EITI-Bericht haben sich "
     link1: "17 Unternehmen bzw. Unternehmensgruppen"
     p2: " bereiterklärt, an der Berichterstattung teilzunehmen und ihre Zahlungsströme freiwillig offenzulegen. Diese Unternehmen decken– gemessen an der jährlichen Fördermenge – 99,7% der Sektoren Erdöl, Erdgas, Braunkohle und Kali ab. "
   abdeckung:
@@ -3863,7 +3863,7 @@ zahlungsabgleich:
     p5: ". Liegt in diesen Fällen der Schwerpunkt der Tätigkeit der Organschaft außerhalb der Rohstoffgewinnung, kann die Angabe der durch den Organträger abgeführten Steuern unterbleiben (vgl. Fußnote 3 in Tabelle „Datenmeldungen Unternehmen“). Ist die Organschaft dagegen insgesamt schwerpunktmäßig in der Rohstoffgewinnung tätig, kommt es zu einer (anteiligen bzw. vollständigen) Meldung der durch den Organträger abgeführten Steuern (vgl. Fußnote 2 in Tabelle „Datenmeldungen Unternehmen“)."
     p6: "Der Inhalt und die Zusammensetzung der gemeldeten Zahlungen zur Verbesserung der Infrastruktur wurden auf Wunsch der"
     p6_1: "MSG"
-    p6_2: "durch den 
+    p6_2: "durch den"
     p6_3: "Unabhängigen Verwalter"
     p6_4: "in Zusammenarbeit mit den meldenden Unternehmen weitergehend analysiert. Erfasst werden sowohl Zahlungen aufgrund gesetzlicher Vorschriften (Grunderwerbsteuern) als auch Zahlungen, die auf privatrechtlichen Verträgen zwischen Unternehmen und staatlichen Stellen (Städten, Gemeinden und Verbänden) beruhen. Letztere umfassen u.a. den Ausgleich von bergbaubedingtem Verwaltungsmehraufwand oder Leistungen im Zusammenhang mit Bau und Unterhaltung lokaler, öffentlicher Infrastruktur. Die veröffentlichten Zahlungsberichte nach §§ 341q ff. HGB für 2017 weisen darüber hinaus noch Zahlungen von Wasserentnahmeentgelten aus. Beide Zahlungsströme wurden auf Beschluss der MSG analog zum ersten "
     p6_5: "D-EITI"
