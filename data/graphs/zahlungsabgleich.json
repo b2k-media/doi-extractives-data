@@ -1,40 +1,4 @@
-[{
-	"title": "Übersicht zum Zahlungsabgleich 2017",
-	"title_en": "Corporation tax",
-	"data": [
-    [
-      [397325029.51 , "Gesamt"],
-      [58310334.77 , "Gewerbesteuer"],
-      [255258870.59 , "Feldes- und Förderabgaben"],
-      [83755824.15 , "Körperschaftsteuer"]
-		],
-    [
-      [397325029.51 , "Gesamt"],
-      [58310334.77 , "Gewerbesteuer"],
-      [255258870.59 , "Feldes- und Förderabgaben"],
-      [83755824.15 , "Körperschaftsteuer"]
-    ]
-	],
-	"data_en": [
-    [
-      [397325029.51 , "Total payment flow"],
-      [58310334.77 , "Trade tax"],
-      [255258870.59 , "Minesite and extraction royalties"],
-      [83755824.15 , "Corporation tax"]
-    ],
-    [
-      [397325029.51  , "Total payment flow"],
-      [58310334.77 , "Trade tax"],
-      [255258870.59 , "Minesite and extraction royalties"],
-      [83755824.15 , "Corporation tax"]
-    ]
-	],
-	"color": ["#28467a", "#4682be"],
-	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
-	"labels_en": ["Total payments according to the company", "Total payments according to the public authorities"],
-	"xAxis": [0, 100000000, 200000000, 300000000, 400000000,500000000],
-	"unit": "    €"
-}, {
+[, {
 	"title": "Abdeckung der Sektoren durch die an D-EITI teilnehmenden Unternehmen",
 	"title_en": "Coverage of sectors*",
 	"data": [
@@ -76,4 +40,40 @@
 	"labels": ["Geschätzte Abdeckung aller identifizierter Unternehmen", "Geschätzte Abdeckung aller teilnehmenden Unternehmen"],
 	"labels_en": ["Estimated coverage of all identified companies", "Estimated coverage of all participating companies"],
 	"xAxis": [0, 20, 40, 60, 80, 106]
+},{
+	"title": "Übersicht zum Zahlungsabgleich 2017",
+	"title_en": "Corporation tax",
+	"data": [
+    [
+      [397325029.51 , "Gesamt"],
+      [58310334.77 , "Gewerbesteuer"],
+      [255258870.59 , "Feldes- und Förderabgaben"],
+      [83755824.15 , "Körperschaftsteuer"]
+		],
+    [
+      [397325029.51 , "Gesamt"],
+      [58310334.77 , "Gewerbesteuer"],
+      [255258870.59 , "Feldes- und Förderabgaben"],
+      [83755824.15 , "Körperschaftsteuer"]
+    ]
+	],
+	"data_en": [
+    [
+      [397325029.51 , "Total payment flow"],
+      [58310334.77 , "Trade tax"],
+      [255258870.59 , "Minesite and extraction royalties"],
+      [83755824.15 , "Corporation tax"]
+    ],
+    [
+      [397325029.51  , "Total payment flow"],
+      [58310334.77 , "Trade tax"],
+      [255258870.59 , "Minesite and extraction royalties"],
+      [83755824.15 , "Corporation tax"]
+    ]
+	],
+	"color": ["#28467a", "#4682be"],
+	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
+	"labels_en": ["Total payments according to the company", "Total payments according to the public authorities"],
+	"xAxis": [0, 100000000, 200000000, 300000000, 400000000,500000000],
+	"unit": "    €"
 }]
