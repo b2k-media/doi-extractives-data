@@ -21,12 +21,12 @@ breadcrumb:
         <p>
           {% t zahlungsabgleich.p1.p1 %}
           <a href="https://d-eiti.de/eiti-standard">{% t zahlungsabgleich.p1.link1 %}</a>
-          {% t zahlungsabgleich.p1_1 %}
+          {% t zahlungsabgleich.p1.p1_1 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">{% t zahlungsabgleich.p1.link2 %}</a>
-          {% t zahlungsabgleich.p1_2 %}
+          {% t zahlungsabgleich.p1.p1_2 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/regierungsstellen-steuergeheimnis/">{% t zahlungsabgleich.p1.link3 %}</a>
-          {% t zahlungsabgleich.p1_3 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/auswahl-sektoren/">{% t zahlungsabgleich.p1.link4 %}</a> {% t zahlungsabgleich.p1_4 %}<br/>
+          {% t zahlungsabgleich.p1.p1_3 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/auswahl-sektoren/">{% t zahlungsabgleich.p1.link4 %}</a> {% t zahlungsabgleich.p1.p1_4 %}<br/>
           <ul>
               <li> {% t zahlungsabgleich.p1.li_1 %}</li>
               <li> {% t zahlungsabgleich.p1.li_2 %}</li>
@@ -161,7 +161,7 @@ breadcrumb:
             </a>
           </p>
         </section>
-        
+
         <section id="abdeckung" style="position: relative;">
           <h2>{% t zahlungsabgleich.abdeckung.title %}</h2>
           <p>
@@ -588,7 +588,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row22.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row22.p6 %}</td>
               </tr>
-       
+
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row23.p1 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row23.p2 %}</td>
