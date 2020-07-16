@@ -20,53 +20,51 @@ breadcrumb:
     <div class="container-left-9">
         <p>
           {% t zahlungsabgleich.p1.p1 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/identifizierung-unternehmen">
-            {% t zahlungsabgleich.p1.link1 %}
-          </a>
+          <a href="https://d-eiti.de/eiti-standard">{% t zahlungsabgleich.p1.link1 %}</a>
+          {% t zahlungsabgleich.p1_1 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">{% t zahlungsabgleich.p1.link2 %}</a>
+          {% t zahlungsabgleich.p1_2 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/regierungsstellen-steuergeheimnis/">{% t zahlungsabgleich.p1.link3 %}</a>
+          {% t zahlungsabgleich.p1_3 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/auswahl-sektoren/">{% t zahlungsabgleich.p1.link4 %}</a> {% t zahlungsabgleich.p1_4 %}<br/>
+          <ul>
+              <li> {% t zahlungsabgleich.p1.li_1 %}</li>
+              <li> {% t zahlungsabgleich.p1.li_2 %}</li>
+              <li> {% t zahlungsabgleich.p1.li_3 %}</li>
+              <li> {% t zahlungsabgleich.p1.li_4 %}</li>
+          </ul>
           {% t zahlungsabgleich.p1.p2 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/auswahl-sektoren/">
-            {% t zahlungsabgleich.p1.link2 %}
-          </a>
-          {% t zahlungsabgleich.p1.p3 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
-            {% t zahlungsabgleich.p1.link3 %}
-          </a>
           {% t zahlungsabgleich.p1.p4 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#körperschaftsteuer">
-            {% t zahlungsabgleich.p1.link4 %}
-          </a>
+            {% t zahlungsabgleich.p1.link5_1 %}
+          </a> ,
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#feldes">
-            {% t zahlungsabgleich.p1.link5 %}
-          </a>
+            {% t zahlungsabgleich.p1.link5_2 %}
+          </a> ,
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#gewerbesteuer">
-            {% t zahlungsabgleich.p1.link6 %}
+            {% t zahlungsabgleich.p1.link5_3 %}
           </a>
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#pachtzahlungen">
+            {% t zahlungsabgleich.p1.link5_4 %}
+          </a>
+          {% t zahlungsabgleich.p1.p2_1 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">
+            {% t zahlungsabgleich.p1.link5_5 %}
+          </a>
+        </p>
+        <p>
+          {% t zahlungsabgleich.p1.p3 %}
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">
+            {% t zahlungsabgleich.p1.link5_5 %}
+          </a>
+          {% t zahlungsabgleich.p1.p4 %}
+        </p>
+        <p>
+          {% t zahlungsabgleich.p1.p5 %}
+          <a href="{{site.baseurl}}/rohstoffgewinnung/offentliche-berichte/ ">
             {% t zahlungsabgleich.p1.link7 %}
           </a>
-          {% t zahlungsabgleich.p1.p5 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">
-            {% t zahlungsabgleich.p1.link8 %}
-          </a>
-          {% t zahlungsabgleich.p1.p6 %}
-        </p>
-        <p>
-          {% t zahlungsabgleich.p2.p7 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/regierungsstellen-steuergeheimnis/">
-            {% t zahlungsabgleich.p2.link8_1 %}
-          </a>
-          {% t zahlungsabgleich.p2.p7_1 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/regierungsstellen-steuergeheimnis/">
-            {% t zahlungsabgleich.p2.link9 %}
-          </a>
-          {% t zahlungsabgleich.p2.p8 %}
-        </p>
-        <p>
-          {% t zahlungsabgleich.p3.p9 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#pachtzahlungen">
-            {% t zahlungsabgleich.p3.link10_1 %}
-          </a>
-          {% t zahlungsabgleich.p3.p10 %}
+           {% t zahlungsabgleich.p1.p5_1 %}
         </p>
         <p>
           {% t zahlungsabgleich.p4.p11 %}

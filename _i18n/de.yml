@@ -3806,92 +3806,68 @@ zahlungsabgleich:
     - name: title
       title: Seitenanfang
     - name: förderabgaben
-      title: "Überblick zum Zahlungsabgleich 2016"
+      title: "Überblick zum Zahlungsabgleich 2017"
     - name: abdeckung
       title: "Abdeckung der Sektoren"
     - name: unternehmen
       title: "Summe berichteter Zahlungen der Unternehmen"
-    - name: gewerbesteuer
-      title: "Ergebnisse des beispielhaft durchgeführten Zahlungsabgleichs für Gewerbesteuer"
-    - name: gewerbesteuerEr
-      title: "Ergebnisse des Zahlungsabgleichs für Gewerbesteuer"
-    - name: gewerbesteuerFa
-      title: "Fazit zum Zahlungsabgleich"
   p1:
-    p1: "Es wurden"
-    link1: "48 Unternehmesgruppen"
-    p2: "aus den"
-    link2: "Sektoren"
-    p3: "Braunkohle, Erdgas, Erdöl, Kali, Salze (inkl. Industriesohle) sowie Steine und Erden identifiziert und eingeladen sich an D-EITI zu beteiligen."
-    link3: "16 Unternehmensgruppen"
-    p4: " mit einer Abdeckung von über 95 % für die Sektoren Braunkohle, Erdgas, Erdöl und Kali, haben sich bisher beteiligt und zu folgenden Zahlungsströmen berichtet:"
-    link4: Körperschaftsteuer,
-    link5: Feldes- und Förderabgaben,
-    link6: Gewerbesteuer
-    link7: und Pachtzahlungen.
-    p5: "Zahlungen wurden ab einer"
-    link8: "Wesentlichkeitsschwelle"
-    p6: "von 100.000 Euro bzw. von 2 Mio. Euro je staatlicher Stelle für die Gewerbesteuer und für das Geschäftsjahr 2016 gemeldet."
-  p2:
-    p7: "Die berichteten Zahlungen der Unternehmen für Körperschaftsteuer, Feldes- und Förderabgaben und Gewerbesteuer wurden mit den korrespondierenden Einnahmen der "
-    link8_1: "öffentlichen Stellen"
-    p7_1: "abgeglichen. Hierfür haben die teilnehmenden Unternehmen die öffentlichen Stellen vom"
-    link9: "Steuergeheimnis"
-    p8: befreit.
-  p3:
-    p9: "Die Zahlungen der Unternehmen für"
-    link10_1: "Pachtzahlungen"
-    p10: "wurden für das Jahr 2016 nicht mit den Einnahmen der staatlichen Stellen abgeglichen."
-
-  p4:
-    p11: "Die gesammelten Daten zum Zahlungsabgleich finden Sie hier:"
-    link11: Daten einsehen
-  förderabgaben:
-    title: "Überblick zum Zahlungsabgleich 2016"
-    p1: "Der Abgleich der von den Unternehmen für das Jahr 2016 gemeldeten Zahlungen für Körperschaftsteuer, Feldes-/Förderabgaben und Gewerbesteuer mit den jeweiligen Einnahmen der staatlichen Stellen umfasste insgesamt knapp 380 Mio. EUR. Im Zuge dieses Abgleichs haben sich vorläufige Differenzen in Höhe von 478.102,09 Euro ergeben. Diese wurden im Verlauf der durchgeführten Arbeiten bis auf unwesentliche Differenzen in Höhe von 0,03 Euro geklärt."
-    p2: "Die aufgeschlüsselten Zahlungen pro Unternehmen und öffentlicher Stelle für Körperschaftsteuer, Feldes- und Förderabgaben sowie Gewerbesteuer finden Sie"
-    link: hier.
-    chart_l1: "Zahlungen Unternehmen"
-    chart_l2: "Einnahmen staatliche Stellen"
+    p1: "Der "
+    link1: "EITI-Standard"
+    p1_1: " verlangt eine Offenlegung aller wesentlichen Zahlungsströme des extraktiven Sektors eines Landes. Hierfür berichten die "
+    link2: "teilnehmenden Unternehmen"
+    p1_2: " ihre Zahlungen an "
+    link3: "staatliche Stellen"
+    p1_3: ". In Deutschland werden Zahlungsströme zu den folgenden "
+    link4: "Sektoren"
+    p1_4: " offengelegt:"
+    li_1: "Braunkohle" 
+    li_2: "Erdöl und Erdgas" 
+    Li_3: "Kali und Salze"
+    li_4: "Steine und Erden"
+    p2: "Zahlungsströme der Rohstoffwirtschaft sind gemäß EITI-Standard zu berücksichtigen, wenn sie als erheblich für eine vollständige Darstellung der Unternehmenszahlungen und Staatseinnahmen anzusehen sind. Die nachfolgenden Zahlungsströme werden im Rahmen des zweiten D-EITI-Berichts erfasst und zum Teil mit den Einnahmen der staatlichen Stellen abgeglichen (Zahlungsabgleich):"
+    link5_1: "Körperschaftsteuer"
+    link5_2: "Feldes- und Förderabgaben"
+    link5_3: "Gewerbesteuer"
+    link5_4: "Pachtzahlungen"
+    p2_1: " und "
+    link5_5: "Zahlungen für die Verbesserung der Infrastruktur."
+    p3: "Die Zahlungen für Körperschaftsteuer, Feldes- und Förderabgaben und Gewerbesteuer werden ab einer"
+    link6: "Wesentlichkeitsschwelle"
+    p4: " von 100.000 Euro je staatlicher Stelle bzw. von 2 Mio. Euro für die Gewerbesteuer dem Zahlungsabgleich unterworfen. Pachtzahlungen und Zahlungen für die Verbesserung der Infrastruktur werden nicht mit den Einnahmen der staatlichen Stellen abgeglichen."
+    p5: "Hinsichtlich der Auswahl der Unternehmen orientiert sich die D-EITI an den Vorgaben der EU- Bilanzrichtlinie 2013/34/EU vom 26. Juni 2013 (siehe 
+    link7: "öffentliche Berichte"
+    p5_1: ")."
+    p6: "Detaillierte Informationen zur Vorgehensweise beim Zahlungsabgleich finden Sie"
+    link8: "hier"
+  förderabgaben: 
+    title: "Überblick zum Zahlungsabgleich 2017"
+    p1: "Für den zweiten D-EITI-Bericht haben sich " 
+    link1: "17 Unternehmen bzw. Unternehmensgruppen"
+    p2: " bereiterklärt, an der Berichterstattung teilzunehmen und ihre Zahlungsströme freiwillig offenzulegen. Diese Unternehmen decken– gemessen an der jährlichen Fördermenge – 99,7% der Sektoren Erdöl, Erdgas, Braunkohle und Kali ab. "
   abdeckung:
-    title: "Abdeckung der Sektoren"
-    p1: "Nachfolgende Übersicht gibt die Abdeckung der jeweiligen Sektoren durch den Kreis der identifizierten Unternehmen sowie der tatsächlich am Berichtsprozess teilnehmenden Unternehmen wieder. Die Bezugsgröße für die Ermittlung der Abdeckung in den Sektoren Braunkohle, Erdöl, Erdgas ist die Fördermenge aus dem Jahr 2016. Die Bezugsgröße für die Ermittlung der Abdeckung in den Sektoren Kali, Salze (inkl. Industriesohle) ist die verwertbare Fördermenge aus dem Jahr 2015."
-    p2: "*) Auf die Ermittlung eines Grades der Abdeckung des Sektors Steine und Erden wurde vor dem Hintergrund der"
-    link1: "Kleinteiligkeit des Sektors "
-    p3: "verzichtet."
-    p4: "**) Zur geschätzten Abdeckung aller teilnehmenden Unternehmen im Sektor Salz: Die Angabe einer Abdeckung unterbleibt, um den Schutz wettbewerbsrelevanter Daten sicher zu stellen."
-    p5: "Zur geschätzten Abdeckung aller identifizierten Unternehmen im Sektor Salz: Der nicht durch die Berichterstattung erfasste Teil der Fördermenge wurde analysiert und es konnte ein großes Unternehmen identifiziert werden, das mit rund 7% einen wesentlichen Teil der Fördermenge abdeckt. Die wirtschaftliche Haupttätigkeit dieses Unternehmens beschränkt sich jedoch mehrheitlich auf die Herstellung von chemischen Erzeugnissen, so dass es bei der Identifizierung der Unternehmen für die Berichterstattung nicht erfasst wurde (vgl. Kapitel 9.b.ii.). Auf Grundlage weiterer Informationen wurde durch die MSG festgestellt, dass das Unternehmen, trotz des maßgeblichen Beitrags zur Fördermenge des Sektors, keine wesentlichen Zahlungen aus der Förderung von Rohstoffen im Verhältnis zur Gesamthöhe der Einnahmen aus dem Rohstoffsektor leistet. Für die Förderabgabe ist dies generell damit zu erklären, dass die Bundesländer vom einheitlichen Regelsatz der Förderabgabe abweichen können und/oder für Bergbauberechtigungen nach altem Recht keine Feldes- und Förderabgaben entrichtet werden müssen."
-    p6_1: "***) Auf die Aufnahme der verbleibenden 4% des Sektors Erdöl wurde verzichtet, da es sich um mehrere kleinere Unternehmen handelt (vgl. "
-    link3: "https://www.bveg.de/Der-BVEG/Publikationen/Jahresberichte"
-    p6_2: ")."
-    link2: Daten einsehen
-    p7: "Abdeckung der Förderabgabe"
-    table:
-      head:
-        h1: "Gesamteinnahmen aus Feldes- und Förderabgabe 2016"
-        h2: "Summe abgeglichener Zahlungen der Feldes- und Förderabgabe 2016"
-        h3: "Abdeckung durch den D-EITI Zahlungsabgleich"
-      row1:
-        p1: "232.781.374,00"
-        p2: "231.812.141,45"
-        p3: "99,58 %"
+    title: "Abdeckung der Sektoren durch die an D-EITI teilnehmenden Unternehmen"
+    p1: "Der Abgleich der von den Unternehmen für das Jahr 2017 gemeldeten Zahlungen für Körperschaftsteuer, Feldes-/Förderabgaben und Gewerbesteuer mit den jeweiligen Einnahmen der staatlichen Stellen umfasste insgesamt 397.325.029,51  Mio. Euro. Im Zuge dieses Abgleichs haben sich vorläufige Differenzen in Höhe von 17,5 Mio. Euro ergeben. Diese wurden im Verlauf der durchgeführten Arbeiten vollständig geklärt."
+    p2: "Die aufgeschlüsselten Zahlungen pro Unternehmen und öffentlicher Stelle für Körperschaftsteuer, Feldes- und Förderabgaben sowie Gewerbesteuer finden "
+    link1: "hier"
   unternehmen:
     title: "Summe berichteter Zahlungen der Unternehmen"
-    p1: "Die nachfolgende Übersicht zeigt die in 2016 durch die"
+    p1: "Die nachfolgende Übersicht zeigt die in 2017 durch die"
     link1: "teilnehmenden Unternehmen"
-    p2: "geleisteten Zahlungen an staatliche Stellen für die Zahlungsströme Körperschaftsteuer, Gewerbesteuer, Feldes-/Förderabgaben sowie Pachtzahlungen."
-    link2: "Daten einsehen"
-    p3: "Nachfolgend die aufgeschlüsselten Zahlungen pro Unternehmen und Zahlungsstrom:"
+    p2: "geleisteten Zahlungen an staatliche Stellen für die Zahlungsströme Körperschaftsteuer, Gewerbesteuer, Feldes-/Förderabgaben, Pachtzahlungen Pachtzahlungen sowie Zahlungen zur Verbesserung der Infrastruktur. Insgesamt wurden 476.662.362,55 Euro berichtet, wovon rund 83% mit den Einnahmen der staatlichen Stellen abgeglichen wurden. In Bezug auf die Gewerbesteuer wurden sämtliche durch die Unternehmen gemeldeten Zahlungen, die einen Betrag von 2,0 Mio. Euro je staatlicher Stelle überschreiten, einem Abgleich unterworfen. Von den insgesamt gemeldeten 103,6 Mio. Euro Gewerbesteuerzahlungen wurden auf Grundlage dieser Wesentlichkeitsschwelle Zahlungen in Höhe von 58,3 Mio. Euro abgeglichen."
+    p3: "Nachfolgend sind alle gemeldeten Zahlungen pro Unternehmen und Zahlungsstrom dargestellt:"
+    p4: "Die gesammelten Daten zum Zahlungsabgleich 2017 finden Sie hier: "
     link3: "Daten einsehen"
     p4: "Die Meldungen zu den Zahlungsströmen Körperschaftsteuer und Gewerbesteuer verdeutlichen die hohe Relevanz von "
     link4: "steuerlichen Organschaftsverhältnissen in Deutschland"
     p5: ". Liegt in diesen Fällen der Schwerpunkt der Tätigkeit der Organschaft außerhalb der Rohstoffgewinnung, kann die Angabe der durch den Organträger abgeführten Steuern unterbleiben (vgl. Fußnote 3 in Tabelle „Datenmeldungen Unternehmen“). Ist die Organschaft dagegen insgesamt schwerpunktmäßig in der Rohstoffgewinnung tätig, kommt es zu einer (anteiligen bzw. vollständigen) Meldung der durch den Organträger abgeführten Steuern (vgl. Fußnote 2 in Tabelle „Datenmeldungen Unternehmen“)."
-    p6: "Die bisher veröffentlichten Zahlungsberichte nach §§ 341q HGB weisen neben den "
-    link5: "hier"
-    p7: " dargestellten Zahlungsströmen auch Zahlungen von Wasserentnahmeentgelten sowie Zahlungen zur Verbesserung der Infrastruktur aus. Der Inhalt und die Zusammensetzung der gemeldeten Zahlungen zur Verbesserung der Infrastruktur wurden auf Wunsch der MSG durch den Unabhängigen Verwalter in Zusammenarbeit mit den meldenden Unternehmen weitergehend analysiert. Erfasst werden sowohl Zahlungen aufgrund gesetzlicher Vorschriften (Grunderwerbsteuern) als auch Zahlungen, die auf privatrechtlichen Verträgen zwischen Unternehmen und staatlichen Stellen (Städten, Gemeinden und Verbänden) beruhen. Letztere umfassen u.a. den Ausgleich von bergbaubedingtem Verwaltungsmehraufwand oder Leistungen im Zusammenhang mit Bau und Unterhaltung lokaler, öffentlicher Infrastruktur. Die MSG hat entschieden keinen Abgleich für diese beiden Zahlungsströme durchzuführen, da sie von Seiten der Unternehmen bereits öffentlich verfügbar sind*."
-    p8: "*"
-    link6: "https://www.bundesanzeiger.de/"
-    p9: "; unter „Suchen“ den Begriff Zahlungsberichte eingeben."
+    p6: "Der Inhalt und die Zusammensetzung der gemeldeten Zahlungen zur Verbesserung der Infrastruktur wurden auf Wunsch der"
+    p6_1: "MSG"
+    p6_2: "durch den 
+    p6_3: "Unabhängigen Verwalter"
+    p6_4: "in Zusammenarbeit mit den meldenden Unternehmen weitergehend analysiert. Erfasst werden sowohl Zahlungen aufgrund gesetzlicher Vorschriften (Grunderwerbsteuern) als auch Zahlungen, die auf privatrechtlichen Verträgen zwischen Unternehmen und staatlichen Stellen (Städten, Gemeinden und Verbänden) beruhen. Letztere umfassen u.a. den Ausgleich von bergbaubedingtem Verwaltungsmehraufwand oder Leistungen im Zusammenhang mit Bau und Unterhaltung lokaler, öffentlicher Infrastruktur. Die veröffentlichten Zahlungsberichte nach §§ 341q ff. HGB für 2017 weisen darüber hinaus noch Zahlungen von Wasserentnahmeentgelten aus. Beide Zahlungsströme wurden auf Beschluss der MSG analog zum ersten "
+    p6_5: "D-EITI"
+    p6_6: "Bericht keinem Zahlungsabgleich  unterworfen."
     table:
       head:
         h1: "Datenmeldungen Unternehmen"
