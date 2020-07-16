@@ -3840,6 +3840,19 @@ zahlungsabgleich:
     p5_1: ")."
     p6: "Detaillierte Informationen zur Vorgehensweise beim Zahlungsabgleich finden Sie"
     link8: "hier"
+    table:
+      head:
+        h1: "Zahlungsstrom"
+        h2: "Datenmeldung durch Unternehmen"
+        h3: "Zahlungsabgleich"
+      row1:
+        p1: "Körperschaftssteuer"
+        p2: "ja"
+        p3: "ja"
+      row2:
+        p1: "Feldes- und Förderabgaben"
+        p2: "ja"
+        p3: "ja"
   förderabgaben:
     title: "Überblick zum Zahlungsabgleich 2017"
     p1: "Für den zweiten D-EITI-Bericht haben sich "

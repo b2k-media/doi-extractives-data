@@ -56,6 +56,7 @@ breadcrumb:
           {% t zahlungsabgleich.p1.p3 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link6 %}</a>{% t zahlungsabgleich.p1.p4 %}
         </p>
+
         <p>
           {% t zahlungsabgleich.p1.p5 %}
           <a href="{{site.baseurl}}/rohstoffgewinnung/offentliche-berichte/ ">{% t zahlungsabgleich.p1.link7 %}</a>
@@ -67,6 +68,29 @@ breadcrumb:
             {% t zahlungsabgleich.p1.link8 %}
           </a>{% t point %}
         </p>
+        <!-- Tabelle Start-->
+
+        <table>
+          <tbody style="font-size: 0.9rem;">
+            <tr>
+              <td><strong>{% t zahlungsabgleich.table.head.h1 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.table.head.h2 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.table.head.h3 %}</strong></td>
+            </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.table.row1.p1 %}</td>
+              <td>{% t zahlungsabgleich.table.row1.p2 %}</td>
+              <td>{% t zahlungsabgleich.table.row1.p3 %}</td>
+            </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.table.row2.p1 %}</td>
+              <td>{% t zahlungsabgleich.table.row2.p2 %}</td>
+              <td>{% t zahlungsabgleich.table.row2.p3 %}</td>
+            </tr>
+          </tbody>
+        </table>
+        <!-- Tabelle Ende-->
+
         <p>
           {% t zahlungsabgleich.p4.p11 %}
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
