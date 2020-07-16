@@ -188,6 +188,21 @@ breadcrumb:
 
 
            END TEST -->
+
+          <p style="position: relative; margin-top: 50px !important;">
+            {% t zahlungsabgleich.förderabgaben.p2 %}
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
+              {% t zahlungsabgleich.förderabgaben.link %}
+            </a>
+          </p>
+        </section>
+
+        <section id="abdeckung" style="position: relative;">
+          <h2>{% t zahlungsabgleich.abdeckung.title %}</h2>
+          <p>
+            {% t zahlungsabgleich.abdeckung.p1 %}
+          </p>
+
           <div class="explore-exploration slab-alpha">
             <div class="regions container">
               <div class="graph">
@@ -208,19 +223,7 @@ breadcrumb:
             </div>
           </div>
           <br/>
-          <p style="position: relative; margin-top: 50px !important;">
-            {% t zahlungsabgleich.förderabgaben.p2 %}
-            <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
-              {% t zahlungsabgleich.förderabgaben.link %}
-            </a>
-          </p>
-        </section>
 
-        <section id="abdeckung" style="position: relative;">
-          <h2>{% t zahlungsabgleich.abdeckung.title %}</h2>
-          <p>
-            {% t zahlungsabgleich.abdeckung.p1 %}
-          </p>
 
           <p style="font-size: 0.75rem; position: relative; margin-top: 50px !important;">
             {% t zahlungsabgleich.abdeckung.p2 %}
@@ -740,68 +743,6 @@ breadcrumb:
           </p>
         </section>
         <br />
-        <section id="gewerbesteuer" style="position: relative;">
-          <h2>{% t zahlungsabgleich.gewerbesteuer.title %}</h2>
-          <p>
-            {% t zahlungsabgleich.gewerbesteuer.p1 %}
-            <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
-              {% t zahlungsabgleich.gewerbesteuer.link1 %}
-            </a>
-            {% t zahlungsabgleich.gewerbesteuer.p2 %}
-          </p>
-          <table>
-            <tbody>
-            <tr>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h1 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h2 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h3 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h7 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.head.h8 %}</strong></td>
-            </tr>
-            <tr>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p1 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p2 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p7 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row1.p8 %}</td>
-            </tr>
-            <tr>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p1 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p2 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p7 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row2.p8 %}</td>
-            </tr>
-            <tr>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p1 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p2 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p7 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row3.p8 %}</td>
-            </tr>
-            <tr>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p1 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p2 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p3 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p7 %}</td>
-              <td>{% t zahlungsabgleich.gewerbesteuer.table.row4.p8 %}</td>
-            </tr>
-            <tr>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p1 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p2 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p3 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p7 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.gewerbesteuer.table.row5.p8 %}</strong></td>
-            </tr>
-
-            </tbody>
-          </table>
-
-          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>
-            {% t zahlungsabgleich.gewerbesteuer.link2 %}
-          </a>
-        </section>
 
     </div>
 
