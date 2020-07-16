@@ -124,7 +124,17 @@ breadcrumb:
           </p>
           <br/>
 
-
+          <br/>
+          <div class="explore-exploration slab-alpha">
+            <div class="regions container">
+              <div class="graph">
+                <div class="container chart-container">
+                  <div id="chart2"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <br/>
 
           <!-- New Table
           <div id="chart"></div>
@@ -211,17 +221,7 @@ breadcrumb:
           <p>
             {% t zahlungsabgleich.abdeckung.p1 %}
           </p>
-          <br/>
-          <div class="explore-exploration slab-alpha">
-            <div class="regions container">
-              <div class="graph">
-                <div class="container chart-container">
-                  <div id="chart2"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <br/>
+
           <p style="font-size: 0.75rem; position: relative; margin-top: 50px !important;">
             {% t zahlungsabgleich.abdeckung.p2 %}
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/identifizierung-unternehmen/">
