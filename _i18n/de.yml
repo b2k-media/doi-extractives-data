@@ -3853,6 +3853,10 @@ zahlungsabgleich:
         p1: "Feldes- und Förderabgaben"
         p2: "ja"
         p3: "ja"
+      row3:
+        p1: "Gewerbesteuer"
+        p2: "ja"
+        p3: "ja"
   förderabgaben:
     title: "Überblick zum Zahlungsabgleich 2017"
     p1: "Für den zweiten D-EITI-Bericht haben sich "

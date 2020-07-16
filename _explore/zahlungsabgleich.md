@@ -73,20 +73,26 @@ breadcrumb:
         <table>
           <tbody style="font-size: 0.9rem;">
             <tr>
-              <td><strong>{% t zahlungsabgleich.table.head.h1 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.table.head.h2 %}</strong></td>
-              <td><strong>{% t zahlungsabgleich.table.head.h3 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.p1.table.head.h1 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.p1.table.head.h2 %}</strong></td>
+              <td><strong>{% t zahlungsabgleich.p1.table.head.h3 %}</strong></td>
             </tr>
             <tr>
-              <td>{% t zahlungsabgleich.table.row1.p1 %}</td>
-              <td>{% t zahlungsabgleich.table.row1.p2 %}</td>
-              <td>{% t zahlungsabgleich.table.row1.p3 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row1.p1 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row1.p2 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row1.p3 %}</td>
             </tr>
             <tr>
-              <td>{% t zahlungsabgleich.table.row2.p1 %}</td>
-              <td>{% t zahlungsabgleich.table.row2.p2 %}</td>
-              <td>{% t zahlungsabgleich.table.row2.p3 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row2.p1 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row2.p2 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row2.p3 %}</td>
             </tr>
+            <tr>
+              <td>{% t zahlungsabgleich.p1.table.row3.p1 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row3.p2 %}</td>
+              <td>{% t zahlungsabgleich.p1.table.row3.p3 %}</td>
+            </tr>
+
           </tbody>
         </table>
         <!-- Tabelle Ende-->
