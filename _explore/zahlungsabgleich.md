@@ -65,7 +65,7 @@ breadcrumb:
           {% t zahlungsabgleich.p1.p6 %}
           <a href="{{site.baseurl}}/downloads/offengelegte-zahlungsstroeme-und-zahlungsabgleich-2017-und-empfehlungen.pdf">
             {% t zahlungsabgleich.p1.link8 %}
-          </a>
+          </a>{% t point %}
         </p>
         <p>
           {% t zahlungsabgleich.p4.p11 %}
@@ -80,7 +80,8 @@ breadcrumb:
             {% t zahlungsabgleich.förderabgaben.p1 %}
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/ ">
               {% t zahlungsabgleich.förderabgaben.link1 %}
-            </a>
+            </a>{% t zahlungsabgleich.förderabgaben.p2 %}
+
           </p>
           <br/>
 
