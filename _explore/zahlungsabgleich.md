@@ -190,7 +190,7 @@ breadcrumb:
            END TEST -->
 
           <p style="position: relative; margin-top: 50px !important;">
-          
+
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.förderabgaben.link %}
             </a>
@@ -198,7 +198,7 @@ breadcrumb:
         </section>
 
         <section id="abdeckung" style="position: relative;">
-          <h2>{% t zahlungsabgleich.abdeckung.title %}</h2>
+
           <p>
             {% t zahlungsabgleich.abdeckung.p1 %}
           </p>
@@ -223,51 +223,7 @@ breadcrumb:
             </div>
           </div>
           <br/>
-
-
-          <p style="font-size: 0.75rem; position: relative; margin-top: 50px !important;">
-            {% t zahlungsabgleich.abdeckung.p2 %}
-            <a href="{{site.baseurl}}/daten/zahlungsabgleich/identifizierung-unternehmen/">
-              {% t zahlungsabgleich.abdeckung.link1 %}
-            </a>
-            {% t zahlungsabgleich.abdeckung.p3 %}
-          </p>
-          <p style="font-size: 0.75rem; ">
-            {% t zahlungsabgleich.abdeckung.p4 %}
-          </p>
-          <p style="font-size: 0.75rem; ">
-            {% t zahlungsabgleich.abdeckung.p5 %}
-          </p>
-          <p style="font-size: 0.75rem; ">
-            {% t zahlungsabgleich.abdeckung.p6_1 %}
-            <a href="https://www.bveg.de/Der-BVEG/Publikationen/Jahresberichte">
-              {% t zahlungsabgleich.abdeckung.link3 %}
-            </a>
-            {% t zahlungsabgleich.abdeckung.p6_2 %}
-          </p>
-          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>
-            {% t zahlungsabgleich.abdeckung.link2 %}
-          </a>
-          <br/><br/>
-          <p>
-            {% t zahlungsabgleich.abdeckung.p7 %}
-          </p>
-          <table>
-            <tbody style="font-size: 0.9rem;">
-              <tr>
-                <td><strong>{% t zahlungsabgleich.abdeckung.table.head.h1 %}</strong></td>
-                <td><strong>{% t zahlungsabgleich.abdeckung.table.head.h2 %}</strong></td>
-                <td><strong>{% t zahlungsabgleich.abdeckung.table.head.h3 %}</strong></td>
-              </tr>
-              <tr>
-                <td>{% t zahlungsabgleich.abdeckung.table.row1.p1 %}</td>
-                <td>{% t zahlungsabgleich.abdeckung.table.row1.p2 %}</td>
-                <td>{% t zahlungsabgleich.abdeckung.table.row1.p3 %}</td>
-              </tr>
-            </tbody>
-          </table>
-          <br/><br/>
+          <p>{% t zahlungsabgleich.abdeckung.p2 %}</p>
         </section>
         <br />
 
