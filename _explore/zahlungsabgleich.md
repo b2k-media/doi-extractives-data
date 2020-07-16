@@ -27,12 +27,14 @@ breadcrumb:
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/regierungsstellen-steuergeheimnis/">{% t zahlungsabgleich.p1.link3 %}</a>
           {% t zahlungsabgleich.p1.p1_3 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/auswahl-sektoren/">{% t zahlungsabgleich.p1.link4 %}</a> {% t zahlungsabgleich.p1.p1_4 %}<br/>
-          <ul>
-              <li> {% t zahlungsabgleich.p1.li_1 %}</li>
-              <li> {% t zahlungsabgleich.p1.li_2 %}</li>
-              <li> {% t zahlungsabgleich.p1.li_3 %}</li>
-              <li> {% t zahlungsabgleich.p1.li_4 %}</li>
-          </ul>
+        </p>
+        <ul>
+            <li> {% t zahlungsabgleich.p1.li_1 %}</li>
+            <li> {% t zahlungsabgleich.p1.li_2 %}</li>
+            <li> {% t zahlungsabgleich.p1.li_3 %}</li>
+            <li> {% t zahlungsabgleich.p1.li_4 %}</li>
+        </ul>
+        <p>
           {% t zahlungsabgleich.p1.p2 %}
           {% t zahlungsabgleich.p1.p4 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#körperschaftsteuer">
@@ -67,6 +69,9 @@ breadcrumb:
            {% t zahlungsabgleich.p1.p5_1 %}
         </p>
         <p>
+          {% t zahlungsabgleich.p1.p6 %}
+        </p>
+        <p>
           {% t zahlungsabgleich.p4.p11 %}
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             {% t zahlungsabgleich.p4.link11 %}
@@ -77,6 +82,9 @@ breadcrumb:
           <h2>{% t zahlungsabgleich.förderabgaben.title %}</h2>
           <p>
             {% t zahlungsabgleich.förderabgaben.p1 %}
+            <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
+              {% t zahlungsabgleich.förderabgaben.link1 %}
+            </a>
           </p>
           <br/>
 
