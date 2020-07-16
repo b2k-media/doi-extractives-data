@@ -190,7 +190,7 @@ breadcrumb:
            END TEST -->
 
           <p style="position: relative; margin-top: 50px !important;">
-            {% t zahlungsabgleich.förderabgaben.p2 %}
+          
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.förderabgaben.link %}
             </a>
