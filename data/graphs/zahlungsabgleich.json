@@ -72,7 +72,7 @@
     ]
 	],
 	"color": ["#28467a", "#4682be"],
-	"unit": "€",
+	"unit": "100%",
 	"labels": ["Geschätzte Abdeckung aller identifizierter Unternehmen", "Geschätzte Abdeckung aller teilnehmenden Unternehmen"],
 	"labels_en": ["Estimated coverage of all identified companies", "Estimated coverage of all participating companies"],
 	"xAxis": [0, 20, 40, 60, 80, 106]
