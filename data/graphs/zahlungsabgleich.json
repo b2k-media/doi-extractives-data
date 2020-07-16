@@ -43,7 +43,7 @@
       [97.0 , "Erdöl"],
       [99.2 , "Erdgas"],
       [96.6 , "Kali"],
-      [95.7 , "Steinsalze"]
+      [95.7 , "Steinsalze"],
       [99.9 , "Siedesalze"]
 		],
     [
@@ -51,7 +51,7 @@
       [97.0 , "Erdöl"],
       [99.2 , "Erdgas"],
       [96.6 , "Kali"],
-			["k.A." , "Steinsalze"]
+			["k.A." , "Steinsalze"],
       [99.9 , "Siedesalze"]
     ]
 	],
