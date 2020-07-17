@@ -38,18 +38,13 @@ breadcrumb:
           {% t zahlungsabgleich.p1.p2 %}
           {% t zahlungsabgleich.p1.p4 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#körperschaftsteuer">
-            {% t zahlungsabgleich.p1.link5_1 %}
-          </a> ,
+            {% t zahlungsabgleich.p1.link5_1 %}</a> ,
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#feldes">
-            {% t zahlungsabgleich.p1.link5_2 %}
-          </a> ,
+            {% t zahlungsabgleich.p1.link5_2 %}</a> ,
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#gewerbesteuer">
-            {% t zahlungsabgleich.p1.link5_3 %}
-          </a>
+            {% t zahlungsabgleich.p1.link5_3 %}</a> ,
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#pachtzahlungen">
-            {% t zahlungsabgleich.p1.link5_4 %}
-          </a>
-          {% t zahlungsabgleich.p1.p2_1 %}
+            {% t zahlungsabgleich.p1.link5_4 %}</a> {% t zahlungsabgleich.p1.p2_1 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link5_5 %}</a>
         </p>
         <p>
