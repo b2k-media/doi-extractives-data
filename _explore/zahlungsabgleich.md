@@ -232,10 +232,7 @@ breadcrumb:
           <h2>{% t zahlungsabgleich.unternehmen.title %}</h2>
           <p>
             {% t zahlungsabgleich.unternehmen.p1 %}
-            <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
-              {% t zahlungsabgleich.unternehmen.link1 %}
-            </a>
-            {% t zahlungsabgleich.unternehmen.p2 %}
+            <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">{% t zahlungsabgleich.unternehmen.link1 %}</a>{% t zahlungsabgleich.unternehmen.p2 %}
           </p>
           <br/>
           <div id="chart-1" class="explore-exploration slab-alpha">
