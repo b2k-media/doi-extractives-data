@@ -231,7 +231,7 @@ breadcrumb:
           <br/>
           <div id="chart-1" class="explore-exploration slab-alpha">
             <div class="regions container">
-              <div class="graph">
+              <div class="graph" style="width:100%;">
                 <div class="container chart-container">
                   <div id="pieChart"></div>
                 </div>
