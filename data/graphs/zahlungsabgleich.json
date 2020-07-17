@@ -33,7 +33,7 @@
 	"labels": ["Zahlungen Unternehmen", "Einnahmen staatliche Stellen"],
 	"labels_en": ["Total payments according to the company", "Total payments according to the public authorities"],
 	"xAxis": [0, 100000000, 200000000, 300000000, 400000000, 500000000],
-	"unit": "€"
+	"unit": "    €"
 }, {
 	"title": "Abdeckung der Sektoren durch die an D-EITI teilnehmenden Unternehmen",
 	"title_en": "Coverage of sectors*",

@@ -191,14 +191,15 @@ $(document).ready(function(){
       }
     }
 
-
+console.log(chartTitle);
+console.log($(".jqplot-xaxis-tick").html());
     plot2b = $.jqplot(chart, data, plot_options);
     if(jsonUnit != null)
       $(".jqplot-xaxis-tick").last().text(jsonUnit);
     else if (chartTitle == "Abdeckung der Sektoren durch die an D-EITI teilnehmenden Unternehmen" || chartTitle == "Coverage of sectors*")
-      $(".jqplot-xaxis-tick").last().text('Mio. €');
-    else
       $(".jqplot-xaxis-tick").last().text('100%');
+    else
+      $(".jqplot-xaxis-tick").last().text('Mio. €');
 
     if($( window ).width() < 600) {
       $(".jqplot-point-label").css("left", $( window ).width() - 50);
