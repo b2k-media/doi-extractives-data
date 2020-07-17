@@ -195,7 +195,7 @@ $(document).ready(function(){
     plot2b = $.jqplot(chart, data, plot_options);
     if(jsonUnit != null)
       $(".jqplot-xaxis-tick").last().text(jsonUnit);
-    else if (chartTitle == "Abdeckung der Sektoren*" || chartTitle == "Abdeckung der Sektoren* EN")
+    else if (chartTitle == "Abdeckung der Sektoren durch die an D-EITI teilnehmenden Unternehmen" || chartTitle == "Abdeckung der Sektoren EN")
       $(".jqplot-xaxis-tick").last().text('100%');
     else
       $(".jqplot-xaxis-tick").last().text('Mio. €');
