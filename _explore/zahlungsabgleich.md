@@ -574,7 +574,7 @@ breadcrumb:
             <sup>{% t zahlungsabgleich.sub-4.title %}</sup>
             {% t zahlungsabgleich.sub-4.text %}
           </p>
-          {% t zahlungsabgleich.unternehmen.p3_1 %}
+          {% t zahlungsabgleich.unternehmen.p3_1 %}<br/>
           <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
             <icon class="fa fa-file-text-o u-padding-right"></icon>
             {% t zahlungsabgleich.unternehmen.link3 %}
@@ -590,17 +590,12 @@ breadcrumb:
           </p>
           <p>
             {% t zahlungsabgleich.unternehmen.p6 %}
-            <a href="{{site.baseurl}}/downloads/Zahlungsabgleich_Empehlungen_Unabhangiger_Verwalter.pdf">
-              {% t zahlungsabgleich.unternehmen.link5 %}
-            </a>
-            {% t zahlungsabgleich.unternehmen.p7 %}
-          </p>
-          <p style="font-size: 0.75rem;">
-            {% t zahlungsabgleich.unternehmen.p8 %}
-            <a href="https://www.bundesanzeiger.de/">
-              {% t zahlungsabgleich.unternehmen.link6 %}
-            </a>
-            {% t zahlungsabgleich.unternehmen.p9 %}
+            <strong>{% t zahlungsabgleich.unternehmen.p6_1 %}</strong>
+            {% t zahlungsabgleich.unternehmen.p6_2 %}
+            <strong>{% t zahlungsabgleich.unternehmen.p6_3 %}</strong>
+            {% t zahlungsabgleich.unternehmen.p6_4 %}
+            <strong>{% t zahlungsabgleich.unternehmen.p6_5 %}</strong>
+            {% t zahlungsabgleich.unternehmen.p6_6 %}
           </p>
         </section>
         <br />
