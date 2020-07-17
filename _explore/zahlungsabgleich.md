@@ -223,7 +223,7 @@ breadcrumb:
             </div>
           </div>
           <br/>
-          <p>{% t zahlungsabgleich.abdeckung.p2 %}</p>
+          <p>{% t zahlungsabgleich.abdeckung.p2 %}<a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/#zahlungen">{% t zahlungsabgleich.abdeckung.link1 %}</a></p>
         </section>
         <br />
 
