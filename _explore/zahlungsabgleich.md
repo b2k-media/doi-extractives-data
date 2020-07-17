@@ -256,6 +256,7 @@ breadcrumb:
                 <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h4 %}</strong></td>
                 <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h5 %}</strong></td>
                 <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h6 %}</strong></td>
+                <td><strong>{% t zahlungsabgleich.unternehmen.table.head.h7 %}</strong></td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row1.p1 %}</td>
@@ -270,6 +271,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row1.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row1.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row1.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row1.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row2.p1 %}</td>
@@ -284,6 +286,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row2.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row2.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row2.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row2.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row3.p1 %}</td>
@@ -292,6 +295,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row3.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row3.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row3.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row3.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row4.p1 %}</td>
@@ -306,6 +310,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row4.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row4.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row4.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row4.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row5.p1 %}</td>
@@ -320,6 +325,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row5.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row5.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row5.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row5.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row6.p1 %}</td>
@@ -328,6 +334,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row6.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row6.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row6.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row6.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row7.p1 %}</td>
@@ -342,6 +349,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row7.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row7.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row7.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row7.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row8.p1 %}</td>
@@ -362,6 +370,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row8.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row8.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row8.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row8.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row9.p1 %}</td>
@@ -382,6 +391,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row9.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row9.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row9.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row9.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row10.p1 %}</td>
@@ -402,6 +412,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row10.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row10.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row10.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row10.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row11.p1 %}</td>
@@ -422,6 +433,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row11.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row11.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row11.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row11.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row12.p1 %}</td>
@@ -436,6 +448,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row12.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row12.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row12.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row12.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row13.p1 %}</td>
@@ -456,6 +469,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row13.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row13.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row13.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row13.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row14.p1 %}</td>
@@ -464,6 +478,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row14.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row14.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row14.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row14.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row15.p1 %}</td>
@@ -484,6 +499,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row15.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row15.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row15.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row15.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row16.p1 %}</td>
@@ -504,6 +520,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row16.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row16.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row16.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row16.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row17.p1 %}</td>
@@ -518,6 +535,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row17.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row17.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row17.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row17.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row18.p1 %}</td>
@@ -526,6 +544,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row18.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row18.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row18.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row18.p7 %}</td>
               </tr>
               <tr>
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p1 %}</td>
@@ -534,6 +553,7 @@ breadcrumb:
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p4 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p5 %}</td>
                   <td>{% t zahlungsabgleich.unternehmen.table.row19.p6 %}</td>
+                  <td>{% t zahlungsabgleich.unternehmen.table.row19.p7 %}</td>
               </tr>
             </tbody>
           </table>
