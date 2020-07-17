@@ -36,7 +36,6 @@ breadcrumb:
         </ul>
         <p>
           {% t zahlungsabgleich.p1.p2 %}
-          {% t zahlungsabgleich.p1.p4 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#körperschaftsteuer">
             {% t zahlungsabgleich.p1.link5_1 %}</a> ,
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#feldes">
