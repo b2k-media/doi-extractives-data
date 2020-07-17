@@ -3898,12 +3898,12 @@ zahlungsabgleich:
     table:
       head:
         h1: "Datenmeldungen Unternehmen"
-        h2: "Körperschaftsteuer EUR"
+        h2: Körperschaft-<br/>steuer EUR
         h3: "Gewerbesteuer EUR"
         h4: "Feldes/ Förderabgaben EUR"
         h5: "Pachtzahlungen EUR"
         h6: "Zahlungen in die Infrastruktur"
-        h7: "Summe berichteter Zahlungen EUR"
+        h7: Summe berichteter Zahlungen <br/>EUR
       row1:
         p1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
         p2: "---"
