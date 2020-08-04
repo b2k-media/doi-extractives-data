@@ -4169,7 +4169,7 @@ downloads:
     - name: subventionen-steinkohle
       title: Daten zu Subventionen im Steinkohlenbergbau
     - name: zahlungsabgleich
-     title: Daten zum Zahlungsabgleich
+      title: Daten zum Zahlungsabgleich
     - name: daten-zum-ersten-deiti-bericht
       title: "Daten zum 1. D-EITI Bericht (2017)" 
     - name: daten-zum-deiti-bericht
