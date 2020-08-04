@@ -4106,7 +4106,7 @@ how-it-work:
       item7: Recycling
 
 downloads:
-  title: Daten & Dokumentation Herunterladen
+  title: Daten & Dokumentation herunterladen
   nav_items:
     - name: title
       title: Seitenanfang
@@ -4143,8 +4143,8 @@ downloads:
       title: Daten zum Beitrag zum BIP
     - name: daten-zur-beschaftigten
       title: Daten zu Beschäftigten
-    - name: daten-zur-exporte
-      title: Daten zu Exporten
+    - name: daten-zum-aussenhandel
+      title: Daten zum Außenhandel
     - name: daten-gesetzl-zahlungsberichte
       title: Daten der gesetzlichen Zahlungsberichte
     - name: daten-bergbau-berechtigungen
@@ -4166,25 +4166,31 @@ downloads:
       title: Daten zu Umsatz Steine und Erden
     - name: anpassungsgeld
       title: Daten zu Anpassungsgeld
+    - name: subventionen-steinkohle
+      title: Daten zu Subventionen im Steinkohlenbergbau
     - name: zahlungsabgleich
+    - name: daten-zum-ersten-deiti-bericht
+      title: "Daten zum 1. D-EITI Bericht (2017)"
       title: Daten zum Zahlungsabgleich
     - name: daten-zum-deiti-bericht
-      title: "Aggregierte Daten der D-EITI"
+      title: Aggregierte Daten der D-EITI
   beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_2017.csv"
-  steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor_2010-2017.xlsx"
-  einnahmen_CSV: "/downloads/Einnahmen_Feldesabgabe_2016-2019.csv"
+  steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor_2010-2018.xlsx"
+  einnahmen_CSV: "/downloads/Einnahmen_aus_Feldesabgabe_2016-2019.csv"
   einnahmen_2_CSV: "/downloads/Einnahmen aus Foerderabgaben 2015-2019.csv"
-  umsatz_CSV: "/downloads/Umsatz_und_Beschaeftigung_Bergbau_Steine_und_Erden_2016-2018.xls"
+  umsatz_CSV: "/downloads/Umsatz_Bergbau_und_Gewinnung_von_Steinen_und_Erden_2016-2019.xlsx"
+  subventionen-steinkohle: "Subventionen_im_Steinkohlenbergbau_2014-2018.csv"
   D-EITI_xlsx: "/downloads/Tabellen_Zahlungsabgleich_2017.xlsx"
   zipfile: "/downloads/aggregierte_D-EITI_Daten.zip"
   unabhaengiger_verwalter_PDF: "/downloads/Offengelegte_Zahlungsstroeme_und_Zahlungsabgleich_2017_und_Empfehlungen.pdf"
-  exports_CSV: "/downloads/Außenhandel_Bergbau_Steine und Erden_2016-2017.xls"
-  production_CSV: "/downloads/Rohstoffgewinnung in Deutschland 2017_Menge_Wert.xlsx"
+  exports_CSV: "/downloads/Aussenhandel_Bergbau_und_Gewinnung_von_Steinen_und_Erden_2016-2019.xls"
+  production_CSV: "/downloads/Rohstoffgewinnung_in_Deutschland_2017-2018.csv"
   uebersicht_neuerteilungen_XLSX: "/downloads/Uebersicht_Neuerteilungen_Aenderungen_und_Loeschungen_Bergbauberechtigungen_2015-2017_nach_Bundesland.xls"
   uebersicht_neuerteilungen_text: "Download der Bergbauberechtigungen 2015-2017 (Excel)"
   uebersicht_bergbau_XLS: "/downloads/Uebersicht_Bergbauberechtigungen_in_Deutschland_nach_Bundesland.xlsx"
   uebersicht_bergbau_text: "Download aller Bergbauberechtigungen (Excel)"
   uebersicht_zahlungsberichte_XLSX: "/downloads/Uebersicht_gesetzliche_Zahlungsberichte_fuer_2016-2018.xlsx"
+  erster-deiti-bericht: "http://rohstofftransparenz.de/downloads/DatenZum1.D-EITIBericht.zip"
 
   h1: Daten zur interaktiven Rohstoffkarte
   p0: "Alle zur Verfügung gestellten Informationen und Daten basieren auf dem"
@@ -4222,7 +4228,7 @@ downloads:
     link: (EXCEL)
     p2: Download der Daten (Excel)
   exporte:
-    h1: "Daten zu Exporten"
+    h1: "Daten zum Außenhandel"
     p1: "Die Daten zu den deutschen Rohstoffexporten basieren auf Angaben zu den Güterabteilungen (des Güterverzeichnisses für Produktionsstatistiken vom Statistischen Bundesamt und umfassen in diesen Berechnungen die Bereiche „Kohle“ (GP09-05), „Erdöl und Erdgas“ (GP09-06), „Erze“ (GP09-07) und „Steine und Erden, sonstiger Bergbau“ (GP09-08). Die Daten der Exporte von 2012-2017 wurden der "
     link1: "Genesis-Online-Datenbank"
     p2: " von Destatis am 14.08.2019 entnommen. "
@@ -4263,7 +4269,7 @@ downloads:
     label1: "Download der Daten zu Förderabgaben"
     label2: "Download der Daten zu Feldesabgaben"
   umsatz:
-    title: Daten zu Umsatz Steine und Erden
+    title: Daten zu Umsatz Bergbau, Steine und Erden
     p: Die Daten wurden dem „Jahresbericht für Betriebe 2017“ des Statistischen Bundesamtes entnommen. Dieser Bericht bezieht sich auf Betriebe von Unternehmen mit 20 und mehr Beschäftigten, (Statistik ist nicht vergleichbar mit den Angaben zu den sozialversicherungspflichtigen Beschäftigten) und deckt damit nicht die Gesamtheit der rohstoffgewinnenden Betriebe ab
     link: (EXCEL).
   anpassungsgeld:
@@ -4271,6 +4277,11 @@ downloads:
     p: Die Daten zur Höhe der Subventionen wurden dem aktuellen Subventionsbericht der Bundesregierung entnommen, der alle zwei Jahre erscheint
     link: (PDF).
     link_data: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/Subventionspolitik/2017-08-23-subventionsbericht-26.html"
+  subventionen-steinkohle:
+    title: "Daten zu Subventionen im Steinkohlenbergbau"
+    p1: "Die Daten wurden dem 26. Subventionsbericht der Bundesregierung "
+    p1_1: "entnommen."
+    link: "26. Subventionsbericht der Bundesregierung"
   zahlungsabgleich:
     title: "Daten zum Zahlungsabgleich"
     p1_1: "Die Informationen zum Zahlungsabgleich finden Sie in dieser"
@@ -4278,6 +4289,10 @@ downloads:
     p1_2: "Der Zahlungsabgleich wurden von dem Unabhängigen Verwalter der D-EITI für den zweiten Bericht (Warth & Klein Grant Thornton Wirtschaftsprüfungsgesellschaft Düsseldorf) erstellt. Erläuterungen zur Erstellung des Zahlungsabgleichs sowie zur Auswahl der Rohstoffsektoren, Unternehmen, und Zahlungsströmen sind in diesem"
     link2: "pdf"
     p1_3: "dargestellt. Dort finden Sie ebenfalls Empfehlungen des Unabhängigen Verwalters für die zukünftige Berichterstattung unter D-EITI."
+  daten-zum-ersten-deiti-bericht:
+    title: "Daten zum 1. D-EITI Bericht (2017)"
+    p1: "Die aggregierten Daten des 1. D-EITI Berichts – Bericht für 2016 stehen hier zum Download zur Verfügung."
+    download_label: "Download der aggregierten Daten des 1. D-EITI Berichts"
   daten-zum-deiti-bericht:
     title: Aggregierte Daten der D-EITI
     p1: "Die Multi-Stakeholder-Gruppe (MSG) der deutschen Initiative für Transparenz im rohstoffgewinnenden Sektor (D-EITI) hat sich für die Umsetzung des Prinzips offener Daten im Rahmen der D-EITI festgelegt."

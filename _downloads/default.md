@@ -148,7 +148,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}} {% t downloads.production_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (Excel)
+              {% t downloads.download_link %} (csv)
             </a>
           </li>
         </ul>
@@ -176,7 +176,7 @@ permalink: /downloads/
         {% t downloads.p5.p1_2 %}
         {% t downloads.p5.p2 %}
         {% t downloads.p5.p3 %}
-        <ul><li><a target="_blank" href="/downloads/Bruttowertschoepfung_Bergbau_Steine und Erden 2016-2017.xls"><icon class="icon-cloud icon-padded"></icon>{% t downloads.p5.P3_linktext %}</a>
+        <ul><li><a target="_blank" href="/downloads/Bruttowertschoepfung_Bergbau_und_Gewinnung_von_Steinen_und_Erden_2016-2018.xlsx"><icon class="icon-cloud icon-padded"></icon>{% t downloads.p5.P3_linktext %}</a>
             </li>
         </ul>
       </p>
@@ -194,13 +194,13 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.beschäftigten_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (Excel)
+              {% t downloads.download_link %} (csv)
             </a>
           </li>
         </ul>
       </p>
     </div>
-    <div id="daten-zur-exporte">
+    <div id="daten-zum-aussenhandel">
       <h2 id="daten-zur-exporte-nach-menge">{% t downloads.exporte.h1 %}</h2>
       <hr/>
       <p>
@@ -214,7 +214,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.exports_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv, 2 KB)
+              {% t downloads.download_link %} (Excel)
             </a>
           </li>
         </ul>
@@ -312,7 +312,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.steuereinnahmen_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (Excel)
+              {% t downloads.download_link %} (csv)
             </a>
           </li>
         </ul>
@@ -344,13 +344,13 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.einnahmen_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.förderabgaben.label2 %} (Excel)
+              {% t downloads.förderabgaben.label2 %} (csv)
             </a>
           </li>
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.einnahmen_2_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.förderabgaben.label1 %} (Excel)
+              {% t downloads.förderabgaben.label1 %} (csv)
             </a>
           </li>
         </ul>
@@ -385,6 +385,26 @@ permalink: /downloads/
         </a>
       </p>
     </div>
+    <div id="subventionen-steinkohle">
+      <h2 id="subventionen-steinkohle">{% t downloads.subventionen-steinkohle.title %}</h2>
+      <hr/>
+      <p>{% t downloads.subventionen-steinkohle.p1 %}
+        <a target="_blank" href="{% t downloads.anpassungsgeld.link_data %}">
+          {% t downloads.subventionen-steinkohle.link %}
+        </a>{% t downloads.subventionen-steinkohle.p1_1 %}
+      </p>
+      <p class="downloads-download_links-intro">
+        {% t downloads.download_label %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}{% t downloads.subventionen-steinkohle %}">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (csv)
+            </a>
+          </li>
+        </ul>
+      </p>
+    </div>
     <div id="zahlungsabgleich">
       <h2 id="zahlungsabgleich">{% t downloads.zahlungsabgleich.title %}</h2>
       <hr/>
@@ -399,7 +419,25 @@ permalink: /downloads/
         </a>
         {% t downloads.zahlungsabgleich.p1_3 %}
       </p>
-    </div>
+  </div>
+  <div id="daten-zum-ersten-deiti-bericht">
+    <h2 id="daten-zum-ersten-deiti-bericht">{% t downloads.daten-zum-ersten-deiti-bericht.title %}</h2>
+    <hr/>
+    <p>
+    {% t downloads.daten-zum-deiti-bericht.p1 %}
+    </p>
+    <p class="downloads-download_links-intro">
+        {% t downloads.daten-zum-deiti-bericht.download_label %}
+        <ul class="downloads-download_links">
+          <li>
+            <a href="{{site.baseurl_root}}{% t downloads.erster-deiti-bericht %}">
+              <icon class="icon-cloud icon-padded"></icon>
+              {% t downloads.download_link %} (zip)
+            </a>
+          </li>
+        </ul>
+     </p>
+  </div>
   <div id="daten-zum-deiti-bericht">
     <h2 id="daten-zum-deiti-bericht">{% t downloads.daten-zum-deiti-bericht.title %}</h2>
     <hr/>
