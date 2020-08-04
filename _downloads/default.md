@@ -397,7 +397,7 @@ permalink: /downloads/
         {% t downloads.download_label %}
         <ul class="downloads-download_links">
           <li>
-            <a href="{{site.baseurl_root}}{% t downloads.subventionen-steinkohle %}">
+            <a href="{{site.baseurl_root}}{% t downloads.subventionen-steinkohle_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
               {% t downloads.download_link %} (csv)
             </a>
@@ -424,10 +424,10 @@ permalink: /downloads/
     <h2 id="daten-zum-ersten-deiti-bericht">{% t downloads.daten-zum-ersten-deiti-bericht.title %}</h2>
     <hr/>
     <p>
-    {% t downloads.daten-zum-deiti-bericht.p1 %}
+    {% t downloads.daten-zum-ersten-deiti-bericht.p1 %}
     </p>
     <p class="downloads-download_links-intro">
-        {% t downloads.daten-zum-deiti-bericht.download_label %}
+        {% t downloads.daten-zum-ersten-deiti-bericht.download_label %}
         <ul class="downloads-download_links">
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.erster-deiti-bericht %}">
