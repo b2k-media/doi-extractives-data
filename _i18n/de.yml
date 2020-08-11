@@ -4175,7 +4175,7 @@ downloads:
     - name: daten-zum-deiti-bericht
       title: Aggregierte Daten der D-EITI
   beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_2017.csv"
-  steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor_2010-2018.xlsx"
+  steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor_2010-2018.csv"
   einnahmen_CSV: "/downloads/Einnahmen_aus_Feldesabgabe_2016-2019.csv"
   einnahmen_2_CSV: "/downloads/Einnahmen aus Foerderabgaben 2015-2019.csv"
   umsatz_CSV: "/downloads/Umsatz_Bergbau_und_Gewinnung_von_Steinen_und_Erden_2016-2019.xlsx"
@@ -4183,7 +4183,7 @@ downloads:
   D-EITI_xlsx: "/downloads/Tabellen_Zahlungsabgleich_2017.xlsx"
   zipfile: "/downloads/aggregierte_D-EITI_Daten.zip"
   unabhaengiger_verwalter_PDF: "/downloads/Offengelegte_Zahlungsstroeme_und_Zahlungsabgleich_2017_und_Empfehlungen.pdf"
-  exports_CSV: "/downloads/Aussenhandel_Bergbau_und_Gewinnung_von_Steinen_und_Erden_2016-2019.xls"
+  exports_CSV: "/downloads/Aussenhandel_Bergbau_und_Gewinnung_von_Steinen_und_Erden_2016-2019.xlsx"
   production_CSV: "/downloads/Rohstoffgewinnung_in_Deutschland_2017-2018.csv"
   uebersicht_neuerteilungen_XLSX: "/downloads/Uebersicht_Neuerteilungen_Aenderungen_und_Loeschungen_Bergbauberechtigungen_2015-2017_nach_Bundesland.xls"
   uebersicht_neuerteilungen_text: "Download der Bergbauberechtigungen 2015-2017 (Excel)"

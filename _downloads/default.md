@@ -127,7 +127,7 @@ permalink: /downloads/
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link1 %}
       </a>
       {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.p3_3_1 %}
-      <a style="word-wrap: break-word;" target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html">
+      <a class="dont-break-out" target="_blank" href="https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/IndustrieVerarbeitendesGewerbe/IndustrieVerarbeitendesGewerbe.html">
         {% t gesamtdeutsche_rohstoffproduktion.kalk_mergel.link2 %}
       </a>      
       <br/><br/>
@@ -385,7 +385,7 @@ permalink: /downloads/
         </a>
       </p>
     </div>
-    <div id="subventionen-steinkohle">
+    <div style="margin-top:1.25em;" id="subventionen-steinkohle">
       <h2 id="subventionen-steinkohle">{% t downloads.subventionen-steinkohle.title %}</h2>
       <hr/>
       <p>{% t downloads.subventionen-steinkohle.p1 %}
@@ -420,7 +420,7 @@ permalink: /downloads/
         {% t downloads.zahlungsabgleich.p1_3 %}
       </p>
   </div>
-  <div id="daten-zum-ersten-deiti-bericht">
+  <div style="margin-top:1.25em;" id="daten-zum-ersten-deiti-bericht">
     <h2 id="daten-zum-ersten-deiti-bericht">{% t downloads.daten-zum-ersten-deiti-bericht.title %}</h2>
     <hr/>
     <p>
