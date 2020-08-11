@@ -45,11 +45,6 @@ breadcrumb:
               {% t zahlungsströme.gewerbesteuer.link %}
             </a>
             {% t zahlungsströme.gewerbesteuer.p1_2 %}
-            <sup>
-              <a href="#sup-1">
-                {% t zahlungsströme.sup1.title %}
-              </a>
-            </sup>
             {% t zahlungsströme.gewerbesteuer.p1_3 %}
           </p>
           <p>
@@ -113,15 +108,22 @@ breadcrumb:
         <p>{% t zahlungsströme.pachtzahlungen.p4 %}</p>
       </section>
       <br/>
+      <section id="infrastruktur" style="position: relative;">
+        <h2>{% t zahlungsströme.infrastruktur.title %}</h2>
+        <p>{% t zahlungsströme.infrastruktur.p1 %}</p>
+      </section>
+      <br/>
+      <section id="ausgestaltung" style="position: relative;">
+        <h2>{% t zahlungsströme.ausgestaltung.title %}</h2>
+        <p>{% t zahlungsströme.ausgestaltung.p1 %}</p>
+      </section>
+      <br/>
       <section id="wesentlichkeit" style="position: relative;">
         <h2>{% t zahlungsströme.wesentlichkeit.title %}</h2>
         <p>{% t zahlungsströme.wesentlichkeit.p1 %}</p>
         <p>{% t zahlungsströme.wesentlichkeit.p2 %}</p>
+        <p>{% t zahlungsströme.wesentlichkeit.p3 %}</p>
       </section>
-      <p>
-        <sup id="sup-1">{% t zahlungsströme.sup1.title %}</sup>
-        {% t zahlungsströme.sup1.text %}
-      </p>
     </div>
 
     <div class="sticky sticky_nav container-right-3">
