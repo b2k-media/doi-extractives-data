@@ -377,25 +377,6 @@ breadcrumb:
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t unternehmen-und-zahlungsströme.daten_einsehen %}
         </a>
-        <br/>
-        <br/>
-        <p style="font-size: 0.75rem" id="sub-1">
-          <sup>{% t unternehmen-und-zahlungsströme.sub-1.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub-1.text %}
-        </p>
-        <p style="font-size: 0.75rem" id="sub-2">
-          <sup>{% t unternehmen-und-zahlungsströme.sub-2.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub-2.text %}
-        </p>
-        <p style="font-size: 0.75rem" id="sub-3">
-          <sup>{% t unternehmen-und-zahlungsströme.sub-3.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub-3.text %}
-        </p>
-        <p style="font-size: 0.75rem" id="sub-4">
-          <sup>{% t unternehmen-und-zahlungsströme.sub-4.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub-4.text %}
-        </p>
-        <br/>
       </section>
       <br/>
       <section id="differenzen" style="position: relative;">
