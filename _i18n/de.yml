@@ -2898,7 +2898,7 @@ unternehmen-und-zahlungsströme:
           h7: "ungeklärte Differenzen EUR"
           h8: "ungeklärte Differenzen %"
         row1:
-          i: "1"
+          i: "1. "
           p1: "BEB Erdgas und Erdöl GmbH & Co. KG, Hannover"
           p2: "---"
           p3: " "
@@ -2908,7 +2908,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row2:
-          i: "2"
+          i: "2. "
           p1: "DEA Deutsche Erdoel AG, (heute: Wintershall DEA Deutschland GmbH)"
           p2: "4.809.218,00"
           p3: "4.667.983,76"
@@ -2918,7 +2918,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: ""
         subhead1:
-          i: "3"
+          i: "3. "
           title: "Dyckerhoff - Gruppe:"
         row3:
           p1: "Dyckerhoff - Gruppe: "
@@ -2930,7 +2930,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: ""
         row4:
-          i: "4"
+          i: "4. "
           p1: "ExxonMobil Central Europe Holding GmbH"
           p2: "43.201.773,00"
           p3: "40.949.548,00"
@@ -2940,7 +2940,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: ""
         row5:
-          i: "5"
+          i: "5. "
           p1: "Heidelberger Sand und Kies GmbH, Heidelberg"
           p2: "784.633,00"
           p3: "741.374,00"
@@ -2950,7 +2950,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: ""
         row6:
-          i: "6"
+          i: "6. "
           p1: "Holcim (Deutschland) GmbH"
           p2: "158.068,53"
           p3: "12.819.700 2) 478.164,00"
@@ -2960,7 +2960,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row7:
-          i: "7"
+          i: "7. "
           p1: "JTSD-Braunkohlebergbau GmbH / MIBRAG"
           p2: "21.158.523,91"
           p3: "17.801.387,00"
@@ -2970,7 +2970,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row8:
-          i: "8"
+          i: "8. "
           p1: "K+S - Gruppe:/ esco Gmbh & Co. KG"
           p2: "--"
           p3: " "
@@ -2980,7 +2980,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "    
         row8:
-          i: "9"
+          i: "9. "
           p1: "K+S -Gruppe / K+S Kali GmbH "
           p2: "--"
           p3: " "
@@ -2990,7 +2990,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "    
         row10:
-          i: "10"
+          i: "10. "
           p1: ". LEAG Lausitzer Energie Bergbau AG"
           p2: "--"
           p3: " "
@@ -3000,7 +3000,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "    
         row11:
-          i: "11"
+          i: "11. "
           p1: "Neptune Energy Deutschland GmbH (ehemals: Engie E&P Holding Germany GmbH)"
           p2: "427.275,00"
           p3: "405.000,00"
@@ -3010,7 +3010,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "    
         row12:
-          i: "12"
+          i: "12. "
           p1: "Quarzwerke GmbH"
           p2: "4.543.000,00"
           p3: "4.299.120,00"
@@ -3020,7 +3020,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row13:
-          i: "13"
+          i: "13. "
           p1: "RWE-Gruppe/RWE Power AG"
           p2: "--"
           p3: " "
@@ -3030,7 +3030,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "    
         row14:
-          i: "14"
+          i: "14. "
           p1: "RWE-Gruppe / Rheinische Baustoffwerke GmbH"
           p2: "--"
           p3: " "
@@ -3040,7 +3040,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "    
         row15:
-          i: "15"
+          i: "15. "
           p1: "Sibelco Deutschland GmbH"
           p2: "962.614,09"
           p3: "895.361,00"
@@ -3050,7 +3050,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row16:
-          i: "16"
+          i: "16. "
           p1: "Südwestdeutsche Salzwerke AG"
           p2: "3.992.919,68"
           p3: "3.783.255,00"
@@ -3060,7 +3060,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row17:
-          i: "17"
+          i: "17. "
           p1: "Vermilion Energy Germany GmbH & Co. KG"
           p2: "---"
           p3: " "
@@ -3070,6 +3070,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row18:
+          i: "18. "
           p1: "Wacker Chemie AG"
           p2: "---"
           p3: "---"
@@ -3079,7 +3080,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row19:
-          i: "19"
+          i: "19. "
           p1: "Wintershall GmbH (heute: Wintershall DEA Deutschland GmbH)"
           p2: "---"
           p3: "---"
@@ -3089,7 +3090,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: " "
         row20:
-          i: "10"
+          i: "20. "
           p1: "JTSD Braunkohlenwerke GmbH, Zeitz (Mibrag)"
           p2: "5.636.850,00"
           p3: "5.636.850,00"
