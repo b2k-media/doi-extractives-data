@@ -589,35 +589,7 @@ breadcrumb:
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row20.td7 %}</strong></td>
           </tr>
         </table>
-        <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
-        <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
-          <icon class="fa fa-file-text-o u-padding-right"></icon>
-          {% t unternehmen-und-zahlungsströme.daten_einsehen %}
-        </a>
-        <br/>
-        <br/>
-        <p style="font-size: 0.75rem" id="sub0">
-          <sup>{% t unternehmen-und-zahlungsströme.sub0.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub0.text %}
-        </p>
-        <p style="font-size: 0.75rem" id="sub1">
-          <sup>{% t unternehmen-und-zahlungsströme.sub1.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub1.text %}
-        </p>
-        <p style="font-size: 0.75rem" id="sub2">
-          <sup>{% t unternehmen-und-zahlungsströme.sub2.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub2.text %}
-        </p>
-        <p style="font-size: 0.75rem" id="sub3">
-          <sup>{% t unternehmen-und-zahlungsströme.sub3.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub3.text %}
-        </p>
-        <p style="font-size: 0.75rem" id="sub4">
-          <sup>{% t unternehmen-und-zahlungsströme.sub4.title %}</sup>
-          {% t unternehmen-und-zahlungsströme.sub4.text %}
-        </p>
-        <br/>
-        <br/>
+        
       </section>
       <br/>
       <section id="feldes" style="position: relative;">
