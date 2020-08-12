@@ -62,22 +62,6 @@ breadcrumb:
               <td></td>
             </tr>
             <tr>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8.td1 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8.td2 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8.td3 %}</td>
-            </tr>
-            <tr>
-              <td></td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_1.td2 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_1.td3 %}</td>
-            </tr>
-            <tr>
-              <td></td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_2.td2 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_2.td3 %}</td>
-            </tr>
-         
-            <tr>
               <td></td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_1.td2 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row8_1.td3 %}</td>
