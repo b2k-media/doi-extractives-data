@@ -379,7 +379,6 @@ breadcrumb:
         <p>{% t unternehmen-und-zahlungsströme.differenzen.p %}</p>
         <table style="font-size: 0.75rem">
           <tr>
-            <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td0 %}</strong></td>
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td1 %}</strong></td>
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td2 %}</strong></td>
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td3 %}</strong></td>
@@ -388,7 +387,6 @@ breadcrumb:
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td6 %}</strong></td>
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td7 %}</strong></td>
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td8 %}</strong></td>
-            <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row0.td9 %}</strong></td>
           </tr>
           <tr>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row1.td0 %}{% t unternehmen-und-zahlungsströme.differenzen.table.row1.td1 %}</td>
@@ -589,7 +587,6 @@ breadcrumb:
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row20.td5 %}</strong></td>
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row20.td6 %}</strong></td>
             <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row20.td7 %}</strong></td>
-            <td><strong>{% t unternehmen-und-zahlungsströme.differenzen.table.row20.td8 %}</strong></td>
           </tr>
         </table>
         <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
