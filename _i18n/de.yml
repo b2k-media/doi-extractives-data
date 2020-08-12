@@ -2917,9 +2917,6 @@ unternehmen-und-zahlungsströme:
           p6: "-141.234,24"
           p7: "0,00"
           p8: ""
-        subhead1:
-          i: "3. "
-          title: "Dyckerhoff - Gruppe:"
         row3:
           p1: "Dyckerhoff - Gruppe: "
           p2: "3.717.798,94"
@@ -2979,7 +2976,7 @@ unternehmen-und-zahlungsströme:
           p6: " "
           p7: "0,00"
           p8: " "    
-        row8:
+        row9:
           i: "9. "
           p1: "K+S -Gruppe / K+S Kali GmbH "
           p2: "--"
@@ -2991,7 +2988,7 @@ unternehmen-und-zahlungsströme:
           p8: " "    
         row10:
           i: "10. "
-          p1: ". LEAG Lausitzer Energie Bergbau AG"
+          p1: "LEAG Lausitzer Energie Bergbau AG"
           p2: "--"
           p3: " "
           p4: "0,00"
@@ -3106,6 +3103,7 @@ unternehmen-und-zahlungsströme:
           p4: ""
           p5: "–6.938.520,39"
           p6: "0,00"
+          p7: ""
     differenzen:
       title: "Zahlungen und Differenzen Feldes- und Förderabgaben"
       p: "Die Zahlungen und Differenzen des Zahlungsstroms Feldes-/Förderabgaben stellen sich je Unternehmen wie folgt dar: "

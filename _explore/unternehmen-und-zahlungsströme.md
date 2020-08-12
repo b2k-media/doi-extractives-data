@@ -151,7 +151,6 @@ breadcrumb:
         <table style="font-size: 0.75rem">
           <tbody>
             <tr>
-              <td></td>
               <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.head.h1 %}</strong></td>
               <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.head.h2 %}</strong></td>
               <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.head.h3 %}</strong></td>
@@ -162,7 +161,7 @@ breadcrumb:
               <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.head.h8 %}</strong></td>
             </tr>
             <tr>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row1.i %} {% t unternehmen-und-zahlungsströme.zahlungen.table.row1.p1 %}</td>
+              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row1.i %}{% t unternehmen-und-zahlungsströme.zahlungen.table.row1.p1 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row1.p2 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row1.p3 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row1.p4 %}</td>
@@ -364,6 +363,7 @@ breadcrumb:
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row20.p8 %}</td>
             </tr>
              <tr>
+              <td></td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p1 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p2 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p3 %}</td>
@@ -371,7 +371,6 @@ breadcrumb:
               <td><strong>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p5 %}</strong></td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p6 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p7 %}</td>
-              <td>{% t unternehmen-und-zahlungsströme.zahlungen.table.row21.p8 %}</td>
             </tr>
           </tbody>
         </table>
