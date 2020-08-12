@@ -2798,7 +2798,7 @@ unternehmen-und-zahlungsströme:
     daten_einsehen: "Daten einsehen"
     table_source: "Eigene Darstellung. Detaillierte Quellenangaben siehe:"
     zahlungsabgleich:
-      title: "Am Zahlungsabgleich teilnehmende Unternehmen"
+      title: "Am Zahlungsabgleich teilnehmende Unternehmen bzw. Unternehmensgruppen je Sektor"
       table:
         head:
           h1: " "
@@ -2810,7 +2810,7 @@ unternehmen-und-zahlungsströme:
           td3: "Erdöl und Erdgas"
         row2:
           td1: "2"
-          td2: "DEA Deutsche Erdoel AG, Hamburg"
+          td2: "DEA Deutsche Erdoel AG, Hamburg (heute: Wintershall DEA Deutschland GmbH)"
           td3: "Erdöl und Erdgas"
         row3:
           td1: "3"
@@ -2818,63 +2818,38 @@ unternehmen-und-zahlungsströme:
           td3: "Steine und Erden"
         row4:
           td1: "4"
-          td2: "ENGIE E&P Deutschland GmbH, Lingen"
+          td2: "ExxonMobil Central Europe Holding GmbH, Hamburg"
           td3: "Erdöl und Erdgas"
         row5:
           td1: "5"
-          td2: "ExxonMobil Production Deutschland GmbH, Hannover"
-          td3: "Erdöl und Erdgas"
+          td2: "Heidelberger Sand und Kies GmbH, Heidelberg"
+          td3: "Steine und Erden"
         row6:
           td1: "6"
-          td2: "Heidelberger Sand und Kies GmbH, Heidelberg"
+          td2: "Holcim (Deutschland) GmbH, Hamburg"
           td3: "Steine und Erden"
         row7:
           td1: "7"
-          td2: "K+S - Gruppe"
-        row7_1:
-          td2: "esco - european salt company GmbH & Co. KG, Hannover"
-          td3: "Kali und Salze"
-        row7_2:
-          td2: "K+S Kali GmbH, Kassel"
-          td3: "Kali und Salze"
+          td2: "JTSD-Braunkohlebergbau GmbH, Hamburg"
+          td3: "Braunkohle"
         row8:
           td1: "8"
-          td2: "LafargeHolcim - Gruppe"
+          td2: "K+S – Gruppe"
+          td3: ""
         row8_1:
-          td2: "Buss Basalt GmbH & Co. KG, Münzenberg"
-          td3: "Steine und Erden"
+          td2: "esco – european salt company GmbH & Co. KG, Hannover"
+          td3: "Kali und Salze"
         row8_2:
-          td2: "Holcim (Deutschland) GmbH, Hamburgg"
-          td3: "Steine und Erden"
-        row8_3:
-          td2: "Holcim Beton und Zuschlagstoffe GmbH, Hamburg"
-          td3: "Steine und Erden"
-        row8_4:
-          td2: "Holcim Kieswerk Zeithain GmbH & Co. KG, Dresden"
-          td3: "Steine und Erden"
-        row8_5:
-          td2: "Holcim West Zement GmbH, Beckum"
-          td3: "Steine und Erden"
-        row8_6:
-          td2: "Kalksteinwerke Medenbach GmbH, Breitscheid"
-          td3: "Steine und Erden"
-        row8_7:
-          td2: "Kieswerk Leinetal GmbH & Co. KG, Diekholzen"
-          td3: "Steine und Erden"
-        row8_8:
-          td2: "Kieswerk Hermann GmbH & Co. KG, Kirchhain"
-          td3: "Steine und Erden"
-        row8_9:
-          td2: "Kieswerke Borsberg GmbH & Co. KG, Pirna"
-          td3: "Steine und Erden"
+          td2: "K+S Kali GmbH, Kassel"
+          td3: "Kali und Salze"
         row9:
           td1: "9"
           td2: "Lausitz Energie Bergbau AG, Cottbus"
           td3: "Braunkohle"
         row10:
           td1: "10"
-          td2: "JTSD Braunkohlenwerke GmbH, Zeitz (Mibrag)"
-          td3: "Braunkohle"
+          td2: "Neptune Energy Deutschland GmbH, Lingen (Ems)JTSD Braunkohlenwerke GmbH, Zeitz (Mibrag)"
+          td3: "BraunkohleErdöl und Erdgas"
         row11:
           td1: "11"
           td2: "Quarzwerke GmbH, Frechen"
@@ -2882,10 +2857,10 @@ unternehmen-und-zahlungsströme:
         row12:
           td1: "12"
           td2: "RWE - Gruppe"
-        row11_1:
+        row12_1:
           td2: "Rheinische Baustoffwerke GmbH, Bergheim"
           td3: "Steine und Erden"
-        row11_2:
+        row1_2:
           td2: "RWE Power AG, Essen"
           td3: "Braunkohle"
         row13:
@@ -2894,7 +2869,7 @@ unternehmen-und-zahlungsströme:
           td3: "Steine und Erden"
         row14:
           td1: "14"
-          td2: "Südwestdeutsche Salzwerke AG"
+          td2: "Südwestdeutsche Salzwerke AG, Heilbronn"
           td3: "Kali und Salze"
         row15:
           td1: "15"
@@ -2902,6 +2877,10 @@ unternehmen-und-zahlungsströme:
           td3: "Erdöl und Erdgas"
         row16:
           td1: "16"
+          td2: "Wacker Chemie AG, München"
+          td3: "Kali und Salze"
+        row17:
+          td1: "17"
           td2: "Wintershall Holding GmbH, Celle"
           td3: "Erdöl und Erdgas"
 
