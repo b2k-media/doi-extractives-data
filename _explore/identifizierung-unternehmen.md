@@ -23,20 +23,17 @@ breadcrumb:
           <a href="#sup1">
             {% t identifizierung-unternehmen.sup1.title %}
           </a>
-        </sup>
-        {% t identifizierung-unternehmen.p2 %}
+        </sup> {% t identifizierung-unternehmen.p2 %}
         <a target="_blank" href=" {{site.baseurl_root}}{% t downloads.unabhaengiger_verwalter_PDF %}">
           {% t identifizierung-unternehmen.link1 %}
-        </a>
-        {% t identifizierung-unternehmen.p3 %}
+        </a> {% t identifizierung-unternehmen.p3 %}
       </p>
 
       <p>
         {% t identifizierung-unternehmen.p4 %}
         <a target="_blank" href=" {{site.baseurl_root}}{% t downloads.unabhaengiger_verwalter_PDF %}">
           {% t identifizierung-unternehmen.link2 %}
-        </a>
-        {% t identifizierung-unternehmen.p5 %}
+        </a> {% t identifizierung-unternehmen.p5 %}
       </p>
       <ul>
         <li>{% t identifizierung-unternehmen.li1 %}</li>
@@ -51,12 +48,10 @@ breadcrumb:
         {% t identifizierung-unternehmen.p7 %}
         <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
            {% t identifizierung-unternehmen.link3 %}
-        </a>
-        {% t identifizierung-unternehmen.p8 %}
+        </a> {% t identifizierung-unternehmen.p8 %}
         <a target="_blank" href=" {{site.baseurl_root}}{% t downloads.unabhaengiger_verwalter_PDF %}">
           {% t identifizierung-unternehmen.link4 %}
-        </a>
-        {% t identifizierung-unternehmen.p9 %}
+        </a> {% t identifizierung-unternehmen.p9 %}
       </p>
 
       <section id="explanation" style="position: relative;">
@@ -65,8 +60,7 @@ breadcrumb:
           {% t identifizierung-unternehmen.sup1.text1 %}
           <a target="_blank" href="http://www.bvdinfo.com/">
             {% t identifizierung-unternehmen.sup1.link %}
-          </a>
-          {% t identifizierung-unternehmen.sup1.text2 %}
+          </a> {% t identifizierung-unternehmen.sup1.text2 %}
         </p>
 
       </section>
