@@ -372,11 +372,6 @@ breadcrumb:
             </tr>
           </tbody>
         </table>
-        <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
-        <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
-          <icon class="fa fa-file-text-o u-padding-right"></icon>
-          {% t unternehmen-und-zahlungsströme.daten_einsehen %}
-        </a>
       </section>
       <br/>
       <section id="differenzen" style="position: relative;">
