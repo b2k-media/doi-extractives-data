@@ -207,9 +207,9 @@ breadcrumb:
               <table id="graph-legend-table">
                 <tbody>
                   <tr>
-                    <td class="first-image"></td>
-                    <td class="text">{% t zahlungsabgleich.förderabgaben.chart_l1 %}</td>
                     <td class="second-image"></td>
+                    <td class="text">{% t zahlungsabgleich.förderabgaben.chart_l1 %}</td>
+                    <td class="first-image"></td>
                     <td class="text">{% t zahlungsabgleich.förderabgaben.chart_l2 %}</td>
                   </tr>
                 </tbody>
