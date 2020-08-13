@@ -3394,7 +3394,7 @@ unternehmen-und-zahlungsströme:
           td5: "0"
           td6: "-1.984.696,11"
           td7: "0,00"
-          td8: ""
+          td8: " "
     feldes:
       title: "Feldes- Förderabgaben nach Bergbehörde"
       p: "Die Zahlungen und Differenzen für Feldes-/Förderabgaben entfallen auf die nachfolgend aufgeführten Bergbehörden:"
