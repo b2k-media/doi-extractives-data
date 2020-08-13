@@ -490,7 +490,7 @@ breadcrumb:
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row11.td8 %}</td>
           </tr>    
           <tr>
-            <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row12.td0 %}<{% t unternehmen-und-zahlungsströme.differenzen.table.row12.td1 %}</td>
+            <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row12.td0 %}{% t unternehmen-und-zahlungsströme.differenzen.table.row12.td1 %}</td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row12.td2 %}</td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row12.td3 %}</td>
             <td>{% t unternehmen-und-zahlungsströme.differenzen.table.row12.td4 %}</td>
