@@ -2918,6 +2918,7 @@ unternehmen-und-zahlungsströme:
           p7: "0,00"
           p8: ""
         row3:
+          i: "3. "
           p1: "Dyckerhoff - Gruppe: "
           p2: "3.717.798,94"
           p3: "2.796.111,00"
