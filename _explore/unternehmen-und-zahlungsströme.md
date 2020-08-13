@@ -132,16 +132,7 @@ breadcrumb:
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row17.td2 %}</td>
               <td>{% t unternehmen-und-zahlungsströme.zahlungsabgleich.table.row17.td3 %}</td>
             </tr>
-
-
-
-          </table>
-          <p style="font-size: 0.75rem">{% t unternehmen-und-zahlungsströme.table_source %}</p>
-          <a href="{{site.baseurl}}/downloads/#zahlungsabgleich">
-            <icon class="fa fa-file-text-o u-padding-right"></icon>
-            {% t unternehmen-und-zahlungsströme.daten_einsehen %}
-          </a>
-          <br/>
+          </table> 
         </section>
       </section>
       <br/>
