@@ -385,13 +385,11 @@ permalink: /downloads/
         </a>
       </p>
     </div>
-    <div style="margin-top:1.25em;" id="subventionen-steinkohle">
+    <div style="margin-top:2em;" id="subventionen-steinkohle">
       <h2 id="subventionen-steinkohle">{% t downloads.subventionen-steinkohle.title %}</h2>
       <hr/>
       <p>{% t downloads.subventionen-steinkohle.p1 %}
-        <a target="_blank" href="{% t downloads.anpassungsgeld.link_data %}">
-          {% t downloads.subventionen-steinkohle.link %}
-        </a>{% t downloads.subventionen-steinkohle.p1_1 %}
+        <a target="_blank" href="{% t downloads.anpassungsgeld.link_data %}">{% t downloads.subventionen-steinkohle.link %}</a> {% t downloads.subventionen-steinkohle.p1_1 %}
       </p>
       <p class="downloads-download_links-intro">
         {% t downloads.download_label %}
@@ -420,7 +418,7 @@ permalink: /downloads/
         {% t downloads.zahlungsabgleich.p1_3 %}
       </p>
   </div>
-  <div style="margin-top:1.25em;" id="daten-zum-ersten-deiti-bericht">
+  <div style="margin-top:2em;" id="daten-zum-ersten-deiti-bericht">
     <h2 id="daten-zum-ersten-deiti-bericht">{% t downloads.daten-zum-ersten-deiti-bericht.title %}</h2>
     <hr/>
     <p>
