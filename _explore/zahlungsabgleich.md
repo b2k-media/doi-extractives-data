@@ -582,18 +582,18 @@ breadcrumb:
           </p>
           <p>
             {% t zahlungsabgleich.unternehmen.p6 %}
-           <span class="term term_end" data-term="{% t glossary_data-term.msg %}" title="Click to define" tabindex="0">
-              <strong>{% t zahlungsabgleich.unternehmen.p6_1 %}</strong>
+           <span class="term term_end" data-term="{% t glossary_data-term.msg %}" title="" tabindex="0">
+              {% t zahlungsabgleich.unternehmen.p6_1 %}
               <icon class="icon-book"></icon>
            </span>
             {% t zahlungsabgleich.unternehmen.p6_2 %}
-            <span class="term term_end" data-term="{% t glossary_data-term.unabhaengiger-verwalter %}" title="Click to define" tabindex="0">
-              <strong>{% t zahlungsabgleich.unternehmen.p6_3 %}</strong>
+            <span class="term term_end" data-term="{% t glossary_data-term.unabhaengiger-verwalter %}" title="" tabindex="0">
+              {% t zahlungsabgleich.unternehmen.p6_3 %}
               <icon class="icon-book"></icon>
            </span>
             {% t zahlungsabgleich.unternehmen.p6_4 %}
-            <span class="term term_end" data-term="{% t glossary_data-term.d-eitibericht %}" title="Click to define" tabindex="0">
-              <strong>{% t zahlungsabgleich.unternehmen.p6_5 %}</strong>
+            <span class="term term_end" data-term="{% t glossary_data-term.d-eitibericht %}" title="" tabindex="0">
+              {% t zahlungsabgleich.unternehmen.p6_5 %}
               <icon class="icon-book"></icon>
            </span>            
             {% t zahlungsabgleich.unternehmen.p6_6 %}

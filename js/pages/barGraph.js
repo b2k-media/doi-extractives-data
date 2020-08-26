@@ -190,9 +190,6 @@ $(document).ready(function(){
           title: chartTitle
       }
     }
-
-console.log(chartTitle);
-console.log($(".jqplot-xaxis-tick").html());
     plot2b = $.jqplot(chart, data, plot_options);
     if(jsonUnit != null)
       $(".jqplot-xaxis-tick").last().text(jsonUnit);
