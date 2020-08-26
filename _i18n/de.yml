@@ -20,7 +20,7 @@ glossary_data-term:
   recycling-und-einsatzquoten: "Recycling- und Einsatzquoten"
   sammelquote: "Sammelquote"
   verwertungsquote: "Verwertungsquote"
-  msg: "MSG"
+  msg: "Multi-Stakeholder-Gruppe (MSG)"
   d-eitibericht: "D-EITI Bericht"
   unabhaengiger-verwalter: "Unabhängiger Verwalter"
 menu:
@@ -3490,8 +3490,6 @@ zahlungsabgleich:
       title: Seitenanfang
     - name: förderabgaben
       title: "Überblick zum Zahlungsabgleich 2017"
-    - name: abdeckung
-      title: "Abdeckung der Sektoren"
     - name: unternehmen
       title: "Summe berichteter Zahlungen der Unternehmen"
   p1:
@@ -3576,8 +3574,8 @@ zahlungsabgleich:
     p6_2: "durch den"
     p6_3: "Unabhängigen Verwalter"
     p6_4: "in Zusammenarbeit mit den meldenden Unternehmen weitergehend analysiert. Erfasst werden sowohl Zahlungen aufgrund gesetzlicher Vorschriften (Grunderwerbsteuern) als auch Zahlungen, die auf privatrechtlichen Verträgen zwischen Unternehmen und staatlichen Stellen (Städten, Gemeinden und Verbänden) beruhen. Letztere umfassen u.a. den Ausgleich von bergbaubedingtem Verwaltungsmehraufwand oder Leistungen im Zusammenhang mit Bau und Unterhaltung lokaler, öffentlicher Infrastruktur. Die veröffentlichten Zahlungsberichte nach §§ 341q ff. HGB für 2017 weisen darüber hinaus noch Zahlungen von Wasserentnahmeentgelten aus. Beide Zahlungsströme wurden auf Beschluss der MSG analog zum ersten "
-    p6_5: "D-EITI"
-    p6_6: "Bericht keinem Zahlungsabgleich  unterworfen."
+    p6_5: "D-EITI Bericht"
+    p6_6: " keinem Zahlungsabgleich  unterworfen."
     table:
       head:
         h1: "Datenmeldungen Unternehmen"

@@ -22,7 +22,7 @@ breadcrumb:
           {% t zahlungsabgleich.p1.p1 %}
           <a href="https://d-eiti.de/eiti-standard">{% t zahlungsabgleich.p1.link1 %}</a>
           {% t zahlungsabgleich.p1.p1_1 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">{% t zahlungsabgleich.p1.link2 %}</a>
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/identifizierung-unternehmen/">{% t zahlungsabgleich.p1.link2 %}</a>
           {% t zahlungsabgleich.p1.p1_2 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/regierungsstellen-steuergeheimnis/">{% t zahlungsabgleich.p1.link3 %}</a>
           {% t zahlungsabgleich.p1.p1_3 %}
@@ -44,7 +44,7 @@ breadcrumb:
             {% t zahlungsabgleich.p1.link5_3 %}</a>,
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#pachtzahlungen">
             {% t zahlungsabgleich.p1.link5_4 %}</a> {% t zahlungsabgleich.p1.p2_1 %}
-          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#zahlungen-für-die-verbesserung-der-infrastruktur">{% t zahlungsabgleich.p1.link5_5 %}</a>
+          <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#infrastruktur">{% t zahlungsabgleich.p1.link5_5 %}</a>
         </p>
         <p>
           {% t zahlungsabgleich.p1.p3 %}
@@ -196,7 +196,7 @@ breadcrumb:
           <p>
             {% t zahlungsabgleich.abdeckung.p1 %}
           </p>
-
+<br>
           <div class="explore-exploration slab-alpha">
             <div class="regions container">
               <div class="graph">
@@ -217,10 +217,9 @@ breadcrumb:
             </div>
           </div>
           <br/>
-          <p>{% t zahlungsabgleich.abdeckung.p2 %}<a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/#zahlungen">{% t zahlungsabgleich.abdeckung.link1 %}</a></p>
+          <p>{% t zahlungsabgleich.abdeckung.p2 %}<a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/#zahlungen">{% t zahlungsabgleich.abdeckung.link1 %}</a>{% t point %}</p>
         </section>
         <br />
-
         <br />
         <section id="unternehmen" style="position: relative;">
           <h2>{% t zahlungsabgleich.unternehmen.title %}</h2>
@@ -551,7 +550,6 @@ breadcrumb:
               </tr>
             </tbody>
           </table>
-
           <p style="font-size: 0.75rem;" id="sub-1">
             <sup>{% t zahlungsabgleich.sub-1.title %}</sup>
             {% t zahlungsabgleich.sub-1.text %}
@@ -584,18 +582,25 @@ breadcrumb:
           </p>
           <p>
             {% t zahlungsabgleich.unternehmen.p6 %}
-            <strong>{% t zahlungsabgleich.unternehmen.p6_1 %}</strong>
+           <span class="term term_end" data-term="{% t glossary_data-term.msg %}" title="Click to define" tabindex="0">
+              <strong>{% t zahlungsabgleich.unternehmen.p6_1 %}</strong>
+              <icon class="icon-book"></icon>
+           </span>
             {% t zahlungsabgleich.unternehmen.p6_2 %}
-            <strong>{% t zahlungsabgleich.unternehmen.p6_3 %}</strong>
+            <span class="term term_end" data-term="{% t glossary_data-term.unabhaengiger-verwalter %}" title="Click to define" tabindex="0">
+              <strong>{% t zahlungsabgleich.unternehmen.p6_3 %}</strong>
+              <icon class="icon-book"></icon>
+           </span>
             {% t zahlungsabgleich.unternehmen.p6_4 %}
-            <strong>{% t zahlungsabgleich.unternehmen.p6_5 %}</strong>
+            <span class="term term_end" data-term="{% t glossary_data-term.d-eitibericht %}" title="Click to define" tabindex="0">
+              <strong>{% t zahlungsabgleich.unternehmen.p6_5 %}</strong>
+              <icon class="icon-book"></icon>
+           </span>            
             {% t zahlungsabgleich.unternehmen.p6_6 %}
           </p>
         </section>
         <br />
-
     </div>
-
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
         <div class="nav-title">{% t zahlungsabgleich.title %}</div>
