@@ -84,6 +84,7 @@ permalink: /impressum/
 
           {% t 'impressum.giz.text8' %}
           <p class="hero-description">{% t 'impressum.giz.text8_1' %}</p>
+          <p class="hero-description">{% t 'impressum.giz.text8_2' %}</p>
           <p class="hero-description">{% t 'impressum.giz.text8_3' %}</p>
 
           {% t 'impressum.giz.text9' %}

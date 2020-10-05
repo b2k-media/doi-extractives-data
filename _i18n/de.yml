@@ -2709,7 +2709,7 @@ zahlungsströme:
     - name: infrastruktur
       title: Zahlungen für die Verbesserung der Infrastruktur
     - name: ausgestaltung
-      title: Ausgestaltung des Projektbegriffs      
+      title: Ausgestaltung des Projektbegriffs
     - name: wesentlichkeit
       title: Wesentlichkeit von Zahlungen
 
@@ -2771,7 +2771,7 @@ zahlungsströme:
   infrastruktur:
     title: "Zahlungen für die Verbesserung der Infrastruktur"
     p1: "Der Zahlungsstrom entspricht der gesetzlichen Regelung des (Konzern-)Zahlungsberichts in § 341r Nr. 3 g) HGB. Die Zahlungen wurden erstmalig für den vorliegenden zweiten deutschen EITI-Bericht erhoben und die Datenmeldungen an die teilnehmenden Unternehmen insofern ergänzt. Die gemeldeten Zahlungen umfassen generell Maßnahmen der Unternehmen zum Ausgleich für Eingriffe in Natur und Landschaft wie z. B. Zahlungen zur Förderung von kommunalen Investitionen oder Bildungseinrichtungen oder für die Schaffung bzw. Instandhaltung von öffentlicher Infrastruktur. Inhalt und Zusammensetzung der gemeldeten Zahlungen wurden auf Wunsch der MSG analog zum ersten D-EITI Bericht durch den Unabhängigen Verwalter näher analysiert und die Ergebnisse der MSG vorgestellt. Die Ergebnisse zeigen eine hohe Heterogenität der erfassten Zahlungen als Folge der Vielfalt an Maßnahmen, die im Zusammenhang mit dem Ausgleich von Einwirkungen aus dem jeweiligen Bergbaubetrieb getätigt werden."
-  ausgestaltung:     
+  ausgestaltung:
     title: "Ausgestaltung des Projektbegriffs"
     p1: "Der EITI-Standard sieht grundsätzlich eine Berichterstattung auf Projektebene vor (EITI-Anforderung 4.7). Die MSG hat sich dazu entschieden, Inhalt und Umfang des Projektbegriffs in analoger Anwendung der gesetzlichen Regelung des § 341 r Nr. 5 HGB umzusetzen. Zahlungen an staatliche Stellen sind danach grundsätzlich je Projekt anzugeben, wenn das berichtende Unternehmen im Berichtszeitraum mehr als ein Projekt betrieben hat. Der Begriff des Projekts wird in § 341 r Nr. 5 HGB konkretisiert als die Zusammenfassung operativer Tätigkeiten, die die Grundlage für die Zahlungsverpflichtungen gegenüber einer staatlichen Stelle bilden und auf einem Vertrag, einer Lizenz, einem Mietvertrag, einer Konzession oder einer ähnlichen rechtlichen Vereinbarung beruhen. Für die Zahlungsströme „Körperschaftsteuer“ und „Gewerbesteuer“ ist damit generell keine projektbezogene Berichterstattung vorgesehen, da es sich um Zahlungsströme handelt, die auf einer gesetzlichen Regelung und nicht auf Basis einer der in § 341 r Nr. 5 HGB genannten rechtlichen Vereinbarung beruhen. Für den Zahlungsstrom „Feldes- und Förderabgaben“ ist mit der Angabe des entsprechenden Erlaubnis-/ Gewinnungsgebietes im Rahmen der Datenmeldung eine hinreichende Bestimmbarkeit des jeweiligen Projektes sichergestellt. Hinsichtlich der Pachtzahlungen und der Zahlungen für die Verbesserung der Infrastruktur sehen die Vorlagen zur Datenerhebung eine Aufteilung der Zahlungen auf Projekte je staatlicher Stelle vor."
   wesentlichkeit:
@@ -2976,7 +2976,7 @@ unternehmen-und-zahlungsströme:
           p5: " "
           p6: " "
           p7: "0,00"
-          p8: " "    
+          p8: " "
         row9:
           i: "9. "
           p1: "K+S -Gruppe / K+S Kali GmbH "
@@ -2986,7 +2986,7 @@ unternehmen-und-zahlungsströme:
           p5: " "
           p6: " "
           p7: "0,00"
-          p8: " "    
+          p8: " "
         row10:
           i: "10. "
           p1: "LEAG Lausitzer Energie Bergbau AG"
@@ -2996,7 +2996,7 @@ unternehmen-und-zahlungsströme:
           p5: " "
           p6: " "
           p7: "0,00"
-          p8: " "    
+          p8: " "
         row11:
           i: "11. "
           p1: "Neptune Energy Deutschland GmbH (ehemals: Engie E&P Holding Germany GmbH)"
@@ -3006,7 +3006,7 @@ unternehmen-und-zahlungsströme:
           p5: "5,2"
           p6: "22.275,00"
           p7: "0,00"
-          p8: " "    
+          p8: " "
         row12:
           i: "12. "
           p1: "Quarzwerke GmbH"
@@ -3026,7 +3026,7 @@ unternehmen-und-zahlungsströme:
           p5: " "
           p6: " "
           p7: "0,00"
-          p8: " "    
+          p8: " "
         row14:
           i: "14. "
           p1: "RWE-Gruppe / Rheinische Baustoffwerke GmbH"
@@ -3036,7 +3036,7 @@ unternehmen-und-zahlungsströme:
           p5: " "
           p6: " "
           p7: "0,00"
-          p8: " "    
+          p8: " "
         row15:
           i: "15. "
           p1: "Sibelco Deutschland GmbH"
@@ -3481,7 +3481,7 @@ unternehmen-und-zahlungsströme:
           p6: "-8.558.483,55"
           p7: "0,00"
           p8: " "
-   
+
 
 zahlungsabgleich:
   title: "Zahlungsabgleich"
@@ -3852,7 +3852,7 @@ downloads:
     - name: zahlungsabgleich
       title: Daten zum Zahlungsabgleich
     - name: daten-zum-ersten-deiti-bericht
-      title: "Daten zum 1. D-EITI Bericht (2017)" 
+      title: "Daten zum 1. D-EITI Bericht (2017)"
     - name: daten-zum-deiti-bericht
       title: Aggregierte Daten der D-EITI
   beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_2017.csv"
@@ -4244,7 +4244,7 @@ impressum:
 
     text8: "Vorstand"
     text8_1: "Tanja Gönner (Vorstandssprecherin)"
-    text8_2: ""
+    text8_2: "Ingrid-Gabriela Hoven"
     text8_3: "Thorsten Schäfer-Gümbel"
     text8_4: " "
 
