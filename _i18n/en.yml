@@ -249,7 +249,7 @@ steine-und-erden:
     p: Quarrying has been handed down since the beginning of human history. According to scientific findings, the oldest known ‘stones from human hands’, found in ground fortifications in the Near East date back to between the 9th and 8th centuries B.C. Germany also has a very long quarrying tradition. In the past, these raw materials were mainly extracted by hand, but companies today use modern technology. Geophysics, GPS, intelligent machine and plant control and largely automated processes control the extraction of these natural resources.
   gewinnung:
     title: Extraction
-    p: Every year, the building materials and quarrying industry extracts roughly 550 million tons of primary raw materials or uses these materials in production. Gravel and sands, with around 240 million tons, and broken natural stone with some 210 million tons are among the most important raw materials in the extraction natural sources in Germany.  The building materials and quarrying industry (earth and stone) in Germany comprises some 1,600 companies operating approximately 3,100 extraction facilities.
+    p: Every year, the building materials and quarrying industry extracts roughly 550 million tons of primary raw materials or uses these materials in production. In 2017, gravel and sands, with around 257 million tonnes, and broken natural stone with some 220 mil¬lion tonnes were among the most important raw ma¬terials in the German extractive industry. The building materials and quarrying industry (earth and stone) in Germany comprises some 1,600 companies operating approximately 3,100 extraction facilities.
   verwendung:
     title: Uses
     p: Around 80% of the earth and stone is supplied to the building industry and around 20% is used in the chemical, steel or glass industries. In addition to the extracted primary earth and stone, almost 100 million tons of secondary raw materials (mineral construction waste and by-products from industrial processes) are used in the building industry every year. These result from e.g. the demolition of buildings, the production of pig iron (blast furnace slag) or from electricity generation in conventional power stations (FGD gypsum, fly ash). The use of secondary raw materials contributes to the substitution of primary natural sources. The substitution rate is around 15%.
@@ -257,18 +257,22 @@ steine-und-erden:
     title: Industrial minerals
     geschichte:
       title: History
-      p1: Industrial minerals are mineral rocks that can be immediately used in industry due to their special chemical and physical properties, i.e. without any substance conversion. This group includes kaolin (also called porcelain earth), quartz sand, quartzite, feldspar, sticky sand, bentonite, special clay, silicas, fluorite, barite and potash.
-      p2: Industrial minerals have been extracted in Germany for hundreds of years in very diverse quantities. Volume-wise, the industrial minerals extracted most in Germany are quartz/quartz sands and special clays with 30.9 million tons and 6.4 million tons produced respectively.
+      p1: Industrial minerals are mineral rocks that can be im¬mediately used in industry due to their special chemi¬cal and physical properties, i.e. without any substance conversion. In addition to the salts already mentioned, this group includes kaolin (also called china clay or porcelain earth), quartz sand, quartzite, feldspar, sticky sand, bentonite, special clay, silicas, fluorite and barite.
+      p2: Industrial minerals have been extracted in Germany for hundreds of years in very diverse quantities. Apart from salts, the two most important industrial minerals in Germany in terms of volume are quartz sand/ gravel and special clay with production volumes of around 10.3 million tonnes and about 6 million tonnes respectively in 2017.
     gewinnung:
       title: Extraction
       p1: The extraction of industrial minerals in Germany is extremely regional in structure, due to natural conditions. While, for example, kaolin and silica are mainly extracted in Bavaria, the extraction of special clay is mainly concentrated in Rhineland-Palatinate and Hesse.
-      p2: Industrial minerals are usually extracted in open pit mines by small and medium-sized companied, but a few industrial minerals such as fluorite und barite are mined underground.
+      p2: Apart from salts, industrial minerals in Germany are mainly mined above ground by small and medium-sized enterprises. In contrast, fluorite and barite are also mined underground. In 2014, Germany boasted a total of 627 active production sites, around half of which were dedicated solely to the extraction of quartz and quartz sands.
     verwendung:
       title: Uses
       p: Due to their chemical and physical properties, industrial minerals are used primarily in the paper, chemical, glass, ceramics, refractory, and foundry and steel industries; but the pharmaceutical industry, environmental management (waste gas purification, wastewater treatment plants, solar panels and wind power plants) and the automotive industry also exploit the properties of industrial minerals.
   eisenerze:
     title: Iron ore
     p: "In Germany, iron ore is mined in North Rhine-Westphalia and Saxony. The iron ore extracted here is not smelted into iron, however, it is used mostly in the form of crushed stone, chippings and brittle sands as a coloured and iron-rich aggregate for the concrete or cement industry."
+  infobox:
+    title: Outlook Gypsum
+    p1: "The expansion of renewable energies in the course of the energy transition is linked to the reduction and future phase-out of coal-fired power generation. This has major implications for the gypsum industry, which largely manufactures its products on the basis of FGD gypsum from coal-fired power plants. FGD gypsum is produced as a by-product in the flue gas desulphurisation plants (FGD) of coal-fired power stations or power stations that are operated with fossil fuels."
+    p2: "Due to the reduction or phase-out of coal-fired power generation, the demand for gypsum must therefore in future be covered by other means, for example by the extraction of natural gypsum or by gypsum recycling."
 
 rechtlicher-rahmen:
   title: Who is responsible? Laws and the responsibilities of public authorities
