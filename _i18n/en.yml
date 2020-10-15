@@ -1660,7 +1660,7 @@ gesamtdeutsche_rohstoffproduktion:
       title: Natural resources quantity (2015)
     - name: rohstoff-wert
       title: Natural resource value (2015)
-  p1: "A wide range of different mineral resources and energy resources is mined in Germany. The following tables list the natural resources extracted in Germany by quantities and estimated value in 2015."
+  p1: "A wide range of different mineral resources and energy resources is mined in Germany. The following tables list the natural resources extracted in Germany by quantities and estimated value in 2017."
   p2: "Further information on data sources as well as links to original data are available here:"
   daten_einsehen: View Data
   steinkohle:
@@ -1724,7 +1724,7 @@ gesamtdeutsche_rohstoffproduktion:
     p4: "[IM 2016] – Industrial Materials (2016): IM Price Database"
     p5: "[MIRO 2016] – Bundesverband Mineralische Rohstoffe e.V. (2016): „Die deutsche Gesteinsindustrie. – Bericht der Geschäftsführung 2015/2016"
   table1:
-    h1: "Extraction of natural resources in Germany in 2015 (quantities)"
+    h1: "Extraction of natural resources in Germany in 2017 (quantities)"
     th1: Rohstoff
     th2: Menge (2015)
     row1:
