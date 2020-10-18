@@ -65,7 +65,7 @@ breadcrumb:
             <tr>
               <th></th><th></th><th></th>
               <th>{% t einnahmen.steuereinnahmen.th2.th0 %}</th>
-              <th></th><th></th><th></th>
+              <th></th><th></th><th></th><th></th>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row1.td1 %}</td>
