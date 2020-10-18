@@ -668,7 +668,11 @@ wirtschaftlich_berechtigter:
   einsicht:
     title: "Obtaining information from the Transparency Register"
     p: "Access to the information about beneficial owners in the Transparency Register is provided to certain governmental authorities within the scope of their statutory tasks, to persons and bodies legally obliged to combat money laundering in the performance of their due diligence obligations, and any other person or body with a legitimate interest in viewing the Register (e.g. NGOs or journalists) (§ 23(1) of the GwG). Such interest particularly exists when a connection can be established (in a comprehensible manner) to the prevention and combating of terrorist financing and money laundering, as well as their associated predicate offenses such as corruption. On July 2, 2014, the Federal Government decided to initiate the candidacy of Germany with the international ‘Initiative for Transparency in the Extractive Industries Transparency Initiative’ (EITI). With the implementation of the EITI in Germany (D-EITI), the Federal Government is strengthening international efforts to combat corruption in the context of natural resources business transactions. This stated objective establishes the D-EITI’s legitimate interest in gaining access to the Transparency Register."
-
+  einsichtNeu:
+    title: "xtension of the possibility to inspect the Transparency Register "
+    p1_1: "With the amending Directive to the 4th Money Laun¬dering Directive (EU) 2018/843 which came into force on July 9, 2018 In accordance with the Money Launde¬ring Directive (EU) 2018/843 of May 30, 2018, the ma¬jority of the provisions of which are to be implemen¬ted by the member states by January 10, 2020, access to the register must in future be made public, i. e. the previously-staggered access with proof of a justified interest in inspection no longer applies. The possibility (already provided for under the current legal structure) also exists that beneficial owners can restrict the pos¬sibility of inspection of the Transparency Register if they state that they are at risk of becoming victims of certain criminal offences (e. g. extortion). Germany will implement the EU legal requirements into national law in due time; and on July 31, 2019 the Federal Cabinet adopted the government draft for a corres-ponding"
+    p1_2: " "
+    p1_3: " "
 anfallende_zahlungen:
   title: Revenues generated
   nav_items:
