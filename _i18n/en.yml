@@ -2041,7 +2041,7 @@ einnahmen:
           td3: "62.102"
         row17:
           td1: Thuringia
-          td2: "1.454
+          td2: "1.454"
           td3: "1.851"
         row18:
           td1: Total extraction royalties
@@ -2053,8 +2053,8 @@ einnahmen:
           td3: "1.473.847"
         row20:
           td1: Proportion
-          td2: "0.02"
-          td3: "0.02"
+          td2: "0.02 %"
+          td3: "0.02 %"
       p3: "The revenues from minesite royalties of the Federal States are not systematically compiled or published on a nationwide basis. Their amount is significantly lower than the amount of extractive sector revenues and they are only applicable in some federal States (see the table below):"
       table2:
         title: "Revenue from royalties paid by the extractive sector in 2015:"
