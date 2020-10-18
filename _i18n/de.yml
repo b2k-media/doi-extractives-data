@@ -638,6 +638,8 @@ lizenzregister_und_verträge:
     linkp: "Erdöl und Erdgas in der Bundesrepublik Deutschland"
     link_href: "https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html"
     p5_2: "veröffentlicht."
+    p5_3: ""
+    p5_3_link: ""
 
   beispiel:
     title: "Beispiel für ein Online-System: der NIBIS-Kartenserver"

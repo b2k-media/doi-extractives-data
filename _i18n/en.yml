@@ -579,11 +579,14 @@ lizenzregister_und_verträge:
     item5: Natural resource(s) to which the mining right refers
     p3_2: "Permits and authorisations for mining exploration can also be inspected as a result of the legal amendment (see also explanation of mining rights here)."
     linktext_p3_2: here
+    p3_3: ""
     p4: "The competent authorities may also make this information directly accessible to the public and this has already been taking place for some time now in many Federal States – several states publish a transparent online licence cadastre (i.e. a land registration licence). Other Federal States are also planning to set up similar systems."
     p5_1: "All hydrocarbon-segment mining licences in Germany can also be viewed in the annual publication ‘Erdöl und Erdgas in der Bundesrepublik Deutschland"
     linkp: "(Crude oil and natural gas in the Federal Republic of Germany)"
     link_href: "https://www.lbeg.niedersachsen.de/erdoel-erdgas-jahresbericht/jahresbericht-erdoel-und-erdgas-in-der-bundesrepublik-deutschland-936.html#english"
     p5_2: "."
+    p5_3: "You can find an overview of all mining rights at "
+    p5_3_link: "http://www.rohstofftransparenz.de/downloads/#daten-bergbau-berechtigungen"
 
   beispiel:
     title: "Example of an online system: the NiBiS map server"

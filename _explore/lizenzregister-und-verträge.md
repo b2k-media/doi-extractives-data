@@ -56,6 +56,7 @@ breadcrumb:
               {% t lizenzregister_und_verträge.rechtliche_grundlage.linkp %}
             </a>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_2 %}
+            {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_3 %}{% t lizenzregister_und_verträge.rechtliche_grundlage.p5_3_link %}
           </p>
         </section>
         <br />
