@@ -574,9 +574,11 @@ lizenzregister_und_verträge:
     p3: "Public inspection of these books and maps was initiated within the framework of the implementation of the D-EITI. Since July 21, 2017 and pursuant to § 76(3) of the BBergG, the following information on granted and maintained mining rights can be viewed upon application to the mining authorities, (without evidence of a legitimate interest):"
     item1: Owner
     item2: Extraction sites to which the mining right refers
-    item3: Date of the application Natural resources extraction totals and granting of the right
+    item3: Date of the application and granting of the right
     item4: Term
     item5: Natural resource(s) to which the mining right refers
+    p3_2: "Permits and authorisations for mining exploration can also be inspected as a result of the legal amendment (see also explanation of mining rights here)."
+    linktext_p3_2: here
     p4: "The competent authorities may also make this information directly accessible to the public and this has already been taking place for some time now in many Federal States – several states publish a transparent online licence cadastre (i.e. a land registration licence). Other Federal States are also planning to set up similar systems."
     p5_1: "All hydrocarbon-segment mining licences in Germany can also be viewed in the annual publication ‘Erdöl und Erdgas in der Bundesrepublik Deutschland"
     linkp: "(Crude oil and natural gas in the Federal Republic of Germany)"
@@ -711,7 +713,7 @@ anfallende_zahlungen:
       title: Trade tax
       p1: Local authorities are responsible for the administration of trade tax, which is levied by the municipality in which the business is located. The purpose of the trade tax is to tax the objective earning potential of a commercial enterprise. However, unlike corporation tax, trade tax is not linked to economic performance. Additions and deductions correct the income of the commercial enterprise (§§ 8 and 9 GewStG [Trade Tax Act]). To calculate trade tax, the responsible tax office determines the taxable amount, which is 3.5% of the objective earning potential. The responsible municipality sets a uniform tax factor for all companies, which must be at least 200% (§ 16, (4), sentence 2, GewStG) and calculates the trade tax based on the taxable amount and the tax factor.
       p2: A company (which extracts natural resources) with the legal form of a partnership or limited company is subject to trade tax. If the operating facility is located in an area belonging to several municipalities or is operated in a number of municipalities, the assessment basis for trade tax is distributed among these individual municipalities (so-called ‘reallocation’). Salaries in the individual operating facilities are usually used a yardstick for reallocation, so each municipality concerned can collect its share of the trade tax paid by a natural resources extractive sector company.
-      p3: An overview of the trade tax assessment rates (2016) of the municipalities in Germany is available via the
+      p3: An overview of the trade tax assessment rates (2017) of the municipalities in Germany is available via the
       link: Federal Office of Statistics.
       p4: Commercial taxation is the main source of tax for municipalities, followed by land tax. The municipalities must pay a portion of their tax revenue to the Federal and state governments as trade tax apportionments. The remainder of the trade tax for the municipalities flows into their general budgets, thus helping to finance the local infrastructure and to provide education and social services among other things.
     pachtzahlungen:
@@ -723,14 +725,14 @@ anfallende_zahlungen:
       title: Excise duties
       p1: Energy and electricity taxes are particularly relevant for companies in the natural resources sector, within the framework of excise duties. Like the other excise duties, energy and electricity taxes are explicitly excluded from the reporting obligation within the framework of the legal commercial (corporation) payment report, as per the EU Accounting Directive and its implementation in § 341r no. 3 b of the HGB (German Commercial Code).
       p2: "The Energy and Electricity Tax Act is based on the harmonised provisions of the EU Energy Tax Directive (Council Directive 2003/96/EC of October 27, 2003, OJ EU No. L 283, p. 51). On April 1, 1999, the electricity tax was introduced in Germany within the framework of the law covering entry into the ecological tax reform, and the tax rates of the energy tax (at that time still called mineral oil tax) were gradually increased.  This created incentives to reduce energy consumption and to develop resource-conserving products and production processes."
-      p3: The Electricity Tax Act and the Electricity Tax Implementing Ordinance constitute the legal basis for levying electricity tax. The Federal Government is entitled to electricity tax revenues, which amounted to €6.6 billion in 2015. The revenue from the electricity tax and the higher taxation of fuels and heating materials obtained in connection with the ecological tax reform contribute to keeping social insurance contributions at a manageable level. Administration and collection tasks are carried out by customs administration.
+      p3: The Electricity Tax Act and the Electricity Tax Implementing Ordinance constitute the legal basis for levying electricity tax. The Federal Government is entitled to electricity tax revenues, which amounted to €6.9 billion in 2017. The revenue from the electricity tax and the higher taxation of fuels and heating materials obtained in connection with the ecological tax reform contribute to keeping social insurance contributions at a manageable level. Administration and collection tasks are carried out by customs administration.
       p4: The electricity tax is levied for consumption, but it is usually levied as an indirect tax on the supplier and passed on to consumers via the electricity price for practical reasons – and this means that companies in the extractive sector must also pay electricity tax. The statutory tax rate is €20.50 per megawatt hour. Reduced tax rates can be considered for various purposes, e.g. railway electricity, whereas the production industry can particularly benefit from tax relief
       link3: "(read more on subsidies and tax relieves)."
       p5_1: The energy tax is an excise duty on energy products. It is governed by Federal legislation, and levied to tax the use of energy products as fuels or heating fuels within the German tax territory. The Energy Tax Act defines energy products as being (in particular), petrol, diesel fuel, light and heavy fuel oil, liquefied petroleum gas, natural gas, natural gas and coal as well as biodiesel, vegetable oil and energy products of a similar nature that are used as motor or heating fuels. The amount of the tax varies according to the energy product and its intended use and is regulated in the
       link1: Energy Tax Act.
       p5_2:  Tax concessions are standardised in the Energy Tax Act for certain energy products and intended uses
       link4: "(read more on subsidies and tax relieves)."
-      p5_3:  Like the electricity tax, energy tax is levied by the customs administration, and the revenues flow to the Federal Government. In 2015, energy tax revenues amounted to approx. €40.3 billion. The revenue from energy and electricity taxes is the third-largest source of income for the Federal Government, after income tax and VAT.
+      p5_3:  Like the electricity tax, energy tax is levied by the customs administration, and the revenues flow to the Federal Government. In 2017, energy tax revenues amounted to approx. €41.0 billion. The revenue from energy and electricity taxes is the third-largest source of income for the Federal Government, after income tax and VAT.
       p6_1: The sheer financial volume of electricity and energy tax payments by companies in the natural resources extractive sector, and the financial scale of electricity and energy tax concessions
       link2: "(read more on subsidies and tax relieves)"
       p6_2: "cannot be feasibly presented without a disproportionate amount of bureaucratic effort, since no statistics showing the electricity and energy tax payments for individual economic sectors exist yet."
@@ -1772,9 +1774,9 @@ gesamtdeutsche_rohstoffproduktion:
     star1: "* Useable extracted output"
     star2: "** Including associated gas"
   table2:
-    h1: "Extraction of natural resources in Germany in 2015 (value)"
+    h1: "Extraction of natural resources in Germany in 2017 (value)"
     th1: Rohstoff
-    th2: Wert Wert (2015) in Mio. €
+    th2: Wert Wert (2017) in Mio. €
     1:
       td1: Steinkohle
       td2: "423"
