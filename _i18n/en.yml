@@ -638,7 +638,7 @@ wirtschaftlich_berechtigter:
         - name: einsicht
           title: Obtaining information from the Transparency Register
         - name: einsichtNeu
-          title: Extension of the possibility to inspect the Transparency Register 
+          title: Extension of the possibility to inspect the Transparency Register
   sup1:
     title: "1"
     text: "The term transaction here means all acts which have the purpose or the effect of a monetary movement or other asset movement."
@@ -2074,17 +2074,17 @@ bip:
 
     bip:
       title: "GDP: What is the size of the German extractive industry?"
-      p1_1: "Germany is the largest economy in Europe and the fourth largest in the world, with a "
+      p1_1: "In 2017, the gross domestic product ("
       p1_2: "GDP"
-      p1_3: "of some €3,032.82 billion in 2015. The"
-      p1_4: "gross value added"
-      p1_5: "of the ‘Mining and Quarrying’ economic sector amounted to €4.16 billion in 2015, which accounted for 0.14 % of the GDP."
+      p1_3: ") in Germany amounted to €3,277.3 billion at current prices. Accor¬ding to the World Bank, Germany is thus the largest national economy in Europe and the fourth largest in the world"
+      p1_4: "The gross value added"
+      p1_5: "of the ‘mining and quarrying’ economic sector amounted in 2017 to €3.27 billion, which is equivalent to 0.10% of the GDP (for detailed sources see the final note)."
       p1_6: " "
       p1_7: " "
       daten: View Data
     umsatz:
       title: "Turnover:"
-      p1: "‘Mining and Quarrying’ sector companies generated a total turnover of around €9.2 billion in 2016. Around €8.1 billion (about 88%) of this sum was attributable to domestic sales and €1.1 billion (about 12%) to foreign sales."
+      p1: "‘Mining and Quarrying’ sector companies generated a total turnover of around €9.5 billion in 2017."
       daten_einsehen: View Data
       star1:
         title: "*"
