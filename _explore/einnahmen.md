@@ -159,6 +159,13 @@ breadcrumb:
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row8 %}</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
               <td>{% t einnahmen.steuereinnahmen.row9.td1 %}</td>
