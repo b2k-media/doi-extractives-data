@@ -1843,8 +1843,12 @@ einnahmen:
             title: Taxes
           - name: förder_feldesabgaben
             title: Extraction and minesite royalties
-    p1_1: "The natural resources sector generates revenue for the State at different Federal levels. The most important revenues are the taxes from general company taxation (corporation tax and income tax, as well as trade tax and the solidarity surcharge), as well as natural resource-specific minesite and extraction royalties. Added together, these revenues from the extractive industry amounted to around €750 million in 2015. This corresponds to a share of 0.06% of the total income of the Germany State. Other payments are also made by the extractive sector to the state, such as leaseholds, energy and electricity taxes ("
-    link: read more on payments made
+    p1_1: "The natural resources sector generates revenue for the State at different Federal levels. The most important revenues are the taxes from general company taxation (corporation tax and income tax, as well as trade tax and the solidarity surcharge), as well as natural resource-specific minesite and extraction royalties. Added together, these revenues from the extractive industry amounted to around €555 million in 2017. This corresponds to a share of 0.04% of the total income of the Federal German government. The coverage of this revenue by payment reconciliation is explained in more detail.
+    Other payments are also made by the extractive sector to the state, such as leaseholds, energy and electricity taxes ("
+    p1_1_2: ""
+    link0: "here"
+    p1_1_2: "Other payments are also made by the extractive sector to the state, such as leaseholds, energy and electricity taxes "
+    link: read more here
     p1_2: "), as well as payments relating to interventions in nature conservation legislation and water use ("
     link1: "read more"
     p1_3: "), which are not shown here."
@@ -2076,7 +2080,7 @@ bip:
       title: "GDP: What is the size of the German extractive industry?"
       p1_1: "In 2017, the gross domestic product ("
       p1_2: "GDP"
-      p1_3: ") in Germany amounted to €3,277.3 billion at current prices. Accor¬ding to the World Bank, Germany is thus the largest national economy in Europe and the fourth largest in the world"
+      p1_3: ") in Germany amounted to €3,277.3 billion at current prices. Accor¬ding to the World Bank, Germany is thus the largest national economy in Europe and the fourth largest in the world."
       p1_4: "The gross value added"
       p1_5: "of the ‘mining and quarrying’ economic sector amounted in 2017 to €3.27 billion, which is equivalent to 0.10% of the GDP (for detailed sources see the final note)."
       p1_6: " "
