@@ -56,7 +56,12 @@ breadcrumb:
               {% t lizenzregister_und_verträge.rechtliche_grundlage.linkp %}
             </a>
             {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_2 %}
-            {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_3 %}{% t lizenzregister_und_verträge.rechtliche_grundlage.p5_3_link %}
+          </p>
+          <p>
+            {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_3 %}
+            <a target="_blank" href="{% t lizenzregister_und_verträge.rechtliche_grundlage.p5_3_link %}">
+              {% t lizenzregister_und_verträge.rechtliche_grundlage.p5_3_link %}
+            </a>
           </p>
         </section>
         <br />

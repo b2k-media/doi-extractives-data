@@ -580,6 +580,7 @@ lizenzregister_und_verträge:
     p3_2: "Permits and authorisations for mining exploration can also be inspected as a result of the legal amendment (see also explanation of mining rights here)."
     linktext_p3_2: here
     p3_3: ""
+    linktext_p3_3: ""
     p4: "The competent authorities may also make this information directly accessible to the public and this has already been taking place for some time now in many Federal States – several states publish a transparent online licence cadastre (i.e. a land registration licence). Other Federal States are also planning to set up similar systems."
     p5_1: "All hydrocarbon-segment mining licences in Germany can also be viewed in the annual publication ‘Erdöl und Erdgas in der Bundesrepublik Deutschland"
     linkp: "(Crude oil and natural gas in the Federal Republic of Germany)"
@@ -606,8 +607,8 @@ lizenzregister_und_verträge:
     link1: "www.maps.lgrb-bw.de"
     p1_2: "Baden-Wuerttemberg,"
     link2: "Berlin and Brandenburg "
-    p1_3: "and"
-    link3: "the Saarland."
+    p1_3: "and the "
+    link3: "Saarland."
 
   verträge:
     title: Contracts
