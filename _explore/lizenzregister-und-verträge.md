@@ -38,7 +38,6 @@ breadcrumb:
           </ul>
 
           <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2 %}
-            <br>
             <a href= "{% t downloads.uebersicht_neuerteilungen_XLSX %}">
             {% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2 %}</a>
           </p>          
@@ -47,7 +46,7 @@ breadcrumb:
           <a href= "{% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2_1_href %}">{% t lizenzregister_und_verträge.rechtliche_grundlage.lintext_p3_2_1_en %}</a>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2_en_2 %}<a href= "{% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2_2_href %}">{% t lizenzregister_und_verträge.rechtliche_grundlage.lintext_p3_2_2_en %}</a>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2_en_3 %}       </p>
           
           <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_3 %}
-            <br>
+            
             <a href="{% t downloads.uebersicht_bergbau_XLS %}">
             {% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_3 %}</a>
           </p>
