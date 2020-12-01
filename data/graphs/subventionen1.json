@@ -11,7 +11,7 @@
 	],
 	"color": ["#28467a", "#4682be"],
 	"labels": ["Zuschüsse für den Absatz und Stilllegungen (Bund)", "Anpassungsgeld (Bund)"],
-  "labels_en": ["Adaption payment (Federal)", "Subsidies for sales and closures(Federal)"],
+  "labels_en": ["Payment of APG (adaption payment grants) to workers in the hard coal industry", "Subsidies for the sale of German hard coal for electricity generation, to the steel industry and to compensate for burdens resulting from capacity adjustments"],
 	"xAxis": [0, 200, 400, 600, 800, 1000, 1200, 1400]
 }, {
 	"title": "Zuschüsse für den Absatz und Stilllegung deutscher Steinkohle 2014 – 2017 (Anteil Bund)",
