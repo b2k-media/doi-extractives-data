@@ -38,6 +38,7 @@ $(document).ready(function(){
     jsonFilePath = "../../data/graphs/gesamtdeutsche_rohstoffproduktion.json";
     orderSeries1 = true;
     orderSeries2 = true;
+    oneLine = false;
     noDotDisplayDecimal = true;
   } else if (document.URL.search('daten/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich.json";

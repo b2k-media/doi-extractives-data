@@ -12,9 +12,7 @@ breadcrumb:
   <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.18/c3.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.18/c3.min.js"></script>-->
-
   <section class="container" style="position: relative;">
-
     {% include breadcrumb.html %}
     <h1 id="title">{% t zahlungsabgleich.title %}</h1>
     <div class="container-left-9">
@@ -50,10 +48,7 @@ breadcrumb:
           {% t zahlungsabgleich.p1.p3 %}
           <a href="{{site.baseurl}}/daten/zahlungsabgleich/zahlungsstroeme/#wesentlichkeit">{% t zahlungsabgleich.p1.link6 %}</a>{% t zahlungsabgleich.p1.p4 %}
         </p>
-
-
         <!-- Tabelle Start-->
-
         <table>
           <tbody style="font-size: 0.9rem;">
             <tr>
@@ -114,10 +109,8 @@ breadcrumb:
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/ ">
               {% t zahlungsabgleich.förderabgaben.link1 %}
             </a>{% t zahlungsabgleich.förderabgaben.p2 %}
-
           </p>
           <br/>
-
           <br/>
           <div class="explore-exploration slab-alpha">
             <div class="regions container">
@@ -129,7 +122,6 @@ breadcrumb:
             </div>
           </div>
           <br/>
-
           <!-- New Table
           <div id="chart"></div>
           <script>
@@ -176,23 +168,14 @@ breadcrumb:
             ]
           });
           </script>
-
-
-
-
-
            END TEST -->
-
           <p style="position: relative; margin-top: 50px !important;">
-
             <a href="{{site.baseurl}}/daten/zahlungsabgleich/unternehmen-und-zahlungsstroeme/">
               {% t zahlungsabgleich.förderabgaben.link %}
             </a>
           </p>
         </section>
-
         <section id="abdeckung" style="position: relative;">
-
           <p>
             {% t zahlungsabgleich.abdeckung.p1 %}
           </p>
