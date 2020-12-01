@@ -36,6 +36,8 @@ $(document).ready(function(){
     jsonFilePath = "../../../data/graphs/wasser.json";
   } else if (document.URL.search('daten/gesamtdeutsche_rohstoffproduktion/') > 1) {
     jsonFilePath = "../../data/graphs/gesamtdeutsche_rohstoffproduktion.json";
+    orderSeries1 = true;
+    orderSeries2 = true;
     noDotDisplayDecimal = true;
   } else if (document.URL.search('daten/zahlungsabgleich/') > 1) {
     jsonFilePath = "../../data/graphs/zahlungsabgleich.json";

@@ -12,7 +12,6 @@ breadcrumb:
 
 <main class="container-page-wrapper layout-state-pages">
   <section class="container" style="position: relative;">
-
     {% include breadcrumb.html %}
     <h1 id="title">{% t gesamtdeutsche_rohstoffproduktion.title %}</h1>
     <div class="container-left-9">
@@ -23,7 +22,6 @@ breadcrumb:
           <icon class="fa fa-file-text-o u-padding-right"></icon>
           {% t gesamtdeutsche_rohstoffproduktion.daten_einsehen %}
         </a>
-
         <br/><br/>
         <section style="position: relative;">
           <div class="chart-title-style" id="rohstoff-menge">{% t gesamtdeutsche_rohstoffproduktion.table1.h1 %}</div>
@@ -37,20 +35,17 @@ breadcrumb:
             </div>
           </div>
           <br>
-
           <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star1 %}</p>
           <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table1.star2 %}</p>
         </section>
         <br/>
-
         <section style="position: relative;">
           <div class="chart-title-style" id="rohstoff-wert">{% t gesamtdeutsche_rohstoffproduktion.table2.h1 %}</div>
-
           <div class="explore-exploration slab-alpha">
             <div class="regions container">
               <div class="graph">
                 <div class="container chart-container">
-                  <div id="chart3"></div>
+                  <div id="chart2"></div>
                 </div>
               </div>
             </div>
@@ -60,11 +55,8 @@ breadcrumb:
           <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star1 %}</p>
           <p style="font-size: 13px">{% t gesamtdeutsche_rohstoffproduktion.table2.star2 %}</p>
         </section>
-
-
       </section>
     </div>
-
     <div class="sticky sticky_nav container-right-3">
       <h3 class="state-page-nav-title container">
         <div class="nav-title">{% t gesamtdeutsche_rohstoffproduktion.title %}</div>
@@ -87,3 +79,20 @@ breadcrumb:
 
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/pages/barGraph.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ site.baseurl_root }}/js/lib/explore.min.js" charset="utf-8"></script>
+
+<script>
+$('#chart1').bind('jqplotDataHighlight',
+   function (ev, seriesIndex, pointIndex, data) {
+     if(seriesIndex == 1)
+        $("#graph-legend-table tr td:nth-child(1)").addClass('img-chart-1');
+     if(seriesIndex == 0)
+        $("#graph-legend-table tr td:nth-child(3)").addClass('img-chart-2');
+   }
+ );
+$('#chart2').bind('jqplotDataUnhighlight',
+  function (ev, seriesIndex, pointIndex, data) {
+     $("#graph-legend-table tr td:nth-child(1)").removeClass('img-chart-1');
+     $("#graph-legend-table tr td:nth-child(3)").removeClass('img-chart-2');
+  }
+);
+</script>
