@@ -37,6 +37,12 @@ breadcrumb:
             <li>{% t lizenzregister_und_verträge.rechtliche_grundlage.item5 %}</li>
           </ul>
 
+          <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2 %}
+            <br>
+            <a href= "{% t downloads.uebersicht_neuerteilungen_XLSX %}">
+            {% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2 %}</a>
+          </p>          
+          
           <p>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2_en_1 %}
           <a href= "{% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2_1_href %}">{% t lizenzregister_und_verträge.rechtliche_grundlage.lintext_p3_2_1 %}</a>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2_en_2 %}<a href= "{% t lizenzregister_und_verträge.rechtliche_grundlage.linktext_p3_2_2_href %}">{% t lizenzregister_und_verträge.rechtliche_grundlage.lintext_p3_2_2 %}</a>{% t lizenzregister_und_verträge.rechtliche_grundlage.p3_2_en_3 %}       
            </p>

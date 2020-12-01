@@ -575,6 +575,8 @@ lizenzregister_und_verträge:
     item3: Date of the application and granting of the right
     item4: Term
     item5: Natural resource(s) to which the mining right refers
+    p3_2: ""
+    linktext_p3_2: ""
     p3_2_en_1: "Permits and authorisations for mining exploration can also be inspected as a result of the legal "
     lintext_p3_2_1: "amendment"
     p3_2_en_2: " (see also explanation of "
