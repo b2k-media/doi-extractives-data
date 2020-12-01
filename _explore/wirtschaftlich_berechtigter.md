@@ -55,11 +55,6 @@ breadcrumb:
         <section id="einsichtNeu" style="position: relative;">
           <h3>{% t wirtschaftlich_berechtigter.einsichtNeu.title %}</h3>
           <p>{% t wirtschaftlich_berechtigter.einsichtNeu.p1_1 %}
-          <sup>
-            <a href="#sup-5">
-              {% t wirtschaftlich_berechtigter.sup5.title %}
-            </a>
-          </sup>
           {% t wirtschaftlich_berechtigter.einsichtNeu.p1_2 %}
           {% t wirtschaftlich_berechtigter.einsichtNeu.p1_3 %}
           </p>
@@ -69,10 +64,6 @@ breadcrumb:
       <p style="font-size: 0.75rem" >
         <sup id="sup-1">{% t wirtschaftlich_berechtigter.sup1.title %}</sup>
         {% t wirtschaftlich_berechtigter.sup1.text %}
-      </p>
-      <p style="font-size: 0.75rem">
-        <sup id="sup-5">{% t wirtschaftlich_berechtigter.sup5.title %}</sup>
-        {% t wirtschaftlich_berechtigter.sup5.text %}
       </p>
     </div>
 
