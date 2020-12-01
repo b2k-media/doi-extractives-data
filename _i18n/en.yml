@@ -575,15 +575,16 @@ lizenzregister_und_verträge:
     item3: Date of the application and granting of the right
     item4: Term
     item5: Natural resource(s) to which the mining right refers
-    p3_2: ""
-    linktext_p3_2: ""
+    p3_2: " "
+    linktext_p3_2: " "
     p3_2_en_1: "Permits and authorisations for mining exploration can also be inspected as a result of the legal "
-    lintext_p3_2_1: "amendment"
+    lintext_p3_2_1_en: "amendment"
     p3_2_en_2: " (see also explanation of "
-    lintext_p3_2_2: "mining rights"
+    lintext_p3_2_2_en: "mining rights"
     p3_2_en_3: ")."
     linktext_p3_2_1_href: "http://www.rohstofftransparenz.de/en/rohstoffgewinnung/genehmigung-von-bergbauprojekten/"
     linktext_p3_2_2_href: "http://www.rohstofftransparenz.de/en/rohstoffgewinnung/genehmigung-von-bergbauprojekten/"
+    p3_3: " "
     p4: "The competent authorities may also make this information directly accessible to the public and this has already been taking place for some time now in many Federal States – several states publish a transparent online licence cadastre (i.e. a land registration licence). Other Federal States are also planning to set up similar systems."
     p5_1: "All hydrocarbon-segment mining licences in Germany can also be viewed in the annual publication ‘Erdöl und Erdgas in der Bundesrepublik Deutschland"
     linkp: "(Crude oil and natural gas in the Federal Republic of Germany)"
