@@ -89,7 +89,7 @@ $('#chart1').bind('jqplotDataHighlight',
         $("#graph-legend-table tr td:nth-child(3)").addClass('img-chart-2');
    }
  );
-$('#chart2').bind('jqplotDataUnhighlight',
+$('#chart1').bind('jqplotDataUnhighlight',
   function (ev, seriesIndex, pointIndex, data) {
      $("#graph-legend-table tr td:nth-child(1)").removeClass('img-chart-1');
      $("#graph-legend-table tr td:nth-child(3)").removeClass('img-chart-2');
