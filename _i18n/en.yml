@@ -46,13 +46,11 @@ erdol-erdgas:
     title: Natural gas
     subtitle: Interesting facts about natural gas
     slides:
-      - In contrast to coal and oil, natural gas has only been used as an energy source relatively recently.
       - Germany has an active offshore gas field in the German Bight.
       - Natural gas is extracted on this one-hectare operating facility and supplied to some 15,000 households.
       - Natural gas has been extracted from gas fields in Germany for the past 100 years.
       - 8% of the demand for natural gas in Germany is covered by domestic production.
       - 7% of the demand for natural gas in Germany was covered by domestic production in 2017.
-      - 95% of the natural gas is extracted in Lower Saxony.
 
     geschichte:
       title: History
@@ -128,7 +126,7 @@ kohle:
     title: Hard coal
     subtitle: Interesting facts about hard coal
     slides:
-      - The subsidized coal mining industry in Germany will end by December 31, 2018, with the closure of the last remaining mines in Bottrop and Ibbenbüren.
+      - The subsidised hard coal mining industry in Germany ended on December 31, 2018 with the closure of the last remaining mines in Bottrop and Ibbenbüren. 
       - The termination will be carried out in a socially acceptable manner and on a legal basis.
       - With approx. 3.7 million tonnes extracted in 2017, German hard coal covered around 7% of the German requirements.
       - Around 93% of the required hard coal is imported, mainly from Russia, Colombia, the USA and Australia. 
@@ -1541,7 +1539,7 @@ subventionen-und-steuerliche-begünstigungen:
     daten-einsehen: Here
   begünstigungen:
     title: Concessions for electricity and energy taxes
-    p1: There are various tax concessions for both the electricity and the energy taxes, including tax exemptions, tax reductions and tax relief.  The Electricity Taxation Act (StromStG) provides for certain types of use, or electricity generation. The Energy Taxation Act (EnergieStG) also covers uses in which energy products are tax-favoured. A part of these concessions is mandatory under the Energy Tax Directive EU 2003/96/EC of October 27, 2003.
+    p1: There are various tax concessions for both the electricity and the energy taxes, including tax exemptions, tax reductions and tax relief. The Electricity Taxation Act (StromStG) provides for certain types of use, or electricity generation. The Energy Taxation Act (EnergieStG) also covers uses in which energy products are tax-favoured. A part of these concessions is mandatory under the Energy Tax Directive EU 2003/96/EC of October 27, 2003.
     p2: As production industry companies, extractive sector enterprises can particularly profit from the different tax relief possibilities provided by energy and electricity tax legislation.
     p3: "Three regulations are particularly relevant here:"
     list:
