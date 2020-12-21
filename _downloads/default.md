@@ -194,7 +194,7 @@ permalink: /downloads/
           <li>
             <a href="{{site.baseurl_root}}{% t downloads.beschäftigten_CSV %}">
               <icon class="icon-cloud icon-padded"></icon>
-              {% t downloads.download_link %} (csv)
+              {% t downloads.download_link %} (XLSX)
             </a>
           </li>
         </ul>

@@ -3860,7 +3860,7 @@ downloads:
       title: "Daten zum 1. D-EITI Bericht (2017)"
     - name: daten-zum-deiti-bericht
       title: Aggregierte Daten der D-EITI
-  beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_2017-2018.csv"
+  beschäftigten_CSV: "/downloads/Beschaeftigte_Bergbau_2017-2018.xlsx"
   steuereinnahmen_CSV: "/downloads/Steuereinnahmen_aus_Rohstoffsektor_2010-2018.csv"
   einnahmen_CSV: "/downloads/Einnahmen_aus_Feldesabgabe_2016-2019.csv"
   einnahmen_2_CSV: "/downloads/Einnahmen aus Foerderabgaben 2015-2019.csv"
